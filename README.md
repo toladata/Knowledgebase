@@ -1,1 +1,2 @@
-This file serves as an introduction to your Knowledge Base, it is displayed on the homepage of your website. Use it to provide more context to your visitors.
+Hi all TolaData enthusiasts! This knowledgebase is meant show you some basic how-to's about the product, and answer any questions you might have on getting started with TolaData.
+
