@@ -5,5 +5,5 @@
     * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
 * [General Introduction to TolaData](first-question.md)
 * [How can I do X?](second-question.md)
-* Test
+* [Test](test.md)
 
