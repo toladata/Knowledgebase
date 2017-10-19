@@ -29,29 +29,14 @@ Funding / resources allocated in the following areas:
 While the items below are not mandatory for TolaData, they make a country better equipped for adoption of the system:
 
 * Digital Data Collection - use of digital data collection tools as applicable and relevant, authoring XLS forms, and adoption of third-party service provider like [Ona](https://ona.io/) or [Kobo Toolbox](http://www.kobotoolbox.org/)
-* * Cloud-based record retention - documents are accessible in a digital format within a standard folder structure for retaining documents and basic understanding of tools like
-  [Google Drive](https://www.google.com/drive/)
-  or
-  [DropBox](https://www.dropbox.com/)
-  .
-* Adherence and adoption of
-  [Program Management minimum standards](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
-  . We recommend that applicable positions be PMD Pro certified.
+* * Cloud-based record retention - documents are accessible in a digital format within a standard folder structure for retaining documents and basic understanding of tools like [Google Drive](https://www.google.com/drive/) or [DropBox](https://www.dropbox.com/).
+* Adherence and adoption of [Program Management minimum standards](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/). We recommend that applicable positions be PMD Pro certified.
 * Standard indicators are in use for existing programs where relevant and included in new proposals \(alongside budgets for proper measurement and collection\).
-* Standard tools and monitoring forms - data collection tools \(recording and reporting tools\) in any format \(paper or digital\), standard formats for logframes/M
-  &
-  E plans.
+* Standard tools and monitoring forms - data collection tools \(recording and reporting tools\) in any format \(paper or digital\), standard formats for logframes/M&E plans.
 * Adopted measurable country-level key performance indicators \(KPI\) that can be aggregated across multiple programs
-* M
-  &
-  E and ICT/IM requirements and responsibilities are articulated in all key positions \(program, program quality, M
-  &
-  E, operations, etc\).
-* M
-  &
-  E is articulated in the country strategy or annual plan as a priority
+* M&E and ICT/IM requirements and responsibilities are articulated in all key positions \(program, program quality, M&E, operations, etc\).
+* M&E is articulated in the country strategy or annual plan as a priority
 * Having the above mentioned qualities will help your team become successful TolaData champions!
 
-* 
 
 
