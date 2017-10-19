@@ -1,2 +1,2 @@
-Steps
+Steps to get started
 
