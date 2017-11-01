@@ -3,7 +3,6 @@
 ## Welcome Page
 
 * [Readme](README.md)
-* 2. Configuring your platform
 
 ## 1. Getting Started
 
@@ -12,9 +11,14 @@
 * [Train your team members](steps-to-get-started.md)
 * [Migrating data from existing system](steps-to-get-started/migrating-data-from-existing-system.md)
 
+## 2. Configuring your platform
+
+* [Adding logframe levels](2-configuring-your-platform/adding-logframe-levels.md)
+* [Adding indicator disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
+
+## Programs
+
 ## General Information
 
 * [General Introduction to TolaData](first-question.md)
-
-## Programs
 
