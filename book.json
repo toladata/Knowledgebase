@@ -1,4 +1,13 @@
 {
- "plugins": [ "theme-faq" ]
+ "plugins": [ "theme-faq",
+ "youtube", 
+ "edit-link" ], 
+ 
+ "pluginsConfig":{
+   "edit-link": {
+   "base": "https://github.com/toladata/knowledgebase/edit/master/",
+   "label": "Suggest Changes or Edits to this Page"
+}
+}
  }
  		
