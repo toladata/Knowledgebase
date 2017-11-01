@@ -1,7 +1,9 @@
 {
  "plugins": [ "theme-faq",
- "youtube", 
- "edit-link" ], 
+"expandable-chapters",
+"localized-footer",
+"youtube",
+"edit-link" ], 
  
  "pluginsConfig":{
    "edit-link": {
