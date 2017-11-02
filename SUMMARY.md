@@ -22,3 +22,8 @@
 
 * [General Introduction to TolaData](first-question.md)
 
+## 3. Managing User Profiles
+
+* [Add New Users](add-new-users.md)
+* Set Approval Settings
+
