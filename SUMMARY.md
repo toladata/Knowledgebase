@@ -20,10 +20,16 @@
 
 ## General Information
 
-* [General Introduction to TolaData](first-question.md)
+* [Terminology](first-question.md)
+* [TolaData Overview](navigation.md)
 
 ## 3. Managing User Profiles
 
 * [Add New Users](add-new-users.md)
 * Set Approval Settings
+
+## Navigation
+
+* [Search](using-the-search-bar.md)
+* Global Filters
 
