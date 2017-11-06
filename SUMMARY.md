@@ -31,5 +31,5 @@
 ## Navigation
 
 * [Search](using-the-search-bar.md)
-* Global Filters
+* [Global Filters](global-filters.md)
 
