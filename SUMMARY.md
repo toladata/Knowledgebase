@@ -53,7 +53,15 @@
 
 ## 8. Form Library
 
+* [What is a Form?](8-form-library/what-is-a-form.md)
+* [Designing a Form](8-form-library/designing-a-form.md)
+* [Adding Forms to Library](8-form-library/adding-forms-to-library.md)
+
 ## 9. Reports
+
+* What is a Report?
+* Viewing Reports
+* Custom Reports
 
 ## 10. Track
 
