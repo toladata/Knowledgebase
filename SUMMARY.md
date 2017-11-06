@@ -15,6 +15,7 @@
 ## 2. Configuring your Platform
 
 * [Migrating data from Existing System](steps-to-get-started/migrating-data-from-existing-system.md)
+* [Admin Console](steps-to-get-started/admin-console.md)
 
 ## 3. Managing Users
 
