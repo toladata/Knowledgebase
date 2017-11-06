@@ -37,3 +37,19 @@
 
 * [Train your team members](steps-to-get-started.md)
 
+## 6. Activities
+
+## 7. Indicators
+
+## 8. Form Library
+
+## 9. Reports
+
+## 10. Track
+
+## 11. Learning TolaData
+
+## 12. Form Guide
+
+## 13. External Resources
+
