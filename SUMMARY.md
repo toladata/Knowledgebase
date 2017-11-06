@@ -59,9 +59,9 @@
 
 ## 9. Reports
 
-* What is a Report?
-* Viewing Reports
-* Custom Reports
+* [What is a Report?](what-is-a-report-v2.md)
+* [Viewing Reports](what-is-a-report.md)
+* [Custom Reports](custom-reports.md)
 
 ## 10. Track
 
