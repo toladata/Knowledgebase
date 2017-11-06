@@ -14,10 +14,10 @@ These three tiers of “readiness” will help the TolaData team make decisions 
 
 ## TIER I: MINIMUM REQUIREMENTS
 
-| Buy-in from organizational leadership including program managers and M&E leads. |
+| • Buy-in from organizational leadership including program managers and M&E leads. |
 | :--- |
-| Commitment of staff time dedicated to preparations to go-live and post-training support. |
-| Funding / resources allocated for M&E staff and any additional in-country resources needed for implementation and support. |
+| • Commitment of staff time dedicated to preparations to go-live and post-training support. |
+| • Funding / resources allocated for M&E staff and any additional in-country resources needed for implementation and support. |
 
 ## TIER II: BEST PRACTICES
 
@@ -37,6 +37,4 @@ Having the above mentioned qualities will help your team become successful TolaD
 ## TIER III: Organization Self-Assessment
 
 \[ADD LINK\]
-
-
 
