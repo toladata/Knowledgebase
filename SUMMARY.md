@@ -7,15 +7,14 @@
 ## 1. Getting Started
 
 * [TolaData Overview](navigation.md)
-* [Terminology](first-question.md)
+* [Definitions](first-question.md)
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
 * [Quick Start](second-question.md)
-* [Migrating data from existing system](steps-to-get-started/migrating-data-from-existing-system.md)
+* [History and Approach](history-and-approach.md)
 
-## 2. Configuring your platform
+## 2. Configuring your Platform
 
-* [Adding logframe levels](2-configuring-your-platform/adding-logframe-levels.md)
-* [Adding indicator disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
+* [Migrating data from Existing System](steps-to-get-started/migrating-data-from-existing-system.md)
 
 ## 3. Managing Users
 
@@ -28,6 +27,9 @@
 * [Global Filters](global-filters.md)
 
 ## 5. Programs
+
+* [Adding Levels in your Results Framework](2-configuring-your-platform/adding-logframe-levels.md)
+* [Adding Custom Disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
 
 ## Learn TolaData
 
