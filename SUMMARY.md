@@ -26,7 +26,7 @@
 ## 3. Managing User Profiles
 
 * [Add New Users](add-new-users.md)
-* Set Approval Settings
+* [Set Approval Settings](set-approval-settings.md)
 
 ## 4. Navigation
 
