@@ -3,6 +3,7 @@
 ## Welcome Page
 
 * [Readme](README.md)
+* [FAQ](faq.md)
 
 ## 1. Getting Started
 
@@ -30,14 +31,17 @@
 
 ## 5. Programs
 
+* [What is a Program?](2-configuring-your-platform/what-is-a-program.md)
+* [Program Guide](2-configuring-your-platform/program-guide.md)
 * [Adding Levels in your Results Framework](2-configuring-your-platform/adding-logframe-levels.md)
 * [Adding Custom Disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
 
-## Learn TolaData
-
-* [Train your team members](steps-to-get-started.md)
-
 ## 6. Activities
+
+* [What is an Activity?](what-is-an-activity.md)
+* [Adding Activities](adding-activities.md)
+* [Adding Activity Modules](activity-modules.md)
+* [Promoting an Activity to a Project](promoting-an-activity-to-a-project.md)
 
 ## 7. Indicators
 
@@ -48,6 +52,8 @@
 ## 10. Track
 
 ## 11. Learning TolaData
+
+* [Train your team members](steps-to-get-started.md)
 
 ## 12. Form Guide
 
