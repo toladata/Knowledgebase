@@ -6,9 +6,10 @@
 
 ## 1. Getting Started
 
+* [TolaData Overview](navigation.md)
+* [Terminology](first-question.md)
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
 * [Quick Start](second-question.md)
-* [Train your team members](steps-to-get-started.md)
 * [Migrating data from existing system](steps-to-get-started/migrating-data-from-existing-system.md)
 
 ## 2. Configuring your platform
@@ -18,17 +19,16 @@
 
 ## Programs
 
-## General Information
+## Learn TolaData
 
-* [Terminology](first-question.md)
-* [TolaData Overview](navigation.md)
+* [Train your team members](steps-to-get-started.md)
 
 ## 3. Managing User Profiles
 
 * [Add New Users](add-new-users.md)
 * Set Approval Settings
 
-## Navigation
+## 4. Navigation
 
 * [Search](using-the-search-bar.md)
 * [Global Filters](global-filters.md)
