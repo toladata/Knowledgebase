@@ -17,13 +17,7 @@
 * [Adding logframe levels](2-configuring-your-platform/adding-logframe-levels.md)
 * [Adding indicator disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
 
-## Programs
-
-## Learn TolaData
-
-* [Train your team members](steps-to-get-started.md)
-
-## 3. Managing User Profiles
+## 3. Managing Users
 
 * [Add New Users](add-new-users.md)
 * [Set Approval Settings](set-approval-settings.md)
@@ -32,4 +26,10 @@
 
 * [Search](using-the-search-bar.md)
 * [Global Filters](global-filters.md)
+
+## 5. Programs
+
+## Learn TolaData
+
+* [Train your team members](steps-to-get-started.md)
 
