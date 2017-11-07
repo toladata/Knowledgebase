@@ -1,5 +1,5 @@
 /* CSS for website */
-/* --dark_blue: #101F74; --orange_peel: #FF9F00; --grey: #737581; --car_green: #07D7A7; --disco_blue: #0ABFFC; */ 
+/* --dark_blue: #101F74; --orange_peel: #FF9F00; --grey: #737581; --car_green: #07D7A7; --disco_blue: #0ABFFC; --app_blue: #0B607D */ 
 
 localized-footer {
     color: #0ABFFC;
@@ -11,12 +11,12 @@ a {
 }
 
 a:link {
-    color: #0ABFFC;
+    color: #0B607D;
 }
 
 a:visited {
     text-decoration: none;
-    color: #0ABFFC;
+    color: #0B607D;
 }
 
 custom-link {
@@ -29,7 +29,7 @@ a.list-group-item, button.list-group-item {
 
 a:hover {
     text-decoration: underline;
-    color: #0ABFFC;
+    color: #0B607D;
 }
 
 p {
@@ -58,7 +58,7 @@ book-search-results .search-results .has-results .search-results-item {
 }
 
 .book-summary ul.summary li.active>a {
-    color: #0ABFFC;
+    color: #0B607D;
 }
 
 h1 {
