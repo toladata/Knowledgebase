@@ -29,7 +29,7 @@ a.list-group-item, button.list-group-item {
 
 a:hover {
     text-decoration: underline;
-    color: #FF9F00;
+    color: #0B607D;
 }
 
 p {
@@ -120,15 +120,3 @@ img[alt$="-fullwidth"]{
     display: block;
 }
 
-.book .book-summary ul.summary li.done>a i {
-    display: inline;
-}
-
-.book .book-summary ul.summary li i.fa-check {
-    display: none;
-    position: absolute;
-    right: 9px;
-    top: 16px;
-    font-size: 9px;
-    color: #3c3;
-}
