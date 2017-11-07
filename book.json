@@ -12,7 +12,7 @@
             "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
-                }
+                },
            "localized-footer" : {
                 "hline": false,
                 "filename": "./FOOTER.md"
