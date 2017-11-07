@@ -1,15 +1,14 @@
-# SUMMARY
-*[<img src="http://toladata.com/wp-content/uploads/2017/10/logo-full.svg" height="20" />](mailto:support@toladata.com)*
+# Summary
 
-## Welcome Page
+## 1. Welcome Page
 
 * [TolaData](README.md)
+* [Quick Start](second-question.md)
 
 ## 2. Getting Started
 
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
 * [TolaData Overview](navigation.md)
-* [Quick Start](second-question.md)
 * [History and Approach](history-and-approach.md)
 * [Definitions](first-question.md)
 
