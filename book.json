@@ -3,7 +3,8 @@
     "plugins": [
         "expandable-chapters",
         "localized-footer",
-        "search"
+        "search",
+        "toggle-chapters"
         ],
        
     "pluginsConfig":{
