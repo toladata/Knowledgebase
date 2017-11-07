@@ -3,7 +3,6 @@
 ## Welcome Page
 
 * [Readme](README.md)
-* [FAQ](faq.md)
 
 ## 1. Getting Started
 
@@ -73,4 +72,6 @@
 ## 12. Form Guide
 
 ## 13. External Resources
+
+* [FAQ](faq.md)
 
