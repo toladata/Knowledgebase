@@ -22,6 +22,7 @@
 ## 3. Managing Users
 
 * [Add New Users](add-new-users.md)
+* [Change user role](change-user-role.md)
 * [Set Approval Settings](set-approval-settings.md)
 
 ## 4. Navigation
