@@ -28,14 +28,11 @@
                 "vk": false,
                 "all": [
                 "google", "facebook", "twitter"
-            ]
-        }
-    }
-   
-}
-{
-    "styles": {
-        "website": "styles/website.css"
+                ]
+            },
+            "styles": {
+                "website": "styles/website.css"
+            }
     }
 }
 
