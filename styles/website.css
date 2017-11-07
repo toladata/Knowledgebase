@@ -11,16 +11,16 @@ a {
 }
 
 a:link {
-    color: #0B607D;
+    color: #FF9F00;
 }
 
 a:visited {
     text-decoration: none;
-    color: #0B607D;
+    color: #E8E8E8;
 }
 
 custom-link {
-    color: #07D7A7;
+    color: #FF9F00;
 }
 
 a.list-group-item, button.list-group-item {
@@ -29,7 +29,7 @@ a.list-group-item, button.list-group-item {
 
 a:hover {
     text-decoration: underline;
-    color: #0B607D;
+    color: #FF9F00;
 }
 
 p {
