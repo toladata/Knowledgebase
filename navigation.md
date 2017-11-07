@@ -1,5 +1,7 @@
 # TolaData Overview
 
+---
+
 TolaData is an open-source monitoring and evaluation platform that streamlines data, brings transparency, and builds capacity for humanitarian projects.
 
 Here's is a quick introduction of the platform:
@@ -9,6 +11,4 @@ Here's is a quick introduction of the platform:
 ## Core Products of TolaData
 
 ![](/assets/Screen Shot 2017-11-06 at 3.03.01 PM.png)![](/assets/Screen Shot 2017-11-06 at 3.04.50 PM.png)
-
-
 
