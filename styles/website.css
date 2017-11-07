@@ -41,7 +41,7 @@ p {
     color: #737581;
 }
 
-li. {
+li {
     color: #FF9F00;
 }
 
@@ -77,7 +77,7 @@ book-search-results .search-results .has-results .search-results-item {
     color: #07D7A7;
 }
 
-.book .book-summary li {
+.book .book-summary {
     color: #0B607D;
 }
 
