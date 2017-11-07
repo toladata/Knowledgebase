@@ -1,4 +1,11 @@
 /* CSS for website */
+element {
+    dark_blue: #101F74;
+    orange_peel: #FF9F00;
+    grey: #737581;
+    car_green: #07D7A7;
+    disco_blue: #0ABFFC;
+}
 
 localized-footer {
     color: #07D7A7;
@@ -6,19 +13,19 @@ localized-footer {
 }
 
 a {
-    color: #101F74;
+    color: dark_blue;
 }
 
 a:link {
-    color: #28A0A0;
+    color: disco_blue;
 }
 
 a.custom-link {
-    color: #28A0A0;
+    color: car_green;
 }
 
 a.list-group-item, button.list-group-item {
-    color: #28a0b0;
+    color: car_green;
 }
 
 a:visited {
@@ -28,7 +35,7 @@ a:visited {
 
 a:hover {
     text-decoration: underline;
-    color: #07D7A7;
+    color: #28A0A0;
 }
 
 p {
