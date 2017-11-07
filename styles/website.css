@@ -30,7 +30,6 @@ a.list-group-item, button.list-group-item {
 a:hover {
     text-decoration: underline;
     color: #FF9F00;
-    font-weight: bold;
 }
 
 p {
@@ -43,7 +42,8 @@ li.header {
 }
 
 chapter.expanded {
-    color: #101F74;
+    color: #FF9F00;
+    font-weight: bold;
 }
 
 body {
@@ -59,7 +59,7 @@ book-search-results .search-results .has-results .search-results-item {
 }
 
 .book-summary ul.summary li.active>a {
-    color: #FF9F00;
+    color: #0B607D;
 }
 
 h1 {
