@@ -9,7 +9,7 @@
 
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
 * [History and Approach](history-and-approach.md)
-* [Definitions](first-question.md)
+* [Terminology](first-question.md)
 
 ## 3. Configuring your Platform
 
