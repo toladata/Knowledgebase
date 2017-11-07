@@ -27,6 +27,10 @@ li.header {
     color: #151F56;
 }
 
+li.chapter.expanded {
+    color: #151F56
+}
+
 a.list-group-item, button.list-group-item {
     color: #28a0b0;
 }
