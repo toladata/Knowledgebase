@@ -4,20 +4,32 @@
         "expandable-chapters",
         "localized-footer",
         "search",
-        "toggle-chapters"
+        "toggle-chapters",
+        "sharing"
         ],
        
     "pluginsConfig":{
                
-            "edit-link": {
+           "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
                 },
            "localized-footer" : {
                 "hline": false,
                 "filename": "./FOOTER.md"
-              }
+              },
+            "sharing": {
+                "facebook": false,
+                "twitter": false,
+                "google": true,
+                "weibo": false,
+                "instapaper": false,
+                "vk": false,
+                "all": [
+                "google", "facebook", "twitter"
+            ]
         }
+    }
    
 }
 
