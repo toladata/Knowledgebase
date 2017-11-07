@@ -1,5 +1,7 @@
 # Change User Role
 
+---
+
 You can easily assign different permission level to each of your team members. There are three levels of user role in the system
 
 | ** ** | **Program Admin** | **Program Team** | **Program View Only** |
@@ -17,11 +19,7 @@ You can easily assign different permission level to each of your team members. T
 | View reports | x | x | x |
 | Delete project, results framework, indicator | x | -- | -- |
 
-
-
 To change access level of a team member, go the program tab and navigate to the team section to change the role of the specific team member from the dropdown menu.
 
 ![](/assets/team approval.png)
-
-
 

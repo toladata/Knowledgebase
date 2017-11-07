@@ -1,5 +1,7 @@
 # **Train your team members**
 
+---
+
 Now that you are all set to use TolaData, teach your team how to use it!
 
 Let us take you through it.
@@ -50,9 +52,9 @@ Send all your team members invitation to TolaData! Ask them to login to \[link t
 
 2. [YouTube screencasts](https://www.youtube.com/channel/UCala_GmlWtE7vpI_g51OgjQ)
 
-**      
+**        
 **
 
-**      
+**        
 **
 
