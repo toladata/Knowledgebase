@@ -3,7 +3,8 @@
 "expandable-chapters",
 "localized-footer",
 "youtube",
-"edit-link" ], 
+"edit-link",
+"search" ], 
  
  "pluginsConfig":{
    "edit-link": {
