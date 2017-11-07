@@ -16,6 +16,10 @@ a:link {
     color: #28a0b0;
 }
 
+a.custom-link {
+    color: ##28a0b0;
+}
+
 a {
     color: #28a0b0;
 }
