@@ -17,7 +17,7 @@ a {
 }
 
 a:link {
-    color: #0ABFFC;
+    color: #FF9F00;
 }
 
 a.custom-link {
@@ -30,7 +30,7 @@ a.list-group-item, button.list-group-item {
 
 a:visited {
     text-decoration: none;
-    color: #FF9F00;
+    color: #0ABFFC;
 }
 
 a:hover {
