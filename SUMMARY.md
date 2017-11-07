@@ -8,7 +8,6 @@
 ## 2. Getting Started
 
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
-* [TolaData Overview](navigation.md)
 * [History and Approach](history-and-approach.md)
 * [Definitions](first-question.md)
 
