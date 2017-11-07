@@ -1,5 +1,7 @@
 # **Quick Start**
 
+---
+
 Setting up your TolaData instance in super easy! Let us walk you through it.
 
 **Create your program**
@@ -29,6 +31,4 @@ Please note that you can always go back to the specific sections to add or revis
 Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
 
 [https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
-
-
 

@@ -1,10 +1,12 @@
 # History
 
+---
+
 TolaData started its journey in 2016 but there were some key events that influenced its development.
 
 | Event | Description |
 | :--- | :--- |
-| History of Project Forms | Standard project forms were developed with nearly 20 years of field testing from various country contexts and emergency crises, from the days in Eritea to the tsunami response in Aceh Indonesia finally to Afghanistan for a large complex program. They were used and adapted by folks who move from country office to country office including our VP and HQ MEAL team members which allowed these forms to be refined, standardized, and reused. |
+| History of Project Forms | Standard project forms were developed with nearly 20 years of field testing from various country contexts and emergency crises around the globe. They were used and adapted by folks who move from country office to country office including our VP and HQ MEAL team members which allowed these forms to be refined, standardized, and reused. |
 | Mission Metrics | In 2010, an Agency initiative focused on rolling up indicators by aggregating results and aligning it to our mission. However, system started to overburden field who saw it as extra work to their direct field needs and business case for a system began to show mixed results |
 | Focused on Indicator Results | In 2014, the agency began to look at developing an agency-wide indicator results tracking sytem after previous attempts at building an agency measurement system. They began a build vs. buy assessment across field needs which included pilot testing major off-the-shelf solutions at the time. |
 | Afghanistan | While this was happening at the agency-level, Afghanistan began to test the ability to scale the standard project forms across the country office by digitizing them and linking with a relational database. |
