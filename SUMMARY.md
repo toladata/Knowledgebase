@@ -1,6 +1,7 @@
 # Summary
-*[<img src="http://toladata.com/wp-content/uploads/2017/10/logo-full.svg" height="30" />](mailto:support@toladata.com)*
-## Welcome Page
+
+
+## *[<img src="http://toladata.com/wp-content/uploads/2017/10/logo-full.svg" height="30" />](mailto:support@toladata.com)*
 
 * [Readme](README.md)
 
