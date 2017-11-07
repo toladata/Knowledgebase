@@ -11,7 +11,7 @@ a {
 }
 
 a:link {
-    color: #FF9F00;
+    color: #0ABFFC;
 }
 
 custom-link {
@@ -54,7 +54,7 @@ body {
 }
 
 book-search-results .search-results .has-results .search-results-item .book-summary ul.summary li.active>a {
-    color: #0ABFFC;
+    color: #FF9F00;
 }
 
 h1 {
