@@ -1,7 +1,6 @@
 {
     
     "plugins": [
-        "page-toc",
         "expandable-chapters",
         "localized-footer",
         "youtube",
@@ -13,7 +12,7 @@
                
             "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
-                "label": "Suggest Changes or Edits to this Page"
+                "label": "Suggest Changes to this Page"
                 }   
         }
    
