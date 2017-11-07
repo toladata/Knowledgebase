@@ -14,17 +14,17 @@ a:link {
     color: #0ABFFC;
 }
 
+a:visited {
+    text-decoration: none;
+    color: #0ABFFC;
+}
+
 custom-link {
     color: #07D7A7;
 }
 
 a.list-group-item, button.list-group-item {
     color: #07D7A7;
-}
-
-a:visited {
-    text-decoration: none;
-    color: #0ABFFC;
 }
 
 a:hover {
