@@ -1,15 +1,9 @@
 /* CSS for website */
-root: {
-    --dark_blue: #101F74;
-    --orange_peel: #FF9F00;
-    --grey: #737581;
-    --car_green: #07D7A7;
-    --disco_blue: #0ABFFC;
-}
+/* --dark_blue: #101F74; --orange_peel: #FF9F00; --grey: #737581; --car_green: #07D7A7; --disco_blue: #0ABFFC; */ 
 
 localized-footer {
     color: #737581;
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 a {
@@ -20,7 +14,7 @@ a:link {
     color: #FF9F00;
 }
 
-a.custom-link {
+custom-link {
     color: #07D7A7;
 }
 
@@ -39,7 +33,7 @@ a:hover {
 }
 
 p {
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     color: #737581;
 }
 
@@ -47,30 +41,60 @@ li.header {
     color: #101F74;
 }
 
-li.chapter.expanded {
+chapter.expanded {
     color: #101F74;
 }
 
 body {
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 .faq-page {
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 book-search-results .search-results .has-results .search-results-item .book-summary ul.summary li.active>a {
     color: #0ABFFC;
 }
 
-h1 h2 h3 h4 h5 h6 {
+h1 {
     color: #101F74;
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+}
+
+h2 {
+    color: #101F74;
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+}
+
+h3 {
+    color: #101F74;
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+}
+
+h4 {
+    color: #101F74;
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+}
+
+h5 {
+    color: #101F74;
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-weight: bold;
+}
+
+h6 {
+    color: #101F74;
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-weight: bold;
 }
 
 tr td li blockquote {
-    font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	
+    font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";	
 }
 
 img[alt$="-fullwidth"]{
