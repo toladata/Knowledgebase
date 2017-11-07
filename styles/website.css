@@ -38,16 +38,16 @@ p {
 }
 
 li.header {
-    color: #101F74;
+    color: #0B607D;
 }
 
 li.chapter.expanded {
-    color: #FF9F00;
+    color: #07D7A7;
     font-weight: bold;
 }
 
 li.chapter.active.expanded {
-    color: #FF9F00;
+    color: #07D7A7;
     font-weight: bold;
 }
 
