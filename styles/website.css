@@ -41,7 +41,12 @@ li.header {
     color: #101F74;
 }
 
-chapter.expanded {
+li.chapter.expanded {
+    color: #FF9F00;
+    font-weight: bold;
+}
+
+li.chapter.active.expanded {
     color: #FF9F00;
     font-weight: bold;
 }
@@ -58,8 +63,16 @@ book-search-results .search-results .has-results .search-results-item {
     color: #FF9F00;
 }
 
-.book-summary ul.summary li.active>a {
+.book-summary {
     color: #0B607D;
+}
+
+ul.summary {
+    color: #0B607D;
+}
+
+li.active>a {
+    color: #cccccc;
 }
 
 h1 {
