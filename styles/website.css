@@ -6,7 +6,7 @@ localized-footer {
 }
 
 a:link {
-    color: #28a0b0;
+    color: #07D7A7;
 }
 
 a.custom-link {
@@ -36,7 +36,7 @@ a.list-group-item, button.list-group-item {
 
 a:visited {
     text-decoration: none;
-    color: #28a0b0;
+    color: #737581;
 }
 
 a:hover {
