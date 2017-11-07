@@ -5,7 +5,8 @@
         "localized-footer",
         "search",
         "toggle-chapters",
-        "sharing"
+        "sharing",
+        "youtube"
         ],
        
     "pluginsConfig":{
@@ -18,7 +19,7 @@
                 "hline": false,
                 "filename": "./FOOTER.md"
               },
-            "sharing": {
+           "sharing": {
                 "facebook": false,
                 "twitter": false,
                 "google": true,
