@@ -68,11 +68,11 @@ book-search-results .search-results .has-results .search-results-item {
 }
 
 ul.summary {
-    color: #0B607D;
+    color: #cccccc;
 }
 
 li.active>a {
-    color: #cccccc;
+    color: #0B607D;
 }
 
 h1 {
@@ -118,4 +118,17 @@ tr td li blockquote {
 img[alt$="-fullwidth"]{
     width:  100%;
     display: block;
+}
+
+.book .book-summary ul.summary li.done>a i {
+    display: inline;
+}
+
+.book .book-summary ul.summary li i.fa-check {
+    display: none;
+    position: absolute;
+    right: 9px;
+    top: 16px;
+    font-size: 9px;
+    color: #3c3;
 }
