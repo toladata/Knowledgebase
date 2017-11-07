@@ -22,13 +22,11 @@
            "sharing": {
                 "facebook": false,
                 "twitter": false,
-                "google": true,
+                "google": false,
                 "weibo": false,
                 "instapaper": false,
                 "vk": false,
-                "all": [
-                "google", "facebook", "twitter"
-                ]
+                "all": false
             },
             "styles": {
                 "website": "styles/website.css"
