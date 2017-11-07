@@ -8,47 +8,47 @@ element {
 }
 
 localized-footer {
-    color: grey;
+    color: var(grey);
     font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
 a {
-    color: dark_blue;
+    color: var(dark_blue);
 }
 
 a:link {
-    color: disco_blue;
+    color: var(disco_blue);
 }
 
 a.custom-link {
-    color: car_green;
+    color: var(car_green);
 }
 
 a.list-group-item, button.list-group-item {
-    color: car_green;
+    color: var(car_green);
 }
 
 a:visited {
     text-decoration: none;
-    color: grey;
+    color: var(grey);
 }
 
 a:hover {
     text-decoration: underline;
-    color: disco_blue;
+    color: var(disco_blue);
 }
 
 p {
     font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-    color: grey;
+    color: var(grey);
 }
 
 li.header {
-    color: dark_blue;
+    color: var(dark_blue);
 }
 
 li.chapter.expanded {
-    color: dark_blue;
+    color: var(dark_blue);
 }
 
 body {
@@ -60,11 +60,11 @@ body {
 }
 
 book-search-results .search-results .has-results .search-results-item .book-summary ul.summary li.active>a {
-    color: disco_blue;
+    color: var(disco_blue);
 }
 
 h1 h2 h3 h4 h5 h6 {
-    color: dark_blue;
+    color: var(dark_blue);
     font-family:'brix-sans', Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-weight: bold;
 }
