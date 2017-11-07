@@ -41,6 +41,10 @@ p {
     color: #737581;
 }
 
+li. {
+    color: #FF9F00;
+}
+
 li.header {
     color: #0B607D;
 }
@@ -57,7 +61,9 @@ li.chapter.done {
     color: #E8E8E8;
 }
 
-
+li.active>a {
+    color: #0B607D;
+}
 
 body {
     font-family:"brix-sans", Roboto, -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
@@ -76,10 +82,6 @@ book-search-results .search-results .has-results .search-results-item {
 }
 
 ul.summary {
-    color: #0B607D;
-}
-
-li.active>a {
     color: #0B607D;
 }
 
