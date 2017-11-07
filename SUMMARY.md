@@ -7,11 +7,11 @@
 
 ## 1. Getting Started
 
-* [TolaData Overview](navigation.md)
-* [Definitions](first-question.md)
 * [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
+* [TolaData Overview](navigation.md)
 * [Quick Start](second-question.md)
 * [History and Approach](history-and-approach.md)
+* [Definitions](first-question.md)
 
 ## 2. Configuring your Platform
 
