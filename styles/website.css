@@ -7,7 +7,7 @@ localized-footer {
 }
 
 a {
-    color: #101F74;
+    color: #0B607D;
 }
 
 a:link {
@@ -63,12 +63,12 @@ book-search-results .search-results .has-results .search-results-item {
     color: #FF9F00;
 }
 
-.book-summary {
+.book .book-summary li {
     color: #0B607D;
 }
 
 ul.summary {
-    color: #cccccc;
+    color: #0B607D;
 }
 
 li.active>a {
