@@ -10,11 +10,11 @@ a:link {
 }
 
 a.custom-link {
-    color: ##28a0b0;
+    color: #151F56;
 }
 
 a {
-    color: #28a0b0;
+    color: #151F56;
 }
 
 p {
@@ -24,8 +24,7 @@ p {
 }
 
 li.header {
-    color: #28a0b0;
-    font-weight: bold;
+    color: #151F56;
 }
 
 a.list-group-item, button.list-group-item {
