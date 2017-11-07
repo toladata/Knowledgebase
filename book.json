@@ -1,16 +1,22 @@
 {
- "plugins": [ "theme-faq",
-"expandable-chapters",
-"localized-footer",
-"youtube",
-"edit-link",
-"search" ], 
- 
- "pluginsConfig":{
-   "edit-link": {
-   "base": "https://github.com/toladata/knowledgebase/edit/master/",
-   "label": "Suggest Changes or Edits to this Page"
+    
+    "plugins": [
+        "page-toc",
+        "expandable-chapters",
+        "localized-footer",
+        "youtube",
+        "edit-link",
+        "search"
+        ],
+       
+    "pluginsConfig":{
+               
+            "edit-link": {
+                "base": "https://github.com/toladata/knowledgebase/edit/master/",
+                "label": "Suggest Changes or Edits to this Page"
+                }   
+        }
+   
 }
-}
- }
+
  		
