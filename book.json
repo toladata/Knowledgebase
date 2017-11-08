@@ -6,7 +6,8 @@
         "search",
         "toggle-chapters",
         "sharing",
-        "youtube"
+        "youtube",
+        "downloadpdf"
         ],
        
     "pluginsConfig":{
@@ -30,7 +31,11 @@
             },
             "styles": {
                 "website": "styles/website.css"
-            }
+            },
+            "downloadpdf": {
+                "base": "https://github.com/toladata/knowledgebase/edit/master/",
+                "label": "Download PDF",
+                "multilingual": false
     }
 }
 
