@@ -7,7 +7,11 @@
         "toggle-chapters",
         "sharing",
         "youtube",
-        "downloadpdf"
+        "downloadpdf",
+        "autocover" {
+            "title": "My Book",
+            "author": "Author"
+        }
         ],
        
     "pluginsConfig":{
@@ -36,6 +40,19 @@
                 "base": "https://www.gitbook.com/download/pdf/book/toladata/knowledgebase",
                 "label": "Download PDF",
                 "multilingual": false
+            "autocover": {
+                "font": {
+                    "size": null,
+                    "family": "brix-sans",
+                    "color": "#101F74"
+                },
+                "size": {
+                    "w": 1800,
+                    "h": 2360
+                },
+                "background": {
+                    "color": "#F5F5F5"
+                }
             }
     }
 }
