@@ -8,7 +8,7 @@ TolaData is an open-source monitoring and evaluation platform that streamlines d
 
 Here's is a quick introduction of the platform:
 
-{% youtube src="https://www.youtube.com/watch?v=3OLfDlK_uhY" %}{% endyoutube %}
+{%youtube%} 3OLfDlK_uhY {%endyoutube%}
 [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
 
 ### Core Products
