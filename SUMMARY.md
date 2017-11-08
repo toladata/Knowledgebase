@@ -30,7 +30,7 @@
 
 ## 6. Programs
 
-* [What is a Program?](2-configuring-your-platform/what-is-a-program.md)
+* [What is a Program?](what-is-a-program.md)
 * [Program Guide](program-guide.md)
 * [Adding Levels in your Results Framework](adding-levels.md)
 * [Adding Custom Disaggregations](adding-indicator-disaggregations.md)
