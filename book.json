@@ -8,8 +8,8 @@
         "sharing",
         "youtube",
         "downloadpdf",
-        "autocover" {
-            "title": "My Book",
+        "autocover": {
+            "title": "TolaData Guide",
             "author": "Author"
         }
         ],
@@ -19,11 +19,11 @@
            "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
-                },
+           },
            "localized-footer" : {
                 "hline": false,
                 "filename": "./FOOTER.md"
-              },
+           },
            "sharing": {
                 "facebook": false,
                 "twitter": false,
@@ -32,16 +32,16 @@
                 "instapaper": false,
                 "vk": false,
                 "all": []
-            },
-            "styles": {
+           },
+           "styles": {
                 "website": "styles/website.css"
-            },
-            "downloadpdf": {
+           },
+           "downloadpdf": {
                 "base": "https://www.gitbook.com/download/pdf/book/toladata/knowledgebase",
                 "label": "Download PDF",
                 "multilingual": false
-            },
-            "autocover": {
+           },
+           "autocover": {
                 "font": {
                     "size": null,
                     "family": "brix-sans",
