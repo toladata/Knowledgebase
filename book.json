@@ -43,7 +43,7 @@
                 "author": "November 2017",
                 "font": {
                     "size": null,
-                    "family": "questrial",
+                    "family": "Questrial",
                     "color": "#101F74"
                 },
                 "size": {
@@ -51,7 +51,7 @@
                     "h": 2360
                 },
                 "background": {
-                    "color": "#ffffff"
+                    "color":
                 }
             }
     }
