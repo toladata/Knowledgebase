@@ -12,5 +12,5 @@ Here's is a quick introduction of the platform:
 [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
 
 ### Core Products
-
-![](/assets/Screen Shot 2017-11-06 at 3.03.01 PM.png)![](/assets/Screen Shot 2017-11-06 at 3.04.50 PM.png)
+![](/assets/Screen Shot 2017-11-08 at 10.10.27 PM.png)
+![](/assets/Screen Shot 2017-11-08 at 10.11.01 PM.png)
