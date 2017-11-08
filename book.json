@@ -50,7 +50,7 @@
                     "w": 1800,
                     "h": 2360
                 },
-                "background-color": {
+                "background": {
                     "color": "#ffffff"
                 }
             }
