@@ -36,6 +36,7 @@
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Download PDF",
                 "multilingual": false
+            }
     }
 }
 
