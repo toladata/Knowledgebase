@@ -39,11 +39,11 @@
                 "multilingual": false
            },
            "autocover": {
-                "title": "http://toladata.com/wp-content/uploads/2017/10/logo-full.svg",
+                "title": "TolaData Guide",
                 "author": "November 2017",
                 "font": {
                     "size": null,
-                    "family": "brix-sans",
+                    "family": "questrial",
                     "color": "#101F74"
                 },
                 "size": {
