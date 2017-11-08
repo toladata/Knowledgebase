@@ -8,10 +8,7 @@
         "sharing",
         "youtube",
         "downloadpdf",
-        "autocover": {
-            "title": "TolaData Guide",
-            "author": "Author"
-        }
+        "autocover"
         ],
        
     "pluginsConfig":{
@@ -42,6 +39,8 @@
                 "multilingual": false
            },
            "autocover": {
+                "title": "TolaData Guide",
+                "author": "Author",
                 "font": {
                     "size": null,
                     "family": "brix-sans",
