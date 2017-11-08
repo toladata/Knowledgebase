@@ -1,6 +1,0 @@
-# Adding Activities
-
----
-
-
-

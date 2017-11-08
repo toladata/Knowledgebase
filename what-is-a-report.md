@@ -1,4 +1,4 @@
-# Viewing Reports
+# What is a Report?
 
 ---
 

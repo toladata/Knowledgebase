@@ -3,19 +3,19 @@
 ## 1. Welcome Page
 
 * [TolaData](README.md)
-* [Quick Start](second-question.md)
+* [Quick Start](quick-start.md)
 
 ## 2. Getting Started
 
-* [Preparing for TolaData](steps-to-get-started/preparing-for-toladata.md)
+* [Preparing for TolaData](preparing-for-toladata.md)
 * [History and Approach](history-and-approach.md)
-* [Terminology](first-question.md)
+* [Glossary](glossary.md)
 
 ## 3. Configuring your Platform
 
-* [Profile](steps-to-get-started/update-your-profile.md)
-* [Admin Console](steps-to-get-started/admin-console.md)
-* [Migrating data from Existing System](steps-to-get-started/migrating-data-from-existing-system.md)
+* [Profile](update-your-profile.md)
+* [Admin Console](admin-console.md)
+* [Migrating data from Existing System](migrating-data-from-existing-system.md)
 
 ## 4. Managing Users
 
@@ -25,21 +25,21 @@
 
 ## 5. Navigation
 
-* [Search](using-the-search-bar.md)
+* [Search](search.md)
 * [Global Filters](global-filters.md)
 
 ## 6. Programs
 
 * [What is a Program?](2-configuring-your-platform/what-is-a-program.md)
-* [Program Guide](2-configuring-your-platform/program-guide.md)
-* [Adding Levels in your Results Framework](2-configuring-your-platform/adding-logframe-levels.md)
-* [Adding Custom Disaggregations](2-configuring-your-platform/adding-indicator-disaggregations.md)
+* [Program Guide](program-guide.md)
+* [Adding Levels in your Results Framework](adding-levels.md)
+* [Adding Custom Disaggregations](adding-indicator-disaggregations.md)
 
 ## 7. Activities
 
 * [What is an Activity?](what-is-an-activity.md)
-* [Adding Activities](adding-activities.md)
-* [Adding Modules to an Activity](activity-modules.md)
+* [Add an Activity](add-an-activity.md)
+* [Add Modules to an Activity](activity-modules.md)
 * [Promoting an Activity to a Project](promoting-an-activity-to-a-project.md)
 
 ## 8. Indicators
@@ -58,15 +58,15 @@
 
 ## 10. Reports
 
-* [What is a Report?](what-is-a-report-v2.md)
-* [Viewing Reports](what-is-a-report.md)
+* [What is a Report?](what-is-a-report.md)
+* [Viewing Reports](viewing-reports.md)
 * [Custom Reports](custom-reports.md)
 
 ## 11. Track
 
 ## 12. Learning TolaData
 
-* [Train your team members](steps-to-get-started.md)
+* [Train your team members](train-team.md)
 
 ## 13. Form Guide
 
