@@ -44,7 +44,7 @@ p {
 }
 
 li {
-    color: #FF9F00;
+    color: #737581;
 }
 
 li.header {
@@ -64,7 +64,7 @@ li.chapter.done {
 }
 
 li.active>a {
-    color: #FF9F00;
+    color: #737581;
 }
 
 body {
