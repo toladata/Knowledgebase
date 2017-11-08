@@ -1,7 +1,6 @@
 {
     
     "plugins": [
-        "expandable-chapters",
         "collapsible-menu",
         "localized-footer",
         "search",

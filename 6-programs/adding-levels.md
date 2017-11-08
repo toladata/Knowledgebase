@@ -1,4 +1,4 @@
-# Adding Levels in your Results Framework
+# Build your Results Framework
 
 ---
 
@@ -10,6 +10,6 @@ Here's how to do it:
 
 For detailed examples of logframe and their levels check out our article on logframe [https://toladata.gitbooks.io/knowledgebase/content/7-indicators/what-is-a-results-framework.html](https://toladata.gitbooks.io/knowledgebase/content/7-indicators/what-is-a-results-framework.html)
 
-**    
+**      
 **
 
