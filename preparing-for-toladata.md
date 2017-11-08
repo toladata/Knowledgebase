@@ -17,25 +17,22 @@ These three tiers of “readiness” will help the TolaData team make decisions 
 ## TIER I: MINIMUM REQUIREMENTS
 
 * Organizational leadership buy-in including by program managers and M&E leads.
-* Commitment of staff time dedicated to preparations to go-live and post-training support.
-
-Funding / resources allocated for M&E staff and any additional in-country resources needed for implementation and support.
+* Dedicated organization administrator and in-country resources for onboarding and support.
+* Staff time commitment toward preparations to go-live and post-training support.
 
 ## TIER II: BEST PRACTICES
 
-While best practices are not mandatory for TolaData, some organizations have found that adopting these practices can help prepare teams to be more equipped and ready to take advantage of closer integration with their data workflow.
+While best practices are not mandatory for TolaData, some organizations have found that adopting these practices can help prepare teams to be more equipped and ready to take advantage of a more connected data workflow. Having the below mentioned qualities will help your team become successful TolaData champions!
 
 * **Digital Data Collection:** the use of digital data collection tools as applicable and relevant, authoring XLS forms, and adoption of third-party service provider like [Ona](https://ona.io/) or [Kobo Toolbox](http://www.kobotoolbox.org/).
-* **Cloud-based document storage:** documents are accessible in a digital format within a standard folder structure for retaining documents and basic understanding of tools like [Google Drive](https://www.google.com/drive/) or [DropBox](https://www.dropbox.com/).
+* **Cloud-based document storage:** documents are accessible in a digital format within a standard folder structure for retaining documents and basic understanding of tools like [Google Drive](https://www.google.com/drive/) or [OneDrive](https://onedrive.live.com/).
 * **Adopting common **[**Program Management practices**](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/): We recommend that applicable positions be PMD Pro certified.
 * **Standard indicators** are in use for existing programs where relevant and included in new proposals \(alongside budgets for proper measurement and collection\).
 * **Standard collection and monitoring tools:** data collection tools \(recording and reporting tools\) in any format \(paper or digital\), standard formats for logframes or indicator plans. 
-* **Standard organizational-level key performance indicators \(KPI\):** KPIs that can be aggregated across multiple programs M&E and ICT/IM requirements and responsibilities are articulated in all key positions \(program, program quality, M&E, operations, etc\).
+* **Standard organizational-level key performance indicators \(KPI\):** KPIs that can be aggregated across multiple programs M&E and ICT/Information Management requirements and responsibilities are articulated in all key program positions \(program delivery, M&E, operations, etc\).
 * **M&E and data quality:** is prioritized as part of organizational strategies or annual plans
-
-Having the above mentioned qualities will help your team become successful TolaData champions!
 
 ## TIER III: Organization Self-Assessment
 
-Include questions from Assessment
+ Questions from Assessment
 
