@@ -2,8 +2,6 @@
 ---
 This knowledgebase is meant to provide you basic guidance on the why's and how's of TolaData, and answer any questions you might have in the process. Happy exploring!
 
-\"Download PDF\"
-
 ### What is TolaData?
 
 TolaData is an open-source monitoring and evaluation platform that streamlines data, brings transparency, and builds capacity for humanitarian projects.

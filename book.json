@@ -33,7 +33,7 @@
                 "website": "styles/website.css"
             },
             "downloadpdf": {
-                "base": "https://github.com/toladata/knowledgebase/edit/master/",
+                "base": "https://www.gitbook.com/book/toladata/knowledgebase/details",
                 "label": "Download PDF",
                 "multilingual": false
             }
