@@ -2,7 +2,7 @@
 
 ---
 
-**Looking for the same set of data again? **Try out the global filters found at the top right corner. You can filter by 'country' or 'program' depending on your permission levels. 
+**Looking to work with the same dataset again? **Try out the global filters found at the top right corner. You can filter by 'country' or 'program' depending on your permission levels.
 
 Explore freely through all the features knowing the filter will continue to persist. And next time you log in, you'll be happy to see the same set of data where you left off.
 

@@ -2,5 +2,5 @@
 
 ---
 
-There isn't much happening here now but stayed for updates soon!
+There's not much happening here at the moment...but stayed tuned for updates soon!
 
