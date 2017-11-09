@@ -6,7 +6,7 @@ Adding activities to a program is very easy! Click on the orange plus button to 
 
 Here's how to do it:
 
-![](https://lh4.googleusercontent.com/kyN9RGSa88APYoJVjkglc5sTqahnPkOQTuRfBI2QvwNfRC18sUbSjyBR0eWcx02BYg-dANbppfO5vwigYYkIUiLbWJns0hp8TaqW18BXigh5YSjWx57f49bVFJGa9cpe7NMu1bsM)
+![](https://lh3.googleusercontent.com/MXtZzO8hbNmdqVGw690VWPWI3OOT_Ee9jqWhVsdcTO1ozOH4WTQ7KH-CdrNIoJF8Qg9wjDEvZiHra9_HmhZvj46lYCWi0pJFM109lkBwJPTHp8ZQHIln_JvppqOE3zdz6l9cJ3AL)
 
 **  
 **
