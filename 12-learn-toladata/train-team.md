@@ -42,9 +42,7 @@ Setup calls, schedule meetings, or demos with your demo. Or you can even out to 
 
 ## Invite team members to TolaData
 
-Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.
-
-![](https://lh6.googleusercontent.com/-EaHRbN7cX8GVq9WMRIqWqy8Vksa9EhIF-ED8lU_XL-9rxWMJdQqOr8VxrTxWmb5hYx7atfoh-t-Xe_dUwLfNawuUq43nZXJ5j6c55KPn_VrCeYSFB_7eDQbJOgRfmU6oRmXEw7t)
+Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)
 
 ## Additional resources
 
@@ -52,9 +50,9 @@ Send all your team members invitation to TolaData! Ask them to login to \[link t
 
 2. [YouTube screencasts](https://www.youtube.com/channel/UCala_GmlWtE7vpI_g51OgjQ)
 
-**        
+**          
 **
 
-**        
+**          
 **
 

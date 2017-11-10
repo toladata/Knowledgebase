@@ -4,7 +4,6 @@
 
 * [TolaData](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Export Datasets](export-datasets.md)
 
 ## 2. Getting Started
 
@@ -69,6 +68,7 @@
 * [Import Datasets](import-datasets.md)
 * [Clean and Merge Data](clean-and-merge-data.md)
 * [Update Data Real-time](update-data-real-time.md)
+* [Export Datasets](export-datasets.md)
 
 ## 12. Learning TolaData
 
