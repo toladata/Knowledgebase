@@ -4,7 +4,6 @@
 
 * [TolaData](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [What is Track?](what-is-track.md)
 
 ## 2. Getting Started
 
@@ -64,6 +63,9 @@
 * [Custom Reports](10-reports/custom-reports.md)
 
 ## 11. Track
+
+* [What is Track?](what-is-track.md)
+* [Import Datasets](import-datasets.md)
 
 ## 12. Learning TolaData
 
