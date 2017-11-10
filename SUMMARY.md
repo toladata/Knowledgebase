@@ -4,6 +4,7 @@
 
 * [TolaData](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [What is Track?](what-is-track.md)
 
 ## 2. Getting Started
 
