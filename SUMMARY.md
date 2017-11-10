@@ -66,6 +66,7 @@
 
 * [What is Track?](what-is-track.md)
 * [Import Datasets](import-datasets.md)
+* [Clean and Merge Data](clean-and-merge-data.md)
 
 ## 12. Learning TolaData
 
