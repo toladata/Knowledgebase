@@ -4,7 +4,7 @@
 
 * [TolaData](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Update Data Real-time](update-data-real-time.md)
+* [Export Datasets](export-datasets.md)
 
 ## 2. Getting Started
 
@@ -68,6 +68,7 @@
 * [What is Track?](what-is-track.md)
 * [Import Datasets](import-datasets.md)
 * [Clean and Merge Data](clean-and-merge-data.md)
+* [Update Data Real-time](update-data-real-time.md)
 
 ## 12. Learning TolaData
 
