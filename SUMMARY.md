@@ -4,6 +4,7 @@
 
 * [TolaData](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [Update Data Real-time](update-data-real-time.md)
 
 ## 2. Getting Started
 
