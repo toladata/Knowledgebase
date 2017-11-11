@@ -16,7 +16,7 @@ The type of modules that you can add are:
 | :--- | :--- |
 | Use case | This helps you to link your activities to the locations of where you are implementing your program. Program maps can be generated using this data.Note that same locations can be reused across multiple activities. This also helps to capture Site history on what earlier programs were implemented there in which sector. |
 
-**      
+**        
 **![](https://lh5.googleusercontent.com/syJu0PRGcs4-5prSROCNH6oj4S3Ik6r4ylwmsbVYOa8m1Gg8RTgah7mF7CxWuSYm1eMCUJ4bWnnI8HAT7O2Q3SWNauCXkHJjaCfdIpfOOQv5sOl2S-lydYZysfvIkUtD8-3FuuVw)
 
 ## Stakeholders
@@ -49,17 +49,16 @@ The type of modules that you can add are:
 | :--- | :--- |
 | Use case | Possible examples of documents for your program activity can be Terms of Reference \(ToR\), Memorandum of Understanding \(MoUs\), Program or activity budget etc. This helps to organize your program documents in one place and provide as direct link and evidence for your activities. |
 
-
-
 ## Approval
 
 | How to add | Click on the 'add modules' button to select Approvals. Click on the add Approval button to add users to request approval for the entire activity or specific modules of the activity. For example a user from the Monitoring and Evaluation \(M&E\) team can be asked to approve the Indicator section whereas the program manager can be requested to approve the Activity overall. |
 | :--- | :--- |
 | Use case | Users can set their own approval authority matrix and set limits on for example budget approvals. This helps in informing which activities or projects are ready for implementation. |
 
+![](https://lh5.googleusercontent.com/r2p6h3dNqs5IicYofSNPqPfTlhGhU7sEYbcO7M-Kv9yrVyUQOESvJ58g_MlER0r3KRerb_FPPFnVrTjBELcS1ieH1qikExneKi2BcJ0qpdT-cTtNHEOsZXHlt-9qPqCxC154Ji0E)
 
+  
 
-## 
 
 ## 
 
