@@ -1,5 +1,13 @@
 {
-    
+    "gitbook": ">=3.2.0",
+    "links": {
+        "sidebar": {
+            "Contact Us": "support@toladata.com"
+        }
+    },
+    "pdf": {
+        "fontSize": 16
+    },
     "plugins": [
         "collapsible-menu",
         "localized-footer",
