@@ -36,13 +36,13 @@ A Pashtun word for “all” or “complete”— is used by us as all or comple
 
 #### **TolaData**
 
-An open-source software built by Mercy Corps HQ IT team along with the Mercy Corps Afghanistan teatm. Tola improves how we evaluate program data by providing adaptable tools that support the things we learn from experience.
+An open-source software that started as a global initiative by Mercy Corps and it is currently developed and supported by Humanitec AG along with contributions from the open source community.
 
 #### Activity **Workflow**
 
-This Tola module is comprised of standard forms that support project management workflow.
+This feature is comprised of standard forms that support project management workflow.
 
 #### **Unique Columns**
 
-A Unique Column is any column in your Tola Table that does not have the same data in any of its rows; each row in the column is unique and does not repeat.  For example User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a Column called uu\_id which is a universal unique id. The uu-id column is a great column to assign as your Unique Column.  Assigning a Unique Column in Tola Tables will ensure that only new data is added to your Table when you turn on Auto-Pull or choose to manually Update a table in Tola Tables.
+A Unique Column is any column in your TolaTables that does not have the same data in any of its rows; each row in the column is unique and does not repeat.  For example User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a Column called uu\_id which is a universal unique id. The uu-id column is a great column to assign as your Unique Column.  Assigning a Unique Column in Tola Tables will ensure that only new data is added to your Table when you turn on Auto-Pull or choose to manually Update a table in Tola Tables.
 
