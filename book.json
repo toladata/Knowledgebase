@@ -29,8 +29,8 @@
            },
            "links": {
                 "sidebar": {
-                "Contact Us": "support@toladata.com"
-                }
+                     "Contact Us": "mailto:support@toladata.com"
+                     }
            },
            "github": {
                 "url": "https://github.com/toladata"
