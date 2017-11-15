@@ -30,11 +30,11 @@ Some of the benefits of using a results framework:
 
 
 
-[USAID \(2010\). Performance Monitoring & Evaluation, Building a Results Framework](http://pdf.usaid.gov/pdf_docs/Pnadw113.pdf)
+> [USAID \(2010\). Performance Monitoring & Evaluation, Building a Results Framework](http://pdf.usaid.gov/pdf_docs/Pnadw113.pdf)
 
-[IEG, World Bank \(2012\). Designing a results framework for achieving results: a how-to guide](https://siteresources.worldbank.org/EXTEVACAPDEV/Resources/designing_results_framework.pdf)
+> [IEG, World Bank \(2012\). Designing a results framework for achieving results: a how-to guide](https://siteresources.worldbank.org/EXTEVACAPDEV/Resources/designing_results_framework.pdf)
 
-[USAID \(2016, September\). Results Framework Guide](http://usaidprojectstarter.org/content/results-framework-rf)
+> [USAID \(2016, September\). Results Framework Guide](http://usaidprojectstarter.org/content/results-framework-rf)
 
   
 

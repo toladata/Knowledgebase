@@ -26,7 +26,7 @@ You will need to first authorize TolaTables and TolaData to access your Google D
 
 ### Import JSON feed
 
-Some service providers \(like[KoboToolbox](http://www.kobotoolbox.org/)\) may provide access to a JSON feed to your data collected if so, you can import your data from that provider by choosing JSON from the import menu.
+Some service providers \(like [KoboToolbox](http://www.kobotoolbox.org/)\) may provide access to a JSON feed to your data collected if so, you can import your data from that provider by choosing JSON from the import menu.
 
 ![](https://lh5.googleusercontent.com/IuBJszwrMRoyIT7uoEbMVSz0n5ktPkcwEqTqEIv9FlGEWrZFgLdZVffgJKNLbg42qr69PMjjvtO9qKc0MBk1YK428mIRl60TXBso0UGfzDDQK7lkk4lFo_GRNHoYSGEhzJlO4Ak7)
 

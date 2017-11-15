@@ -38,38 +38,40 @@ Key activity progress information is required to report program success. Here ar
 
 ### **Example of workplan or a work breakdown structure**
 
-#### **Graphic view**
+#### **Graphical view**
 
 **  
 **
 
 ![](https://lh3.googleusercontent.com/gdtmFTTUX44PUKHPZ-BwEbQJirHu2g2gxq3FvRuUgDAxgWj1T3MPpRyAxsbbSoQAd-_RfL6duX5VAO9IiiWjQfB8xdp3qKvSO-TzvZJW90c4L19ImKhrzxP7sZ5-BkFzs8x_uz_v)
 
-#### ** List view**
+> #### ** List view**
 
-1. Fecal waste management system
+> River Delta WASH Project
 
-1.1. Fecal level monitoring system
+> 1. Fecal waste management system
 
-1.2. Public awareness campaigns
+>   1.1. Fecal level monitoring system
 
-1.3. Latrine construction
+>   1.2. Public awareness campaigns
 
-1.3.1.Pre-construction preparations
+>   1.3. Latrine construction
 
-1.3.1.1. Plan approved by ministry
+>   1.3.1.Pre-construction preparations
 
-1.3.1.2. Engineering specification approved
+>   1.3.1.1. Plan approved by ministry
 
-1.3.1.3. Ground water study
+>   1.3.1.2. Engineering specification approved
 
-1.3.2.Homeowner preparations
+>   1.3.1.3. Ground water study
 
-1.3.3.Procurement
+>   1.3.2.Homeowner preparations
 
-2. Household refuse management system
+>   1.3.3.Procurement
 
-2.1 etc.
+> 2. Household refuse management system
+
+>   2.1 etc.
 
 #### ** **Gantt View
 

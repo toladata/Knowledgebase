@@ -6,7 +6,7 @@
 
 You can set up auto-pull, to pull in any new data from your Ona, Google Sheets or a JSON feeds.
 
-To turn on Auto-Pull you need to go to your Table's view page and click on the[Data Sources tab.](https://tola.hackpad.com/Auto-Pull-Data-Lv6Tmxw4RoS#:h=Data-Sources)
+To turn on Auto-Pull you need to go to your Table's view page and click on the [Data Sources tab.](https://tola.hackpad.com/Auto-Pull-Data-Lv6Tmxw4RoS#:h=Data-Sources)
 
 #### **Data Sources**
 

@@ -18,37 +18,37 @@ WhenAppendingTables the rows in Table will essentially append to the bottom of t
 
 WhenMergingTables the specified rows \(e.g. User ID\) in Table will be mapped across the two datasets and additional columns linked to each beneficiary/User ID will be added.
 
-* * Go toYour Tables
+* Go to _Your Tables_
 
-  * ChooseMergenext to the Table you want to mergeFROM
+  * Choose _Merge_ next to the Table you want to merge _FROM_
 
-  * Next, choose the Table you want to mergeTO
+  * Next, choose the Table you want to merge _TO_
 
   * Choose the columns you want to be in your table.
 
-  * Most usersSelect All
+  * Most users Select All
 
-  * Nextmap at least one columnand chooseMap Selected Columns
+  * Next, map at least one column and choose _Map Selected Columns_
 
-  * ClickSubmitand the rest will automatically map if the column names match
+  * Click _Submit_ and the rest will automatically map if the column names match
 
 ![](https://lh5.googleusercontent.com/chxUY9Q3DhXlwpJzzyA_wjC4mIj_5Y34yShydLqSxl9jXERPR5wX0oNxpFwZdaQxytJ2AgCuUyGKjbr09NW2DPW8mXG6nlTX9W6tM4QC8qLlPUwxgAxtgE44o4UiN0gofda-PRRg)
 
 ## Merging Table and Mapping Columns with Different Names
 
-Your Tables column headers may not match exactly, in this case you can choose to map two different column names together. Example column:First\_Namecan be mapped toUser\_Name
+_Your Tables_ column headers may not match exactly, in this case you can choose to map two different column names together. Example column: _First\_Name_ can be mapped to _User\_Name_
 
 Follow the [Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSheet-Currently-we-can-only-import-the-first-sheettab-in-your-GSheet.-BlUMTgJoO8v#:h=Merging-Table-and-Mapping-Colu) above
 
-* * In Step 2:
+In Step 2:
 
-  * Selectthe Table 1 column \(example: First\_Name\) you want to map
+  * Select the Table 1 column \(example: First\_Name\) you want to map
 
-  * Next,Selectthe Table 2 column you want to map to the other column \(example: V\_Name\).
+  * Next, Select the Table 2 column you want to map to the other column \(example: V\_Name\).
 
-  * ChooseMap Selected Columns
+  * Choose _Map Selected Columns_
 
-  * ChooseSubmit
+  * Choose _Submit_
 
 ![](https://lh6.googleusercontent.com/J4QyApmEbpkh-TxkyuYrMfEDPyYaNFfQflYQBJuAv1X-rZqcWLxZcbmgfI1oOqPmmB_6MGp4aWYbVvFz24oIiZMq0svwJLioLTnR4Omx6RLIJX7iP30K-uGT6Wrkx8RqF7czx2VN)
 
@@ -56,7 +56,7 @@ Follow the [Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSh
 
 Follow the [Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSheet-Currently-we-can-only-import-the-first-sheettab-in-your-GSheet.-BlUMTgJoO8v#:h=Merging-Table-and-Mapping-Colu) above
 
-* * In Step 2:
+In Step 2:
 
   * Selectthe Table 1 column \(example: firstname and lastname\) you want to map
 
@@ -64,19 +64,19 @@ Follow the [Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSh
 
   * ChooseMap Selected Columns
 
-  * You will be prompted to choose How to Merge the columnsJoin, Sum or Average
+  * You will be prompted to choose How to Merge the columns _Join, Sum or Average_
 
-  * ChooseJoin
+  * Choose _Join_
 
-  * ChooseSubmit
+  * Choose _Submit_
 
 ![](https://lh5.googleusercontent.com/O0nzP6BW1XhcRavO6ovvqyx_5gZLzDIA0gIl20EG6x53jEmh7X3lpHqVsymssJ12PTbURT83agWuSI9FdCDKLgPMeiKGEYKaMEuLPRLwAjEEfaVamGyLKWg8Ib-I51DO-jupsvnf)
 
 ## Append rows from two datasets
 
-Follow the[Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSheet-Currently-we-can-only-import-the-first-sheettab-in-your-GSheet.-BlUMTgJoO8v#:h=Merging-Table-and-Mapping-Colu)above
+Follow the [Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GSheet-Currently-we-can-only-import-the-first-sheettab-in-your-GSheet.-BlUMTgJoO8v#:h=Merging-Table-and-Mapping-Colu) above 
 
-* * In Step 2:
+In Step 2:
 
   * Map at least one columnand chooseMap Selected Columns
 
@@ -84,11 +84,11 @@ Follow the[Merging steps](https://tola.hackpad.com/4.-Multiple-Tabs-in-your-GShe
 
   * Next,Selectthe Table 2 column you want to map to the other column \(example: User ID\).
 
-  * ChooseMap Selected Columns
+  * Choose _Map Selected Columns_
 
-  * ChooseSubmit
+  * Choose _Submit_
 
-  * Then chooseAppendoption to join the additional rows/datapoints to your new dataset.
+  * Then choose the _Append_ option to join the additional rows/datapoints to your new dataset.
 
 ![](https://lh4.googleusercontent.com/Eouu57QO-g429zSTVaIKHCnoLRURWK9QerLKqWxRzw0A9MRNsQ23WmWVYh4mvBtHMmNe74Cdt61YTQhMumXDhlLU-N1cJJe2d1Y1u36poQZcDhfz8bMmHGNBkdIkZS7VmqR_vU1J)
 
