@@ -16,7 +16,7 @@
         ],    
     "pluginsConfig":{
            "sidebar-ad": {            
-                "imageUrl":"http://toladata.com/wp-content/uploads/2017/10/logo-full.svg",
+                    "imageUrl":"https://github.com/toladata/Knowledgebase/blob/master/assets/TolaData_Logomark_kb.png",
                 "url": "mailto:support@toladata.com",
                 "description": "Contact Us"
            },
