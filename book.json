@@ -8,17 +8,33 @@
         "links",
         "toggle-chapters",
         "sharing",
+        "github",
         "youtubex",
         "downloadpdf",
-        "advanced-emoji"
+        "advanced-emoji",
+        "ga@1.0.1",
+        "language-picker",
+        "richquotes"
         ],
        
     "pluginsConfig":{
+           "richquotes": {
+                "default": false
+           },
+           "language-picker": {
+                "grid-columns": 3
+           },
+           "ga": {
+                "token": "UA-109670551-1"
+           },
            "links": {
                 "sidebar": {
                 "Contact Us": "support@toladata.com"
                 }
-           },    
+           },
+           "github": {
+                "url": "https://github.com/toladata"
+           },
            "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
