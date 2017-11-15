@@ -10,9 +10,16 @@
         "downloadpdf",
         "advanced-emoji",
         "ga",
-        "richquotes"
+        "richquotes",
+        "sidebar-ad"
         ],    
     "pluginsConfig":{
+           "sidebar-ad": {            
+                "imageUrl": "http://toladata.com/wp-content/uploads/2017/10/logo-full.svg",
+                "url": "mailto:support@toladata.com",
+                "description": ,
+                "btnText": "Contact Us"
+           },
            "richquotes": {
                 "default": false
            },
