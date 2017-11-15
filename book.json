@@ -8,13 +8,13 @@
         "links",
         "toggle-chapters",
         "sharing",
-        "github",
+        "github@2.0.0",
         "youtubex",
         "downloadpdf",
         "advanced-emoji",
         "ga@1.0.1",
         "language-picker",
-        "richquotes"
+        "richquotes@0.0.9"
         ],
        
     "pluginsConfig":{
