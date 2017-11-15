@@ -1,17 +1,11 @@
 {
-    "gitbook": ">=3.2.0",
-    "links": {
-        "sidebar": {
-            "Contact Us": "support@toladata.com"
-        }
-    },
-    "pdf": {
-        "fontSize": 16
+    "gitbook": ">=3.2.0"
     },
     "plugins": [
         "collapsible-menu",
         "localized-footer",
         "search",
+        "links",
         "toggle-chapters",
         "sharing",
         "youtubex",
@@ -20,7 +14,11 @@
         ],
        
     "pluginsConfig":{
-               
+           "links": {
+                "sidebar": {
+                "Contact Us": "support@toladata.com"
+                }
+           },    
            "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
