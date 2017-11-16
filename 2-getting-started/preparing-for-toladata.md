@@ -6,11 +6,11 @@ At its core, TolaData requires teams to have a strong foundation for monitoring 
 
 This guidance is broken up into three tiers: minimum requirements, best practices, and a self assessment.
 
-* Tier I: Minimum requirements, are those things that must be in place before a country is ready for a rollout of TolaData.
+* **Tier I: Minimum requirements**, are those things that must be in place before a country is ready for a rollout of TolaData.
 
-* Tier II: Best practices, is a list of tools, practices, and skillsets that make a country better prepared and equipped for adoption of the TolaData system.
+* **Tier II: Best practices**, is a list of tools, practices, and skillsets that make a country better prepared and equipped for adoption of the TolaData system.
 
-* Tier III: Organization Self-Assessment, is a set of questions to assess the current state of a country’s processes, procedures, and capacity, and what type of support a country will need for rollout.
+* **Tier III: Organization Self-Assessment**, is a set of questions to assess the current state of a country’s processes, procedures, and capacity, and what type of support a country will need for rollout.
 
 These three tiers of “readiness” will help the TolaData team make decisions about how a roll out plan might need to be adapted for a specific country team, and what kind of support will be required to ensure a successful implementation of the system.
 
