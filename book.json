@@ -12,14 +12,10 @@
         "-sharing",
         "ga",
         "richquotes",
-        "sidebar-ad"
+        "-sidebar-ad",
+        "-edit-links"
         ],    
     "pluginsConfig":{
-           "sidebar-ad": {            
-                "imageUrl":"",
-                "url": "mailto:support@toladata.com",
-                "description": "Contact Us"
-           },
            "richquotes": {
                 "default": false
            },
