@@ -10,7 +10,8 @@
         "downloadpdf",
         "advanced-emoji",
         "-sharing",
-        "ga",
+        "-ga",
+        "gtm",
         "richquotes",
         "-sidebar-ad",
         "-edit-links"
@@ -24,6 +25,10 @@
            },
            "ga": {
                 "token": "UA-109670551-1"
+           },
+           "gtm": {
+                "token": "GTM-MZGX5NJ",
+                "virtualPageViews": true
            },
            "links": {
                 "sidebar": {
