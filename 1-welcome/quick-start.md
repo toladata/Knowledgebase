@@ -27,8 +27,8 @@ Heres are quick visual to show you how to do it.
 Please note that you can always go back to the specific sections to add or revise your program data. So don’t worry if you are not able to complete all the data fields now.
 
 > **Tips for power users:**
+>
+> Configure your platform to make it more relevant for your program! Here is a more detailed article on [configuration.](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
 
-> Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
 
-> [https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
 
