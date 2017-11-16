@@ -6,11 +6,11 @@ Setting up your TolaData instance in super easy! Let us walk you through it.
 
 **Create your program**
 
-Login to your TolaData account and you can add your country program directly from the home page!
+Login to your TolaData account and kick things off by adding a program.
 
-Click on the 'Add Program' button and type in your Program name, program start and end date and hit submit. Your program is ready!
+Click on `Add Program` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
 
-You will be taken to program guide where you can add your:
+Next, you will be taken to program guide where you can add your:
 
 1. Program sector
 
@@ -20,7 +20,7 @@ You will be taken to program guide where you can add your:
 
 4. Data collection forms
 
-Heres are quick visual to show you how to do it.
+Below you can see how it's done:
 
 ![](https://lh5.googleusercontent.com/zCVkProukpBUiQR5kgu7jc4bajRu6T1wLunQcXlVPcWdf-hqx5SBjjGrI8oMwjyTawWIaUghBFskvsUOX73hT2VKBDBPNRUOJD4kRG5pCbpjLpnIyuApPWPafMw-7CtPEGV-lFnJ)
 
@@ -28,7 +28,9 @@ Please note that you can always go back to the specific sections to add or revis
 
 > **Tips for power users:**
 >
-> Configure your platform to make it more relevant for your program! Here is a more detailed article on [configuration.](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
+> Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
+>
+> [https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
 
 
 
