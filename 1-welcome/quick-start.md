@@ -6,11 +6,11 @@ Setting up your TolaData instance in super easy! Let us walk you through it.
 
 **Create your program**
 
-Login to your TolaData account, you can add your country program directly from the home page!
+Login to your TolaData account and kick things off by adding a program.
 
-Click on the 'Add Program' button and type in your Program name, program start and end date then hit submit. Your program is ready!
+Click on `Add Program` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
 
-You will be taken to program guide where you can add your:
+Next, you will be taken to program guide where you can add your:
 
 1. Program sector
 
