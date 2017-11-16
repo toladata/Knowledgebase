@@ -1,7 +1,7 @@
 /* CSS for website */
 /* --dark_blue: #101F74; --orange_peel: #FF9F00; --grey: #737581; --car_green: #07D7A7; --disco_blue: #0ABFFC; --app_blue: #0B607D */ 
 /* Header */
-.navigation .summary li::first-child a{
+[role="navigation"] ul.summary li:first-child a{
     text-indent: -9999em;
     background-image: url(http://toladata.com/wp-content/uploads/2017/10/logo-full.svg);
     background-repeat: no-repeat;
