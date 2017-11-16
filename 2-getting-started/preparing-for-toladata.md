@@ -4,17 +4,17 @@
 
 At its core, TolaData requires teams to have a strong foundation for monitoring and evaluation \(M&E\), have program management in place and practices/processes established that promote data quality.
 
-Depending on the current capacity of the country team, the preparation to be TolaData ready, prior to actually rolling out the system, can be the bulk of the work. This would include supporting teams to improve their M&E and program management practices.
+Depending on the current capacity of the organization team, the preparation to be TolaData ready, prior to actually rolling out the system, can be the bulk of the work. This would include supporting teams to improve their M&E and program management practices.
 
 ---
 
-This guidance is broken up into three tiers: minimum requirements, best practices, and self assessment.
+This guidance is broken up into **three tiers**: minimum requirements, best practices, and self assessment.
 
-* **Tier I**: `Minimum requirements`, are those things that must be in place before an organization is ready for a rollout of TolaData.
+* **Tier I**: _Minimum requirements_, are those things that must be in place before an organization is ready for a rollout of TolaData.
 
-* **Tier II**: `Best practices`, is a list of tools, practices, and skill sets that make an organization better prepared and equipped for adopting the TolaData system.
+* **Tier II**: _Best practices_, is a list of tools, practices, and skill sets that make an organization better prepared and equipped for adopting the TolaData system.
 
-* **Tier III**: `Organization Self-Assessment`, is a set of questions to assess the current state of a country’s processes, procedures, capacity, and what type of support an organization will need for rollout.
+* **Tier III**: _Organization Self-Assessment_, is a set of questions to assess the current state of a country’s processes, procedures, capacity, and what type of support an organization will need for rollout.
 
 These three tiers of “readiness” will help the TolaData team make decisions about how a roll out plan might need to be adapted for a specific organization team, and what kind of support will be required to ensure a successful implementation of the system.
 
