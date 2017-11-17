@@ -12,5 +12,9 @@ Here's is a quick introduction of the platform:
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
 
 ### Core Products
+Activity is TolaData’s program management toolkit, comprises a collection of data forms, reports and visualizations designed to track results of your NGO’s programs and projects.
+
+Track, TolaData’s database management toolkit, enables you to easily consolidate multiple data sources for timely analysis.
+
 ![](/assets/Screen Shot 2017-11-08 at 10.10.27 PM.png)
 ![](/assets/Screen Shot 2017-11-08 at 10.11.01 PM.png)
