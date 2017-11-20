@@ -7,7 +7,7 @@
 
 ## Getting Started
 
-* [Become TolaReady](2-getting-started/preparing-for-toladata.md)
+* [Are you TolaData Ready?](2-getting-started/preparing-for-toladata.md)
 * [History and Approach](2-getting-started/history-and-approach.md)
 * [Glossary](2-getting-started/glossary.md)
 

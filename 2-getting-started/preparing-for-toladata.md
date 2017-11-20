@@ -1,10 +1,10 @@
-# Are you TolaReady?
+# Are you TolaData Ready?
 
 ---
 
-At its core, TolaData requires teams to have a strong foundation for monitoring and evaluation \(M&E\), have program management in place and practices/processes established that promote data quality.
+At its core, TolaData supports teams in monitoring and evaluation \(M&E\) and Program Management by establishing practices and processes that promote improved data quality.
 
-Depending on the current capacity of the organization team, the preparation to be TolaData ready, prior to actually rolling out the system, can be the bulk of the work. This would include supporting teams to improve their M&E and program management practices.
+One of the key success factors to adopting TolaData is investing in the preparation prior to going live with the system. Below, we provide guidance on M&E and program management practices that can help you prepare.
 
 ---
 
@@ -12,17 +12,17 @@ This guidance is broken up into **three tiers**: minimum requirements, best prac
 
 * **Tier I**: _Minimum requirements_, are those things that must be in place before an organization is ready for a rollout of TolaData.
 
-* **Tier II**: _Best practices_, is a list of tools, practices, and skill sets that make an organization better prepared and equipped for adopting the TolaData system.
+* **Tier II**: _Best practices_, is a list of tools, practices, and skill sets that make an organization better prepared and equipped for adopting TolaData.
 
-* **Tier III**: _Organization Self-Assessment_, is a set of questions to assess the current state of a country’s processes, procedures, capacity, and what type of support an organization will need for rollout.
+* **Tier III**: _Team Self-Assessment_, is a set of questions to assess the current state of a team’s processes, procedures, capacity, and what type of support a team will need for rollout.
 
-These three tiers of “readiness” will help the TolaData team make decisions about how a roll out plan might need to be adapted for a specific organization team, and what kind of support will be required to ensure a successful implementation of the system.
+These three tiers of readiness will help the TolaData team develop a rollout plan might need to be adapted for a specific team's needs, and what kind of support will be required to ensure a successful implementation of the system.
 
 ---
 
 ## TIER I: MINIMUM REQUIREMENTS
 
-* Organizational leadership buy-in including by program managers and M&E leads
+* Team leadership buy-in including Program and M&E leads
 * Dedicated organization administrator and in-country resources for onboarding and support
 * Staff time commitment toward preparations to go-live and post-training support
 
