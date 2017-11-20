@@ -18,7 +18,7 @@ This guidance is broken up into **two tiers**: minimum requirements and best pra
 * **Tier III**: _Team Self-Assessment_, is a set of questions to assess the current state of a team’s processes, procedures, capacity, and what type of support a team will need for rollout.
 --->
 
-These tiers of readiness will help the TolaData team develop an onboarding plan that meet the team's specific needs, and the level of support required to ensure a successful implementation of the system.
+These tiers of readiness will help the TolaData team develop an onboarding plan that meet your team's specific needs, and the level of support required to ensure a successful implementation of the system.
 
 ---
 
