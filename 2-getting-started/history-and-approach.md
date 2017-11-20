@@ -2,7 +2,7 @@
 
 ---
 
-TolaData started its journey in 2016 but there were some key events that influenced its development.
+TolaData started its journey in 2014 but there were some key events that influenced its development.
 
 | Event | Description |
 | :--- | :--- |
