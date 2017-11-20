@@ -7,11 +7,11 @@ If you have an existing system you are using to manage program data, we can help
 **1. Save the ‘Data migration’ template**  
 If you use Google Spreadsheet, use the link below. Make a copy of the spreadsheet, save it to your Google Drive, and let's work on it together!
 
-[https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU\_ve-b\_QOOxaMz3Oo/copy](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/copy)
+[Data Migration Template (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/copy)
 
 If you prefer Excel, use the link below to download the file in Excel format. 
 
-[https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU\_ve-b\_QOOxaMz3Oo/export?format=xlsx](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/export?format=xlsx)
+[Data Migration Template (Excel)](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/export?format=xlsx)
 
 **2. Follow the instructions on the first tab of the spreadsheet, and complete the workbook with your program data**
 
