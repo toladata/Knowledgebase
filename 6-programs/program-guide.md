@@ -53,21 +53,24 @@ TolaData helps you to capture the following information on site locations:
 * `Location`, `Latitude` and `Longitude`
 
 To add new sites, 
-go to the Programs tab and click on sites to populate new location information.
+
+1. go to the Programs tab and click on sites to populate new location information.
 
 ![](https://lh3.googleusercontent.com/Zv4REHSnJATPJBToNd_4uilBn_HZEfH4Hyr8zI6xEMhmTSH8W4iCoToBdpGeWC2h9w-an8H3dT5QkwcVC1Hc-or9SYn_0-GSPwWv2qyZ3ulRvJ1mRzhOHhEpCMk9EFLu1mzFEK_5)
 
 ### Milestones
+
 **What is a milestone?**
 
-Milestones are markers that you can use to identify key accomplishments throughout the life of your program. For example, milestones could be used to mark the start and end of a program phase as below:
+Milestones are markers that you can use to identify key accomplishments throughout the life of your program. For example, milestones could be used to mark the start and end of a program phase as below:  
 ![](/assets/Screen Shot 2017-11-21 at 5.40.48 PM.png)
 
-**Why is it important?**
+**Why is it important?**  
 Milestones help us break the program lifecycle into phases making it easier to see how a program is progresses over time. Milestones will be able to summarize program activities that was completed during these periods.
 
 **Adding milestones**
 
+...
 
 ### Objectives
 
@@ -85,7 +88,7 @@ As part of the program setup it is helpful to add objectives in the system early
 
 Here's how to add them to the system:
 
-Under the `Programs` tab
+Under the `Programs` tab...  
 ![](https://lh4.googleusercontent.com/H2nEAyk9U8RAQQ9VA-7rt8nEGfSw0JkRF_iuuwdTgyR0sih3TYe2yu9L6itUxOILAMXdptWvPfuHDsTMyHgjs19enbSpO9z-g1FEuX3FuNqWaka0bEu3lH7qqo_yT0p0846xofJ6)
 
 ### **Stakeholders**
