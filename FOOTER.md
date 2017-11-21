@@ -1,2 +1,2 @@
-*[<img src="http://toladata.com/wp-content/uploads/2017/10/logo-full.svg" height="15" />](mailto:support@toladata.com)*
+**Need Help? Drop us a line:** *[support@toladata.com](mailto:support@toladata.com)*
 
