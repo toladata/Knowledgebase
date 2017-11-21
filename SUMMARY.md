@@ -26,7 +26,7 @@
 ## Navigation
 
 * [Search](5-navigation/search.md)
-* [Global Filters](5-navigation/global-filters.md)
+* [Filters](5-navigation/filters.md)
 
 ## Programs
 
