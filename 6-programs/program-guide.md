@@ -2,7 +2,7 @@
 
 ---
 
-In TolaData the data structure is organized as follows:![](https://lh6.googleusercontent.com/bwSILTkbduz5k-J306Xz2yn7YbL5VCYMCSNsrjglnWkfjm8Tt1xwLXlStAH6UYO2IHLB7iE2S8tqMl3YozH6zNJe-To86Tv_oOXXBnG-YSNen6Z_UuLLFBMBax6Xk66ZCBsNYejo)
+TolaData organizes the data structure as follows:![](https://lh6.googleusercontent.com/bwSILTkbduz5k-J306Xz2yn7YbL5VCYMCSNsrjglnWkfjm8Tt1xwLXlStAH6UYO2IHLB7iE2S8tqMl3YozH6zNJe-To86Tv_oOXXBnG-YSNen6Z_UuLLFBMBax6Xk66ZCBsNYejo)
 
 The country or portfolio level data are a group of related programs tagged together.
 
@@ -10,41 +10,23 @@ To create a country or portfolio level please contact us directly at [support@to
 
 ### Program
 
-**Adding new program**
+**Adding a new program**
 
-To add a new program for your country or organization simply go to the programs tab and click on 'add new program'. You will need to add your program name, start date, and end date and you are done!
+To add a new program for your team or organization, go to the `Programs` tab and click `Add New Program`. Start by adding your `Program Name`, `Start date`, and `End date`. Click `Submit` and you're all set!
 
-Then you will be taken to the program setup guide to help in adding the basic information about your program to get you going! You will be asked to add your program
+From here you will prompted to the `Program Guide` to help you add basic information about your program to get you going! You will be asked to add your program:
 
-* Sectors
+* `Sectors`
 
-* Results Framework
+* `Results Framework`
 
-* Indicator plan
+* `Indicator plan`
 
-* Any data collection forms you would be using for tracking your indicators
+* Any `data collection forms` you would be using for tracking your indicators
 
-Don’t worry if you cannot complete all the details here! You can always to back to the specific sections of the program complete these information at your own pace**.**
+Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace**.** :relaxed:
 
-#### ![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)
-
-### Objectives
-
-**What is a program objective?**
-
-Objectives are specific circumstances to be achieved within a stated time frame that meet a particular goal. Unlike goals, objectives must be measurable to determine progress.
-
-**Why is it important?**
-
-Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that meaningful impact is achieved that the program initially set to accomplish.
-
-**Adding program objective**
-
-As part of your country program setup it is helpful to pre populate your program objectives in the system. In general you can find your program objectives in your program proposal or your Logframe.
-
-Here's how to add them to the system:
-
-![](https://lh4.googleusercontent.com/H2nEAyk9U8RAQQ9VA-7rt8nEGfSw0JkRF_iuuwdTgyR0sih3TYe2yu9L6itUxOILAMXdptWvPfuHDsTMyHgjs19enbSpO9z-g1FEuX3FuNqWaka0bEu3lH7qqo_yT0p0846xofJ6)
+![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)
 
 ### Sites
 
@@ -62,17 +44,49 @@ A site defines where you are working, the geographical location\(s\) of a progra
 
 * Over time, it allows teams to track the history of interventions showing how the programming has evolved.
 
-**Adding Sites**
+**Adding sites**
 
-TolaData helps you to capture the following information on program sites:
+TolaData helps you to capture the following information on site locations:
 
-* Program location name, description, and contact information
+* `Program Location Name`, `Description`, and `Contact Information`
 
-* Location latitude and longitude
+* `Location`, `Latitude` and `Longitude`
 
-To add new sites on TolaData go to the Programs tab and click on sites to populate new location information.
+To add new sites, 
+go to the Programs tab and click on sites to populate new location information.
 
 ![](https://lh3.googleusercontent.com/Zv4REHSnJATPJBToNd_4uilBn_HZEfH4Hyr8zI6xEMhmTSH8W4iCoToBdpGeWC2h9w-an8H3dT5QkwcVC1Hc-or9SYn_0-GSPwWv2qyZ3ulRvJ1mRzhOHhEpCMk9EFLu1mzFEK_5)
+
+### Milestones
+**What is a milestone?**
+
+Milestones are markers that you can use to identify key accomplishments throughout the life of your program. For example, milestones could be used to mark the start and end of a program phase as below:
+![](/assets/Screen Shot 2017-11-21 at 5.40.48 PM.png)
+
+**Why is it important?**
+Milestones help us break the program lifecycle into phases making it easier to see how a program is progresses over time. Milestones will be able to summarize program activities that was completed during these periods.
+
+**Adding milestones**
+
+
+### Objectives
+
+**What is an objective?**
+
+Objectives are specific circumstances to be achieved within a stated time frame that meet a particular goal. Unlike goals, objectives must be measurable to determine progress.
+
+**Why is it important?**
+
+Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that meaningful impact is achieved that the program intended to accomplish.
+
+**Adding objectives**
+
+As part of the program setup it is helpful to add objectives in the system early on. Normally you can find your program objectives in your program proposal or your Logframe.
+
+Here's how to add them to the system:
+
+Under the `Programs` tab
+![](https://lh4.googleusercontent.com/H2nEAyk9U8RAQQ9VA-7rt8nEGfSw0JkRF_iuuwdTgyR0sih3TYe2yu9L6itUxOILAMXdptWvPfuHDsTMyHgjs19enbSpO9z-g1FEuX3FuNqWaka0bEu3lH7qqo_yT0p0846xofJ6)
 
 ### **Stakeholders**
 
