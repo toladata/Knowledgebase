@@ -2,7 +2,7 @@
 
 ---
 
-It's easy to assign different permission levels to each member on your team. There are three types of user roles in the system.
+It's easy to assign different permission levels to each member of your team. There are three types of user roles in the system.
 
 | ** ** | **Program Admin** | **Program Team** | **Program View Only** |
 | :--- | :---: | :---: | :---: |
@@ -21,7 +21,7 @@ It's easy to assign different permission levels to each member on your team. The
 | View Reports | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
 | Delete Program, Results Framework, Indicator | ![](/assets/fa-check.png) |  |  |
 
-To change access level of a team member, go the program tab and navigate to the team section to change the role of the specific team member from the dropdown menu.
+To change access level of a team member, go the `Programs` tab and navigate to the `Team` section to change the role of the specific team member from the dropdown menu.
 
 ![](/assets/team approval.png)
 
