@@ -1,4 +1,4 @@
-# TolaData Terms
+# Definitions
 
 ---
 
