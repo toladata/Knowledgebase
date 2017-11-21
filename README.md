@@ -27,9 +27,6 @@ Here's is a quick introduction of the platform:
 
 **Transparent and flexible architecture**: Our platform meets your needs with comprehensive access to data at all levels and seamless integration to third-party systems.
 
-**State-of-the-art technology**: Applying the latest from the tech industry to human-centred design concepts to create easy-to-use tools.
-
-
-
+**State-of-the-art technology**: Applying the latest from the tech industry to human-centered design concepts to create easy-to-use tools.
 
 

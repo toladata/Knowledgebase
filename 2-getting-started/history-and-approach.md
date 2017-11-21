@@ -4,12 +4,15 @@ TolaData’s approach utilizes the power of cloud-based technologies to improve 
 
 Once data has been collected, TolaData blends it with simple workflow tools and a centralized database to allow for customized reporting that can integrate with third party software with low maintenance costs.
 
-| Built for the full project lifecycle | Single system supporting program end-to-end and ensuring management can be driven by the data from the field |
+| Feature Set | Description | 
 | :--- | :--- |
-| Transparency at all levels | Comprehensive access to data and management information alongside advanced Knowledge Graph technology |
-| Flexible and adaptable architecture | Adaptable to your needs with seamless integration to third-party services and existing systems |
-| Designed for frontline staff | Built specifically for INGOs with a bottom-up approach and continuous field testing throughout development |
-| Focus on simplicity | Applying the latest technology to human-centered design concepts to create easy-to-use tools |
+| Managing activities just became a whole lot easier | Capture the full data lifecycle of a program, track project progress and learn from real-time data. |
+| Decision-making based on real-time data | Access the latest information direct from the field with comprehensive access to data at all levels. |
+| Dashboards and reports customized to you | See the information you need with configurable dashboards and custom reports. |
+| Seamless integration of your digital data collection| No more wasting time collecting and wrangling data when you should be analyzing and learning from it. |
+| Your data never looked so good| Connect all your data—from any source—with merge, auto-export, data-cleaning, editing, sharing and analysis features. |
+|Transparent and flexible architecture| Adaptable to your needs with seamless integration to third-party systems.|
+|Built for you with :heart:| We apply the latest from the tech industry to human-centered design concepts.|
 
 <!---
 # History
