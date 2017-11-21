@@ -9,7 +9,7 @@ If you use Google Spreadsheet, use the link below. Make a copy of the spreadshee
 
 [Data Migration Template (Google Spreadsheet)](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/copy)
 
-If you prefer Excel, use the link below to download the file in Excel format. 
+If you prefer Excel, use the link below to download the file in Excel format.
 
 [Data Migration Template (Excel)](https://docs.google.com/spreadsheets/d/1bRTa7DTdMKk38mcB9yT5DtCAgtU_ve-b_QOOxaMz3Oo/export?format=xlsx)
 
@@ -22,6 +22,5 @@ If you prefer Excel, use the link below to download the file in Excel format.
 
 If you have any questions in completing the template, drop us a line.
 
-**4. Schedule a call with us to review your data and start migrating your data to the TolaData platform: **[**https://calendly.com/toladata/**](https://calendly.com/toladata/)**  
-**
+**4. Schedule a call with us to review your data and start migrating your data to the TolaData platform: **[**https://calendly.com/toladata/**](https://calendly.com/toladata/)**
 
