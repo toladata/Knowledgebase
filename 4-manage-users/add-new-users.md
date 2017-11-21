@@ -2,7 +2,8 @@
 
 ---
 
-Share the [**TolaData login**](http://demo.tolaactivity.app.tola.io/) with your colleagues to sign up and add them to your program to start collaborating!
+Share the [**TolaData login**](http://demo.tolaactivity.app.tola.io/) with your colleagues to sign up. Once signed up, you can add them to your program to start collaborating!
+![](/assets/Screen Shot 2017-11-21 at 4.48.11 PM.png)
 
 Once they've signed up, select the program you want to add them to and go the teams section. Once there, click on `Add Existing Team Member` to add relevant team member from the dropdown menu.
 
