@@ -1,7 +1,7 @@
 /* CSS for website */
 /* --dark_blue: #101F74; --orange_peel: #FF9F00; --grey: #737581; --car_green: #07D7A7; --disco_blue: #0ABFFC; --app_blue: #0B607D */ 
 
-@font-face{
+@font-face {
     font-family:"scandia";
     font-weight:600;
     src:url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.eot?) format("eot"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.woff) format("woff"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.ttf) format("truetype"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.svg#scandia) format("svg")
@@ -104,7 +104,7 @@ ul.summary {
 
 h1 {
     color: #0B607D;
-    font-family: "scandia", "questrial", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: "scandia", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
     font-weight:600
 }
 
