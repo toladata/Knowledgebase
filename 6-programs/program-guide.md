@@ -14,7 +14,7 @@ To create a country or portfolio level please contact us directly at [support@to
 
 To add a new program for your team or organization, go to the `Programs` tab and click `Add New Program`. Start by adding your `Program Name`, `Start date`, and `End date`. Click `Submit` and you're all set!
 
-From here you will prompted to the `Program Guide` to help you add basic information about your program to get you going! You will be asked to add your program:
+From here you will prompted to the `Program Guide` to help you start adding information about your program in the following sections:
 
 * `Sectors`
 
@@ -24,7 +24,7 @@ From here you will prompted to the `Program Guide` to help you add basic informa
 
 * Any `data collection forms` you would be using for tracking your indicators
 
-Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace**.** :relaxed:
+Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
 
 ![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)
 
@@ -52,9 +52,13 @@ TolaData helps you to capture the following information on site locations:
 
 * `Location`, `Latitude` and `Longitude`
 
-To add new sites, 
+To add new sites:
 
-1. go to the Programs tab and click on sites to populate new location information.
+1. Go to the `Programs` tab and click on the `Sites` section.
+2. Click, `Add a Site` button.
+3. Fill out the relevant fields for your site. Required field are `Site Name` and `Country`.
+
+> Tip: If you don't have your exact latitude and longitude coordinates, you can find it by using the pin on the map to drop it in the location of your site. Be sure to select `Country` first to zoom the map first.
 
 ![](https://lh3.googleusercontent.com/Zv4REHSnJATPJBToNd_4uilBn_HZEfH4Hyr8zI6xEMhmTSH8W4iCoToBdpGeWC2h9w-an8H3dT5QkwcVC1Hc-or9SYn_0-GSPwWv2qyZ3ulRvJ1mRzhOHhEpCMk9EFLu1mzFEK_5)
 
