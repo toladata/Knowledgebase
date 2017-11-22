@@ -153,8 +153,6 @@ Linking a program to a single or multiple sector is a great way of classifying y
 
 **Adding sectors**
 
-Sectors can be linked to your program and this is how you add it:
-
 To add sectors:
 
 1. Go to the `Programs` tab and click on the `Sectors` section.
@@ -163,8 +161,7 @@ To add sectors:
 4. Once your `Primary Sector` is selected, you can select `Secondary Sectors` to better define what your program does.
 5. You can repeat these steps to add multiple `Primary Sectors` and `Secondary Sectors`.
 
-> **Tip:** Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization, the system will begin to suggest relevant sectors. Hopefully this will speed up the process! :nerd_face:
-
+> **Tip:** Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization. The system will begin to suggest relevant sectors and hopefully this will speed up the process! :nerd_face:
 
 ![](https://lh6.googleusercontent.com/kQqDewbVqBwlWS-ZOjYqvJo4dHzKdSI336F66uOB--4WRJqkl3a5WNVGy_arjzQ6NsvUzZh_wwjze2LEWA6dQjt8gnUTN_ChTeLja9a7iyLdeL_6_nrEwUwhke_dLnCg_LCVez22)
 
