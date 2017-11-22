@@ -52,10 +52,10 @@ TolaData helps you to capture the following information on site locations:
 
 * `Location`, `Latitude` and `Longitude`
 
-To add new sites:
+To add sites:
 
 1. Go to the `Programs` tab and click on the `Sites` section.
-2. Click, `Add a Site` button.
+2. Click, `Add a Site`.
 3. Fill out the relevant fields for your site. Required field are `Site Name` and `Country`.
 
 > Tip: If you don't have your exact latitude and longitude coordinates, you can find it by using the pin on the map to drop it in the location of your site. Be sure to select `Country` first to zoom the map first.
@@ -66,15 +66,19 @@ To add new sites:
 
 **What is a milestone?**
 
-Milestones are markers that you can use to identify key accomplishments throughout the life of your program. For example, milestones could be used to mark the start and end of a program phase as below:  
+Milestones are markers that you can use to identify key accomplishments throughout the life of your program. One use case for milestones is to mark the start and end of a program phase as below:  
 ![](/assets/Screen Shot 2017-11-21 at 5.40.48 PM.png)
 
 **Why is it important?**  
-Milestones help us break the program lifecycle into phases making it easier to see how a program is progresses over time. Milestones will be able to summarize program activities that was completed during these periods.
+Milestones can help us break the program lifecycle into phases making it easier to see how a program progresses over time. With Milestones, the system will be able to summarize all program activities that are completed during the defined milestone start and end dates.
 
 **Adding milestones**
 
-...
+To add milestones:
+
+1. Go to the `Programs` tab and click on the `Milestones` section.
+2. Click, `Add a Milestone`.
+3. Add your milestone `Name`, `Start Date``End Date` (required). Additionally, you can add a `Description`.
 
 ### Objectives
 
@@ -88,11 +92,17 @@ Objectives are necessary to better define the end goal of the program. This help
 
 **Adding objectives**
 
-As part of the program setup it is helpful to add objectives in the system early on. Normally you can find your program objectives in your program proposal or your Logframe.
+To add objectives:
 
-Here's how to add them to the system:
+1. Go to the `Programs` tab and click on the `Objectives` section.
+2. Under `Strategic Objectives`, Click, `Add`.
+3. Add your objective `Name` and `Description`.
+4. After you associate indicators to your objectives, you will see them displayed here.
 
-Under the `Programs` tab...  
+Under the `Programs` tab..
+
+> **Info** Tip: As part of the program setup it is helpful to add objectives in the system early on. Objectives can typically be found in your program proposal or your Logframe.
+
 ![](https://lh4.googleusercontent.com/H2nEAyk9U8RAQQ9VA-7rt8nEGfSw0JkRF_iuuwdTgyR0sih3TYe2yu9L6itUxOILAMXdptWvPfuHDsTMyHgjs19enbSpO9z-g1FEuX3FuNqWaka0bEu3lH7qqo_yT0p0846xofJ6)
 
 ### **Stakeholders**
@@ -113,19 +123,23 @@ A stakeholder defines who the program is working with. Stakeholders are people o
 
 TolaData provides the option to capture the following information on relevant program stakeholders:
 
-* Stakeholder type
+* `Stakeholder Type`
 
-* Contact details
+* `Contact Details`
 
-* Supporting documentation: Memorandum of Understanding \(MOU\), due diligence, etc.
+* `Supporting documentation`: Memorandum of Understanding \(MOU\), due diligence, etc.
 
-Stakeholders can be added to through the Stakeholders form under the programs section. And here's how to do it:
+To add stakeholders:
+
+1. Go to the `Programs` tab and click on the `Stakeholder` section.
+2. Click, `Add Stakeholder`.
+3. Add your stakeholder `Name` (required). Additionally, you can complete the `Sectors`, `Role`, `Type`, and `Country` fields.
 
 ![](https://lh4.googleusercontent.com/dzpRUgUg291pH6he-W6mzw5tli9fd0ttl9gj3fOJgyp7qnn39Uy6ne5XGPki5QQTejNXuyswTgtxW1lqNu7ZalmOmocMiV7l8Xg0kt5rxydlvkNukTy65WIRpxes8sxWhm2YMwsU)
 
-**Stakeholder registry**
+> **Tip: Stakeholder registry**
 
-If stakeholder registry is something you maintain for your organization then this is the place where your add it on TolaData! This helps you to keep track of your stakeholder status and maintain work history log. This helps to maintain continuity in case of staff transition and provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
+> If stakeholder registry is something you maintain for your organization then this is the place where your add it on TolaData! This helps you to keep track of your stakeholder status and maintain work history log. This helps to maintain continuity in case of staff transition and provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
 
 ### Sectors
 
