@@ -161,9 +161,9 @@ To add sectors:
 2. To start, add a primary sector by clicking, `Add Primary`.
 3. Scroll through the list or use the filter option to find your sector from pre-existing list. If you want to add your own, click `Add Custom Sector`. 
 4. Once your `Primary Sector` is selected, you can select `Secondary Sectors` to better define what your program does.
-5. You can add multiple Primary Sectors and Secondary Sectors.
+5. You can repeat these steps to add multiple Primary Sectors and Secondary Sectors.
 
-> Tip
+> **Tip:** Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization, the system will begin to suggest relevant sectors. Hopefully this will speed up the process! :nerd_face:
 
 
 ![](https://lh6.googleusercontent.com/kQqDewbVqBwlWS-ZOjYqvJo4dHzKdSI336F66uOB--4WRJqkl3a5WNVGy_arjzQ6NsvUzZh_wwjze2LEWA6dQjt8gnUTN_ChTeLja9a7iyLdeL_6_nrEwUwhke_dLnCg_LCVez22)
