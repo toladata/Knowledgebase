@@ -12,7 +12,7 @@ Before you start with TolaData here are some key terms that will help you naviga
 
 #### What is a Program?
 
-A program is defined as a group of related projects and or activities managed in a coordinated way to obtain benefits and control not available through managing them individually.
+A **program** is defined as a group of related projects and or activities managed in a coordinated way to obtain benefits and control not available through managing them individually.
 
 Most program details can be found in program proposals and concept notes developed in your program's proposal development and setup and planning phases. 
 

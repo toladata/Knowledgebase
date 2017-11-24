@@ -2,13 +2,9 @@
 
 ---
 
-|  Definition | A results framework is an explicit articulation \(graphic display, matrix, or summary\) of the different levels, or chains, of results expected from a particular intervention—project, program, or development strategy. |
-| :--- | :--- |
+A **results framework** is an explicit articulation \(graphic display, matrix, or summary\) of the different levels, or chains, of results expected from a particular intervention—project, program, or development strategy.
 
-
-
-
-The results specified typically comprise the longer-term objectives\(often referred to as “outcomes” or “impact”\) and the intermediate outcomes and outputs that precede, and lead to, those desired longer-term objectives.
+The results specified typically comprise of long-term objectives \(often referred to as “outcomes” or “impact”\) and the intermediate outcomes and outputs that precede, and lead to, those desired long-term objectives.
 
 Some of the benefits of using a results framework:
 
@@ -29,7 +25,7 @@ Some of the benefits of using a results framework:
 ![](https://lh3.googleusercontent.com/6nb9ZNTBqui-1RATwNmyBrUlba9PoTFR1yH5QVWxiZ4w-zPiEz72BSA2toCOBl8l1qxH1Os8ooo5FgTldDjs4ye0f8K7R1-fDmRxJoqcHZHQQX2sCa851W__6JEu-ICHhiMOqPbz)
 
 
-
+> **References:**
 > [USAID \(2010\). Performance Monitoring & Evaluation, Building a Results Framework](http://pdf.usaid.gov/pdf_docs/Pnadw113.pdf)
 
 > [IEG, World Bank \(2012\). Designing a results framework for achieving results: a how-to guide](https://siteresources.worldbank.org/EXTEVACAPDEV/Resources/designing_results_framework.pdf)
