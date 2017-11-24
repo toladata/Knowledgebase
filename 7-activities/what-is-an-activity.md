@@ -8,7 +8,7 @@ Here's a quick revision of where activities fall on TolaData data structure:
 
 ![](https://lh4.googleusercontent.com/fKLB3hpwyaNMz8GD12Qk1vobCH6SRCJB47gRYbThp4C0cubQ7D-SGreVMTDNpYrVptJ9oqRsaEW1o6Q0u-K7dtXfDwcCVgq371euhvrZXhppmgK2IAO1aGjnfqx5uCvfx-81bcpJ)
 
-A great place for you to start will be looking at your program workplan to breakdown your program projects and activities. Here's an example of a how projects and activities can be broken down in a program:
+A great place for you to start will be looking at your program workplan to breakdown your program projects and activities. Here's an example:
 
 ![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
 
@@ -45,7 +45,7 @@ Key activity progress information is required to report program success. Here ar
 
 ![](https://lh3.googleusercontent.com/gdtmFTTUX44PUKHPZ-BwEbQJirHu2g2gxq3FvRuUgDAxgWj1T3MPpRyAxsbbSoQAd-_RfL6duX5VAO9IiiWjQfB8xdp3qKvSO-TzvZJW90c4L19ImKhrzxP7sZ5-BkFzs8x_uz_v)
 
-> #### ** List view**
+> #### **List view**
 
 > River Delta WASH Project
 
