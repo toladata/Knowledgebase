@@ -10,16 +10,16 @@
     background-position: 9px 5px;
 }
 
+/* removes 'published with Gitbook' from footer */
+.gitbook-link {
+    display: none !important;
+}
+
 @font-face {
     font-family:"scandia";
     font-weight:600;
     src:url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.eot?) format("eot"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.woff) format("woff"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.ttf) format("truetype"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.svg#scandia) format("svg")
 };
-
-/* removes 'published with Gitbook' from footer */
-.gitbook-link {
-    display: none !important;
-}
 
 /* stylize footer */
 .localized-footer {
