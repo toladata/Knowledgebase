@@ -150,11 +150,11 @@ To add stakeholders:
 
 **What is a sector?**
 
-A sector is a specific thematic area that a program is being implemented in. Common examples of sectors in the humanitarian field are agriculture, healthcare, food security, economic development etc.
+A sector is a specific thematic area that a program is being implemented in. Common examples of sectors in the development and humanitarian field are agriculture, healthcare, food security, economic development, and emergency response.
 
 **Why capture sector data?**
 
-Linking a program to a single or multiple sector is a great way of classifying your data. As you select or tag a sector to your program you can easily use this as a filter to run different analyses and generate reports. Examples of sectors are: health, agriculture, economic development, food security.
+Linking a program to one or many sectors are a great way of classifying your data. As you select or tag a sector to your program you can easily use this as a filter to run different analyses and generate reports.
 
 **Adding sectors**
 
