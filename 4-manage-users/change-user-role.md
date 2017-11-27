@@ -36,7 +36,7 @@ Once a team member has logged in to the system, the team member needs to be adde
 
 Once added, you can change the role of a team member:
 
-1. Under `Role`, click from the dropdown menu and select the `role`.
+1. Under `Role`, click from the dropdown menu and select a user role: `Program Admin`, `Program Team`, `Program View Only`.
 
 ![](/assets/team approval.png)
 
