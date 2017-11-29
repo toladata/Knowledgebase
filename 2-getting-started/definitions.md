@@ -26,7 +26,7 @@ Source: PMDPro Guide, PM4NGOs
 
 #### **Program**
 
-A group of related project managed in a coordinated way to obtain benefits and control not available through managing them individually.
+A group of related projects managed in a coordinated way to obtain benefits and control not available through managing them individually.
 
 #### **Project**
 
@@ -34,7 +34,7 @@ A set of activities meeting agreed objectives in a specific period of time with 
 
 #### Results Framework
 
-A results framework is a graphical display or matrix of the different levels of results expected from a particular program. The results comprise of the longer-term objectives ('outcomes' or 'impact') and the intermediate outcomes and outputs.
+A results framework is a graphical display or matrix of the different levels of results expected from a particular program. The results comprise of the longer-term objectives \('outcomes' or 'impact'\) and the intermediate outcomes and outputs.
 
 #### **Tola**
 
@@ -42,13 +42,14 @@ A Pashtun word for “all” or “complete” — is used by us at TolaData to 
 
 #### **TolaData**
 
-An open-source software that started as a global initiative by Mercy Corps and it is currently developed and supported by Humanitec AG along with contributions from the open source community.
+An open-source project and data management software.
 
 #### **Tola Activity**
 
 **Activity** is TolaData’s program management toolkit, comprises a collection of data forms, reports and visualizations designed to track results of your NGO’s programs and projects.
 
 #### **Tola Track**
+
 **Track**, TolaData’s database management toolkit, enables you to easily consolidate multiple data sources for timely analysis.
 
 #### **Unique Columns**
