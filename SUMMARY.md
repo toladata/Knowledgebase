@@ -15,7 +15,6 @@
 
 * [Profile](3-configuration/update-your-profile.md)
 * [Admin Console](3-configuration/admin-console.md)
-* [Migrate Data from Existing System](3-configuration/migrating-data-from-existing-system.md)
 
 ## Manage Users
 
