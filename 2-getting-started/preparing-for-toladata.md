@@ -38,7 +38,7 @@ While best practices are not mandatory for TolaData, some teams have found that 
 * **Standard organizational-level key performance indicators \(KPI\):** Tracked KPIs that can be measured and aggregated across multiple programs.
 * **M&E and data quality:** Is a priority and are consistently mentioned as part of organizational strategies or annual plans.
 
-## TIER III: Team Self-Assessment
+## TIER III: TEAM SELF-ASSESSMENT
 
 Here are a few questions from to provide you basic ideas on tools and approaches relevant to improve adoption of TolaData. Go through this quick assessment to see where you are at: [https://enketo.ona.io/x/\#YaMB](https://enketo.ona.io/x/#YaMB)
 
