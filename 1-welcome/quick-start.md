@@ -30,7 +30,7 @@ Please note that you can always go back to the specific sections to add or edit 
 >
 > Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
 >
-> [https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html](https://toladata.gitbooks.io/knowledgebase/content/steps-to-get-started/admin-console.html)
+> [https://help.toladata.com/3-configuration/admin-console.html](https://help.toladata.com/3-configuration/admin-console.html)
 
 
 
