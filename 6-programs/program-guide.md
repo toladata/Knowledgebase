@@ -2,7 +2,6 @@
 
 ---
 
-To create a country or portfolio level please contact us directly at [support@toladata.com](mailto:support@toladata.com) for us to setup your own country or portfolio instance.
 #### **TolaData basics**
 
 Before you start with TolaData here are some key terms that will help you navigate better through the TolaData platform.
