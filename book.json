@@ -48,7 +48,7 @@
                 "label": "Suggest Changes to this Page"
            },
            "localized-footer" : {
-                "hline": false,
+                "hline": true,
                 "filename": "./FOOTER.md"
            },
            "sharing": {
