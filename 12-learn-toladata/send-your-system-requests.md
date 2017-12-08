@@ -4,7 +4,7 @@
 
 Let's face it we all have great ideas, but sometimes there are so many great ideas, we need more than one person to provide input on it. That's why we ask you to discuss your ideas and vote!
 
-Here's how to share your requests or as we call it 'add a ticket':
+Here's how to share your requests or add a ticket:
 
 ![](/assets/ticketing.gif)
 
