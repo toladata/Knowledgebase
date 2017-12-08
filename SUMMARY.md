@@ -25,14 +25,15 @@
 
 ## Programs
 
-* [What is a Program?](6-programs/what-is-a-program.md)
 * [Program Guide](6-programs/program-guide.md)
-* [Sites](6-programs/program-modules.md)
-* [Milestones](6-programs/milestones.md)
-* [Objectives](6-programs/objectives.md)
-* [Stakeholder](6-programs/stakeholder.md)
-* [Team](6-programs/team.md)
-* [Sector](6-programs/sector.md)
+  * [What is a Program?](6-programs/program-guide/what-is-a-program.md)
+* Program Modules
+  * [Sites](6-programs/program-modules.md)
+  * [Milestones](6-programs/milestones.md)
+  * [Objectives](6-programs/objectives.md)
+  * [Stakeholder](6-programs/stakeholder.md)
+  * [Team](6-programs/team.md)
+  * [Sector](6-programs/sector.md)
 
 ## Activities
 
