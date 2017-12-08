@@ -15,9 +15,13 @@
         "richquotes",
         "-sidebar-ad",
         "-edit-links",
-        "anchors"
+        "anchors",
+        "header"
         ],    
     "pluginsConfig":{
+           "layout": {
+                "headerPath" : "layouts/header.html"
+           },
            "richquotes": {
                 "default": false
            },
