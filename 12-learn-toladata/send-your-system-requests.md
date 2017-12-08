@@ -8,7 +8,7 @@ Here's how to share your requests or as we call it 'add a ticket':
 
 ![](/assets/ticketing.gif)
 
-### **What is a Ticket?**
+### **What is a ticket?**
 
 A ticket could be a report on a specific issue or a problem you are having using the software, or it could be you have a request for an enhancement to the software. All the tickets are reviewed, tagged, and prioritized by the TolaData team.
 
@@ -56,7 +56,7 @@ Choose Error/Bugs if you receive an error or if there is unexpected behavior, es
 
 Anything you or your colleague would like to see added or changed, but is not broken!
 
-### Our **Work Queue**
+### Our w**ork queue**
 
 The TolaData team monitors the tickets daily. Problems, such as bugs in the software, are usually fixed in the next release of our software.
 
