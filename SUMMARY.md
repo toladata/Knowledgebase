@@ -11,14 +11,11 @@
 * [Our Approach](2-getting-started/history-and-approach.md)
 * [Definitions](2-getting-started/definitions.md)
 
-## Configuration
+## Admin Console
 
-* [Admin Console](3-configuration/admin-console.md)
-
-## Manage Users
-
-* [Add New Users](4-manage-users/add-new-users.md)
-* [Change User Roles](4-manage-users/change-user-role.md)
+* [Setup](4-manage-users/setup.md)
+* [Configuration](4-manage-users/configuration.md)
+* [Users](4-manage-users/add-new-users.md)
 * [Set Approval Settings](4-manage-users/set-approval-settings.md)
 
 ## Navigation

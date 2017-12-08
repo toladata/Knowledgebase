@@ -2,5 +2,5 @@
 
 ---
 
-There's not much happening here at the moment...but stayed tuned for updates soon! :rabbit:
+We're thinking of great content, stayed tuned for updates (and carrots)! :rabbit:
 
