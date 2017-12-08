@@ -1,4 +1,4 @@
-# Add Modules to an Activity/Project
+# Add Modules to an Activity
 
 ---
 
