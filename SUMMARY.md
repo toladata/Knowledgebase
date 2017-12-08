@@ -13,7 +13,6 @@
 
 ## Configuration
 
-* [Profile](3-configuration/update-your-profile.md)
 * [Admin Console](3-configuration/admin-console.md)
 
 ## Manage Users
