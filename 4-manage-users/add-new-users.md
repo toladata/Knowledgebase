@@ -1,17 +1,33 @@
-# Add New Users
+# Users
 
 ---
 
-Share the [**TolaData login**](http://demo.tolaactivity.app.tola.io/) with your colleagues to sign up. Once signed up, you can add them to your program to start collaborating!
+<!-- #Leave out login details. Details will only be share directly with clients.
+## Login to TolaData
+
+With the [**TolaData login**](https://activity.toladata.io) users can sign up to access the TolaData platform.
 ![](/assets/Screen Shot 2017-11-21 at 4.48.11 PM.png)
 
+There are a few ways a user can sign on: 
+**Single Sign-on (SSO) options:**
+    * Google
+    * Office 365
+    
+**Register a Tola Account**
+
+1. If you prefer not to use single sign-on via Office 365, we have the option for users to register a TolaData account by going to: https://api.toladata.io/accounts/register/
+2. Fill out the registration form and under the `Org` field, enter the name of the organization that your user should be associated with and we'll ping the Org Administrator about it.
+
+-->
+
+## Add User to a Program
 Once they've signed up, select the program you want to add them to and go the teams section. Once there, click on `Add Existing Team Member` to add relevant team member from the dropdown menu.
 
 ![](https://lh4.googleusercontent.com/qryhqZw6whKEaLQuQAJniPPXBfEh7GhuVNiWuJJhUw01VMPc-J2aQBZ67NiTTyY7RtScEhd1HOmxPBxi27bEW-DosZVi1IbHo8bzbI3eECOlPjSmXhlPWyPCTHk64QrnxzpO_5SW)
 
-# Change User Roles
 
----
+
+## Change User Roles
 
 It's easy to assign different permission levels to each member of your team. You must be designated as a `Program Admin` in order to change Team Member roles.
 
