@@ -39,6 +39,7 @@
 * [Add Activities](7-activities/add-activity.md)
 * [Activity Modules](7-activities/activity-modules.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
+* [Approval](7-activities/approval.md)
 
 ## Indicators
 
