@@ -26,8 +26,7 @@ Below you can see how it's done:
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
-> **Tips for power users:**
->
+> **Quick Tip:**
 > Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
 >
 > [https://help.toladata.com/3-configuration/admin-console.html](https://help.toladata.com/3-configuration/admin-console.html)

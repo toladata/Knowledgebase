@@ -1,8 +1,8 @@
-# Approval
+# Approval Module
 
 ---
 
-#### Adding Module
+#### Adding Approvals
 
 1. To add a module, click ![](/assets/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Approval`. 
 2. To add a new approval, click ![](/assets/Screen Shot 2017-12-08 at 11.21.38 AM.png).

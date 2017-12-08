@@ -40,6 +40,11 @@
 * [Activity Modules](7-activities/activity-modules.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
 * [Approval](7-activities/approval.md)
+* [Budget](7-activities/budget.md)
+* [Stakeholders](7-activities/stakeholders.md)
+* [Documents](7-activities/documents.md)
+* [Sites](7-activities/sites.md)
+* [Indicators](7-activities/indicators.md)
 
 ## Indicators
 

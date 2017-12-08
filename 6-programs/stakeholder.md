@@ -32,7 +32,6 @@ To add stakeholders:
 
 ![](https://lh4.googleusercontent.com/dzpRUgUg291pH6he-W6mzw5tli9fd0ttl9gj3fOJgyp7qnn39Uy6ne5XGPki5QQTejNXuyswTgtxW1lqNu7ZalmOmocMiV7l8Xg0kt5rxydlvkNukTy65WIRpxes8sxWhm2YMwsU)
 
-> **Tip: Stakeholder registry**
-
-> If your program maintains an existing stakeholder registry, the stakeholder section is where this data can be mapped to. This helps you to keep track of your stakeholder status and maintain work history log in case of staff transition, this section can help provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
+> **Quick Tip:**
+> If your program maintains an existing **stakeholder registry**, the stakeholder section is where this data can be mapped to. This helps you to keep track of your stakeholder status and maintain work history log in case of staff transition, this section can help provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
 

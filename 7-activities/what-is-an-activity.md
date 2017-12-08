@@ -37,16 +37,16 @@ Key activity progress information is required to report program success. Here ar
 
 * Documents key components of a project providing traceability of evidence
 
-#### **Example of workplan or a work breakdown structure**
+#### Example of workplan or a work breakdown structure
 
-###### **Graphical view**
+###### Graphical view
 
 **  
 **
 
 ![](https://lh3.googleusercontent.com/gdtmFTTUX44PUKHPZ-BwEbQJirHu2g2gxq3FvRuUgDAxgWj1T3MPpRyAxsbbSoQAd-_RfL6duX5VAO9IiiWjQfB8xdp3qKvSO-TzvZJW90c4L19ImKhrzxP7sZ5-BkFzs8x_uz_v)
 
-> ###### **List view**
+> ###### List view
 
 > River Delta WASH Project
 
@@ -74,7 +74,7 @@ Key activity progress information is required to report program success. Here ar
 
 >   2.1 etc.
 
-###### ** **Gantt View
+###### Gantt View
 
 ![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA)
 

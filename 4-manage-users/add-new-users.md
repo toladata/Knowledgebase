@@ -3,7 +3,7 @@
 ---
 
 <!-- #Leave out login details. Details will only be share directly with clients.
-## Login to TolaData
+#### Login to TolaData
 
 With the [**TolaData login**](https://activity.toladata.io) users can sign up to access the TolaData platform.
 ![](/assets/Screen Shot 2017-11-21 at 4.48.11 PM.png)
@@ -20,14 +20,14 @@ There are a few ways a user can sign on:
 
 -->
 
-## Add User to a Program
+#### Add User to a Program
 Once they've signed up, select the program you want to add them to and go the teams section. Once there, click on `Add Existing Team Member` to add relevant team member from the dropdown menu.
 
 ![](https://lh4.googleusercontent.com/qryhqZw6whKEaLQuQAJniPPXBfEh7GhuVNiWuJJhUw01VMPc-J2aQBZ67NiTTyY7RtScEhd1HOmxPBxi27bEW-DosZVi1IbHo8bzbI3eECOlPjSmXhlPWyPCTHk64QrnxzpO_5SW)
 
-## Configuring Team
+#### Configuring Team
 
-## Change Team Roles
+#### Change Team Roles
 
 It's easy to assign different permission levels to each member of your team. You must be designated as a `Program Admin` in order to change Team Member roles.
 
@@ -54,7 +54,7 @@ There are three types of user roles in the system:
 | View Reports | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
 | Delete Program, Results Framework, Indicator | ![](/assets/fa-check.png) |  |  |
 
-**Setting team member permissions** (Program Admin Only)
+#### Setting team member permissions (Program Admin Only)
 
 Once a team member has logged in to the system, the team member needs to be added to the program with the following steps:
 

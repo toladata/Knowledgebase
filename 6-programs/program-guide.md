@@ -2,7 +2,7 @@
 
 ---
 
-#### **TolaData basics**
+#### TolaData basics
 
 Before you start with TolaData here are some key terms that will help you navigate better through the TolaData platform.
 
@@ -38,7 +38,7 @@ From here you will prompted to the `Program Guide` to help you start adding info
 
 * Any `data collection forms` you would be using for tracking your indicators
 
-> **Tip:** 
+> **Quick Tip:** 
 Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
 
 ![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)

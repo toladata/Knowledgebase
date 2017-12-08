@@ -21,7 +21,8 @@ To add objectives:
 
 Under the `Programs` tab..
 
-> **Tip:** As part of the program setup it is helpful to add objectives in the system early on. Objectives can typically be found in your program proposal or your Logframe.
+> **Quick Tip:** 
+As part of the program setup it is helpful to add objectives in the system early on. Objectives can typically be found in your program proposal or your Logframe.
 
 ![](https://lh4.googleusercontent.com/H2nEAyk9U8RAQQ9VA-7rt8nEGfSw0JkRF_iuuwdTgyR0sih3TYe2yu9L6itUxOILAMXdptWvPfuHDsTMyHgjs19enbSpO9z-g1FEuX3FuNqWaka0bEu3lH7qqo_yT0p0846xofJ6)
 
