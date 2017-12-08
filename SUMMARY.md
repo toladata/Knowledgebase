@@ -26,12 +26,13 @@
 ## Programs
 
 * [Program Guide](6-programs/program-guide.md)
-* [Milestones](6-programs/milestones.md)
-* [Sites](6-programs/program-modules.md)
-* [Objectives](6-programs/objectives.md)
-* [Stakeholder](6-programs/stakeholder.md)
-* [Team](6-programs/team.md)
-* [Sector](6-programs/sector.md)
+* Program Modules
+  * [Sites](6-programs/program-modules.md)
+  * [Milestones](6-programs/milestones.md)
+  * [Objectives](6-programs/objectives.md)
+  * [Stakeholder](6-programs/stakeholder.md)
+  * [Team](6-programs/team.md)
+  * [Sector](6-programs/sector.md)
 
 ## Activities
 
@@ -39,13 +40,12 @@
 * [Add Activities](7-activities/add-activity.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
 * [Activity Modules](7-activities/activity-modules.md)
-  * approval 1
-* [Approval](7-activities/approval.md)
-* [Budget](7-activities/budget.md)
-* [Stakeholders](7-activities/stakeholders.md)
-* [Documents](7-activities/documents.md)
-* [Sites](7-activities/sites.md)
-* [Indicators](7-activities/indicators.md)
+  * [Approval](7-activities/approval.md)
+  * [Budget](7-activities/budget.md)
+  * [Stakeholders](7-activities/stakeholders.md)
+  * [Documents](7-activities/documents.md)
+  * [Sites](7-activities/sites.md)
+  * [Indicators](7-activities/indicators.md)
 
 ## Indicators
 
