@@ -2,7 +2,7 @@
 
 ---
 
-Let's face it we all have great ideas, but sometimes there are so many great ideas, we need more than one person to input on it. That's why we ask you to discuss your ideas and vote!
+Let's face it we all have great ideas, but sometimes there are so many great ideas, we need more than one person to provide input on it. That's why we ask you to discuss your ideas and vote!
 
 Here's how to share your requests or as we call it 'add a ticket':
 
@@ -10,7 +10,7 @@ Here's how to share your requests or as we call it 'add a ticket':
 
 ### **What is a Ticket?**
 
-A ticket could be a report on a specific issue or a problem you are having using the software,  or it could be you have a request for an enhancement to the software. All the tickets are are reviewed, tagged, and prioritized by the TolaData team.
+A ticket could be a report on a specific issue or a problem you are having using the software, or it could be you have a request for an enhancement to the software. All the tickets are reviewed, tagged, and prioritized by the TolaData team.
 
 ### **How best to enter a ticket**
 
