@@ -2,8 +2,8 @@
 
 ---
 
-**What is a team?**
+#### What is a team?
 
-**Building a team**
+#### Building a team
 
 

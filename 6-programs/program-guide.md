@@ -24,7 +24,7 @@ Here's an example of how `programs`, `projects` and `activities` can be broken d
 ![](https://lh3.googleusercontent.com/gpnk58Fq-G489g-KY7g8XNg3ZCu8Mlb8H6BLsiL8-YdseUoHBo10cBC-cQdomYDn2YrfNS8Frf5s9mHaDusj99U43jx6tpsgIoBjMkfOnMQ7y7i0L5z2jY8ST1ZldmhG88ArhdP0)
  
 
-**Adding a new program**
+#### Adding a new program
 
 To add a new program for your team or organization, go to the `Programs` tab and click `Add New Program`. Start by adding your `Program Name`, `Start date`, and `End date`. Click `Submit` and you're all set!
 
@@ -38,6 +38,7 @@ From here you will prompted to the `Program Guide` to help you start adding info
 
 * Any `data collection forms` you would be using for tracking your indicators
 
-> **Tip:** Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
+> **Tip:** 
+Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
 
 ![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)

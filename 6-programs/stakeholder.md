@@ -2,11 +2,11 @@
 
 ---
 
-**Who is a stakeholder?**
+#### Who is a stakeholder?
 
 A stakeholder defines who the program is working with. Stakeholders are people or organizations whether in the public, private or civil sector, whose interests may be positively or negatively affected by a Project Team's decisions, actions, and ensuing results. Examples of stakeholders can be local government offices, institutes, local NGOs, private sector partners etc.
 
-**Why capture stakeholder information?**
+#### Why capture stakeholder information?
 
 * It is a minimum standard and best practice per Program management for development professionals \(PMDPro\) for each program to maintain a Stakeholder Register
 
@@ -14,7 +14,7 @@ A stakeholder defines who the program is working with. Stakeholders are people o
 
 * Documents your work with a stakeholder over time
 
-**Adding Stakeholders**
+#### Adding Stakeholders
 
 TolaData provides the option to capture the following information on relevant program stakeholders:
 

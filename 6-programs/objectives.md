@@ -2,15 +2,15 @@
 
 ---
 
-**What is an objective?**
+#### What is an objective?
 
 Objectives are specific circumstances to be achieved within a stated time frame that meet a particular goal. Unlike goals, objectives must be measurable to determine progress.
 
-**Why is it important?**
+#### Why is it important?
 
 Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that meaningful impact is achieved that the program intended to accomplish.
 
-**Adding objectives**
+#### Adding objectives
 
 To add objectives:
 

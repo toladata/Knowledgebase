@@ -2,15 +2,15 @@
 
 ---
 
-**What is a sector?**
+#### What is a sector?
 
 A sector is a specific thematic area that a program is being implemented in. Common examples of sectors in the development and humanitarian field are agriculture, healthcare, food security, economic development, and emergency response.
 
-**Why capture sector data?**
+#### Why capture sector data?
 
 Linking a program to one or many sectors are a great way of classifying your data. As you select or tag a sector to your program you can easily use this as a filter to run different analyses and generate reports.
 
-**Adding sectors**
+#### Adding sectors
 
 To add sectors:
 
@@ -20,6 +20,7 @@ To add sectors:
 4. Once your `Primary Sector` is selected, you can select `Secondary Sectors` to better define what your program does.
 5. You can repeat these steps to add multiple `Primary Sectors` and `Secondary Sectors`.
 
-> **Tip:** Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization. The system will begin to suggest relevant sectors and hopefully this will speed up the process! :bowtie:
+> **Tip:** 
+Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization. The system will begin to suggest relevant sectors and hopefully this will speed up the process! :bowtie:
 
 ![](https://lh6.googleusercontent.com/kQqDewbVqBwlWS-ZOjYqvJo4dHzKdSI336F66uOB--4WRJqkl3a5WNVGy_arjzQ6NsvUzZh_wwjze2LEWA6dQjt8gnUTN_ChTeLja9a7iyLdeL_6_nrEwUwhke_dLnCg_LCVez22)

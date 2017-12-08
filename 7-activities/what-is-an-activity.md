@@ -1,6 +1,7 @@
-# What is an Activity?
+# Activity Guide
 
 ---
+#### What is an Activity?
 
 This section is focused on capturing all the activities to be completed under your program. This is similar to your program workplan sometimes referred to as the 'Work breakdown structure \(WBS\)' or 'Detailed implementation plan'.
 
@@ -12,7 +13,7 @@ A great place for you to start will be looking at your program workplan to break
 
 ![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
 
-### **Key information captured in this section**
+#### Key information captured in this section
 
 * Estimated activity timeline: start and end date
 
@@ -26,7 +27,7 @@ A great place for you to start will be looking at your program workplan to break
 
 * Risks and issues
 
-### Why capture activity related information?
+#### Why capture activity related information?
 
 Key activity progress information is required to report program success. Here are some reasons why activity progress data can be helpful:
 
@@ -36,16 +37,16 @@ Key activity progress information is required to report program success. Here ar
 
 * Documents key components of a project providing traceability of evidence
 
-### **Example of workplan or a work breakdown structure**
+#### **Example of workplan or a work breakdown structure**
 
-#### **Graphical view**
+###### **Graphical view**
 
 **  
 **
 
 ![](https://lh3.googleusercontent.com/gdtmFTTUX44PUKHPZ-BwEbQJirHu2g2gxq3FvRuUgDAxgWj1T3MPpRyAxsbbSoQAd-_RfL6duX5VAO9IiiWjQfB8xdp3qKvSO-TzvZJW90c4L19ImKhrzxP7sZ5-BkFzs8x_uz_v)
 
-> #### **List view**
+> ###### **List view**
 
 > River Delta WASH Project
 
@@ -73,7 +74,7 @@ Key activity progress information is required to report program success. Here ar
 
 >   2.1 etc.
 
-#### ** **Gantt View
+###### ** **Gantt View
 
 ![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA)
 

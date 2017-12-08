@@ -26,18 +26,16 @@
 ## Programs
 
 * [Program Guide](6-programs/program-guide.md)
-* [What is a Program?](6-programs/program-guide/what-is-a-program.md)
 * [Milestones](6-programs/milestones.md)
 * [Sites](6-programs/program-modules.md)
 * [Objectives](6-programs/objectives.md)
 * [Stakeholder](6-programs/stakeholder.md)
 * [Team](6-programs/team.md)
 * [Sector](6-programs/sector.md)
-* Program Modules
 
 ## Activities
 
-* [What is an Activity?](7-activities/what-is-an-activity.md)
+* [Activity Guide](7-activities/what-is-an-activity.md)
 * [Add Activities](7-activities/add-activity.md)
 * [Activity Modules](7-activities/activity-modules.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
