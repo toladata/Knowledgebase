@@ -72,6 +72,7 @@
 ## Learning TolaData
 
 * [Train Team Members](12-learn-toladata/train-team.md)
+* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 
 ## Form Guide
 
