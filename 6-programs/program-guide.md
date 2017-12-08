@@ -10,7 +10,8 @@ Before you start with TolaData here are some key terms that will help you naviga
 
 > Source: [PMDPro Guide, PM4NGOs](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
 
-To create a country or portfolio level please contact us directly at [support@toladata.com](mailto:support@toladata.com) for us to setup your own country or portfolio instance.
+#### Have a Portfolio or Country of Programs?
+To create a country or portfolio level please contact us directly at: [support@toladata.com](mailto:support@toladata.com) for us to setup your own portfolio or country instance.
 
 #### What is a Program?
 
@@ -21,9 +22,7 @@ Most program details can be found in program proposals and concept notes develop
 Here's an example of how `programs`, `projects` and `activities` can be broken down:
 
 ![](https://lh3.googleusercontent.com/gpnk58Fq-G489g-KY7g8XNg3ZCu8Mlb8H6BLsiL8-YdseUoHBo10cBC-cQdomYDn2YrfNS8Frf5s9mHaDusj99U43jx6tpsgIoBjMkfOnMQ7y7i0L5z2jY8ST1ZldmhG88ArhdP0)
-
-**      
-**
+ 
 
 **Adding a new program**
 
