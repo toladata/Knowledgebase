@@ -36,7 +36,7 @@ An example of a **good ticket** is:
 >
 > I have pasted below the error message and the page URL where I found the error."
 
-With that amount of detail in a ticket, we are able to start working on a solution right away.
+With that amount of detail in a ticket, we are able to start working on a solution right away. You can also attach a screenshot of the page you seeing error in.
 
 To help when entering a Feature Request or Enhancement, focus on the business problem and priority of the request,  not the solution, so our developers can focus on the correct path, to add the requested features.
 
