@@ -14,7 +14,8 @@
         "gtm",
         "richquotes",
         "-sidebar-ad",
-        "-edit-links"
+        "-edit-links",
+        "anchors"
         ],    
     "pluginsConfig":{
            "richquotes": {
