@@ -37,8 +37,9 @@
 
 * [Activity Guide](7-activities/what-is-an-activity.md)
 * [Add Activities](7-activities/add-activity.md)
-* [Activity Modules](7-activities/activity-modules.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
+* [Activity Modules](7-activities/activity-modules.md)
+  * approval 1
 * [Approval](7-activities/approval.md)
 * [Budget](7-activities/budget.md)
 * [Stakeholders](7-activities/stakeholders.md)
