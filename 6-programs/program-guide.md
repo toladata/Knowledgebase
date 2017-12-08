@@ -142,8 +142,10 @@ To add stakeholders:
 > If your program maintains an existing stakeholder registry, the stakeholder section is where this data can be mapped to. This helps you to keep track of your stakeholder status and maintain work history log in case of staff transition, this section can help provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
 
 ### Team
+**What is a team?**
 
-[](/4-manage-users/change-user-role.md)
+**Building a team**
+
 
 **
 ### Sectors

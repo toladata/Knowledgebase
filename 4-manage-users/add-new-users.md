@@ -25,9 +25,9 @@ Once they've signed up, select the program you want to add them to and go the te
 
 ![](https://lh4.googleusercontent.com/qryhqZw6whKEaLQuQAJniPPXBfEh7GhuVNiWuJJhUw01VMPc-J2aQBZ67NiTTyY7RtScEhd1HOmxPBxi27bEW-DosZVi1IbHo8bzbI3eECOlPjSmXhlPWyPCTHk64QrnxzpO_5SW)
 
+## Configuring Team
 
-
-## Change User Roles
+## Change Team Roles
 
 It's easy to assign different permission levels to each member of your team. You must be designated as a `Program Admin` in order to change Team Member roles.
 
