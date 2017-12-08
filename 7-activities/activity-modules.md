@@ -2,7 +2,7 @@
 
 ---
 
-In TolaData users can add different modules to each of their projects or activities created.
+In TolaData users can add different modules to each activity or project created.
 
 ## Details
 
