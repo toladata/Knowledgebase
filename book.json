@@ -20,7 +20,7 @@
         ],    
     "pluginsConfig":{
            "layout": {
-                "headerPath" : "layouts/header.html"
+                "headerPath" : "_layouts/header.html"
            },
            "richquotes": {
                 "default": false
