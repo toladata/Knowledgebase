@@ -2,7 +2,7 @@
 
 ---
 
-Setting up your TolaData instance in super easy! Let us walk you through it.
+Setting up your TolaData instance is super easy! Let us walk you through it.
 
 **Create your program**
 
@@ -26,7 +26,7 @@ Below you can see how it's done:
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
-> **Quick Tip:**
+> **Quick Tip:**  
 > Configure your platform to make it more relevant to your program! Here is a detailed article on configuration:
 >
 > [https://help.toladata.com/4-manage-users/configuration.html](https://help.toladata.com/4-manage-users/configuration.html)
