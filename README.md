@@ -15,13 +15,14 @@ Here's is a quick introduction of the platform:
 ### Core Products
 **Activity** is TolaData’s project management toolkit, comprises a collection of data forms, reports and visualizations designed to track results of your programs and projects.
 
-#### ![](/assets/Activity_Logo.jpg) **Standardization alongside adaptability** 
+#### ![](/assets/Activity_Logo.jpg) Standardization alongside adaptability 
 A standard set of forms to capture the full data lifecycle of a program, integrating tools like logframe and work-breakdown structures. Each stage of a project is tracked on Activity dashboards, allowing managers and staff to see progress at a glance. Primary forms are supplemented by flexible monitoring forms like training attendance or beneficiary registration.|
 
-#### ![](/assets/Activity_Logo.jpg) **Transparency through traceable results**
-The Indicator tracking tool creates indicators at activity, output, outcome, and goal level for each program. 
-Progress against each indicator is documented through data sets from digital data collection tools or a consolidator like Track. 
-Ability to trace evidence-base, view targets vs. actuals, and analyse cost benefit / value for money.
+#### ![](/assets/Activity_Logo.jpg) Transparency through traceable results
+The Indicator tracking tool creates indicators at activity, output, outcome, and goal level for each program. Progress against each indicator is documented through data sets from digital data collection tools or a consolidator like Track. Ability to trace evidence-base, view targets vs. actuals, and analyse cost benefit / value for money.
+
+#### ![](/assets/Activity_Logo.jpg) Modular approach to management
+Each program activity can be linked to a multitude of connecting modules including budget management, procurement, staffing, stakeholders, and geo locations. This allows for data linking and reporting across different regions, programs, and activities.
 
 
 | |  | 
