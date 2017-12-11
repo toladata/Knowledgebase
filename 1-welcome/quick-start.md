@@ -28,9 +28,9 @@ Please note that you can always go back to the specific sections to add or edit 
 
 > **Tips for power users:**
 >
-> Configure your platform to make it more relevant for your program! Here are the detailed articles on configuration:
+> Configure your platform to make it more relevant to your program! Here is a detailed article on configuration:
 >
-> [https://help.toladata.com/3-configuration/admin-console.html](https://help.toladata.com/3-configuration/admin-console.html)
+> [https://help.toladata.com/4-manage-users/configuration.html](https://help.toladata.com/4-manage-users/configuration.html)
 
 
 
