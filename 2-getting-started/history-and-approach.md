@@ -2,7 +2,7 @@
 
 TolaData’s approach utilizes the power of cloud-based technologies to improve program monitoring efforts. This means our platform allows you to sync data seamlessly regardless of your internet connectivity status. Harnessing existing mobile technology provides a cost-effective alternative to traditional paper and pencil data collection methods, and by conducting surveys using tablets or even mobile phones, data collection times are reduced and beneficiary verification is improved.
 
-Once data has been collected, TolaData blends it with simple workflow tools and a centralized database to allow for customized reporting that can integrate with third party software with low maintenance costs.
+Once data has been collected, TolaData blends it with simple workflow tools and a centralized database to allow for customized reporting that can integrate with third-party software with low maintenance costs.
 
 | Feature Set | Description |
 | :--- | :--- |

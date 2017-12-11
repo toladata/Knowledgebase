@@ -30,7 +30,7 @@ A group of related projects managed in a coordinated way to obtain benefits and 
 
 #### Project
 
-A set of activities meeting agreed objectives in a specific period of time with an agreed set of resources.
+A set of activities meeting agreed on objectives in a specific period of time with an agreed set of resources.
 
 #### Results Framework
 
@@ -54,5 +54,5 @@ An open-source project and data management software.
 
 #### Unique Columns
 
-A Unique Column is any column in your TolaTables that does not have the same data in any of its rows; each row in the column is unique and does not repeat.  For example User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a Column called uu\_id which is a universal unique id. The uu-id column is a great column to assign as your Unique Column.  Assigning a Unique Column in Tola Tables will ensure that only new data is added to your Table when you turn on Auto-Pull or choose to manually Update a table in Tola Tables.
+A Unique Column is any column in your TolaTables that does not have the same data in any of its rows; each row in the column is unique and does not repeat.  For example, User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a Column called uu\_id which is a universal unique id. The uu-id column is a great column to assign as your Unique Column.  Assigning a Unique Column in Tola Tables will ensure that only new data is added to your Table when you turn on Auto-Pull or choose to manually Update a table in Tola Tables.
 
