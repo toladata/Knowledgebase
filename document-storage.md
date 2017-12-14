@@ -20,15 +20,17 @@ When one talks about uploading something in a „Cloud“ it implies that data i
 **Here a couple of services you could use:**
 
 > Which services you choose depends on the kinds of files you store, how much security you need, whether you plan to collaborate with other people, and which devices you use to edit and access your files. Additionally you should keep in mind that some services are very user-friendly, while others offer more advanced customisation for more experienced users.
->
-> |  | Google Drive | OneDrive | DropBox | Glide | iCloud |
-> | :--- | :--- | :--- | :--- | :--- | :--- |
-> | Free storage: | 15 GB | 5 GB | 2 GB | 30 GB | 5 GB |
-> | Upload possbile for fees? | yes | yes | inviting friends to DropBox -  free uploads \(up to 15 GB\) | yes | yes |
-> | Files accessible via web-browser and app? | yes | yes | yes | yes | yes |
-> | Internet connectivity needed to save files? | yes | yes | no | yes | yes |
-> | Area of Specialization: | Collaboration | Collaboration_ \(Microsoft Office 365 Included with 1 TB purchase\)_ | Compatibility with other services | - | Apple device users |
-> | Reviews: | [Google Drive Review](http://uk.pcmag.com/google-drive/15854/review/google-drive) | [OneDrive Review](http://uk.pcmag.com/microsoft-skydrive/1433/review/microsoft-onedrive) | [DropBox Review](http://uk.pcmag.com/dropbox/2590/review/dropbox) |  | [iCloud Review](http://uk.pcmag.com/apple-icloud-drive/40428/review/apple-icloud-drive) |
+
+
+
+|  | Google Drive | OneDrive | DropBox | Glide | iCloud |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Free storage: | 15 GB | 5 GB | 2 GB | 30 GB | 5 GB |
+| Upload possbile for fees? | yes | yes | inviting friends to DropBox -  free uploads \(up to 15 GB\) | yes | yes |
+| Files accessible via web-browser and app? | yes | yes | yes | yes | yes |
+| Internet connectivity needed to save files? | yes | yes | no | yes | yes |
+| Area of Specialization: | Collaboration | Collaboration_ \(Microsoft Office 365 Included with 1 TB purchase\)_ | Compatibility with other services | - | Apple device users |
+| Reviews: | [Google Drive Review](http://uk.pcmag.com/google-drive/15854/review/google-drive) | [OneDrive Review](http://uk.pcmag.com/microsoft-skydrive/1433/review/microsoft-onedrive) | [DropBox Review](http://uk.pcmag.com/dropbox/2590/review/dropbox) |  | [iCloud Review](http://uk.pcmag.com/apple-icloud-drive/40428/review/apple-icloud-drive) |
 
 Source and for more information go: [here](http://uk.pcmag.com/storage-devices-reviews/3682/guide/the-best-cloud-storage-and-file-sharing-services-of-2017)
 
