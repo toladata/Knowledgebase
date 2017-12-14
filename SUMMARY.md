@@ -87,4 +87,5 @@
 ## External Resources
 
 * [FAQ](faq.md)
+* [Document Storage](document-storage.md)
 
