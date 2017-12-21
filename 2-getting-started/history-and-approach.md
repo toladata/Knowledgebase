@@ -14,6 +14,8 @@ Once data has been collected, TolaData blends it with simple workflow tools and 
 | Transparent and flexible architecture | Adaptable to your needs with seamless integration to third-party systems. |
 | Built with :heart: | We apply the latest from the tech industry to human-centered design concepts. |
 
+
+
 &lt;!---
 
 # History
