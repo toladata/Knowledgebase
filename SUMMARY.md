@@ -87,5 +87,6 @@
 ## External Resources
 
 * [FAQ](faq.md)
+* [Making Your Dataset Analysis-Ready](making-your-dataset-analysis-ready.md)
 * [Document Storage](document-storage.md)
 
