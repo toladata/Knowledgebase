@@ -8,9 +8,7 @@ It can turn out as being very useful to the evaluator for e.g. when collecting d
 _**Additional requirements**_:  
 It is not enough to simply have the device - be it a phone, a tablet or a notebook - those devices require applications \(so called platforms\) to allow users to capture  monitoring and evaluation data.
 
-
-
-But before we go to the usage of the MDC devices and the platforms required, you should first of all figure out: 
+But before we go to the usage of the MDC devices and the platforms required, you should first of all figure out:
 
 _**Is** **MDC is appropriate for your project/s?**_
 
@@ -21,7 +19,7 @@ _Following are a couple of aspects you should keep in mind when considering usin
 * **Consider lifespan**: you would like to invest into devices that may hold for a longer amount of time. For that it is important for you to know if the devices you purchase will be useful for further projects in the future.
 * **Security risks of sending data**: if send through a data network, the platform encryption will be secure. This is not forcefully the case when sending SMS.
 
-Here a couple of arguments in favor of using mobile devices for data gathering:
+_Here a couple of arguments in favor of using mobile devices for data gathering:_
 
 _**Advantages:**_
 
@@ -30,7 +28,7 @@ _**Advantages:**_
 | **Easier to manage the data collection process** through real time submissions |
 | **Reduces costs** associated with: printing, form transportation, cleansing tasks |
 | **Reduces labour** by: cutting the double entry of data by having to digitalize the data captured by pen on paper in the field |
-| **Easier to enter and aggregate data**  |
+| **Easier to enter and aggregate data** |
 | **Easier to carry out** subsequent **data reviews** and **cleansing tasks** |
 
 Some examples:
