@@ -4,6 +4,7 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [Mobile Data Collection ](mobile-data-collection.md)
 
 ## Getting Started
 
