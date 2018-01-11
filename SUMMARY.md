@@ -87,6 +87,7 @@
 ## External Resources
 
 * [Making your dataset "analysis-ready"](making-your-dataset-analysis-ready.md)
+* [Document Storage](document-storage.md)
 * [Mobile Data Collection ](mobile-data-collection.md)
 * [FAQ](faq.md)
 
