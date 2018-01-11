@@ -2,11 +2,9 @@
 
 ---
 
-At its core, TolaData supports teams in Monitoring and Evaluation \(M&E\) and Program Management \(PM\) by establishing practices and processes that promote improved data quality.
+At its core, TolaData supports teams in Monitoring and Evaluation \(M&E\) and Program Management \(PM\) by establishing practices and processes that promote improved data quality.                                                                                                                 One of the key success factors to adopting TolaData is investing in the preparation prior to going live with the system. Below, we provide guidance on M&E and program management practices that can help you prepare.
 
-One of the key success factors to adopting TolaData is investing in the preparation prior to going live with the system. Below, we provide guidance on M&E and program management practices that can help you prepare.
 
----
 
 This guidance is broken up into **three tiers**: minimum requirements, best practices, and self-assessment.
 
