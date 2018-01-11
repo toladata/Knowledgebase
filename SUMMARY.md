@@ -5,6 +5,7 @@
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
 * [Elena](elena.md)
+* [Making Your Dataset Analysis-Ready](making-your-dataset-analysis-ready.md)
 
 ## Getting Started
 
