@@ -2,24 +2,23 @@
 
 ---
 
-Mobile Data Collection or MDC, is the use of mobile devices from low-end mobile phones to notebooks, to simplify the collection of data in the field.  
-It can turn out as being very useful to the evaluator for e.g. when collecting data or abstracting data for an evaluation.
+Digital Data Collection, is the use of electronic devices from low-end mobile phones to notebooks, to simplify the collection of data in the field. It can turn out as being very useful to the M&E specialist or program manager when collecting and organizing data for an evaluation.
 
 _**Additional requirements**_:  
-It is not enough to simply have the device - be it a phone, a tablet or a notebook - those devices require applications \(so called platforms\) to allow users to capture  monitoring and evaluation data.
+It is not enough to simply have the device - be it a phone, a tablet or a notebook - those devices require applications to allow users to capture data.
 
-But before we go to the usage of the MDC devices and the platforms required, you should first of all figure out:
+But before we go to the usage of the mobile devices and the applications required, you should first of all figure out:
 
-_**Is** **MDC is appropriate for your project/s?**_
+_**Is** **Digital Data Collection is appropriate for your project(s)?**_
 
-_Following are a couple of aspects you should keep in mind when considering using Mobile Data Collection:_
+_Following are a couple of aspects you should keep in mind when considering using digital data collection:_
 
-* **Data needs**: MDC is good for quantitative data collection and less for qualitative data such as long texts
+* **Data needs**: Digital data collection is good for quantitative data collection and less for qualitative data such as long texts from interviews or focus groups.
 * **Connectivity**: Network coverage may not be important when collecting the data but it is when it comes to transmitting the data to a central database. 
-* **Consider lifespan**: you would like to invest into devices that may hold for a longer amount of time. For that it is important for you to know if the devices you purchase will be useful for further projects in the future.
-* **Security risks of sending data**: if send through a data network, the platform encryption will be secure. This is not forcefully the case when sending SMS.
+* **Consider device quality**: Do your research about which devices are compatible with your data collection applications before you invest. Therefore it is important for you think if the devices you purchase can be useful for projects in the future.
+* **Data protection and security**: Be aware of the data you are collecting (for example, personally identifiable information) and take extra precautions by password protecting and actively keep permission settings up to date.
 
-_Here a couple of arguments in favor of using mobile devices for data gathering:_
+_Here a couple of arguments in favor of using digital devices for data collection:_
 
 _**Advantages:**_
 
