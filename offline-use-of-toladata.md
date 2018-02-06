@@ -2,11 +2,11 @@
 
 ---
 
-Oftentimes you will be using [**TolaData**](https://www.gitbook.com/book/toladata/knowledgebase/edit#) in remote areas with limited access to internet. We have made sure that you do not lose any data on the way!
+Oftentimes you will be using [**TolaData**](https://www.toladata.com/) in remote areas with limited access to internet. We have made sure that you do not lose any data on the way!
 
 ### How does TolaData work offline?
 
-[**TolaData**](http://toladata.com/) uses your browser cache to temporarily store your data. When offline, all the data you input gets queued and once you're back online, they get synced and uploaded to the system. And that's it.
+[**TolaData**](https://www.toladata.com/) uses your browser cache to temporarily store your data. When offline, all the data you input gets queued and once you're back online, they get synced and uploaded to the system. And that's it.
 
 ![](/assets/offline4.gif)
 

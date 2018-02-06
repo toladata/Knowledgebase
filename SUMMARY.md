@@ -4,7 +4,7 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Offline use of TolaData](offline-use-of-toladata.md)
+* [Using TolaData offline](offline-use-of-toladata.md)
 
 ## Getting Started
 
