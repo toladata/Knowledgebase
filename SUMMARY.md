@@ -4,7 +4,6 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Using TolaData offline](offline-use-of-toladata.md)
 
 ## Getting Started
 
@@ -23,6 +22,7 @@
 
 * [Search](5-navigation/search.md)
 * [Filters](5-navigation/filters.md)
+* [Using TolaData offline](offline-use-of-toladata.md)
 
 ## Programs
 
@@ -88,6 +88,7 @@
 * [Unit 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
 * [Unit 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
+* [Release notes](12-learn-toladata/release-notes.md)
 
 ## Form Guide
 
