@@ -4,6 +4,7 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [Offline use of TolaData](offline-use-of-toladata.md)
 
 ## Getting Started
 
@@ -26,7 +27,7 @@
 ## Programs
 
 * [Program Guide](6-programs/program-guide.md)
-* Program Modules
+* [Program Modules](6-programs/program-modules.md)
   * [Sites](6-programs/program-modules.md)
   * [Milestones](6-programs/milestones.md)
   * [Objectives](6-programs/objectives.md)
