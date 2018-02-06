@@ -81,6 +81,12 @@
 ## Learning TolaData
 
 * [Train Team Members](12-learn-toladata/train-team.md)
+* [Unit 1 General Introduction to TolaData](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
+* [Unit 2 Getting Started with TolaData](12-learn-toladata/unit-2-getting-started-with-toladata.md)
+* [Unit 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
+* [Unit 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
+* [Unit 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
+* [Unit 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 
 ## Form Guide
