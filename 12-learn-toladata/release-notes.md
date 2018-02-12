@@ -10,22 +10,22 @@ NEW 🌟
 * `Form` can be created, saved, and linked to a `program/WF1`. Data can be submitted to the form and a corresponding table is created on Track to store form data.
 * `Indicators` list now has a KPI indicator tag for users to easily identify the key indicators.
 * TolaData billing integration v.05 in place. The system automatically creates an 'Organization' for the user to log in.
-* Testing server is setup to streamline front end testing.
+* Testing server is setup to streamline front-end testing.
 * A log of deleted tables in `Track` is setup in the back end. 
 * Demo server hides the social authorization login to allow users to register.
 
 IMPROVED 🤕
 * Registered users can now access `Track` without issue.
 * No more duplicate `Primary Sectors`!
-* In `admin console`, 'country' and 'status' column is hidden from user list.
+* In `admin console`, 'country' and 'status' column is hidden from the user list.
 * Importing new file on `Track` now takes the user directly to the table instead of showing 'new table' message.
 
 FIXED 🐛
 * `Indicators`: Disaggregations do not reload indicators page!
 * `Activities/WF2/3`: Modules are now not added back after they are removed.
-* `Sites`: Vertical scroll is working and user can see all Org sites.
+* `Sites`: Vertical scroll is working and the user can see all Org sites.
 * `Sites`: For each site default is set to Active instead of Inactive.
-* `Reports`: Indicator slider dates is showing correct dates when moved.
+* `Reports`: Indicator slider is showing correct dates when moved.
 * `WF2/3`, `Indicators`: Moving the items do not break the UI.
 
 #### What's new in Version 2.0
@@ -70,13 +70,13 @@ IMPROVED 🤕
 * Branding of `Forms` in the `Form Library` to match `Activity`
 
 FIXED 🐛
-* Users can switch between `Activity` and `Track` without having to login twice - API updates
+* Users can switch between `Activity` and `Track` without having to log in twice - API updates
 * Adding a New Team Member is now set to  `View Only`
 * `Admin console` shows user's email address
 * `Milestone` dates can be edited by moving the slider on the `Milestone` tab 
 * `Global Filter`: Cleaned up filter for just filter by `Program/WF1`
 * `Global Filter`: Selected WFL1 is not shown as selected in the filter 
-* `Global Filter`:Removing the last filter from filter bar clears filter
+* `Global Filter`: Removing the last filter from filter bar clears filter
 * `Track`: Data import from GoogleSheet is in place
 
 
