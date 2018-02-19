@@ -81,14 +81,33 @@
 ## Learning TolaData
 
 * [Train Team Members](12-learn-toladata/train-team.md)
-* [Unit 1 General Introduction to TolaData](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
-* [Unit 2 Getting Started with TolaData](12-learn-toladata/unit-2-getting-started-with-toladata.md)
-* [Unit 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
-* [Unit 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
-* [Unit 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
-* [Unit 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
+* [Software training best practices](12-learn-toladata/become-a-trainer.md)
+* [Lesson 1 General Introduction to TolaData](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
+  * [Project management and M&E in Organizations](12-learn-toladata/unit-1-general-introduction-to-toladata/project-management-and-mande-in-organizations.md)
+  * TolaData Demo
+  * [Needs Self-Assessment](12-learn-toladata/unit-1-general-introduction-to-toladata/needs-self-assessment.md)
+* [Lesson 2 Getting Started with TolaData](12-learn-toladata/unit-2-getting-started-with-toladata.md)
+  * System Login and User Permissions
+  * Log in to the System
+  * Search and Global Filters
+* [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
+  * Adding Program Overview Data
+  * Adding Detailed Program Data
+  * Adding Activities
+* [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
+  * Results Framework Setup
+  * Indicator Plan Design and Adding Indicators
+  * SMART Indicators
+  * Collect Data Against Indicators
+* [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
+  * Import Data to Track
+  * Preliminary Data Analysis in Track
+  * Linking Evidence from Track with Indicators in Activity
+* [Lesson 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
+  * Viewing Reports
+  * Creating Customized Dashboards
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Release notes](12-learn-toladata/release-notes.md)
+* Become a trainer
 
 ## Form Guide
 
