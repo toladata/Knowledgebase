@@ -2,7 +2,9 @@
 
 ---
 
-<!-- \#Leave out login details. Details will only be share directly with clients.
+<!-- 
+
+#Leave out login details. Details will only be share directly with clients.
 
 #### Login to TolaData
 
