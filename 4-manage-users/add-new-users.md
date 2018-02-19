@@ -2,7 +2,7 @@
 
 ---
 
-&lt;!-- \#Leave out login details. Details will only be share directly with clients.
+<!-- \#Leave out login details. Details will only be share directly with clients.
 
 #### Login to TolaData
 
@@ -20,7 +20,7 @@ There are a few ways a user can sign on:
 1. If you prefer not to use single sign-on via Office 365, we have the option for users to register a TolaData account by going to: [https://api.toladata.io/accounts/register/](https://api.toladata.io/accounts/register/)
 2. Fill out the registration form and under the `Org` field, enter the name of the organization that your user should be associated with and we'll ping the Org Administrator about it.
 
---&gt;
+-->
 
 #### Add User to a Program
 
