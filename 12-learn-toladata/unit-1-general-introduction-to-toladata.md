@@ -7,7 +7,6 @@ https://youtu.be/4PJ3P6oupHc
 
 ## Learning outcomes
 
-the basic M&E and project management concepts;
 ... and how they translate to your daily practice;
 a demo of TolaData. We learned how the system benefits to organizations in the fields of data collection, storage and analysis. We also saw how easy project management becomes with TolaData;
 how TolaData matches with your organization's needs and planned your way to address them.
