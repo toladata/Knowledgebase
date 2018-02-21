@@ -85,14 +85,14 @@
 * [Project management and M&E in Organizations](12-learn-toladata/unit-1-general-introduction-to-toladata/project-management-and-mande-in-organizations.md)
 * [TolaData Demo](12-learn-toladata/unit-1-general-introduction-to-toladata/toladata-demo.md)
 * [Needs Self-Assessment](12-learn-toladata/unit-1-general-introduction-to-toladata/needs-self-assessment.md)
-* [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
-  * System Login and User Permissions
-  * Log in to the System
-  * Search and Global Filters
 * [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
   * Adding Detailed Program Data
   * Adding Program Overview Data
   * Adding Activities
+* [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
+  * System Login and User Permissions
+  * Log in to the System
+  * Search and Global Filters
 * [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
   * Results Framework Setup
   * Indicator Plan Design and Adding Indicators
