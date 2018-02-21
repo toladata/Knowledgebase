@@ -9,7 +9,7 @@
 
 * [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
 * [Our Approach](2-getting-started/history-and-approach.md)
-* [Definitions](2-getting-started/definitions.md)
+* [Glossary](2-getting-started/definitions.md)
 
 ## Admin Console
 
@@ -105,8 +105,9 @@
 * [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
   * Viewing Reports
   * Creating Customized Dashboards
-* [Train Team Members: Step by Step](12-learn-toladata/train-team.md)
-* [Train Team Members: Best Practices](12-learn-toladata/become-a-trainer.md)
+* [Train your team](12-learn-toladata/train-your-team.md)
+  * [Three Easy Steps](12-learn-toladata/train-team.md)
+  * [Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 * [Glossary](12-learn-toladata/glossary.md)
 
