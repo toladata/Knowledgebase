@@ -1,4 +1,4 @@
-# **Train your team members**
+# **Train your team members step by step**
 
 ---
 
@@ -50,9 +50,9 @@ Send all your team members invitation to TolaData! Ask them to login to \[link t
 
 2. [YouTube screencasts](https://www.youtube.com/channel/UCala_GmlWtE7vpI_g51OgjQ)
 
-**          
+**            
 **
 
-**          
+**            
 **
 

@@ -78,15 +78,14 @@
 * [Update Data Real-time](update-data-real-time.md)
 * [Export Datasets](export-datasets.md)
 
-## Learning TolaData
+## Take a TolaData Course
 
-* [Train Team Members](12-learn-toladata/train-team.md)
-* [Software training best practices](12-learn-toladata/become-a-trainer.md)
-* [Lesson 1 General Introduction to TolaData](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
+* [About this course](12-learn-toladata/about-this-course.md)
+* [Lesson 1 Introduction](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
   * [Project management and M&E in Organizations](12-learn-toladata/unit-1-general-introduction-to-toladata/project-management-and-mande-in-organizations.md)
   * TolaData Demo
   * [Needs Self-Assessment](12-learn-toladata/unit-1-general-introduction-to-toladata/needs-self-assessment.md)
-* [Lesson 2 Getting Started with TolaData](12-learn-toladata/unit-2-getting-started-with-toladata.md)
+* [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * System Login and User Permissions
   * Log in to the System
   * Search and Global Filters
@@ -103,11 +102,13 @@
   * Import Data to Track
   * Preliminary Data Analysis in Track
   * Linking Evidence from Track with Indicators in Activity
-* [Lesson 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
+* [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
   * Viewing Reports
   * Creating Customized Dashboards
+* [Train Team Members: Step by Step](12-learn-toladata/train-team.md)
+* [Train Team Members: Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* Become a trainer
+* [Glossary](12-learn-toladata/glossary.md)
 
 ## Form Guide
 
