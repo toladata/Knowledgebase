@@ -30,7 +30,10 @@
                 "grid-columns": 3
            },
            "ga": {
-                "token": "UA-109670551-1"
+                "token": "UA-109670551-1" {
+                     "cookieName": "TDHelpCookie",
+                     "cookieDomain": "https://help.toladata.com"
+                 }    
            },
            "gtm": {
                 "token": "GTM-MZGX5NJ",
