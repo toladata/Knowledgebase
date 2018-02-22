@@ -11,6 +11,7 @@
         "advanced-emoji",
         "-sharing",
         "ga",
+        "3-ba",
         "-gtm",
         "richquotes",
         "-sidebar-ad",
@@ -35,6 +36,9 @@
                      "cookieName": "TDHelpCookie",
                      "cookieDomain": "https://help.toladata.com"
                  }    
+           },
+           "3-ba": {
+                "token": "UA-109670551-1"
            },
            "gtm": {
                 "token": "GTM-MZGX5NJ",
