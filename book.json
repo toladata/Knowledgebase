@@ -19,7 +19,8 @@
         "anchors",
         "header",
         "meta",
-        "quizzes"
+        "quizzes",
+        "exercises"
         ],    
     "pluginsConfig":{
            "layout": {
