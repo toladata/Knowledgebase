@@ -69,16 +69,16 @@ Here's a quiz about Gitbook
 
 |                  | Good | Bad |
 | ---------------- | ---- | --- |
-| What is Gitbook? | ( )  | ( ) |
+| What is Gitbook? | (x)  | ( ) |
 
 > Gitbook is good
 
 What does Gitbook support?
-- [ ] Table-based questions with radio buttons
+- [x] Table-based questions with radio buttons
 - [ ] Table-based questions with checkboxes
-- [ ] Telepathy
+- [x] Telepathy
 - [ ] List-based questions with checkboxes
-- [ ] List-based questions with radio buttons
+- [x] List-based questions with radio buttons
 - [ ] Moon-on-a-stick
 
 > Gitbook supports table and list based quiz questions using either radio buttons or checkboxes.
