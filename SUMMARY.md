@@ -77,7 +77,7 @@
 * [Update Data Real-time](update-data-real-time.md)
 * [Export Datasets](export-datasets.md)
 
-## Take a TolaData Course
+## Take TolaData Course
 
 * [About this course](12-learn-toladata/about-this-course.md)
 * [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
@@ -86,8 +86,9 @@
   * Needs Self-Assessment
 * [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
-  * Log in to the System
-  * Search and Global Filters
+  * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
+  * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
+  * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
 * [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
   * Adding Detailed Program Data
   * Adding Program Overview Data

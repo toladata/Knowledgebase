@@ -1,4 +1,4 @@
-# Lesson1Introduction
+# Lesson 1 Introduction
 
 ---
 
@@ -6,9 +6,15 @@
 
 [https://youtu.be/4PJ3P6oupHc](https://youtu.be/4PJ3P6oupHc)
 
+\[embedded video\]
+
+\[link to transcripts on GDrive\]
+
 ## Learning outcomes
 
-* ... and how they translate to your daily practice;
+In this lesson you will learn about:
+
+* PMD Pro methodology 
 * a demo of TolaData. We learned how the system benefits to organizations in the fields of data collection, storage and analysis. 
 * We also saw how easy project management becomes with TolaData
 * how TolaData matches with your organization's needs and planned your way to address them.
