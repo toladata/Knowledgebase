@@ -18,7 +18,8 @@
         "-edit-links",
         "anchors",
         "header",
-        "meta"
+        "meta",
+        "quizzes"
         ],    
     "pluginsConfig":{
            "layout": {
