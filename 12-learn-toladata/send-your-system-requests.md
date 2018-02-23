@@ -62,3 +62,27 @@ The TolaData team monitors the tickets daily. Problems, such as bugs in the soft
 
 We will be directly in touch with you with questions regarding your ticket. Requests for enhancements to the software require more feedback from other TolaData users before we can assign our software developers to the ticket.
 
+EXAMPLE QUIZ
+---
+
+Here's a quiz about Gitbook
+
+|                  | Good | Bad |
+| ---------------- | ---- | --- |
+| What is Gitbook? | ( )  | ( ) |
+
+> Gitbook is good
+
+What does Gitbook support?
+- [ ] Table-based questions with radio buttons
+- [ ] Table-based questions with checkboxes
+- [ ] Telepathy
+- [ ] List-based questions with checkboxes
+- [ ] List-based questions with radio buttons
+- [ ] Moon-on-a-stick
+
+> Gitbook supports table and list based quiz questions using either radio buttons or checkboxes.
+>
+> Gitbook is not telepathic and does not give you the moon on a stick.
+
+---
