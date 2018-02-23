@@ -110,12 +110,6 @@
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 * [Glossary](12-learn-toladata/glossary.md)
 
-## Take a TolaData Course
-
-* About this course
-* Lesson 1 Introduction
-  * Project management and M&E in organizations
-
 ## Form Guide
 
 ## External Resources
