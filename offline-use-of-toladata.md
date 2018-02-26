@@ -2,7 +2,7 @@
 
 ---
 
-Oftentimes you will be using [**TolaData**](https://www.toladata.com/) in remote areas with limited access to internet. We have made sure that you do not lose any data on the way!
+Oftentimes you will be using [**TolaData**](https://www.toladata.com/) in remote areas with limited access to internet. We have made sure that you do not lose any data on the way! 
 
 ### How does TolaData work offline?
 

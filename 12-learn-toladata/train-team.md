@@ -1,4 +1,4 @@
-# **Train your team members**
+# **Train your team members step by step**
 
 ---
 
@@ -12,7 +12,7 @@ Let us take you through it.
 
 Benefits of using TolaData:
 
-* \_End-to-end solution for your program management process.\_You don't have to worry about using different tools to manage all your program and monitoring and evaluation \(M&E\) data. TolaData provides an end-to-end solution for your entire program life cycle and manage the workflow process.
+* End-to-end solution for your program management process. You don't have to worry about using different tools to manage all your program and monitoring and evaluation \(M&E\) data. TolaData provides an end-to-end solution for your entire program life cycle and manage the workflow process.
 
 * _Traceability and accessibility of program data._ Remember how every time you have to report to donors or senior management you have struggle to look for program progress data? Now all your program data are neatly aligned with measurable indicators and progress tracking indicator results is just click away! Your survey and monitoring data are also traceable directly to your indicator results.
 
@@ -42,17 +42,9 @@ Setup calls, schedule meetings, or demos with your demo. Or you can even out to 
 
 ## Invite team members to TolaData
 
-Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)
-
-## Additional resources
-
-1. Get more formal training at your own pace on our [e-learning training site](https://toladata.edunext.io/)
-
-2. [YouTube screencasts](https://www.youtube.com/channel/UCala_GmlWtE7vpI_g51OgjQ)
-
-**          
+Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**               
 **
 
-**          
+**                
 **
 
