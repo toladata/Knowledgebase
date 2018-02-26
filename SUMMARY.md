@@ -9,7 +9,7 @@
 
 * [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
 * [Our Approach](2-getting-started/history-and-approach.md)
-* [Definitions](2-getting-started/definitions.md)
+* [Glossary](12-learn-toladata/glossary.md)
 
 ## Admin Console
 
@@ -78,17 +78,38 @@
 * [Update Data Real-time](update-data-real-time.md)
 * [Export Datasets](export-datasets.md)
 
-## Learning TolaData
+## Take a course on TolaData
 
-* [Train Team Members](12-learn-toladata/train-team.md)
-* [Unit 1 General Introduction to TolaData](12-learn-toladata/unit-1-general-introduction-to-toladata.md)
-* [Unit 2 Getting Started with TolaData](12-learn-toladata/unit-2-getting-started-with-toladata.md)
-* [Unit 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
-* [Unit 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
-* [Unit 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
-* [Unit 7 Creating Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
+* [About this course](12-learn-toladata/about-this-course.md)
+* [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
+  * [Project management and M&E in Organizations](12-learn-toladata/lesson-1-test/project-management-and-mande-in-organizations.md)
+  * TolaData Demo
+  * Needs Self-Assessment
+* [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
+  * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
+  * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
+  * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
+  * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
+* [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
+  * Adding Detailed Program Data
+  * Adding Program Overview Data
+  * Adding Activities
+* [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
+  * Results Framework Setup
+  * Indicator Plan Design and Adding Indicators
+  * SMART Indicators
+  * Collect Data Against Indicators
+* [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
+  * Import Data to Track
+  * Preliminary Data Analysis in Track
+  * Linking Evidence from Track with Indicators in Activity
+* [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
+  * Viewing Reports
+  * Creating Customized Dashboards
+* [Train your team](12-learn-toladata/train-your-team.md)
+  * [Three Easy Steps](12-learn-toladata/train-team.md)
+  * [Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Release notes](12-learn-toladata/release-notes.md)
 
 ## Form Guide
 
