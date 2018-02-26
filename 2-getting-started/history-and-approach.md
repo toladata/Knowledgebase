@@ -15,8 +15,8 @@ Once data has been collected, TolaData blends it with simple workflow tools and 
 | Built with :heart: | We apply the latest from the tech industry to human-centered design concepts. |
 
 
-
-# History
+<!--
+# History - revise before publishing
 
 ---
 
@@ -31,5 +31,5 @@ TolaData started its journey a few years back but there were some key events tha
 | Remote monitoring | We began introducing mobile data collection for all survey data across the country office to take advantage of near real-time data for remote monitoring and creation of interactive dashboards and customized reports for our donors and key stakeholders. As this stage, we were able to demonstrate the end-to-end solution of the data lifecycle. |
 | Introducing TolaData | By 2016, TolaData was rolled out across the country office and began to scale to other countries in the Middle East region. Later that year, it was adopted as the agency-level program management and M&E system. |
 
-
+-->
 
