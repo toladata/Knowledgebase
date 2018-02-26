@@ -4,7 +4,7 @@
 /* Header */
 [role="navigation"] > ul.summary > li:first-child > a{
     text-indent: -9999em;
-    background-image: url(http://toladata.com/wp-content/uploads/2017/10/logo-full.svg);
+    background-image: url(https://toladata.com/wp-content/uploads/2017/10/logo-full.svg);
     background-repeat: no-repeat;
     background-size: 140px;
     background-position: 9px 5px;
@@ -18,7 +18,7 @@
 @font-face {
     font-family:"scandia";
     font-weight:600;
-    src:url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.eot?) format("eot"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.woff) format("woff"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.ttf) format("truetype"),url(http://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.svg#scandia) format("svg")
+    src:url(https://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.eot?) format("eot"),url(https://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.woff) format("woff"),url(https://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.ttf) format("truetype"),url(https://toladata.com/wp-content/themes/astra-child/assets/fonts/Scandia-Bold.svg#scandia) format("svg")
 }
 
 /* stylize footer */
