@@ -9,7 +9,7 @@
 
 * [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
 * [Our Approach](2-getting-started/history-and-approach.md)
-* [Glossary](12-learn-toladata/glossary.md)
+* [Glossary](2-getting-started/glossary.md)
 
 ## Admin Console
 
