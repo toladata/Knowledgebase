@@ -8,19 +8,7 @@ Let's face it we all have great ideas, but sometimes there are so many great ide
 
 Whenever you find something unclear or simply feel like sharing your thoughts, use inline comment to express yourself! This is how to do it:
 
-
-
-
-
-
-
 \[insert screencast when inline comments are enabled\]
-
-
-
-
-
-
 
 ### Feedback on the TolaData application
 

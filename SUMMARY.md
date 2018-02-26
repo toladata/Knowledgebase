@@ -78,7 +78,7 @@
 * [Update Data Real-time](update-data-real-time.md)
 * [Export Datasets](export-datasets.md)
 
-## Take TolaData Course
+## Take a course on TolaData
 
 * [About this course](12-learn-toladata/about-this-course.md)
 * [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
