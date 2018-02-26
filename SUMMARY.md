@@ -9,6 +9,7 @@
 
 * [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
 * [Our Approach](2-getting-started/history-and-approach.md)
+* [Glossary](12-learn-toladata/glossary.md)
 
 ## Admin Console
 
@@ -109,7 +110,6 @@
   * [Three Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Glossary](12-learn-toladata/glossary.md)
 
 ## Form Guide
 
