@@ -4,9 +4,9 @@
 
 Read this section, if you're planning to implement TolaData in your team or organization.
 
-### **Who is this course for?**
+### **Who is this lesson for?**
 
-This is 
+Thmis lesson is for anyone who is responsible for training their teammates an d 
 
 ### **Why should I take it?**
 
