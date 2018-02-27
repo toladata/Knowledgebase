@@ -1,4 +1,4 @@
-# Train your team
+# TolaDatilementation in their porganiza team
 
 ---
 
@@ -6,7 +6,7 @@ Read this section, if you're planning to implement TolaData in your team or orga
 
 ### **Who is this lesson for?**
 
-Thmis lesson is for anyone who is responsible for training their teammates an d 
+Thmis lesson is for anyone who is responsible for training their teammates an d
 
 ### **Why should I take it?**
 
