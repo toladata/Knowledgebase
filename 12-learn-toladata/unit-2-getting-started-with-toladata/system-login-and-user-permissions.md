@@ -2,7 +2,7 @@
 
 ---
 
-Let's see how you can access the system
+Let's access the system and see what are your user permissions in TolaData!
 
 [https://youtu.be/FLWkA2XlYgs](https://youtu.be/FLWkA2XlYgs)
 
@@ -17,8 +17,4 @@ Register with TolaData at [https://demo-activity.toladata.io](https://demo-activ
 You’ll see which level of permission you’ve been granted once your Admin assigns programs to you \(you can check that under Team tab of a Program of your choice\).
 
 **\*Already a customer? Please refer directly to your production site.**
-
-
-
-
 

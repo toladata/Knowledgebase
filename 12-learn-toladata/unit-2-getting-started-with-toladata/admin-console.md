@@ -2,13 +2,15 @@
 
 ---
 
+As system Admin at your organization you will be responsible for assigning users to programs and general system setup. See how it's done from your Admin Console.  
+
 \[embedded video\]
 
 \[link to transcripts on GDrive\]
 
 ## `Exercise`
 
-Go to TolaData and explore the Admin Console. Add users to programs, should your users have already registered with the system. Then set up new offices or reporting frequencies.
+Go to TolaData and explore the Admin Console. Set up new offices or reporting frequencies. Then you may go to Team tab under each program and add users and assign them user permissions, should they have already registered with the system.
 
 ### 
 

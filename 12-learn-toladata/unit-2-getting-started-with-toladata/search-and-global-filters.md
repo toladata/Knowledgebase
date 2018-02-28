@@ -2,6 +2,8 @@
 
 ---
 
+Save your time with search and global filters functionalities. Find what you're looking for in seconds and narrow down the displayed information to only the needed program.
+
 [https://youtu.be/WNNEEMAVstQ](https://youtu.be/WNNEEMAVstQ)
 
 \[embedded video\]
