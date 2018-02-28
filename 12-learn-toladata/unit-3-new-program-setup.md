@@ -4,22 +4,23 @@
 
 ### About
 
+Project management with TolaData will be the first thing to go. 
+
 \[embedded video\]
 
 \[link to transcripts on GDrive\]
 
 ### Timing
 
-This lesson takes approximately 15 minutes to complete.
+This lesson takes approximately 30 minutes to complete.
 
 ### Learning outcomes
 
-After completing this lesson you will know about:
+After completing this lesson you will know how to:
 
-* System login;
-* Different user permission types that are available in TolaData;
-* Search and filter functionalities;
-* User management and system customization options available to Admins. 
+* Add program overview information;
+* Complete your program description with detailed information;
+* Add program activities.
 
 ## 
 
