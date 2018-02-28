@@ -2,17 +2,28 @@
 
 ---
 
-## About
+### About
 
-## Adding \[WFL1\] Overview Data
+\[embedded video\]
 
-[https://youtu.be/WW8Di3GSu1I](https://youtu.be/WW8Di3GSu1I)
+\[link to transcripts on GDrive\]
 
-## Adding Detailed \[WFl1\] Data
+### Timing
 
-[https://youtu.be/kq0zmS6pb\_I](https://youtu.be/kq0zmS6pb_I)
+This lesson takes approximately 15 minutes to complete.
 
-## Adding \[WFl1\] Activities
+### Learning outcomes
 
-[https://youtu.be/efUOQBdKx48](https://youtu.be/efUOQBdKx48)
+After completing this lesson you will know about:
+
+* System login;
+* Different user permission types that are available in TolaData;
+* Search and filter functionalities;
+* User management and system customization options available to Admins. 
+
+## 
+
+## 
+
+
 

@@ -4,6 +4,8 @@
 
 ### About
 
+We will take the first pass through the system. You can use our demo site or go directly to your production site, should your organization be a client already.
+
 \[embedded video\]
 
 \[link to transcripts on GDrive\]

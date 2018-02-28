@@ -90,9 +90,9 @@
   * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
   * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
 * [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
-  * Adding Detailed Program Data
-  * Adding Program Overview Data
-  * Adding Activities
+  * [Adding Program Overview Data](12-learn-toladata/unit-3-new-program-setup/adding-program-overview-data.md)
+  * [Adding Detailed Program Data](12-learn-toladata/unit-3-new-program-setup/adding-detailed-program-data.md)
+  * [Adding Activities](12-learn-toladata/unit-3-new-program-setup/adding-activities.md)
 * [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
   * Results Framework Setup
   * Indicator Plan Design and Adding Indicators
