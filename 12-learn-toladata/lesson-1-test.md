@@ -1,4 +1,4 @@
-# Lesson 1 Introduction
+# Lesson 1: Introduction
 
 ---
 
@@ -10,28 +10,19 @@
 
 \[link to transcripts on GDrive\]
 
+## Timing
+
+This lesson takes approximately 25 minutes to complete.
+
 ## Learning outcomes
 
-In this lesson you will learn about:
+After completing this lesson you will know about:
 
-* PMD Pro methodology and how it translates into TolaData;
-* a demo of TolaData. We learned how the system benefits to organizations in the fields of data collection, storage and analysis. 
-* We also saw how easy project management becomes with TolaData
-* how TolaData matches with your organization's needs and planned your way to address them.
+* Basic features and functionalities of the system;
+* PMD Pro approach to project management and M&E and how it's implemented in TolaData;
+* You will also get confident about learning TolaData and explore ways to improve your project management and M&E skills.
 
-## ProjectManagementandM&EinOrganizations
+## 
 
-jqT6KSO08w4
 
-> [TolaData Overview](https://youtu.be/jqT6KSO08w4)
-
-## TolaDataDemo
-
-s2WCtN16WEk
-
-> [TolaData Overview](https://youtu.be/s2WCtN16WEk)
-
-## NeedsSelf-Assessment
-
-[https://youtu.be/40XKwOOw2X8](https://youtu.be/40XKwOOw2X8)
 

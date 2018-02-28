@@ -83,8 +83,8 @@
 * [About this course](12-learn-toladata/about-this-course.md)
 * [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
   * [Project management and M&E in Organizations](12-learn-toladata/lesson-1-test/project-management-and-mande-in-organizations.md)
-  * TolaData Demo
-  * Needs Self-Assessment
+  * [TolaData Demo](12-learn-toladata/lesson-1-test/toladata-demo.md)
+  * [Needs Self-Assessment](12-learn-toladata/lesson-1-test/needs-self-assessment.md)
 * [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
   * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
