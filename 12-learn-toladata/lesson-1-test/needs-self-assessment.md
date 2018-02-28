@@ -10,7 +10,9 @@ TolaData facilitates your project management and M&E work. Make sure you're maki
 
 \[link to transcripts on GDrive\]
 
-## How to improve your project management and M&E skills with TolaData?
+### Improve your skills and performance
+
+Good news! TolaData is easy to learn and you can quickly start using it. Take a look on other applications that will be useful to know to enhance your TolaData experience and improve your project management and M&E work.
 
 Quizz
 

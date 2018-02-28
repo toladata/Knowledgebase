@@ -2,7 +2,7 @@
 
 ---
 
-## About
+### About
 
 [https://youtu.be/4PJ3P6oupHc](https://youtu.be/4PJ3P6oupHc)
 
@@ -10,11 +10,11 @@
 
 \[link to transcripts on GDrive\]
 
-## Timing
+### Timing
 
 This lesson takes approximately 25 minutes to complete.
 
-## Learning outcomes
+### Learning outcomes
 
 After completing this lesson you will know about:
 
