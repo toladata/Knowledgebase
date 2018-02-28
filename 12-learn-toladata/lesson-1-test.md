@@ -14,7 +14,7 @@
 
 In this lesson you will learn about:
 
-* PMD Pro methodology 
+* PMD Pro methodology and how it translates into TolaData;
 * a demo of TolaData. We learned how the system benefits to organizations in the fields of data collection, storage and analysis. 
 * We also saw how easy project management becomes with TolaData
 * how TolaData matches with your organization's needs and planned your way to address them.
