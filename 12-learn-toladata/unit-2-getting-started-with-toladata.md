@@ -4,8 +4,6 @@
 
 ## About
 
-
-
 \[embedded video\]
 
 \[link to transcripts on GDrive\]
@@ -20,7 +18,8 @@ After completing this lesson you will know about:
 
 * System login;
 * Different user permission types that are available in TolaData;
-* Search for and filter information.
+* Search and filter functionalities;
+* User management and system customization options available to admins. 
 
 ## 
 

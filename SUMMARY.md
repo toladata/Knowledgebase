@@ -87,7 +87,6 @@
   * [Needs Self-Assessment](12-learn-toladata/lesson-1-test/needs-self-assessment.md)
 * [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
-  * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
   * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
   * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
 * [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
