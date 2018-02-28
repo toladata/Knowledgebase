@@ -2,17 +2,17 @@
 
 ---
 
-## About
+### About
 
 \[embedded video\]
 
 \[link to transcripts on GDrive\]
 
-## Timing
+### Timing
 
 This lesson takes approximately 15 minutes to complete.
 
-## Learning outcomes
+### Learning outcomes
 
 After completing this lesson you will know about:
 
