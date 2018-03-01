@@ -12,15 +12,15 @@ So you've added your indicators to the system and you'll probably want to start 
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **add your indicators to the system**.
+Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand.
 
 **\*Already a customer? Please refer directly to your production site.**
 
 > ### Further reading
 >
-> 1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/8-indicators/adding-indicators.html)\[link redirects to other Knowledgebase article\].
+> 1. Read more on [collecting data against indicators](https://help.toladata.com/8-indicators/adding-collected-data.html) and [linking your evidence to collected data automatically](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) \[links redirect to other Knowledgebase articles\].
 
 ## 
 
-[https://youtu.be/K0fdRGjXeJQ](https://youtu.be/K0fdRGjXeJQ)
+
 
