@@ -25,8 +25,8 @@
         ],    
     "pluginsConfig":{
            "page-feedback": {
-                "slack-channel": "feedback",
-                "slack-webhook": "https://hooks.slack.com/services/xyz/abc/123"
+                "slack-channel": "knowledgebase-updates",
+                "slack-webhook": "https://hooks.slack.com/services/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"
            },
            "layout": {
                 "headerPath" : "_layouts/header.md"
