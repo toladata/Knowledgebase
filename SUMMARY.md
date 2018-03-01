@@ -95,9 +95,9 @@
   * [Adding Activities](12-learn-toladata/unit-3-new-program-setup/adding-activities.md)
 * [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
   * [Results Framework Setup](12-learn-toladata/unit-4-tracking-program-progress/results-framework-setup.md)
-  * Indicator Plan Design and Adding Indicators
-  * SMART Indicators
-  * Collect Data Against Indicators
+  * [Indicator Plan Design and Adding Indicators](12-learn-toladata/unit-4-tracking-program-progress/indicator-plan-design-and-adding-indicators.md)
+  * [SMART Indicators](12-learn-toladata/unit-4-tracking-program-progress/smart-indicators.md)
+  * [Collect Data Against Indicators](12-learn-toladata/unit-4-tracking-program-progress/collect-data-against-indicators.md)
 * [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
   * Import Data to Track
   * Preliminary Data Analysis in Track
