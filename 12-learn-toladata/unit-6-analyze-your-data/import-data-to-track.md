@@ -2,7 +2,7 @@
 
 ---
 
-Now you're ready to start adding indicators to the system. It's as easy as it gets!
+No matter the format you're using for storing your data, you can link them to TolaData. Here we show you how. 
 
 [https://youtu.be/z6eBt7ilcrA](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 
