@@ -99,9 +99,9 @@
   * [Adding Indicators](12-learn-toladata/unit-4-tracking-program-progress/indicator-plan-design-and-adding-indicators.md)
   * [Collect Data Against Indicators](12-learn-toladata/unit-4-tracking-program-progress/collect-data-against-indicators.md)
 * [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
-  * Import Data to Track
-  * Preliminary Data Analysis in Track
-  * Linking Evidence from Track with Indicators in Activity
+  * [Import Data to Track](12-learn-toladata/unit-6-analyze-your-data/import-data-to-track.md)
+  * [Preliminary Data Analysis in Track](12-learn-toladata/unit-6-analyze-your-data/preliminary-data-analysis-in-track.md)
+  * [Linking Evidence from Track with Indicators in Activity](12-learn-toladata/unit-6-analyze-your-data/linking-evidence-from-track-with-indicators-in-activity.md)
 * [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
   * Viewing Reports
   * Creating Customized Dashboards

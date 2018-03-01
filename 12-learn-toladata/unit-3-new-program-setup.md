@@ -4,7 +4,7 @@
 
 ### About
 
-Project management with TolaData will be the first thing to go. 
+Project management with TolaData will be the first thing to go. TolaData is composed of Activity and Track applications. During this and the next Lesson we will focus on what the first one has to offer in terms of project management and indicator tracking. 
 
 \[embedded video\]
 
