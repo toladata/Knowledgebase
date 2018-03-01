@@ -20,9 +20,14 @@
         "header",
         "meta",
         "quizzes",
-        "exercises"
+        "exercises",
+        "page-feedback"
         ],    
     "pluginsConfig":{
+           "page-feedback":
+                "slack-channel": "feedback",
+                "slack-webhook": "https://hooks.slack.com/services/xyz/abc/123"
+           },
            "layout": {
                 "headerPath" : "_layouts/header.md"
            },
