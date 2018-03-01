@@ -2,7 +2,7 @@
 
 ---
 
-Results framework visually presents results expected of your programs. Let's have a look how you can set it up on the system. 
+Results framework visually presents results expected of your programs. Let's have a look how you can set it up on the system.
 
 [https://youtu.be/0soiBSmhEqo](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 
@@ -12,7 +12,7 @@ Results framework visually presents results expected of your programs. Let's hav
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and add setup a results framework: **add at least 3 levels **e.g. goal, outcome, output, or any other levels and **add descriptions for each level**.
+Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and add setup a results framework: **add at least 3 levels **e.g. goal, outcome, output, or any other levels and **add descriptions for each level**.
 
 **\*Already a customer? Please refer directly to your production site.**
 
@@ -24,8 +24,6 @@ Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.tola
 ## 
 
 ## 
-
-
 
 ## 
 
