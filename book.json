@@ -21,8 +21,7 @@
         "meta",
         "quizzes",
         "exercises",
-        "page-feedback",
-        "recently-updated"
+        "page-feedback"
         ],    
     "pluginsConfig":{
            "page-feedback": {
