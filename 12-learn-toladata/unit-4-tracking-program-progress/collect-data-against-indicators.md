@@ -12,7 +12,7 @@ So you've added your indicators to the system and you'll probably want to start 
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand.
+Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand. Why don
 
 **\*Already a customer? Please refer directly to your production site.**
 
