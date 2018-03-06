@@ -4,7 +4,7 @@
 
 ### About
 
-TolaData is your companion in M&E efforts. This Lesson is dedicated to setting up your M&E plan on the system and basic tasks.
+TolaData is your companion in M&E efforts. This Lesson is dedicated to setting up your M&E plan on the system and performing basic M&E tasks, like collecting data against indicators.
 
 \[embedded video\]
 

@@ -2,7 +2,7 @@
 
 ---
 
-Activities are concrete actions that make your programs happen. Let's see how you can keep track of them on the system.
+Activities are concrete actions that make your programs happen. Let's see how you can keep track of them in the system.
 
 [https://youtu.be/efUOQBdKx48](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 

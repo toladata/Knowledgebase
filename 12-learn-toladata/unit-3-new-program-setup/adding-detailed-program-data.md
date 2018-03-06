@@ -2,7 +2,7 @@
 
 ---
 
-The devil is in the detail, so we'll go ahead and put some flesh on the previously added program.
+The devil is in the detail, so you can go ahead and put some flesh on your newly added program.
 
 [https://youtu.be/kq0zmS6pb\_I](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 
