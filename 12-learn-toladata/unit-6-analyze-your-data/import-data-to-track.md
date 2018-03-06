@@ -2,7 +2,7 @@
 
 ---
 
-No matter the format you're using for storing your data, you can link them to TolaData. Here we show you how. 
+No matter the format you're using for storing your data, you can link them to TolaData. Here we show you how.
 
 [https://youtu.be/z6eBt7ilcrA](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 
@@ -12,7 +12,7 @@ No matter the format you're using for storing your data, you can link them to To
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **import data from a source of your choice**.
+Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **import data from a source of your choice**.
 
 **\*Already a customer? Please refer directly to your production site.**
 

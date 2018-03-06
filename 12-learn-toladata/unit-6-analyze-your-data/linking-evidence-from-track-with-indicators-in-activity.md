@@ -2,9 +2,9 @@
 
 ---
 
-Before you perform any data operations in Track, take a look at what you've got first!
+Get your indicator results updated real time as new data comes in through your mobile data collection tools or from other sources! Here we show you how.
 
-[https://youtu.be/1MHr5XVkQMI](https://www.gitbook.com/book/toladata/knowledgebase/edit#) 
+[https://youtu.be/1MHr5XVkQMI](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
 
 \[embedded video\]
 
@@ -12,13 +12,13 @@ Before you perform any data operations in Track, take a look at what you've got 
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and **review the contents of the Reports tab for your chosen data set. What conclusions can you draw from these charts? What calculations you might want to perform on your data?**
+Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **link a data set from Track with your previously created indicator. **Observe how your indicator result gets updated as new data comes through. 
 
 **\*Already a customer? Please refer directly to your production site.**
 
 > ### Further reading
 >
-> 1. Read more on [cleaning and merging data sets in Track](https://help.toladata.com/clean-and-merge-data.html) \[link redirects to other Knowledgebase article\].
+> 1. Read more on [linking evidence to collected data](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) \[link redirects to other Knowledgebase article\].
 
 ## 
 

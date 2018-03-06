@@ -103,8 +103,8 @@
   * [Preliminary Data Analysis in Track](12-learn-toladata/unit-6-analyze-your-data/preliminary-data-analysis-in-track.md)
   * [Linking Evidence from Track with Indicators in Activity](12-learn-toladata/unit-6-analyze-your-data/linking-evidence-from-track-with-indicators-in-activity.md)
 * [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
-  * Viewing Reports
-  * Creating Customized Dashboards
+  * [Viewing Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports/viewing-reports.md)
+  * [Creating Customized Dashboards](12-learn-toladata/unit-7-creating-dashboards-and-reports/creating-customized-dashboards.md)
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Three Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)

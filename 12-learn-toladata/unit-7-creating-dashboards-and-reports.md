@@ -2,13 +2,24 @@
 
 ---
 
-## About
+### About
 
-## Viewing Reports
+Last but definitely not least, you want to report on your endeavors and you want to do it quick. This is where TolaData comes in handy with its reports and dashboards. Let's have a look. 
 
-[https://youtu.be/y-w4LpJ3KNw](https://youtu.be/y-w4LpJ3KNw)
+\[embedded video\]
 
-## Creating Customized Dashboards
+\[link to transcripts on GDrive\]
 
-[https://youtu.be/G\_xKDvFWcMs](https://youtu.be/G_xKDvFWcMs)
+### Timing
+
+This lesson takes approximately 20 minutes to complete.
+
+### Learning outcomes
+
+After completing this lesson you will know how to:
+
+* View standard reports in TolaData and see how to use them in everyday work;
+* Build customized dashboards that will give you a snapshot of where you’re at with your programs and projects.
+
+
 

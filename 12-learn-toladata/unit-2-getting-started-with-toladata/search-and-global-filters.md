@@ -12,7 +12,7 @@ Save your time with search and global filters functionalities. Find what you're 
 
 ## `Exercise`
 
-Go to TolaData and search for something. Try typing in 'Syria' \(you'll see why in the next Lesson\), or something related to your program or project if you're on your production site. Then, try to apply a global filter.
+Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **search for something**. Try typing in 'Syria' \(you'll see why in the next Lesson\), or something related to your program or project if you're on your production site. Then, try to apply a global filter.
 
 **\*You can report on any issues using the question mark "?" button at the bottom left corner of the navigation bar in the system.**
 

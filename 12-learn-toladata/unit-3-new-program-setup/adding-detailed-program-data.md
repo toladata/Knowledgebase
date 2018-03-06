@@ -12,7 +12,7 @@ The devil is in the detail, so you can go ahead and put some flesh on your newly
 
 ## `Exercise`
 
-Go to TolaData at [https://demo-activity.toladata.io](https://demo-activity.toladata.io)**\*** \[Opens an external website in a new tab\] and add additional details to your program: **sites, milestones, program objectives, stakeholders, team members **and **sectors**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
+Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and add additional details to your program: **sites, milestones, program objectives, stakeholders, team members **and **sectors**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
 
 **\*Already a customer? Please refer directly to your production site.**
 
