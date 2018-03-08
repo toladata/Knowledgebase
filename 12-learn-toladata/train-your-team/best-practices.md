@@ -2,7 +2,7 @@
 
 ---
 
-In this section 
+In this section
 
 #### Teaching new software to adult learners
 
@@ -23,6 +23,7 @@ Below you'll find a handful of best practices that we've gathered throughout our
 4. **Overview onboarding followed by a self study microlearning \(knowledgebase\)**
 
 5. Put the new tool in a broader context, link to existing business processes and company/organization needs;
+
 6. Continuously assess the needs and skills people start with and design the training accordingly;
 
 7. Qualitative data showed thatpeer networking,engagement of stakeholdersin organizations’ capacity building decision making, andinternal task sharingbolstered organisations’ ability to improve capacity[\[see source\]](https://open.bu.edu/handle/2144/19518);
