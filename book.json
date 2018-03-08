@@ -21,7 +21,8 @@
         "meta",
         "quizzes",
         "exercises",
-        "page-feedback"
+        "page-feedback",
+        "disqus"
         ],    
     "pluginsConfig":{
            "page-feedback": {
