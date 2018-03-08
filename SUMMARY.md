@@ -107,9 +107,7 @@
   * [Creating Customized Dashboards](12-learn-toladata/unit-7-creating-dashboards-and-reports/creating-customized-dashboards.md)
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Best practices](12-learn-toladata/train-your-team/best-practices.md)
-  * Five steps to a good training
-* [Best Practices](12-learn-toladata/become-a-trainer.md)
-* [Best Practices](12-learn-toladata/become-a-trainer.md)
+  * [Five steps to a good training](12-learn-toladata/train-your-team/five-steps-to-a-good-training.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 
 ## Form Guide

@@ -6,22 +6,53 @@ Now that you are all set to use TolaData, teach your team how to use it!
 
 Let us take you through it.
 
+
+
 ## Trainer's role
 
-Assess what is there   
-to be done
+1. Assess what is there to be done
+2. Plan the training: engagement, experience and feedback
+3. Conduct the training
+4. Evaluate
+5. Provide ongoing, on request support for the team
 
-Plan the training: engagement, experience and feedback
+1. ## Assess what is there to be done
+2. ## Plan the training: engagement, experience and feedback
 
-Conduct the training
+Training program plan [https://docs.google.com/a/humanitec.com/spreadsheets/d/1-\_odl9qjEEsm62dyNmRRV-LbXgyO17X\_jrUlFOW8bGg/copy](https://docs.google.com/a/humanitec.com/spreadsheets/d/1-_odl9qjEEsm62dyNmRRV-LbXgyO17X_jrUlFOW8bGg/copy)
 
-Evaluate
+Implementation plan template [https://docs.google.com/spreadsheets/d/1l2BkVS-F4U3DpHbj6nGlfzy5CwEiycVypeFSWqu4IGI/copy](https://docs.google.com/spreadsheets/d/1l2BkVS-F4U3DpHbj6nGlfzy5CwEiycVypeFSWqu4IGI/copy)
 
-Provide ongoing,   
-on request support   
-for the team
+1. ## Conduct the training
 
-## 
+**Source:**
+
+[**http://leanchange.org/resources/canvases/**](http://leanchange.org/resources/canvases/)
+
+crisis
+
+[**http://www.coworkshops.org/2017/06/08/serious-games-kolbs-learning-cycle/**](http://www.coworkshops.org/2017/06/08/serious-games-kolbs-learning-cycle/)
+
+EXAMPLE: you learn how to ride a bike, fall a few times and bruise your elbows and knees. While you recover, you realize you cannot keep the balance well. You also read how to ride on the Internet and watch youtube tutorials. You get elbow and knee pads \(and a helmet!\) and practice on softer surface \(eg. grass instead of asphalt\). You eventually catch the correct position and ride away in glory.
+
+time management
+
+Be flexible
+
+Include breaks
+
+Learn from experience
+
+Plan!
+
+Beware of “time bandits” \(debriefings, presentations\)
+
+Refer to the actual time
+
+Know what time it is
+
+1. ## Evaluate
+2. ## Provide ongoing, on request support for the team
 
 ## **Why TolaData**
 
@@ -59,12 +90,9 @@ Setup calls, schedule meetings, or demos with your demo. Or you can even out to 
 
 ## Invite team members to TolaData
 
-Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**                       
+Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**                     
 **
 
-> ### Further reading
->
-> 1. Read more on...** **
-
-
+**                      
+**
 
