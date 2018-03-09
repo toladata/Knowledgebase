@@ -2,7 +2,7 @@
     "gitbook": ">=3.2.0",
     "plugins": [
         "-collapsible-menu",
-        "localized-footer",
+        "-localized-footer",
         "search",
         "links",
         "expandable-chapters",
