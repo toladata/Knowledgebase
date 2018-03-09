@@ -81,7 +81,7 @@
 ## Take a course on TolaData
 
 * [About this course](12-learn-toladata/about-this-course.md)
-* [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
+* [Lesson 1 Welcome](12-learn-toladata/lesson-1-test.md)
   * [TolaData uses PMD Pro](12-learn-toladata/lesson-1-test/project-management-and-mande-in-organizations.md)
   * [TolaData Demo](12-learn-toladata/lesson-1-test/toladata-demo.md)
   * [Needs Self-Assessment](12-learn-toladata/lesson-1-test/needs-self-assessment.md)
