@@ -4,7 +4,9 @@
 
 ## About
 
-[https://youtu.be/4PJ3P6oupHc](https://youtu.be/4PJ3P6oupHc)
+{%youtube%} 4PJ3P6oupHc {%endyoutube%}
+
+[Intro video](https://youtu.be/4PJ3P6oupHc)
 
 \[embedded video\]
 
@@ -21,17 +23,19 @@ In this lesson you will learn about:
 
 ## Project Management and M&E in Organizations
 
+{%youtube%} jqT6KSO08w4 {%endyoutube%}
 jqT6KSO08w4
 
-> [TolaData Overview](https://youtu.be/jqT6KSO08w4)
+> [PM and M&E in Organizations](https://youtu.be/jqT6KSO08w4)
 
-## TolaDataDemo
+## TolaData Demo
 
-s2WCtN16WEk
-
+{%youtube%} s2WCtN16WEk {%endyoutube%}
 > [TolaData Overview](https://youtu.be/s2WCtN16WEk)
 
 ## Needs Self-Assessment
 
-[https://youtu.be/40XKwOOw2X8](https://youtu.be/40XKwOOw2X8)
+{%youtube%} 40XKwOOw2X8 {%endyoutube%}
+
+[Needs Self-Assessment](https://youtu.be/40XKwOOw2X8)
 
