@@ -4,11 +4,11 @@
 
 ## About
 
-## System Log in and User Permissions
+## System Log-in and User Permissions
 
 [https://youtu.be/FLWkA2XlYgs](https://youtu.be/FLWkA2XlYgs)
 
-## Log in to the System
+## Log-in to the System
 
 ## Search and Global Filters
 

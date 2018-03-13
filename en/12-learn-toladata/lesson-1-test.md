@@ -19,7 +19,7 @@ In this lesson you will learn about:
 * We also saw how easy project management becomes with TolaData
 * how TolaData matches with your organization's needs and planned your way to address them.
 
-## ProjectManagementandM&EinOrganizations
+## Project Management and M&E in Organizations
 
 jqT6KSO08w4
 
@@ -31,7 +31,7 @@ s2WCtN16WEk
 
 > [TolaData Overview](https://youtu.be/s2WCtN16WEk)
 
-## NeedsSelf-Assessment
+## Needs Self-Assessment
 
 [https://youtu.be/40XKwOOw2X8](https://youtu.be/40XKwOOw2X8)
 
