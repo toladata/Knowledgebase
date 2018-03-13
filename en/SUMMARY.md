@@ -3,7 +3,7 @@
 ## Welcome Page
 
 * [What is TolaData?](README.md)
-* [Quick Start](en/1-welcome/quick-start.md)
+* [Quick Start](1-welcome/quick-start.md)
 
 ## Getting Started
 
@@ -16,13 +16,13 @@
 * [Setup](4-manage-users/setup.md)
 * [Configuration](4-manage-users/configuration.md)
 * [Users](4-manage-users/add-new-users.md)
-* [Set Approval Settings](en/4-manage-users/set-approval-settings.md)
+* [Set Approval Settings](4-manage-users/set-approval-settings.md)
 
 ## Navigation
 
-* [Search](en/5-navigation/search.md)
-* [Filters](en/5-navigation/filters.md)
-* [Using TolaData offline](en/5-navigation/offline-use-of-toladata.md)
+* [Search](5-navigation/search.md)
+* [Filters](5-navigation/filters.md)
+* [Using TolaData offline](5-navigation/offline-use-of-toladata.md)
 
 ## Programs
 
@@ -72,11 +72,11 @@
 
 ## Track
 
-* [What is Track?](en/11-track/what-is-track.md)
-* [Import Datasets](en/11-track/import-datasets.md)
-* [Clean and Merge Data](en/11-track/clean-and-merge-data.md)
-* [Update Data Real-time](en/11-track/update-data-real-time.md)
-* [Export Datasets](en/11-track/export-datasets.md)
+* [What is Track?](11-track/what-is-track.md)
+* [Import Datasets](11-track/import-datasets.md)
+* [Clean and Merge Data](11-track/clean-and-merge-data.md)
+* [Update Data Real-time](11-track/update-data-real-time.md)
+* [Export Datasets](11-track/export-datasets.md)
 
 ## Take a course on TolaData
 
@@ -115,8 +115,8 @@
 
 ## External Resources
 
-* [Making your dataset "analysis-ready"](en/14-external-resources/making-your-dataset-analysis-ready.md)
-* [Document Storage](en/14-external-resources/document-storage.md)
-* [Mobile Data Collection ](en/14-external-resources/mobile-data-collection.md)
-* [FAQ](en/14-external-resources/faq.md)
+* [Making your dataset "analysis-ready"](14-external-resources/making-your-dataset-analysis-ready.md)
+* [Document Storage](14-external-resources/document-storage.md)
+* [Mobile Data Collection ](14-external-resources/mobile-data-collection.md)
+* [FAQ](14-external-resources/faq.md)
 
