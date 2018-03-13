@@ -6,13 +6,15 @@
 
 ## System Log-in and User Permissions
 
-[https://youtu.be/FLWkA2XlYgs](https://youtu.be/FLWkA2XlYgs)
+{%youtube%} FLWkA2XlYgs {%endyoutube%}
+[Log-in and Permissions](https://youtu.be/FLWkA2XlYgs)
 
 ## Log-in to the System
 
 ## Search and Global Filters
 
-[https://youtu.be/WNNEEMAVstQ](https://youtu.be/WNNEEMAVstQ)
+{%youtube%} WNNEEMAVstQ {%endyoutube%}
+[Search & Filter](https://youtu.be/WNNEEMAVstQ)
 
 ## Search for Information
 
