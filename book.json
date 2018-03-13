@@ -19,7 +19,7 @@
         "anchors",
         "header",
         "meta",
-        "quizzes",
+        "-quizzes",
         "quiz",
         "exercises",
         "page-feedback",
