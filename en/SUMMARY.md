@@ -82,30 +82,30 @@
 
 * [About this course](12-learn-toladata/about-this-course.md)
 * [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
-  * [Project management and M&E in Organizations](12-learn-toladata/lesson-1-test/project-management-and-mande-in-organizations.md)
-  * TolaData Demo
-  * Needs Self-Assessment
+  * [Project management and M&E in Organizations](12-learn-toladata/unit-1-general-introduction-to-toladata/project-management-and-mande-in-organizations.md)
+  * [TolaData Demo](12-learn-toladata/unit-1-general-introduction-to-toladata/toladata-demo.md)
+  * [Needs Self-Assessment](12-learn-toladata/unit-1-general-introduction-to-toladata/needs-self-assessment.md)
 * [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
   * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
   * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
   * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
 * [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
-  * Adding Detailed Program Data
-  * Adding Program Overview Data
-  * Adding Activities
+  * [Adding Detailed Program Data](12-learn-toladata/unit-3-new-program-setup/adding-detailed-program-data.md)
+  * [Adding Program Overview Data](12-learn-toladata/unit-3-new-program-setup/adding-program-overview-data.md)
+  * [Adding Activities](12-learn-toladata/unit-3-new-program-setup/adding-activities.md)
 * [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
-  * Results Framework Setup
-  * Indicator Plan Design and Adding Indicators
-  * SMART Indicators
-  * Collect Data Against Indicators
+  * [Results Framework Setup](12-learn-toladata/unit-4-tracking-program-progress/results-framework-setup.md)
+  * [Indicator Plan Design and Adding Indicators](12-learn-toladata/unit-4-tracking-program-progress/indicator-plan-design-and-adding-indicators.md)
+  * [SMART Indicators](12-learn-toladata/unit-4-tracking-program-progress/smart-indicators.md)
+  * [Collect Data Against Indicators](12-learn-toladata/unit-4-tracking-program-progress/collect-data-against-indicators.md)
 * [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
-  * Import Data to Track
-  * Preliminary Data Analysis in Track
-  * Linking Evidence from Track with Indicators in Activity
+  * [Import Data to Track](12-learn-toladata/unit-6-analyze-your-data/import-data-to-track.md)
+  * [Preliminary Data Analysis in Track](12-learn-toladata/unit-6-analyze-your-data/preliminary-data-analysis-in-track.md)
+  * [Linking Evidence from Track with Indicators in Activity](12-learn-toladata/unit-6-analyze-your-data/linking-evidence-from-track-with-indicators-in-activity.md)
 * [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
-  * Viewing Reports
-  * Creating Customized Dashboards
+  * [Viewing Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports/viewing-reports.md)
+  * [Creating Customized Dashboards](12-learn-toladata/unit-7-creating-dashboards-and-reports/creating-customized-dashboards.md)
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Three Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
