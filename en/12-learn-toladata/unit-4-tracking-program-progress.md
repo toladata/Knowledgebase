@@ -2,22 +2,25 @@
 
 ---
 
-## About
+### About
 
-## Results Framework Setup
+TolaData is your companion in M&E efforts. This Lesson is dedicated to setting up your M&E plan on the system and performing basic M&E tasks, like collecting data against indicators.
 
-{%youtube%} 0soiBSmhEqo {%endyoutube%}
-[https://youtu.be/0soiBSmhEqo](https://youtu.be/0soiBSmhEqo)
+\[embedded video\]
 
-## Indicator Plan Design and Adding Indicators
+\[link to transcripts on GDrive\]
 
-{%youtube%} lG2rRyeN8YQ {%endyoutube%}
-[https://youtu.be/lG2rRyeN8YQ](https://youtu.be/lG2rRyeN8YQ)
+### Timing
 
-### SMART Indicators
+This lesson takes approximately 30 minutes to complete.
 
-## Collect Data Against Indicators
+### Learning outcomes
 
-{%youtube%} K0fdRGjXeJQ {%endyoutube%}
-[https://youtu.be/K0fdRGjXeJQ](https://youtu.be/K0fdRGjXeJQ)
+After completing this lesson you will know how to:
+
+* Add Results framework to TolaData;
+* Plan and add indicators to the system;
+* Collect data against indicators and link them as evidence.
+
+
 

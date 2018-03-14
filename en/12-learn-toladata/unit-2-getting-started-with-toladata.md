@@ -2,21 +2,26 @@
 
 ---
 
-## About
+### About
 
-## System Log-in and User Permissions
+We will take the first pass through the system. You can use our demo site or go directly to your production site, should your organization be a client already.
 
-{%youtube%} FLWkA2XlYgs {%endyoutube%}
-[Log-in and Permissions](https://youtu.be/FLWkA2XlYgs)
+\[embedded video\]
 
-## Log-in to the System
+\[link to transcripts on GDrive\]
 
-## Search and Global Filters
+### Timing
 
-{%youtube%} WNNEEMAVstQ {%endyoutube%}
-[Search & Filter](https://youtu.be/WNNEEMAVstQ)
+This lesson takes approximately 15 minutes to complete.
 
-## Search for Information
+### Learning outcomes
+
+After completing this lesson you will know about:
+
+* System login;
+* Different user permission types that are available in TolaData;
+* Search and filter functionalities;
+* User management and system customization options available to Admins.
 
 
 

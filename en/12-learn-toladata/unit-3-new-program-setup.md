@@ -2,20 +2,29 @@
 
 ---
 
-## About
+### About
 
-## Adding \[WFL1\] Overview Data
+Project management with TolaData will be the first thing to go. TolaData is composed of Activity and Track applications. During this and the next Lesson we will focus on what the first one has to offer in terms of project management and indicator tracking. 
 
-{%youtube%} WW8Di3GSu1I {%endyoutube%}
-[https://youtu.be/WW8Di3GSu1I](https://youtu.be/WW8Di3GSu1I)
+\[embedded video\]
 
-## Adding Detailed \[WFl1\] Data
+\[link to transcripts on GDrive\]
 
-{%youtube%} kq0zmS6pb_I {%endyoutube%}
-[https://youtu.be/kq0zmS6pb\_I](https://youtu.be/kq0zmS6pb_I)
+### Timing
 
-## Adding \[WFl1\] Activities
+This lesson takes approximately 30 minutes to complete.
 
-{%youtube%} efUOQBdKx48 {%endyoutube%}
-[https://youtu.be/efUOQBdKx48](https://youtu.be/efUOQBdKx48)
+### Learning outcomes
+
+After completing this lesson you will know how to:
+
+* Add program overview information;
+* Complete your program description with detailed information;
+* Add program activities.
+
+## 
+
+## 
+
+
 

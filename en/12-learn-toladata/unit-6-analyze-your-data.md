@@ -2,20 +2,29 @@
 
 ---
 
-## About
+### About
 
-## Import Data to Track
+Track is another application in TolaData. As you already know, the system is composed of Activity and Track applications. During this Lesson we will focus on what Track has to offer in terms of data collection, management and analysis.
 
-{%youtube%} z6eBt7ilcrA {%endyoutube%}
-[https://youtu.be/z6eBt7ilcrA](https://youtu.be/z6eBt7ilcrA)
+\[embedded video\]
 
-## Preliminary Data Analysis in Track
+\[link to transcripts on GDrive\]
 
-{%youtube%} bszy6Y5XRqU {%endyoutube%}
-[https://youtu.be/bszy6Y5XRqU](https://youtu.be/bszy6Y5XRqU)
+### Timing
 
-## Linking Evidence from Track with Indicators in Activity
+This lesson takes approximately 30 minutes to complete.
 
-{%youtube%} 1MHr5XVkQMI {%endyoutube%}
-[https://youtu.be/1MHr5XVkQMI](https://youtu.be/1MHr5XVkQMI)
+### Learning outcomes
+
+After completing this lesson you will know how to:
+
+* Import data to Track;
+* Run a preliminary data analysis;
+* Link your data from Track with indicators in Activity and other apps.
+
+## 
+
+## 
+
+
 

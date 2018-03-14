@@ -1,12 +1,26 @@
-# **Train your team members step by step**
+# Train your team members step by step
 
 ---
 
-Now that you are all set to use TolaData, teach your team how to use it!
+Now that you are all set to use TolaData, you can teach your team how to use it!
 
-Let us take you through it.
+Let's get you started.
 
-## **Why TolaData**
+## Trainer's role
+
+Assess what is there to be done
+
+Plan the training: engagement, experience and feedback
+
+Conduct the training
+
+Evaluate
+
+Provide ongoing, on request support for the team
+
+## 
+
+## Why TolaData?
 
 'Why TolaData' is a question you will have answer when you try to onboard your team to start using TolaData. Here are a couple of pointers to keep in mind when trying to demonstration the value of TolaData.
 
@@ -42,9 +56,12 @@ Setup calls, schedule meetings, or demos with your demo. Or you can even out to 
 
 ## Invite team members to TolaData
 
-Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**               
+Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**                       
 **
 
-**                
-**
+> ### Further reading
+>
+> 1. Read more on...** **
+
+
 
