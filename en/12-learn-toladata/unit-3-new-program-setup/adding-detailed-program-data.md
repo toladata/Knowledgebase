@@ -4,9 +4,10 @@
 
 The devil is in the detail, so you can go ahead and put some flesh on your newly added program.
 
-[https://youtu.be/kq0zmS6pb\_I](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
+{%youtube%} KmP78pf9yXI?rel=0 {%endyoutube%}
+> [TolaData Overview](https://www.youtube.com/embed/KmP78pf9yXI?rel=0)
 
-\[embedded video\]
+
 
 \[link to transcripts on GDrive\]
 
