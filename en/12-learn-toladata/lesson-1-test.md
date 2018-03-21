@@ -6,7 +6,8 @@
 
 Welcome! Happy to have you on board. Let's see what TolaData is all about and how we can help you get your project management and M&E work done more efficiently with better results. Ready to get started?
 
-[https://www.youtube.com/embed/7nyShgZ0NHI?rel=0](https://www.youtube.com/embed/7nyShgZ0NHI?rel=0)
+{%youtube%} 7nyShgZ0NHI?rel=0 {%endyoutube%}
+> [Introduction to TolaData](https://www.youtube.com/embed/7nyShgZ0NHI?rel=0)
 
 \[link to transcripts on GDrive\]
 
