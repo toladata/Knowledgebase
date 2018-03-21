@@ -1,4 +1,4 @@
-# Lesson 1 Welcome
+# Lesson 1 Introduction
 
 ---
 
@@ -6,9 +6,7 @@
 
 Welcome! Happy to have you on board. Let's see what TolaData is all about and how we can help you get your project management and M&E work done more efficiently with better results. Ready to get started?
 
-[https://youtu.be/4PJ3P6oupHc](https://youtu.be/4PJ3P6oupHc)
-
-\[embedded video\]
+[https://www.youtube.com/embed/7nyShgZ0NHI?rel=0](https://www.youtube.com/embed/7nyShgZ0NHI?rel=0)
 
 \[link to transcripts on GDrive\]
 
