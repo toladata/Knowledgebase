@@ -10,7 +10,7 @@ jqT6KSO08w4
 
 \[embedded video\]
 
-\[link to transcripts on GDrive\]
+\[link to transcripts on GDrive\] 
 
 ### Analyze and improve your routine
 
