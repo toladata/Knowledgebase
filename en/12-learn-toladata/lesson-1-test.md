@@ -8,7 +8,7 @@ Welcome! Happy to have you on board. Let's see what TolaData is all about and ho
 
 {% youtube src="https://www.youtube.com/embed/7nyShgZ0NHI?rel=0" %}{% endyoutube %}
 
-\[link to transcripts on GDrive\]
+\[link to transcripts on GDrive\] 
 
 ### Timing
 
