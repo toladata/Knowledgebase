@@ -4,7 +4,8 @@
 
 As a system admin in your organization you will be responsible for assigning users to programs and general system setup. See how it's done from your Admin Console.
 
-\[embedded video\]
+{%youtube%} iAWJgBDtXUI {%endyoutube%}  
+> [Admin Console](https://www.youtube.com/embed/zdt6iGUiO6M?rel=0)
 
 \[link to transcripts on GDrive\]
 
