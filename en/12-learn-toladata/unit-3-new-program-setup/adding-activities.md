@@ -4,9 +4,8 @@
 
 Activities are concrete actions that make your programs happen. Let's see how you can keep track of them in the system.
 
-[https://youtu.be/efUOQBdKx48](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} vub31lc35Mk {%endyoutube%}  
+> [Adding Activities](https://www.youtube.com/embed/vub31lc35Mk?rel=0)
 
 \[link to transcripts on GDrive\]
 

@@ -4,10 +4,8 @@
 
 The devil is in the detail, so you can go ahead and put some flesh on your newly added program.
 
-{%youtube%} KmP78pf9yXI?rel=0 {%endyoutube%}
-> [TolaData Overview](https://www.youtube.com/embed/KmP78pf9yXI?rel=0)
-
-
+{%youtube%} ALCJNxj2aMo {%endyoutube%}  
+> [Adding Detailed Program Data](https://www.youtube.com/embed/ALCJNxj2aMo?rel=0)
 
 \[link to transcripts on GDrive\]
 

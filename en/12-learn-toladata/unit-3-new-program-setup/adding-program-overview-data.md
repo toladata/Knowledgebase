@@ -4,9 +4,8 @@
 
 Now you're ready to start creating your own program in TolaData. Go ahead!
 
-[https://youtu.be/WW8Di3GSu1I](https://youtu.be/WW8Di3GSu1I)
-
-\[embedded video\]
+{%youtube%} 8sjFdUuKNCQ {%endyoutube%}  
+> [Adding Program Overview Data](https://www.youtube.com/embed/8sjFdUuKNCQ?rel=0)
 
 \[link to transcripts on GDrive\]
 
@@ -19,48 +18,6 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 > ### Further reading
 >
 > 1. Get to know more about [the program guide](https://www.gitbook.com/book/toladata/knowledgebase/edit#/edit/changes/10/6-programs/program-guide.md?_k=ufwsbh) \[redirects to another Knowledgebase article\].
-
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-    <question>
-        <p>This is multiple dropdown quiz, in each dropdown select a correct number corresponding to the dropdown's order</p>
-        <answer>
-            <option correct>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option correct>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option correct>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option correct>Fourth</option>
-        </answer>
-    </question>
-</quiz>
 
 
 
