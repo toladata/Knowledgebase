@@ -7,7 +7,7 @@ So you've added your indicators to the system and you'll probably want to start 
 {%youtube%} lRkHFiQ8jrk {%endyoutube%}  
 > [Collect Data Against Indicators](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0)
 
-\[link to transcripts on GDrive\]
+\[link to transcripts on GDrive\] 
 
 ## `Exercise`
 
