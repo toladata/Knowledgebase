@@ -9,8 +9,6 @@ Welcome! Happy to have you on board. Let's see what TolaData is all about and ho
 {%youtube%} PMQBRBcZWLg {%endyoutube%} 
 > [TolaData Introduction](https://www.youtube.com/embed/PMQBRBcZWLg?rel=0)
 
-
-
 ### Timing
 
 This lesson takes approximately 25 minutes to complete.

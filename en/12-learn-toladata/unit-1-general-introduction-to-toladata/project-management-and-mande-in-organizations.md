@@ -4,11 +4,8 @@
 
 There are many project management and M&E approaches out there. TolaData is built on PMD Pro. Take a quick snapshot of this methodology and reflect on how you structure your work.
 
-jqT6KSO08w4
-
-> [TolaData Overview](https://youtu.be/jqT6KSO08w4)
-
-\[embedded video\]
+{%youtube%} SursOF6FI3o {%endyoutube%} 
+> [TolaData uses PMD Pro](https://www.youtube.com/embed/SursOF6FI3o?rel=0)
 
 \[link to transcripts on GDrive\] 
 
