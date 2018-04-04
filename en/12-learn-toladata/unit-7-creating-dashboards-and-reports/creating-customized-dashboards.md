@@ -4,9 +4,8 @@
 
 Whenever ready made reports are not enough, you may create \(and share!\) your custom charts.
 
-[https://youtu.be/G\_xKDvFWcMs](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} gts2w9x0cWs {%endyoutube%}  
+> [Creating Customized Dashboards](https://www.youtube.com/embed/gts2w9x0cWs?rel=0)
 
 \[link to transcripts on GDrive\]
 

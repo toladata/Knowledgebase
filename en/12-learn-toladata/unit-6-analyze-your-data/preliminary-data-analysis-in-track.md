@@ -4,9 +4,8 @@
 
 Before you perform any data operations in Track, take a look at what you've got first!
 
-[https://youtu.be/bszy6Y5XRqU](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} DE5s5VNyBO0 {%endyoutube%}  
+> [Preliminary Data Analysis in Track](https://www.youtube.com/embed/DE5s5VNyBO0?rel=0)
 
 \[link to transcripts on GDrive\]
 

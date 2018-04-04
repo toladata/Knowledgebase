@@ -6,7 +6,9 @@
 
 Track is another application in TolaData. As you already know, the system is composed of Activity and Track applications. During this Lesson we will focus on what Track has to offer in terms of data collection, management and analysis.
 
-\[embedded video\]
+{%youtube%} 2xHOe_-o6bg {%endyoutube%}  
+> [Analyze Your Data](https://www.youtube.com/embed/2xHOe_-o6bg?rel=0)
+
 
 \[link to transcripts on GDrive\]
 

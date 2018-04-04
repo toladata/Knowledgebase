@@ -4,9 +4,8 @@
 
 Ready made reports wait for you under the Reports tab to give you an overview of how your programs are doing.
 
-[https://youtu.be/y-w4LpJ3KNw](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} YoYJJHqlPiU {%endyoutube%}  
+> [Viewing Reports](https://www.youtube.com/embed/YoYJJHqlPiU?rel=0)
 
 \[link to transcripts on GDrive\]
 

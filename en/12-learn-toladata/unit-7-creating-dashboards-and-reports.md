@@ -6,7 +6,8 @@
 
 Last but definitely not least, you want to report on your endeavors and you want to do it quick. This is where TolaData comes in handy with its reports and dashboards. Let's have a look. 
 
-\[embedded video\]
+{%youtube%} A17zdoTvZic {%endyoutube%}  
+> [Creating Dashboards and Reports](https://www.youtube.com/embed/A17zdoTvZic?rel=0)
 
 \[link to transcripts on GDrive\]
 

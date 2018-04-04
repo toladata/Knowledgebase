@@ -4,9 +4,8 @@
 
 Get your indicator results updated real time as new data comes in through your mobile data collection tools or from other sources! Here we show you how.
 
-[https://youtu.be/1MHr5XVkQMI](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} X8Z_-hS2DA4 {%endyoutube%}  
+> [Linking Evidence from Track with Indicators in Activity](https://www.youtube.com/embed/X8Z_-hS2DA4?rel=0)
 
 \[link to transcripts on GDrive\]
 
