@@ -4,9 +4,8 @@
 
 So you've added your indicators to the system and you'll probably want to start collecting data against them. Let's see how to easily create a link between your indicators and data, regardless of your data source.
 
-[https://youtu.be/lG2rRyeN8YQ](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} lRkHFiQ8jrk {%endyoutube%}  
+> [Collect Data Against Indicators](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0)
 
 \[link to transcripts on GDrive\]
 

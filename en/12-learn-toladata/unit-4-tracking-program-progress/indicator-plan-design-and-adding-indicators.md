@@ -4,9 +4,8 @@
 
 Now you're ready to start adding indicators to the system. It's as easy as it gets!
 
-[https://youtu.be/lG2rRyeN8YQ](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} sH2jgZZRTv4 {%endyoutube%}  
+> [Adding Indicators](https://www.youtube.com/embed/sH2jgZZRTv4?rel=0)
 
 \[link to transcripts on GDrive\]
 

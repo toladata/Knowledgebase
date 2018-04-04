@@ -4,9 +4,8 @@
 
 Before you start adding your indicators to the system, why don't you make a pit stop to check on their SMART-ness?
 
-[https://youtu.be/0soiBSmhEqo](https://www.gitbook.com/book/toladata/knowledgebase/edit#)
-
-\[embedded video\]
+{%youtube%} jrTdioszE4M {%endyoutube%}  
+> [Design a SMART Indicator Plan](https://www.youtube.com/embed/jrTdioszE4M?rel=0)
 
 \[link to transcripts on GDrive\]
 
