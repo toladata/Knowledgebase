@@ -41,10 +41,10 @@ You will need a computer with Internet access and speakers or headphones, as a l
 
 This course is delivered by:
 
-* Ninette Adhikari, Product Manager
+##### Ninette Adhikari, Product Manager
 
 
-* Paulina Sobieszuk, Product Trainer
+##### Paulina Sobieszuk, Product Trainer
 
 Paulina is a trainer and project manager with 10+ years of experience in the non profit sector. As a product trainer she makes sure that you know how to make the most of TolaData.
 
