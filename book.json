@@ -24,7 +24,7 @@
         "quiz",
         "exercises",
         "page-feedback",
-        "disqus",
+        "-disqus",
         "language-picker"
         ],    
     "pluginsConfig":{
