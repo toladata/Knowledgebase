@@ -1,7 +1,7 @@
 ****
 # TolaData Help Center
 ---
-This knowledgebase is meant to provide you basic guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
+This collection of articles are meant to provide you guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
 
 ### What is TolaData?
 
