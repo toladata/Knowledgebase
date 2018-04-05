@@ -13,7 +13,7 @@ A great place for you to start will be looking at your program workplan to break
 
 ![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
 
-#### Key information captured in this section
+### Key information captured in this section
 
 * Estimated activity timeline: start and end date
 
@@ -27,7 +27,7 @@ A great place for you to start will be looking at your program workplan to break
 
 * Risks and issues
 
-#### Why capture activity related information?
+### Why capture activity related information?
 
 Key activity progress information is required to report program success. Here are some reasons why activity progress data can be helpful:
 
@@ -37,7 +37,7 @@ Key activity progress information is required to report program success. Here ar
 
 * Documents key components of a project providing traceability of evidence
 
-#### Example of workplan or a work breakdown structure
+### Example of workplan or a work breakdown structure
 
 ###### Graphical view
 

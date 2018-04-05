@@ -18,6 +18,17 @@ Take this course especially if you're new to project management and M&E or, due 
 
 Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises!
 
+### Content types
+
+In the course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
+
+##### Videos
+
+##### Practice
+
+##### Further reading
+
+
 ### How much time will I spend learning?
 
 Overall this course shouldn't take you more than 3 hours, including your own practice time.

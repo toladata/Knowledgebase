@@ -2,7 +2,7 @@
 
 ---
 
-####  Projects into Activities
+###  Projects into Activities
 When you are project planning, there are cases when you need to break down your projects into more manageable activities. 
 
 Activities are simply created by dragging and dropping a Project under another. This creates an activity that is still related to the Project.
