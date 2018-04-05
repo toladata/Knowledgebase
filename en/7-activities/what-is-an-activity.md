@@ -1,7 +1,7 @@
 # Activity Guide
 
 ---
-### What is an Activity? 
+### What is an Activity?  
 
 This section is focused on capturing all the activities to be completed under your program. This is similar to your program workplan sometimes referred to as the 'Work breakdown structure \(WBS\)' or 'Detailed implementation plan'.
 
