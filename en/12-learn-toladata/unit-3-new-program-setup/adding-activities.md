@@ -16,11 +16,12 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 **\*Already a customer? Please refer directly to your production site.**
 
 > ### Further reading
->
-> 1. [What is an activity?](https://help.toladata.com/7-activities/what-is-an-activity.html) Find out! \[redirects to another Knowledgebase article\]
-> 2. A quick guide on [adding activities](https://help.toladata.com/7-activities/add-activity.html) \[redirects to another Knowledgebase article\]
-> 3. [How to create a project](https://help.toladata.com/7-activities/promoting-an-activity-to-a-project.html) with your activities \[redirects to another Knowledgebase article\]
-> 4. [Detailed information on each of activity modules](https://help.toladata.com/7-activities/activity-modules.html) \[redirects to another Knowledgebase article\]
+> Check out these Knowledgebase articles: 
+
+> 1. [What is an activity?](https://help.toladata.com/7-activities/what-is-an-activity.html);
+> 2. A quick guide on [adding activities](https://help.toladata.com/7-activities/add-activity.html);
+> 3. [How to create a project](https://help.toladata.com/7-activities/promoting-an-activity-to-a-project.html);
+> 4. [Detailed information on each of activity modules](https://help.toladata.com/7-activities/activity-modules.html).
 
 ## 
 

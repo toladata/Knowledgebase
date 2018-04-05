@@ -13,7 +13,7 @@ Before you start adding your indicators to the system, why don't you make a pit 
 
 > ### Further reading
 >
-> 1. Make sure about [what an indicator is ](https://help.toladata.com/8-indicators/what-is-an-indicator.html)\[link redirects to other Knowledgebase article\].
+> 1. Make sure [what an indicator is ](https://help.toladata.com/8-indicators/what-is-an-indicator.html) in one of our Knowledgebase articles.
 
 
 

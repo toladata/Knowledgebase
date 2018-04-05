@@ -17,7 +17,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 > ### Further reading
 >
-> 1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/8-indicators/adding-indicators.html)\[link redirects to other Knowledgebase article\].
+> 1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/8-indicators/adding-indicators.html) in one of our Knowledgebase articles.
 
 ## 
 

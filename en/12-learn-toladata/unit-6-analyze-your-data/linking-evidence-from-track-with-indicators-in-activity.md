@@ -17,7 +17,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 > ### Further reading
 >
-> 1. Read more on [linking evidence to collected data](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) \[link redirects to other Knowledgebase article\].
+> 1. Read more on [linking evidence to collected data](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) on the Knowledgebase.
 
 ## 
 

@@ -18,10 +18,12 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 ### 
 
 > ### Further reading
->
-> 1. [Search](https://help.toladata.com/5-navigation/search.html) \[redirects to another Knowledgebase article\]
-> 2. [Filters](https://help.toladata.com/5-navigation/filters.html) \[redirects to another Knowledgebase article\]
-> 3. [Using TolaData offline](https://help.toladata.com/offline-use-of-toladata.html) \[redirects to another Knowledgebase article\]
+> Check out these Knowledgebase articles: 
+
+
+> 1. [Search](https://help.toladata.com/5-navigation/search.html);
+> 2. [Filters](https://help.toladata.com/5-navigation/filters.html);
+> 3. [Using TolaData offline](https://help.toladata.com/offline-use-of-toladata.html).
 
 
 

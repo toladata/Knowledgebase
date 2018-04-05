@@ -11,7 +11,7 @@ Watch a short TolaData demo to get an overview of its basic features and functio
 
 > ### Further reading
 >
-> 1. Visit [TolaData website](https://www.toladata.com/) \[redirects to an external website\]
+> 1. Visit [TolaData website](https://www.toladata.com/) [redirects to an external website].
 
 
 
