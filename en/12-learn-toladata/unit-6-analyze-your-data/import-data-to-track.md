@@ -18,7 +18,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 > ### Further reading
 >
-> 1. Read more on how to [import data from different sources to Track](https://help.toladata.com/import-datasets.html) \[link redirects to other Knowledgebase article\].
+> 1. Read more on how to [import data from different sources to Track](https://help.toladata.com/import-datasets.html) on the Knowledgebase.
 
 ## 
 

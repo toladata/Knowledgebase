@@ -17,7 +17,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 > ### Further reading
 >
-> 1. Get to know more about [the program guide](https://www.gitbook.com/book/toladata/knowledgebase/edit#/edit/changes/10/6-programs/program-guide.md?_k=ufwsbh) \[redirects to another Knowledgebase article\].
+> 1. Get to know more about [the program guide](https://www.gitbook.com/book/toladata/knowledgebase/edit#/edit/changes/10/6-programs/program-guide.md?_k=ufwsbh) on the Knowledgebase.
 
 
 
