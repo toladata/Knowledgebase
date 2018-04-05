@@ -12,7 +12,7 @@ Assess what is there to be done
 
 Plan the training: engagement, experience and feedback
 
-Conduct the training
+Conduct the training 
 
 Evaluate
 
