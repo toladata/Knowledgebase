@@ -9,7 +9,7 @@ As a system admin in your organization you will be responsible for assigning use
 
 \[link to transcripts on GDrive\]
 
-## `Exercise`
+## `Practice`
 
 Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **explore the Admin Console**. Set up new offices or reporting frequencies. Then you may go to Team tab under each program and add users and assign them user permissions, should they have already registered with the system.
 

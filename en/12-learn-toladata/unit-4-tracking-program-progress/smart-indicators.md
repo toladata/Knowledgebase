@@ -9,7 +9,7 @@ Before you start adding your indicators to the system, why don't you make a pit 
 
 \[link to transcripts on GDrive\]
 
-\[quizz\]
+## `Practice`
 
 > ### Further reading
 >

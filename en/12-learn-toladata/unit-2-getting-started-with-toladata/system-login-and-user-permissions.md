@@ -9,7 +9,7 @@ Let's access the system and see what are your user permissions in TolaData!
 
 \[link to transcripts on GDrive\]
 
-## `Exercise`
+## `Practice`
 
 **Register with TolaData** at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and have a browse through your profile.
 

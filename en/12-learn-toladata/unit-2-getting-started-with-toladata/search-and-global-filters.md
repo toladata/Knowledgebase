@@ -9,7 +9,7 @@ Save your time with search and global filters functionalities. Find what you're 
 
 \[link to transcripts on GDrive\]
 
-## `Exercise`
+## `Practice`
 
 Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **search for something**. Try typing in 'Syria' \(you'll see why in the next Lesson\), or something related to your program or project if you're on your production site. Then, try to apply a global filter.
 
