@@ -18,7 +18,7 @@ Take this course especially if you're new to project management and M&E or, due 
 
 Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises! 
 
-### Content types
+### Content types 
 
 In this course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
 
