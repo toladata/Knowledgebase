@@ -11,7 +11,6 @@ There are many project management and M&E approaches out there. TolaData is buil
 
 ## `Practice`
 
-
 > ### Further reading
 >
 > 1. PMD Pro is a recognized project management and M&E approach, adopted by many non profits across humanitarian and development sector. TolaData structure mirrors that methodology. Find more details about [PMD Pro on the official site](http://www.pm4ngos.com/pmd-pro-1/) [redirects to an external website].

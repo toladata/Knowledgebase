@@ -20,7 +20,7 @@ Be ready to learn the system from A to Z, roll up your sleeves and get hands-on 
 
 ### Content types
 
-In the course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
+In this course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
 
 ##### Videos
 
