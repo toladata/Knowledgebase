@@ -23,7 +23,10 @@ Be ready to learn the system from A to Z, roll up your sleeves and get hands-on 
 In this course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
 
 ##### Videos
-M ost of our content is delivered through short video tutorials and product screencasts. They're subtitled in English, but if you want you can enable 
+
+Most of our content is delivered through short video tutorials and product screencasts. They're subtitled in English and auto-translated captions can be enabled in one of many YouTube supported languages. See below how to do it! You will also find a link to full transcripts under each video. 
+
+![](/assets/lang.gif)
 
 ##### Practice
 
