@@ -25,6 +25,7 @@ Below you can see how it's done:
 ![](https://lh5.googleusercontent.com/zCVkProukpBUiQR5kgu7jc4bajRu6T1wLunQcXlVPcWdf-hqx5SBjjGrI8oMwjyTawWIaUghBFskvsUOX73hT2VKBDBPNRUOJD4kRG5pCbpjLpnIyuApPWPafMw-7CtPEGV-lFnJ)
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
+![](/assets/add objective.gif)
 
 > **Quick Tip:**  
 > Configure your platform to make it more relevant to your program! Here is a detailed article on configuration:
