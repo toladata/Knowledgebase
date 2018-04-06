@@ -30,7 +30,7 @@ Most of our c ontent is delivered through short video tutorials and product scre
 
 ##### Practice
 
-Every article brings an invitation to get ypur 
+E very article brings an invitation to get 
  
  
 ##### Further reading
