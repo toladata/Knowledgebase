@@ -16,7 +16,7 @@ Take this course especially if you're new to project management and M&E or, due 
 
 ### What can I expect from it?
 
-Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises!
+Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises! 
 
 ### Content types
 
