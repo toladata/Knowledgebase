@@ -5,7 +5,7 @@
 Before you perform any data operations in Track, take a look at what you've got first!
 
 {%youtube%} DE5s5VNyBO0 {%endyoutube%}  
-> [Preliminary Data Analysis in Track](https://www.youtube.com/embed/DE5s5VNyBO0?rel=0)
+> [See video on YouTube](https://www.youtube.com/embed/DE5s5VNyBO0?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.d1jpiwd734a)
 
 \[link to transcripts on GDrive\]
 

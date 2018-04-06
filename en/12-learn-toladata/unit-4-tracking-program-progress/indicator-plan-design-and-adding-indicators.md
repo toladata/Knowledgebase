@@ -5,9 +5,7 @@
 Now you're ready to start adding indicators to the system. It's as easy as it gets!
 
 {%youtube%} sH2jgZZRTv4 {%endyoutube%}  
-> [Adding Indicators](https://www.youtube.com/embed/sH2jgZZRTv4?rel=0)
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/sH2jgZZRTv4?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.ci8snmmobalk)
 
 #### Practice
 

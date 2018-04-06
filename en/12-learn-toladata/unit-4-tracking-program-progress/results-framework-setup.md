@@ -5,9 +5,7 @@
 Results framework visually presents results expected of your programs. Let's have a look how you can set it up on the system.
 
 {%youtube%} -8x6bbM_foo {%endyoutube%}  
-> [Results Framework Setup](https://www.youtube.com/embed/-8x6bbM_foo?rel=0)
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/-8x6bbM_foo?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.stwrw4id2ydy)
 
 #### Practice
 

@@ -5,7 +5,7 @@
 No matter the format you're using for storing your data, you can link them to TolaData. Here we show you how.
 
 {%youtube%} UIqm_keDuX8 {%endyoutube%}  
-> [Import Data to Track](https://www.youtube.com/embed/UIqm_keDuX8?rel=0)
+> [See video on YouTube](https://www.youtube.com/embed/UIqm_keDuX8?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.zbwia9nw3nvh)
 
 
 \[link to transcripts on GDrive\]

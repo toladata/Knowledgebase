@@ -5,7 +5,7 @@
 So you've added your indicators to the system and you'll probably want to start collecting data against them. Let's see how to easily create a link between your indicators and data, regardless of your data source.
 
 {%youtube%} lRkHFiQ8jrk {%endyoutube%}  
-> [Collect Data Against Indicators](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0)
+> [See video on YouTube](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.uebbtclg0qh)
 
 \[link to transcripts on GDrive\] 
 
