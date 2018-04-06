@@ -30,7 +30,7 @@ Most of our content is delivered through short video tutorials and product scree
 
 ##### Practice
 
-Every article includes a practice exercise on TolaData or a quizz. Explore them to make sure you know how to apply what what you've learned from the video. Remember that practice makes perfect! :)
+Every article includes a practice exercise on TolaData or a quizz. Explore them to make sure you know how to apply what what you've learned from the video. Remember that practice makes perfect! :) 
 
 ##### Further reading
 
