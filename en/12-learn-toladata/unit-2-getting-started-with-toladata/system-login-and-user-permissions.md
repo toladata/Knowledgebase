@@ -5,9 +5,7 @@
 Let's access the system and see what are your user permissions in TolaData!
 
 {%youtube%} Sn68rS7YGwc {%endyoutube%}  
-> [System Log in and User Permissions](https://www.youtube.com/embed/Sn68rS7YGwc?rel=0)
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/Sn68rS7YGwc?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.h7d4qg9nww2l)
 
 #### Practice
 

@@ -5,9 +5,7 @@
 TolaData facilitates your project management and M&E work. Make sure you're making the most of the system and take your skills to the next level!
 
 {%youtube%} qwQJk8VB6AM {%endyoutube%}  
-> [Needs Self-Assessment](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0)
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
 
 #### Practice
 

@@ -7,11 +7,7 @@
 We will take the first pass through the system. You can use our demo site or go directly to your production site, should your organization be a client already.
 
 {%youtube%} -Sb_cmCkvlk {%endyoutube%}  
-> [Getting Started with TolaData](https://www.youtube.com/embed/-Sb_cmCkvlk?rel=0)
-
-
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/-Sb_cmCkvlk?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.jgp49ou19hyx)
 
 ### Timing
 

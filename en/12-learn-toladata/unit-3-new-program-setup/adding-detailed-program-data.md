@@ -5,9 +5,7 @@
 The devil is in the detail, so you can go ahead and put some flesh on your newly added program.
 
 {%youtube%} ALCJNxj2aMo {%endyoutube%}  
-> [Adding Detailed Program Data](https://www.youtube.com/embed/ALCJNxj2aMo?rel=0)
-
-\[link to transcripts on GDrive\]
+> [See video on YouTube](https://www.youtube.com/embed/ALCJNxj2aMo?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.qlyc9i89r3ud)
 
 #### Practice
 
