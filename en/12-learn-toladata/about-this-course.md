@@ -28,6 +28,7 @@ Most of our content is delivered through short video tutorials and product scree
 
 ![](/assets/lang.gif)
 
+
 ##### Practice
 
 Every article includes a practice exercise on TolaData or a quizz. Explore them to make sure you know how to apply what what you've learned from the video. Remember that practice makes perfect! :) 
