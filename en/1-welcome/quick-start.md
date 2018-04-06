@@ -26,6 +26,8 @@ Below you can see how it's done:
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
+![](https://drive.google.com/drive/folders/1sWc5mU2nrLCynbGmHZQNim4Bo3Cb9-Jy)
+
 > **Quick Tip:**  
 > Configure your platform to make it more relevant to your program! Here is a detailed article on configuration:
 >
