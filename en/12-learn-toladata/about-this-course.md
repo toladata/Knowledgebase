@@ -24,18 +24,18 @@ In this course you will come across different content types, like videos, practi
 
 ##### Videos
 
-Most of our c ontent is delivered through short video tutorials and product screencasts. They're subtitled in English and auto-translated captions can be enabled in one of many YouTube supported languages. See below how to do it! You will also find a link to full transcripts under each video. 
+Most of our content is delivered through short video tutorials and product screencasts. They're subtitled in English and auto-translated captions can be enabled in one of many YouTube supported languages. See below how to do it! You will also find a link to full transcripts under each video. 
 
 ![](/assets/lang.gif)
 
 ##### Practice
 
-E very article brings an invitation to get 
- 
- 
+Every article includes a practice exercise on TolaData or a quizz. Explore them to make sure you know how to apply what what you've learned from the video. Remember that practice makes perfect! :)
+
 ##### Further reading
 
-
+Oftentimes you will see a list of suggested readings under each article. Be it other Knowledgebase articles or external resources, they will enhance your learning and improve understanding of TolaData. 
+ 
 ### How much time will I spend learning?
 
 Overall this course shouldn't take you more than 3 hours, including your own practice time.
