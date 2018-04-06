@@ -9,7 +9,7 @@ Get your indicator results updated real time as new data comes in through your m
 
 \[link to transcripts on GDrive\]
 
-## `Practice` 
+#### Practice
 
 Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **link a data set from Track with your previously created indicator. **Observe how your indicator result gets updated as new data comes through. 
 

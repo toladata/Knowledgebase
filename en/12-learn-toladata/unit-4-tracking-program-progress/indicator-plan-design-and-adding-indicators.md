@@ -9,7 +9,7 @@ Now you're ready to start adding indicators to the system. It's as easy as it ge
 
 \[link to transcripts on GDrive\]
 
-## `Practice`
+#### Practice
 
 Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add your indicators to the system**.
 

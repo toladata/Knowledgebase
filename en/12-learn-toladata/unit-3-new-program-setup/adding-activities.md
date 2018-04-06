@@ -9,7 +9,7 @@ Activities are concrete actions that make your programs happen. Let's see how yo
 
 \[link to transcripts on GDrive\]
 
-## `Practice`
+#### Practice
 
 Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add activities to your program**. Then go ahead and **add activity budget**, **stakeholders**, **sites**, and **indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
 
