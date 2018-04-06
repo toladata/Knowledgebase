@@ -10,7 +10,7 @@ This lesson is for anyone who is responsible for training their teammates and im
 
 ### Why should I take it?
 
-Take this lesson if you're looking for ready made implementation manual and useful tips on how to train adult users in new software.
+Take this lesson if you're looking for ready-made implementation manual and useful tips on how to train adult users in new software.
 
 ### What can I expect from it?
 
