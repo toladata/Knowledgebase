@@ -6,7 +6,7 @@ This course will you a comprehensive overview of all functions and functionaliti
 
 In addition, at the end of the course there's a "Train your team" section. You might find it helpful in planning a training for TolaData in your team or organization.
 
-### Who is this course for?
+### Who is this course for? 
 
 This course is for everyone, but users with low to intermediate levels of computer literacy will benefit the most from it.
 
