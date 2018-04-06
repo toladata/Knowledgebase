@@ -5,7 +5,7 @@
 Activities are concrete actions that make your programs happen. Let's see how you can keep track of them in the system.
 
 {%youtube%} vub31lc35Mk {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/vub31lc35Mk?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.zexkmlu322pr)
+> [See video on YouTube](https://www.youtube.com/embed/vub31lc35Mk?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.zexkmlu322pr) 
 
 #### Practice
 
