@@ -13,15 +13,10 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 **\*Already a customer? Please refer directly to your production site.**
 
-> ### Further reading
->
-> 1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/8-indicators/adding-indicators.html) in one of our Knowledgebase articles.
+#### Further reading
 
-## 
+1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/8-indicators/adding-indicators.html) in one of our Knowledgebase articles.
 
-## 
-
-### 
 
 
 

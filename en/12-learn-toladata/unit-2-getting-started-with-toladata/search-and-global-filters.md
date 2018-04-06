@@ -13,15 +13,13 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 **\*You can report on any issues using the question mark "?" button at the bottom left corner of the navigation bar in the system.**
 
-### 
+#### Further reading
 
-> ### Further reading
-> Check out these Knowledgebase articles: 
+Check out these Knowledgebase articles: 
 
-
-> 1. [Search](https://help.toladata.com/5-navigation/search.html);
-> 2. [Filters](https://help.toladata.com/5-navigation/filters.html);
-> 3. [Using TolaData offline](https://help.toladata.com/offline-use-of-toladata.html).
+1. [Search](https://help.toladata.com/5-navigation/search.html);
+2. [Filters](https://help.toladata.com/5-navigation/filters.html);
+3. [Using TolaData offline](https://help.toladata.com/offline-use-of-toladata.html).
 
 
 

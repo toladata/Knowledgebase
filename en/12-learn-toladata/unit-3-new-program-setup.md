@@ -21,9 +21,7 @@ After completing this lesson you will know how to:
 * Complete your program description with detailed information;
 * Add program activities.
 
-## 
 
-## 
 
 
 

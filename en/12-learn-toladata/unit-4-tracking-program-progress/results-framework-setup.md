@@ -13,18 +13,14 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 **\*Already a customer? Please refer directly to your production site.**
 
-> ### Further reading
-> Check out these Knowledgebase articles: 
+#### Further reading
+
+Check out these Knowledgebase articles: 
+
+1. Get to know more about [what a results framework is](https://help.toladata.com/6-programs/what-is-a-results-framework.html);
+2. And how to [build one on the system](https://help.toladata.com/6-programs/adding-levels.html).
 
 
-> 1. Get to know more about [what a results framework is](https://help.toladata.com/6-programs/what-is-a-results-framework.html);
-> 2. And how to [build one on the system](https://help.toladata.com/6-programs/adding-levels.html).
-
-## 
-
-## 
-
-## 
 
 
 

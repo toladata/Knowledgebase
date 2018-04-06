@@ -15,13 +15,10 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 **\*Already a customer? Please refer directly to your production site.**
 
-> ### Further reading
->
-> 1. Read more on [cleaning and merging data sets in Track](https://help.toladata.com/clean-and-merge-data.html) in one of our Knowledgebase articles.
+#### Further reading
 
-## 
+1. Read more on [cleaning and merging data sets in Track](https://help.toladata.com/clean-and-merge-data.html) in one of our Knowledgebase articles.
 
-## 
 
 
 

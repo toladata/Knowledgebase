@@ -13,13 +13,11 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 **\*Already a customer? Please refer directly to your production site.**
 
-> ### Further reading
->
-> 1. Read more on [linking evidence to collected data](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) on the Knowledgebase.
+#### Further reading
 
-## 
+1. Read more on [linking evidence to collected data](https://help.toladata.com/8-indicators/linking-evidence-to-collected-data.html) on the Knowledgebase.
 
-## 
+
 
 
 
