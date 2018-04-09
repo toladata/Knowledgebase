@@ -14,7 +14,7 @@ This course is for everyone, but users with low to intermediate levels of comput
 
 Take this course especially if you're new to project management and M&E or, due to your job function, need to have a full understanding of all TolaData features and functionalities.
 
-### What can I expect from it?
+### What can I expect from it? 
 
 Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises! 
 
