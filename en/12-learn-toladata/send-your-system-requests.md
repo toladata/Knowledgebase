@@ -6,13 +6,13 @@ Let's face it we all have great ideas, but sometimes there are so many great ide
 
 ### Feedback on the training material
 
-Whenever you find something unclear or simply feel like sharing your thoughts, use inline comment to express yourself! This is how to do it:
+Whenever you find something unclear or simply feel like something is missing from the training material, use a button below each article to tell us about it! Your applause is also more than welcome :)
 
-\[insert screencast when inline comments are enabled\]
+![](/assets/was_this.PNG)
 
 ### Feedback on the TolaData application
 
-Here's how to share your requests or add a ticket:
+Here's how to share your requests or add a ticket on TolaData:
 
 ![](/assets/ticketing.gif)
 
@@ -46,7 +46,7 @@ An example of a **good ticket** is:
 
 With that amount of detail in a ticket, we are able to start working on a solution right away. You can also attach a screenshot of the page you seeing error in.
 
-To help when entering a Feature Request or Enhancement, focus on the business problem and priority of the request,  not the solution, so our developers can focus on the correct path, to add the requested features.
+When submitting a ticket, focus on describing the business problem and try to prioritize your request. Our developers will do the rest and come up with a solution!
 
 ### **Three types of tickets you can submit**
 
@@ -69,45 +69,3 @@ Anything you or your colleague would like to see added or changed, but is not br
 The TolaData team monitors the tickets daily. Problems, such as bugs in the software, are usually fixed in the next release of our software.
 
 We will be directly in touch with you with questions regarding your ticket. Requests for enhancements to the software require more feedback from other TolaData users before we can assign our software developers to the ticket.
-
-<quiz name="Gitbook Quiz">
-    <question multiple>
-        <p>What is gitbook used for?</p>
-        <answer correct>To read books</answer>
-        <answer>To book hotel named git</answer>
-        <answer correct>To write and publish beautiful books</answer>
-        <explanation>GitBook.com lets you write, publish and manage your books online as a service.</explanation>
-    </question>
-    <question>
-        <p>Is it quiz?</p>
-        <answer correct>Yes</answer>
-        <answer>No</answer>
-    </question>
-    <question>
-        <p>This is multiple dropdown quiz, in each dropdown select a correct number corresponding to the dropdown's order</p>
-        <answer>
-            <option correct>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option correct>Second</option>
-            <option>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option correct>Third</option>
-            <option>Fourth</option>
-        </answer>
-        <answer>
-            <option>First</option>
-            <option>Second</option>
-            <option>Third</option>
-            <option correct>Fourth</option>
-        </answer>
-    </question>
-</quiz>
