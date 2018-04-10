@@ -8,7 +8,7 @@ Oftentimes you will be using [**TolaData**](https://www.toladata.com/) in remote
 
 [**TolaData**](https://www.toladata.com/) uses your browser cache to temporarily store your data. When offline, all the data you input gets queued and once you're back online, they get synced and uploaded to the system. And that's it.
 
-![](/assets/offline4.gif)
+![](/assets_en/offline4.gif)
 
 ### What can I do to safely work offline?
 

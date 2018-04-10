@@ -2,7 +2,7 @@
 
 ---
 
-**Looking to work with the same dataset again? **Try out the filters found at the top right corner ![](/assets/Screen Shot 2017-11-21 at 5.02.50 PM.png). You can filter by `Country` or `Program` depending on your permission levels.
+**Looking to work with the same dataset again? **Try out the filters found at the top right corner ![](/assets_en/Screen Shot 2017-11-21 at 5.02.50 PM.png). You can filter by `Country` or `Program` depending on your permission levels.
 
 Explore all the features knowing that the filter will continue to across your session.
 
