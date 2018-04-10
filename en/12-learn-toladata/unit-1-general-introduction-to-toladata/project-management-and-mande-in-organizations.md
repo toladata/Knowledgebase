@@ -17,6 +17,21 @@ There are many project management and M&E approaches out there. TolaData is buil
         <answer>It is the last resort for those terrible at organizing their work, when a lot of resources are lost along the way.</answer>
         <explanation>Champion or not, everyone can benefit from learning about PMD Pro approach to improve their project management practices and increase efficiency. Why don't you consult the resources below to get inspired?</explanation>
     </question>   
+    <question multiple>
+<p>Why is PMD Pro beneficial to non-profits worldwide?</p>
+<answer correct>It offers a structured approach to projects delivery and tracking, making it easier for organizations to report on results and get funding.</answer>
+<answer>It's easy to adopt by any organization.</answer>
+<answer>Many prominent donors require their grantees to use PMD Pro for the programs and projects funded by them.</answer>
+<explanation>PMD Pro helps you structure your day-to-day work and make the most of your field experiences and lessons learned. One needs to bear in mind, however, that adopting rigorous PMD Pro might be a challenge, especially for inexperienced organizations. If you're afraid you won't be able to implement it fully, we suggest to start small and gradually add more PMD Pro elements to your practice. And we're keeping our fingers crossed for donors to appreciate it and require PMD Pro adoption by their grantees.</explanation>
+</question>
+<question multiple>
+<p>What PMD Pro can improve for you?</p>
+<answer correct>Project planning and setup. It helps you to plan work realistically and later deliver the expected results.</answer>
+<answer correct>Project implementation. It will help you react to crisis and troubleshoot.</answer>
+<answer correct>Indicator tracking. It helps to collect and analyze your data.</answer>
+<answer correct>Reporting and fundraising. Following PMD Pro guidelines, you'll gather enough evidence on your projects to put together a compelling story that speaks to prospective donors.</answer>
+<explanation>PMD Pro and TolaData come hand in hand to help you with all that! We cannot control unexpected realities out there. But we're in charge of how we deal with them. PMD Pro suggests a balanced approach to risk management, and you might find it inspiring! At the same time, TolaData is your solution for neat data collection and analyzing indicator results in real time. Lastly, you are only able to report on as much as you've kept track on throughout your project. Once you have your indicator plan in place and collect data on regular basis, TolaData will come in handy to help you meet your deadlines. And donors!</explanation>
+</question>
 </quiz>
 
 #### Further reading
