@@ -15,7 +15,6 @@ Here's is a quick introduction of the platform:
 ### Core Products
 
 ![](/assets/activity logo text.png)
-![](/assets/IMG_10042018_125618_0.png)
 
 **Activity** is TolaData’s project management toolkit, comprises a collection of data forms, reports and visualizations designed to track results of your programs and projects.
 
