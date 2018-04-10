@@ -9,7 +9,7 @@ There are many project management and M&E approaches out there. TolaData is buil
 
 #### Practice - test3     
  
-<quiz name="Reflect on your daily practice">
+<quiz name="Reflect on your daily practice"> 
     <question multiple>
         <p>Are you happy with how projects are currently managed at your organization?</p>
         <answer>Absolutely! We're quick, efficient and successful at making a difference.</answer>
