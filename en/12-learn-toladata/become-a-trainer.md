@@ -25,7 +25,7 @@ Below you'll find a handful of best practices that we've gathered throughout our
 5. Put the new tool in a broader context, link to existing business processes and organization needs;
 6. Continuously assess the needs and skills people start with and design the training accordingly;
 
-7. Qualitative data showed thatpeer networking, engagement of stakeholdersin organizations’ capacity building decision making, andinternal task sharingbolstered organizations’ ability to improve capacity[\[see source\]](https://open.bu.edu/handle/2144/19518);
+7. Qualitative data showed thatpeer networking, engagement of stakeholdersin organizations’ capacity building decision making, andinternal task sharingbolstered organizations’ ability to improve capacity [\[see source\]](https://open.bu.edu/handle/2144/19518);
 
 8. Identify agents of change\(future Ts or go-to people in the organization\);
 
@@ -35,7 +35,7 @@ Below you'll find a handful of best practices that we've gathered throughout our
 
 11. Use natural language instead of subject matter jargon;
 
-12. Make the learning environment resemble the work \(application\) environment. Training should be h[ands-on, based on real life examples and tasks, practical \(learning by doing](http://elearninguncovered.com/2015/09/three-tips-for-teaching-successful-software-training-classes/)\);;
+12. Make the learning environment resemble the work \(application\) environment. Training should be [hands-on, based on real life examples and tasks, practical \(learning by doing](http://elearninguncovered.com/2015/09/three-tips-for-teaching-successful-software-training-classes/)\);
 
 13. Give different options for absorbing the same content \(video/text/checklist/discussion/easily accessible knowledge base etc\);
 
@@ -51,7 +51,7 @@ Below you'll find a handful of best practices that we've gathered throughout our
 
 19. Continuously ask for feedback from users;
 
-20. Keep all materials accessible and in compliance with[WCAG 2.0 guidelines](https://www.w3.org/TR/WCAG20/);
+20. Keep all materials accessible and in compliance with [WCAG 2.0 guidelines](https://www.w3.org/TR/WCAG20/);
 
 Keep the training gender responsive \(use gender sensitive language and make sure Ts represent different genders equally\).
 
