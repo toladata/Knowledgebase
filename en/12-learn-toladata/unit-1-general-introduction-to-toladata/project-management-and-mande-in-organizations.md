@@ -32,7 +32,7 @@ There are many project management and M&E approaches out there. TolaData is buil
 > That would definitely help this approach spread out, but it's not required by donors. Yet.
 
 <p> 3. What is the most challenging part of your project management and M&E work? </p>
-[x] Project planning and setup. I struggle to plan my work realistically and later deliver the expected results.
+[x] Project planning and setup. I struggle to plan my work realistically and later deliver the expected results. 
 [x] Project implementation. There is always something getting into my way.
 [x] Indicator tracking. I'm finding it difficult to collect and analyze my data.
 [x] Reporting and fundraising. I'm finding it difficult to put together a compelling story that speaks to prospective donors.
