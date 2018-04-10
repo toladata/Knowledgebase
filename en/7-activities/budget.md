@@ -3,8 +3,8 @@
 ---
 
 **Adding Budget Items**
-1. To add a module, click ![](/assets/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Budget`. 
-2. To add a new budget item, click ![](/assets/Screen Shot 2017-12-08 at 11.11.32 AM.png).
+1. To add a module, click ![](/assets_en/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Budget`. 
+2. To add a new budget item, click ![](/assets_en/Screen Shot 2017-12-08 at 11.11.32 AM.png).
 
 **Use case**
 

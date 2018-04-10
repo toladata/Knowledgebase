@@ -4,8 +4,8 @@
 
 ### Adding Stakeholders
 
-1. To add a module, click ![](/assets/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Stakeholders`. 
-2. Choose `Attach existing Stakeholder` to add a Stakeholder previously added to the system under the `Programs` section or to add a new Stakeholder, click ![](/assets/Screen Shot 2017-12-08 at 11.05.38 AM.png).
+1. To add a module, click ![](/assets_en/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Stakeholders`. 
+2. Choose `Attach existing Stakeholder` to add a Stakeholder previously added to the system under the `Programs` section or to add a new Stakeholder, click ![](/assets_en/Screen Shot 2017-12-08 at 11.05.38 AM.png).
 
 ### Use case 
 

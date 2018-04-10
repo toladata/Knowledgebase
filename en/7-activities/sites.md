@@ -4,8 +4,8 @@
 
 ### Adding Sites
 
-1. To add a module, click ![](/assets/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Sites`. 
-2. Choose `Attach existing Sites` to add a Site previously added to the system under the `Programs` section or to add a new Site, click ![](/assets/Screen Shot 2017-12-08 at 10.55.41 AM.png).
+1. To add a module, click ![](/assets_en/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Sites`. 
+2. Choose `Attach existing Sites` to add a Site previously added to the system under the `Programs` section or to add a new Site, click ![](/assets_en/Screen Shot 2017-12-08 at 10.55.41 AM.png).
 
 ### Use Case
 
