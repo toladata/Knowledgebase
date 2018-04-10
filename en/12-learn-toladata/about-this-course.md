@@ -42,7 +42,7 @@ Overall this course shouldn't take you more than 3 hours, including your own pra
 
 You will need a computer with Internet access and speakers or headphones, as a lot of material is delivered through short videos.
 
-### Instructors
+### Instructors 
 
 ![](/assets/ninette_kb.png)
 ##### Ninette Adhikari, Product Manager
