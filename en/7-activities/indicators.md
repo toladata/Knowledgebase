@@ -4,7 +4,7 @@
 
 ### Adding Indicators
 
-1. To add a module, click ![](/assets/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Indicators`. 
+1. To add a module, click ![](/assets_en/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Indicators`. 
 2. Choose `Assign Another Indicator` to add an Indicator previously added to the system. To add a new Indicator, refer to the `Indicators` section.
 
 ### Use case
