@@ -44,8 +44,6 @@ You will need a computer with Internet access and speakers or headphones, as a l
 
 ### Instructors
 
-This course is delivered by:
-
 ![](/assets/ninette_kb.png)
 ##### Ninette Adhikari, Product Manager
 
