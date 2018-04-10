@@ -38,7 +38,7 @@ When developing indicators, the norm is to use SMART criteria to guide performan
 
 ### 
 
-### Monitoring & Evaluation \(M&E\) Framework Example![](/assets/Screen Shot 2017-11-09 at 2.09.52 PM.png)** **
+### Monitoring & Evaluation \(M&E\) Framework Example![](/assets_en/Screen Shot 2017-11-09 at 2.09.52 PM.png)** **
 
 > [M&E Framework template, tools4dev.org](http://www.tools4dev.org/) 
 
