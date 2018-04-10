@@ -44,8 +44,8 @@ There are three types of user roles in the system:
 
 | **Operation** | **Program Admin** | **Program Team** | **Program View Only** |
 | :--- | :---: | :---: | :---: |
-| Add/edit Team | ![](/en/assets/fa-check.png) |  |  |
-| Create Program | ![](/assets/fa-check.png) |  |  |
+| Add/edit Team | ![](/assets_en/fa-check.png) |  |  |
+| Create Program | ![](/assets_en/fa-check.png) |  |  |
 | Edit Program | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
 | Add/edit Activity | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
 | Add/edit Results Framework | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
