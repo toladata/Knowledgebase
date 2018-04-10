@@ -70,5 +70,5 @@ Once added, you can change the role of a team member:
 
 1. Under `Role`, click from the dropdown menu and select a user role: `Program Admin`, `Program Team`, `Program View Only`.
 
-![](/assets/team approval.png)
+![](/en/assets/team approval.png)
 
