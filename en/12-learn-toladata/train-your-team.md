@@ -8,7 +8,7 @@ Read this section, if you're planning to implement TolaData in your team or orga
 
 This lesson is for anyone who is responsible for training their teammates and implementing TolaData in their organization.
 
-### Why should I take it?
+### Why should I take it? 
 
 Take this lesson if you're looking for ready-made implementation manual and useful tips on how to train adult users in new software.
 
