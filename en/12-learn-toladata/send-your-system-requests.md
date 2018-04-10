@@ -32,9 +32,9 @@ When entering tickets there are basic questions you can answer, to help us under
 
 * What actually happened?
 
-An example of a ticket lacking the details we need is,
+An example of a ticket lacking the details we need is, 
 
-> "I found an error when I was working in TolaData."
+> " I found an error when I was working in TolaData."
 
 The problem with this kind of ticket is, it's hard for us to know where to start troubleshooting without contacting you for more information.
 
