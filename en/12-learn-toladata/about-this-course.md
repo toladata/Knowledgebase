@@ -50,7 +50,7 @@ This course is delivered by:
 
 Ninette has previously worked at non-profits in Southeast Asia and the Middle East and is an M&E and tech enthusiast. As a product manager she helps in the development process of TolaData and gathers your product needs and requirements.
 
-##### Paulina Sobieszuk, Product Trainer
+##### Paulina Sobieszuk, Product Trainer 
 
 Paulina is a trainer and project manager with 10+ years of experience in social tech projects in Central and Eastern Europe. As a product trainer she makes sure that you know how to make the most of TolaData.
 
