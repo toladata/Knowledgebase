@@ -7,9 +7,17 @@ There are many project management and M&E approaches out there. TolaData is buil
 {%youtube%} SursOF6FI3o {%endyoutube%}  
 > [See video on YouTube](https://www.youtube.com/embed/SursOF6FI3o?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.tnaqoi1hzqej) 
 
-#### Practice - test   
+#### Practice - test2   
  
----
+<quiz name="PMD Pro Quiz">
+    <question multiple>
+        <p>Are you happy with how projects are currently managed at your organization?</p>
+        <answer correct>Absolutely! We're quick, efficient and successful at making a difference.</answer>
+        <answer correct>So-so. We manage to achieve our goals, but it comes at too great a cost.</answer>
+        <answer correct>We're terrible at organizing our work. A lot of resources are lost along the way.</answer>
+        <explanation>Champion or not, everyone can benefit from learning about PMD Pro approach to improve their project management practices and increase efficiency. Why don't you consult the resources below to get inspired?</explanation>
+    </question>   
+</quiz>
 
 <p> 1. Are you happy about how projects are currently managed at your organization? </p>
 - [x] Absolutely! We're quick, efficient and successful at making a difference. 
