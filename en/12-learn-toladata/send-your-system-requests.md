@@ -8,13 +8,13 @@ Let's face it we all have great ideas, but sometimes there are so many great ide
 
 Whenever you find an article unclear or simply feel like something is missing from the training material, use a button below each article to tell us about it. Also, feel free to drop us a line at [support@toladata.com](mailto:support@toladata.com) with more detailed comments! And we don't need to tell, that your applause is more than welcome :) 
 
-![](/en/assets/was_this.PNG)  
+![](/assets_en/was_this.PNG)  
 
 ### Feedback on the TolaData application 
 
 Here's how to share your requests or add a ticket on TolaData:
 
-![](/en/assets/ticketing.gif) 
+![](/assets_en/ticketing.gif) 
 
 ### **What is a ticket?**
 
