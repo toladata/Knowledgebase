@@ -46,7 +46,7 @@ You will need a computer with Internet access and speakers or headphones, as a l
 
 This course is delivered by:
 
-
+![](/assets/ninette_kb.png)
 ##### Ninette Adhikari, Product Manager
 
 Ninette has previously worked at non-profits in Southeast Asia and the Middle East and is an M&E and tech enthusiast. As a product manager she helps in the development process of TolaData and gathers your product needs and requirements.
