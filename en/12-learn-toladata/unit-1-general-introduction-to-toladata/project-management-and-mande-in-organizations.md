@@ -20,7 +20,7 @@ There are many project management and M&E approaches out there. TolaData is buil
 
 > Take a look at what PMD Pro has to offer. Maybe it can help you increase your efficiency?
 
-> Why don't you study PMD Pro and see how this approach could be implemented at your organization? 
+> Why don't you study PMD Pro and see how this approach could be implemented at your organization?  
 
 <p> 2. Why is PMD Pro beneficial to non-profits worldwide? </p>
 - [x] It offers a structured approach to projects delivery and tracking, making it easier for organizations to report on results and get funding.
