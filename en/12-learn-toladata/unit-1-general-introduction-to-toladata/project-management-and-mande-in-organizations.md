@@ -12,7 +12,7 @@ There are many project management and M&E approaches out there. TolaData is buil
 ---
 
 <p> 1. Are you happy about how projects are currently managed at your organization? </p>
-- [x] Absolutely! We're quick, efficient and successful at making a difference.
+- [x] Absolutely! We're quick, efficient and successful at making a difference. 
 - [x] So-so. We manage to achieve our goals, but it comes at too great a cost.
 - [x] We're terrible at organizing our work. A lot of resources are lost along the way.
 
