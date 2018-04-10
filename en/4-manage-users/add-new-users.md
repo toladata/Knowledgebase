@@ -46,18 +46,18 @@ There are three types of user roles in the system:
 | :--- | :---: | :---: | :---: |
 | Add/edit Team | ![](/assets_en/fa-check.png) |  |  |
 | Create Program | ![](/assets_en/fa-check.png) |  |  |
-| Edit Program | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
-| Add/edit Activity | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
-| Add/edit Results Framework | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
-| Add/edit Indicator | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
-| Add/Edit Collected Data | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
-| View Program | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| View Results Framework | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| View Activities | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| View Indicator | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| View Collected Data | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| View Reports | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |
-| Delete Program, Results Framework, Indicator | ![](/assets/fa-check.png) |  |  |
+| Edit Program | ![](/assets_en/fa-check.png) | ![](/assets/fa-check.png) |  |
+| Add/edit Activity | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |  |
+| Add/edit Results Framework | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |  |
+| Add/edit Indicator | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |  |
+| Add/Edit Collected Data | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |  |
+| View Program | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| View Results Framework | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| View Activities | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| View Indicator | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| View Collected Data | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| View Reports | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
+| Delete Program, Results Framework, Indicator | ![](/assets_en/fa-check.png) |  |  |
 
 ### Setting team member permissions \(Program Admin Only\)
 
@@ -70,5 +70,5 @@ Once added, you can change the role of a team member:
 
 1. Under `Role`, click from the dropdown menu and select a user role: `Program Admin`, `Program Team`, `Program View Only`.
 
-![](/en/assets/team approval.png)
+![](/assets_en/team approval.png)
 
