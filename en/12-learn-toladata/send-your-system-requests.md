@@ -6,15 +6,15 @@ Let's face it we all have great ideas, but sometimes there are so many great ide
 
 ### Feedback on the training material
 
-Whenever you find something unclear or simply feel like something is missing from the training material, use a button below each article to tell us about it! Your applause is also more than welcome :)
+Whenever you find something unclear or simply feel like something is missing from the training material, use a button below each article to tell us about it! Also, feel free to drop us a line at support@toladata.com with more ! Your applause is also more than welcome :) 
 
-![](/assets/was_this.PNG)
+![](/en/assets/was_this.PNG)
 
 ### Feedback on the TolaData application
 
 Here's how to share your requests or add a ticket on TolaData:
 
-![](/assets/ticketing.gif)
+![](/en/assets/ticketing.gif)
 
 ### **What is a ticket?**
 
