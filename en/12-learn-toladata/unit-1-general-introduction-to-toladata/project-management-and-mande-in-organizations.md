@@ -9,7 +9,7 @@ There are many project management and M&E approaches out there. TolaData is buil
 
 #### Practice   
  
-<quiz name="Reflect on your daily practice"> 
+<quiz> 
     <question multiple>
         <p>Who is PMD Pro for?</p>
         <answer>It's a demanding approach for organizations that are efficient and successful at making a difference.</answer>
