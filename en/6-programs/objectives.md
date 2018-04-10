@@ -19,7 +19,7 @@ To add objectives:
 3. Add your objective `Name` and `Description`.
 4. After you associate indicators to your objectives, you will see them displayed here.
 
-Under the `Programs` tab..
+Under the `Programs` tab.
 
 > **Quick Tip:** 
 As part of the program setup it is helpful to add objectives in the system early on. Objectives can typically be found in your program proposal or your Logframe.
