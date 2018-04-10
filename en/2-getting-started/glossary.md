@@ -20,7 +20,7 @@ This Tola module allows teams to track all program indicators and their targets 
 
 A collection of projects and programs.
 
-![](/assets/Screen Shot 2017-11-06 at 3.20.59 PM.png)
+![](/en/assets/Screen Shot 2017-11-06 at 3.20.59 PM.png)
 
 Source: PMDPro Guide, PM4NGOs
 
