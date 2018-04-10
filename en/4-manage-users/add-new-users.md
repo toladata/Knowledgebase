@@ -9,7 +9,7 @@
 ### Login to TolaData
 
 With the [**TolaData login**](https://activity.toladata.io) users can sign up to access the TolaData platform.  
-![](/assets/Screen Shot 2017-11-21 at 4.48.11 PM.png)
+![](/en/assets/Screen Shot 2017-11-21 at 4.48.11 PM.png)
 
 There are a few ways a user can sign on:   
 **Single Sign-on \(SSO\) options:**
@@ -44,7 +44,7 @@ There are three types of user roles in the system:
 
 | **Operation** | **Program Admin** | **Program Team** | **Program View Only** |
 | :--- | :---: | :---: | :---: |
-| Add/edit Team | ![](/assets/fa-check.png) |  |  |
+| Add/edit Team | ![](/en/assets/fa-check.png) |  |  |
 | Create Program | ![](/assets/fa-check.png) |  |  |
 | Edit Program | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
 | Add/edit Activity | ![](/assets/fa-check.png) | ![](/assets/fa-check.png) |  |
