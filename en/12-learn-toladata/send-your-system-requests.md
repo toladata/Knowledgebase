@@ -10,7 +10,7 @@ Whenever you find an article unclear or simply feel like something is missing fr
 
 ![](/en/assets/was_this.PNG) 
 
-### Feedback on the TolaData application
+### Feedback on the TolaData application 
 
 Here's how to share your requests or add a ticket on TolaData:
 
