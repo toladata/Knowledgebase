@@ -21,7 +21,6 @@ Have a look at the indicators below. Can you tell tell SMART from dumb?
 </question>
 <question> 
 <p>Help Amina create a SMART indicator for her project using the building blocks below.</p>
-<answer correct>Yes</answer>  
 <answer>
             <option correct>Number</option>
             <option>Month</option>
