@@ -12,7 +12,7 @@ Before you start adding your indicators to the system, why don't you make a pit 
 Have a look at the indicators below. Can you tell tell SMART from dumb?
 
 <quiz>
-<question> 
+<question multiple> 
 <p>Which of the below could be examples of SMART indicators for Amina's humanitarian project?</p>
 <answer correct>Number of beneficiaries with improved health checkup results by the end of project</answer>  
 <answer>Increased awareness of the importance of washing hands</answer>
