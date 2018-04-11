@@ -1,9 +1,11 @@
 # Team
 
 ---
+We're thinking of great content, stayed tuned for updates (and carrots)! :rabbit:
 
-#### What is a team?
 
-#### Building a team
+
+
+
 
 
