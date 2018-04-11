@@ -28,10 +28,10 @@ Have a look at the indicators below. Can you tell tell SMART from dumb?
             <option>Weight</option>
         </answer>
         <answer>
-            <option>children</option>
+            <option>of children</option>
             <option correct>of elderly of 65 years and more</option>
-            <option>clients</option>
-            <option>bodies of water</option>
+            <option>of clients</option>
+            <option>of bodies of water</option>
         </answer>
         <answer>
             <option>who recovered</option>
