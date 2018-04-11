@@ -13,7 +13,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 #### Further reading
 
-1. Read more on [adding new Users](https://help.toladata.com/4-manage-users/add-new-users.html) on the Knowledgebase.
+1. Read more on [adding new Users](https://help.toladata.com/en/4-manage-users/add-new-users.html) on the Knowledgebase.
 
 
 

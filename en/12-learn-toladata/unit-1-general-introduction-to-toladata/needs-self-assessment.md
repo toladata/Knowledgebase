@@ -36,9 +36,9 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 
 Check out these Knowledgebase articles: 
 
-1. [Making Your Dataset Analysis-Ready](https://help.toladata.com/making-your-dataset-analysis-ready.html);
-2. [Document storage](https://help.toladata.com/document-storage.html);
-3. [Mobile data collection](https://help.toladata.com/mobile-data-collection.html);
+1. [Making Your Dataset Analysis-Ready](https://help.toladata.com/en/14-external-resources/making-your-dataset-analysis-ready.html);
+2. [Document storage](https://help.toladata.com/en/14-external-resources/document-storage.html);
+3. [Mobile data collection](https://help.toladata.com/en/14-external-resources/mobile-data-collection.html);
 
 As well as some external resources:
  

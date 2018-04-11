@@ -17,10 +17,10 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 Check out these Knowledgebase articles: 
 
-1. [What is an activity?](https://help.toladata.com/7-activities/what-is-an-activity.html);
-2. A quick guide on [adding activities](https://help.toladata.com/7-activities/add-activity.html);
-3. [How to create a project](https://help.toladata.com/7-activities/promoting-an-activity-to-a-project.html);
-4. [Detailed information on each of activity modules](https://help.toladata.com/7-activities/activity-modules.html).
+1. [What is an activity?](https://help.toladata.com/en/7-activities/what-is-an-activity.html);
+2. A quick guide on [adding activities](https://help.toladata.com/en/7-activities/add-activity.html);
+3. [How to create a project](https://help.toladata.com/en/7-activities/promoting-an-activity-to-a-project.html);
+4. [Detailed information on each of activity modules](https://help.toladata.com/en/7-activities/activity-modules.html).
 
 
 
