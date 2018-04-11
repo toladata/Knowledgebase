@@ -9,7 +9,13 @@ So you've added your indicators to the system and you'll probably want to start 
  
 #### Practice
 
-Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand.  
+Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand. 
+
+##### Sample datasets
+
+Feel free to use sample data:
+1. Download a PDF with a [WHO sample agreement with an NGO](http://www.who.int/hac/techguidance/tools/manuals/who_field_handbook/c8.pdf?ua=1) \[redirects to an external website\];
+2. Download a sample Beneficiaries list as a CSV file or link it to TolaData directly [from GoogleDrive](https://docs.google.com/spreadsheets/d/18kZeA9f9akq1PYCNVErtiaMqKzvIity3ZwbTchTptXc/edit?usp=sharing) \[redirects to an external website\].
 
 **\*Already a customer? Please refer directly to your production site.**
 
