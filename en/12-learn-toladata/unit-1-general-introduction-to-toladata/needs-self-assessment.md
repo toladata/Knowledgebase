@@ -28,7 +28,7 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 <p>I am familiar with and/or use tabular and relational data structures within the Monitoring and Evaluation (M&E) team.</p>
 <answer correct>Yes</answer>  
 <answer>No</answer>
-<explanation>It is very helpful to have your datasets in tabular form which means having all your data in either Excel, relational database, or a web based database. This can help you not only to easily manage and analyze your data but also to import your existing datasets to TolaData directly. Talk to your M&E manager to see how you can transition your data to a basic Excel based form to start with and later moving to relational and web based softwares.</explanation>
+<explanation>It is very helpful to have your datasets in tabular form which means having all your data in either Excel, relational database, or a web based database. This can help you not only to easily manage and analyze your data but also to import your existing datasets to TolaData directly. To fully transition your data to tabular form you can start with Excel and later move to relational and web based softwares.</explanation>
 </question>
 </quiz> 
 
