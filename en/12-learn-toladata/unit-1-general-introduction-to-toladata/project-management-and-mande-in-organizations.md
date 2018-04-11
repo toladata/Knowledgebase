@@ -20,7 +20,7 @@ There are many project management and M&E approaches out there. TolaData is buil
     <question multiple> 
 <p>Why is PMD Pro beneficial to non-profits worldwide?</p>
 <answer correct>It offers a structured approach to projects delivery and tracking, making it easier for organizations to report on results and get funding.</answer>
-<answer>It's difficult to adopt for most organizations.</answer>
+<answer>It's difficult to adopt for most organizations.</answer> 
 <answer>Many prominent donors require their grantees to use PMD Pro for the programs and projects funded by them.</answer>
 <explanation>PMD Pro helps you structure your day-to-day work and make the most of your field experiences and lessons learned. If you're concerned you won't be able to fully implement it due to its complexity, we suggest to start small and gradually add more PMD Pro elements to your practice. And we're keeping our fingers crossed for donors to appreciate it and require PMD Pro adoption by their grantees.</explanation>
 </question>
