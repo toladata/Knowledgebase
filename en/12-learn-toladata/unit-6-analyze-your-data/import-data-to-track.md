@@ -18,8 +18,6 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 Feel free to use sample data:
 1. Download a sample Beneficiaries list as a CSV file or link it to TolaData directly [from GoogleDrive](https://docs.google.com/spreadsheets/d/18kZeA9f9akq1PYCNVErtiaMqKzvIity3ZwbTchTptXc/edit?usp=sharing) \[redirects to an external website\].
 
-
-
 #### Further reading
 
 1. Read more on how to [import data from different sources to Track](https://help.toladata.com/en/11-track/import-datasets.html) on the Knowledgebase.
