@@ -43,7 +43,7 @@ Have a look at the indicators below. Can you tell tell SMART from dumb?
             <option>in the world</option>
             <option>in Kazakhstan</option>
             <option>the year before</option>
-            <option correct>in January</option>
+            <option correct>in January 2018</option>
         </answer>
 </question>
 </quiz> 
