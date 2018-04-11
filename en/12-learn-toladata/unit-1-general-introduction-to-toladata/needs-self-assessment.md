@@ -7,7 +7,7 @@ TolaData facilitates your project management and M&E work. Make sure you're maki
 {%youtube%} qwQJk8VB6AM {%endyoutube%}  
 > [See video on YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
 
-#### Practice 
+#### Practice  
 
 Good news! TolaData is easy to learn and you can quickly start using it. Why don't you take a look at other applications that will be useful to know to enhance your TolaData experience and improve your project management and M&E work.
 
