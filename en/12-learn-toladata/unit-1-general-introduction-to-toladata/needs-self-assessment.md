@@ -9,7 +9,16 @@ TolaData facilitates your project management and M&E work. Make sure you're maki
 
 #### Practice
 
-Good news! TolaData is easy to learn and you can quickly start using it. Take a look on other applications that will be useful to know to enhance your TolaData experience and improve your project management and M&E work.
+Good news! TolaData is easy to learn and you can quickly start using it. Why don't you take a look at other applications that will be useful to know to enhance your TolaData experience and improve your project management and M&E work.
+
+<quiz>
+<p>I am familiar with cloud based data storage services, like GoogleDrive.</p>
+<answer>Yes</answer>
+<answer>No</answer>
+<explanation>TolaData is a cloud based software that can easily communicate with other similarly built tools, so familiarity with them is very helpful. Take a look at [Google suite](https://gsuite.google.com/) and specifically [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) to setup your own cloud storage space.</explanation>
+</question>
+</quiz>
+
 
 
 #### Further reading
