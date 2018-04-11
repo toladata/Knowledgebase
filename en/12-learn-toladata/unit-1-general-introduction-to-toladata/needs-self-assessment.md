@@ -17,7 +17,7 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 <answer>No</answer>
 <explanation>TolaData is a cloud based software that can easily communicate with other similarly built tools, so familiarity with them is very helpful. Take a look at [Google suite](https://gsuite.google.com/) and specifically [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) to setup your own cloud storage space.</explanation>
 </question>
-</quiz>
+</quiz> 
 
 
 
