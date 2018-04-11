@@ -8,7 +8,7 @@ Once you've imported data you can then change the column names.
 
 Under `Your Tables` navigation, click on the `Edit` tab and you will see the option to `Edit or Delete Columns` or `Add New Column`. You can even `set new default value` for any of your columns.
 
-![] (https://lh3.googleusercontent.com/3sTsf48cDA-bUxLG4d8JTyRKfzNNbA5JDfAHHVkddXcyRg5H0LPjJcYPIXGNbhIh0t6OSgqUKv9XrVJL9IE2MEQU-C4n1sgFFwJWQMA6hAPDei90KAdl9-cKhgi8CQfFwz_XvtJI)
+![](https://lh3.googleusercontent.com/3sTsf48cDA-bUxLG4d8JTyRKfzNNbA5JDfAHHVkddXcyRg5H0LPjJcYPIXGNbhIh0t6OSgqUKv9XrVJL9IE2MEQU-C4n1sgFFwJWQMA6hAPDei90KAdl9-cKhgi8CQfFwz_XvtJI)
 
 ## Merging Multiple TolaTables
 
