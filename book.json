@@ -25,7 +25,8 @@
         "exercises",
         "page-feedback",
         "-disqus",
-        "language-picker"
+        "language-picker",
+        "recently-updated"
         ],    
     "pluginsConfig":{
            "disqus": {
