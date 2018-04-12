@@ -36,7 +36,7 @@
   * [Three Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Recently updated articles](12-learn-toladata/recently-updated-articles.md)
+* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
 ## Getting Started
 
