@@ -26,7 +26,7 @@
         "page-feedback",
         "-disqus",
         "language-picker",
-        "recently-updated"
+        "-recently-updated"
         ],    
     "pluginsConfig":{
            "disqus": {
