@@ -2,9 +2,9 @@
 
 ---
 
-This course will you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
+This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
 
-In addition, at the end of the course there's a "Train your team" section. You might find it helpful in planning a training for TolaData in your team or organization.
+In addition, at the end of the course there's a "Train your team" section. You might find it helpful in planning a training on TolaData in your team or organization.
 
 ### Who is this course for? 
 
