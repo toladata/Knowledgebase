@@ -1,12 +1,8 @@
-# Train your team members step by step
- 
+# Trainer's role: four easy steps
+
 ---
 
-Now that you are all set to use TolaData, you can teach your team how to use it! Let's get you started. 
-
-## Trainer's role
-
-Trainer's scope of responsibilities will differ significantly between organizations, depending on their size and TolaData use cases. We can, however, define a generic set of trainer's tasks that you can pick and choose from, to fit your needs.
+Now that you are all set to use TolaData, you can teach your team how to use it! Let's get you started. Trainer's scope of responsibilities will differ significantly between organizations, depending on their size and TolaData use cases. We can, however, define a generic set of trainer's tasks that you can pick and choose from, to fit your needs.
 
 ### Assess what is there to be done
 
