@@ -10,7 +10,22 @@ Trainer's scope of responsibilities will differ significantly between organizati
 
 #### Assess what is there to be done
 
+The following factors are worth considering while preparing for the training:
+
+1. Who are your learners?
+Before you start working with a team, you need to understand their strengths, weaknesses and needs. For TolaData training, we're using the following [assessment form](https://enketo.ona.io/x/#p91m) [redirects to an external website]. This helps us adjust the training to the participants' level of expectations. You'll find an XLS form with this survey in the Resources section below. Feel free to adapt it and use it for your practice. 
+2. Why do you want them to learn a new skill?
+It is crucial to understand and communicate, why your training is happening. No one engages eagerly in activities they deem pointless and you don't want to loose their or your time, either. 
+3. What do they need to learn?
+Departing from your understanding of participants' background and the ultimate goal you want to accomplish, define the scope of your training. Customization is the key - teach only what people need to know for their job function and role. You might want to split the group based on that.
+4. What is the expected benefit to both your learners and the organization?
+Anticipate resistance and act: be prepared to speak to how TolaData benefits to [funders](https://www.toladata.com/dashboard-for-funders/), [project managers](https://www.toladata.com/project-managers-ngo/) and [senior managers](https://www.toladata.com/senior-managers-ngos/) [redirects to TolaData website].
+5. What resources do you need to deliver the training?
+And last but not least, think about the logistics: format (online, in person), time, room (projector, sitting arrangement), internet connection, possibly travel and accommodation.
+
 #### Plan the training: engagement, experience and feedback
+
+Once you have a clear vision of what you want to do, why and how, it's time to do some planning. Look up examples of TolaData [training agendas we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) [redirects to an external website].   
 
 #### Conduct the training
 
@@ -57,9 +72,9 @@ Setup calls, schedule meetings, or demos with your demo. Or you can even out to 
 Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**
 **
 
-> ### Further reading
+> ### Resources
 >
-> 1. Read more on...** **
+> 1. https://drive.google.com/open?id=1gtclpv_oLFIrl4FAjJ90vCbm0dIhA-15 xls form with survey
 
 
 
