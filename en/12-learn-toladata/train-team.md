@@ -23,59 +23,29 @@ Anticipate resistance and act: be prepared to speak to how TolaData benefits to 
 5. What resources do you need to deliver the training?
 And last but not least, think about the logistics: format (online, in person), time, room (projector, sitting arrangement), internet connection, possibly travel and accommodation.
 
-#### Plan the training: engagement, experience and feedback
+#### Prepare the training
 
-Once you have a clear vision of what you want to do, why and how, it's time to do some planning. Look up examples of TolaData [training agendas that we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) as well as training [slidedeck you can use to provide training on all TolaData components](https://drive.google.com/open?id=1pz6IB3Zwb8efOgXvi8gZ-w8E_NoyHzXPoTkrn5vt_zo) [redirects to an external website].
+##### Planning
+Once you have a clear vision of what you want to do, why and how, it's time to do some planning. Look up examples of TolaData [training agendas that we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) as well as training [slidedeck you can use to provide training on all TolaData components](https://drive.google.com/open?id=1pz6IB3Zwb8efOgXvi8gZ-w8E_NoyHzXPoTkrn5vt_zo) [redirects to an external website]. Remember: everyone wants to see the system, so start with demoing TolaData to your team as soon as possible in the training.
 
+##### Engagement
 Once you've decided which training format fits your needs best, you'd like to diversify your online or offline meetings, so that they're both a efficient and pleasant meeting. For in person training, feel free to use [these energizers](https://docs.google.com/document/d/1HohufUBEUc8vqR-C93TL8-36AKNOlFI2QuX3i9XYoms/edit?usp=sharing) [redirects to an external website]. In online facilitated classes it is crucial to check in with your participants often, to make sure they're focused and on track. You might also want to use engagement tools, like surveys, voting or raising hands that are provided by most online conference tools.
 
-Want to know how it went? Don't forget to ask your trainees for opinion! Consult [TolaData training evaluation](/enketo.ona.io/x/#phzR) form and play around with it's XLS form in the Resources section.
-
-   
+##### Feedback
+Want to know how it went? Don't forget to ask your trainees for opinion! Consult [TolaData training evaluation](/enketo.ona.io/x/#phzR) form and play around with its XLS form in the Resources section. For in person trainings, you might want to consider regular feedback sharing and sessions at the end of the training to identify possible pitfalls and areas to improve.   
 
 #### Conduct the training
 
-#### Evaluate
+OK, so you've prepared and now intend to implement the training as planned. You have all the relevant materials in place, the internet is working, and even the coffee tastes good. What could go wrong? Well, be prepared for unexpected and to change the agenda according to the participants' needs. Be ready to stop and clarify on open issues. In both in person and online classes you might want to secure a co-trainer to help you attend to individual questions or to support trainees who are lagging behind. 
 
 #### Provide ongoing, on request support for the team
 
-## Why TolaData?
+The training is finished, but your work is not. Your trainees will get back to you with any questions regarding the system, issues or product enhancement ideas. Think of a convenient way to address their requests - do you want to set up a group on some messanger, or use your intranet for it? It's up to you, but your trainees need to know where to go when in trouble. 
 
-'Why TolaData' is a question you will have answer when you try to onboard your team to start using TolaData. Here are a couple of pointers to keep in mind when trying to demonstration the value of TolaData.
+##### Invite team members to TolaData
 
-Benefits of using TolaData:
-
-* End-to-end solution for your program management process. You don't have to worry about using different tools to manage all your program and monitoring and evaluation \(M&E\) data. TolaData provides an end-to-end solution for your entire program life cycle and manage the workflow process.
-
-* _Traceability and accessibility of program data._ Remember how every time you have to report to donors or senior management you have struggle to look for program progress data? Now all your program data are neatly aligned with measurable indicators and progress tracking indicator results is just click away! Your survey and monitoring data are also traceable directly to your indicator results.
-
-* Flexible to integrate with existing system. If you are in the development sector for a long time, chances are you are already using many of the data management and monitoring tools. TolaData offers easy integration with any tools with external API so your data can be easily migrated from existing system.
-
-* Community led.TolaData uses a bottom up approach in designing the platform. It focuses on gathering feedback and enhancement requests directly from the users by maintaining an open user community to engage with each other.
-
-## Demo core modules
-
-Schedule some time to walk the team through each of the modules of TolaData. You might want to invite your Program Manager and your Monitoring and Evaluation Manager to attend the demo.
-
-Here are the list of modules that you can go through with your team.
-
-\[links to each modules knowledgebase page\]
-
-* Programs
-
-* Activities
-
-* Indicators
-
-* Forms
-
-* Reports
-
-Setup calls, schedule meetings, or demos with your demo. Or you can even out to us for a more structured training for your team!
-
-## Invite team members to TolaData
-
-Send all your team members invitation to TolaData! Ask them to login to \[link to TolaData.io\]. Then add them to your program team.![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**
+You might conduct the training on the [demo site](https://demo.toladata.io/) [redirects to an external website], but eventually you want everyone to use your production site. Send all your team members invitation to TolaData! Ask them to login to. Then add them to your program team.
+![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**
 **
 
 > ### Resources
