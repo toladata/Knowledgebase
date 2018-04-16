@@ -46,7 +46,7 @@ You might conduct the training on the [demo site](https://demo.toladata.io/) [re
 #### External resources for your convenience
 
 1. [XLS form (Pre-training assessment survey)](https://drive.google.com/file/d/1W9RUMV3rwGfzvhtLwKdX9TeSDRTLmUPv/view);
-2. [XLS form (TolaData training evaluation)] (https://drive.google.com/file/d/1f3VG2rFK_fyz4AZtScsqCH-wKZir3GXa/view);
+2. [XLS form (TolaData training evaluation)](https://drive.google.com/file/d/1f3VG2rFK_fyz4AZtScsqCH-wKZir3GXa/view);
 3. [A folder full of TolaData training materials](https://drive.google.com/open?id=1yd7mzJvzj1kaI5EA3pAzTPlv3agc3gsP) and ready-to-use tools to support your training.
 
 
