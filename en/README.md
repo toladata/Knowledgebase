@@ -1,22 +1,20 @@
 ****
 # TolaData Help Center
 ---
-This collection of articles are meant to provide you guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
+This collection of articles is meant to provide you with guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
 
 ### What is TolaData?
 
-[**TolaData**](http://toladata.com) is an open-source monitoring and project management platform that simplifies the way you manage and track your projects.
-
-Here's is a quick introduction of the platform:
+[**TolaData**](http://toladata.com) is a monitoring and project management platform that simplifies the way you manage and track your projects.
 
 {%youtube%} 3OLfDlK_uhY {%endyoutube%}
-> [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
+> [A quick introduction to the platform](https://youtu.be/3OLfDlK_uhY)
 
 ### Core Products
 
 ![](/assets_en/activity logo text.png)
 
-**Activity** is TolaData’s project management toolkit, comprises a collection of data forms, reports and visualizations designed to track results of your programs and projects.
+**Activity** is TolaData’s project management toolkit, comprised of a collection of data forms, reports and visualizations designed to track results of your programs and projects.
 
 ### ![](/assets_en/Activity_Logo.jpg) Standardization alongside adaptability 
 A standard set of forms is available to capture the full data lifecycle of a program, integrating tools like logframe and work-breakdown structures. Each stage of a project is tracked on **Activity** dashboards, allowing managers and staff to see progress at a glance. Primary forms are supplemented by flexible monitoring forms like training attendance or beneficiary registration.
