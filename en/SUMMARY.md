@@ -33,7 +33,7 @@
   * [Viewing Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports/viewing-reports.md)
   * [Creating Customized Dashboards](12-learn-toladata/unit-7-creating-dashboards-and-reports/creating-customized-dashboards.md)
 * [Train your team](12-learn-toladata/train-your-team.md)
-  * [Three Easy Steps](12-learn-toladata/train-team.md)
+  * [Four Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 * [Recent changes ](12-learn-toladata/recently-updated-articles.md)
