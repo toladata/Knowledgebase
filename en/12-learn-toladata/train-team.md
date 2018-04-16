@@ -1,4 +1,4 @@
-# Trainer's role: four easy steps
+# Four easy steps to delivering a training
 
 ---
 
