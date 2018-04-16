@@ -25,7 +25,13 @@ And last but not least, think about the logistics: format (online, in person), t
 
 #### Plan the training: engagement, experience and feedback
 
-Once you have a clear vision of what you want to do, why and how, it's time to do some planning. Look up examples of TolaData [training agendas we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) [redirects to an external website].   
+Once you have a clear vision of what you want to do, why and how, it's time to do some planning. Look up examples of TolaData [training agendas that we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) as well as training [slidedeck you can use to provide training on all TolaData components](https://drive.google.com/open?id=1pz6IB3Zwb8efOgXvi8gZ-w8E_NoyHzXPoTkrn5vt_zo) [redirects to an external website].
+
+Once you've decided which training format fits your needs best, you'd like to diversify your online or offline meetings, so that they're both a efficient and pleasant meeting. For in person training, feel free to use [these energizers](https://docs.google.com/document/d/1HohufUBEUc8vqR-C93TL8-36AKNOlFI2QuX3i9XYoms/edit?usp=sharing) [redirects to an external website]. In online facilitated classes it is crucial to check in with your participants often, to make sure they're focused and on track. You might also want to use engagement tools, like surveys, voting or raising hands that are provided by most online conference tools.
+
+Want to know how it went? Don't forget to ask your trainees for opinion! 
+
+   
 
 #### Conduct the training
 
