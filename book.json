@@ -19,7 +19,8 @@
         "-edit-links",
         "anchors",
         "header",
-        "meta",
+        "-meta",
+        "verifications",
         "-quizzes",
         "quiz",
         "exercises",
@@ -63,6 +64,9 @@
                 "name": "google-site-verification",
                 "content": "QHbZ-5LJ-NBS2JQ7d1EBhKvmwZGrrXLU-ZrXF0LjGBs"
            },
+           "verifications": {
+                "googleSearchConsoleContent": "QHbZ-5LJ-NBS2JQ7d1EBhKvmwZGrrXLU-ZrXF0LjGBs"
+           ],
            "links": {
                 "sidebar": {
                      "Contact Us": "mailto:support@toladata.com"
