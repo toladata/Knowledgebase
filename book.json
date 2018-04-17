@@ -7,7 +7,6 @@
         "links",
         "expandable-chapters",
         "youtubex",
-        "youtube",
         "-downloadpdf",
         "advanced-emoji",
         "-sharing",
@@ -92,7 +91,7 @@
            },
            "autocover": {
                 "title": "TolaData Guide",
-                "author": "November 2017",
+                "author": "April 2018",
                 "font": {
                     "size": null,
                     "family": "Questrial",
