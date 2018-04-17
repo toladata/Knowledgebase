@@ -26,7 +26,7 @@ In this course you will come across different content types, like videos, practi
 
 Most of our content is delivered through short video tutorials and product screencasts. They're subtitled in English and auto-translated captions can be enabled in one of many YouTube supported languages. See below how to do it! You will also find a link to full transcripts under each video.  
 
-![](/assets_en/lang.gif)
+![](/assets_en/lang.gif) 
 
 ##### Practice 
 
