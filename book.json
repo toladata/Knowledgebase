@@ -46,16 +46,6 @@
            "language-picker": {
                 "grid-columns": 3
            },
-           "ga": {
-                "token": "UA-109670551-1",
-                "configuration": {
-                     "cookieName": "TDHelpCookie",
-                     "cookieDomain": "https://help.toladata.com"
-                 }    
-           },
-           "3-ba": {
-                "token": "UA-109670551-1"
-           },
            "gtm": {
                 "token": "GTM-K7LMBTC",
                 "virtualPageViews": true
