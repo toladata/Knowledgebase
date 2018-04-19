@@ -1,5 +1,5 @@
 ****
-# TolaData Help Center
+# TolaData Knowledgebase
 ---
 This collection of articles will provide you with guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
 
