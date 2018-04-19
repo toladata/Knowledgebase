@@ -29,11 +29,9 @@
         "-recently-updated"
         ],    
     "pluginsConfig": {
-           "header": {
-                "layout": {
+               "layout": {
                      "headerPath": "_layouts/header.html"
                      }
-                }
            },
            "disqus": {
                 "shortName": "toladata"
