@@ -28,7 +28,13 @@
         "-language-picker",
         "-recently-updated"
         ],    
-    "pluginsConfig":{
+    "pluginsConfig": {
+           "header": {
+                "layout": {
+                     "headerPath": "_layouts/header.html"
+                     }
+                }
+           },
            "disqus": {
                 "shortName": "toladata"
            },
