@@ -29,10 +29,6 @@
         "-recently-updated"
         ],    
     "pluginsConfig": {
-               "layout": {
-                     "headerPath": "_layouts/header.html"
-                     }
-           },
            "disqus": {
                 "shortName": "toladata"
            },
@@ -41,7 +37,7 @@
                 "slack-webhook": "https://hooks.slack.com/services/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"
            },
            "layout": {
-                "headerPath" : "_layouts/header.md"
+                "headerPath" : "_layouts/header.html"
            },
            "richquotes": {
                 "default": false
