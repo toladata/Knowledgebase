@@ -1,6 +1,6 @@
 # Summary
 
-## Welcome Page
+## Welcome
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
