@@ -16,7 +16,7 @@ Activities are concrete actions that you take to develop your program, in order 
 
 #### Dashboard
 
-Dashboard is a custom, graphic project report. It offers you a transparent, dynamic view of the data associated with your work at the country, program, and project level. Dashboards can be used to make management decisions as well as a location to track your progress.
+A dashboard is a custom, visual project report. It offers you a transparent, dynamic view of the data associated with your work at the country, program, and project level. Dashboards can be used to make management decisions as well as a location to track your progress.
 
 #### Indicator
 
@@ -44,7 +44,7 @@ A results framework is a graphical display or matrix of the different levels of 
 
 #### Tola
 
-We mean 'complete data', when we use this Pashtun word for 'all' or 'complete'. 
+We mean 'complete data' when we use this Pashtun word for 'all' or 'complete'.
 
 #### TolaData
 
@@ -56,7 +56,7 @@ An open-source project and data management software.
 
 #### Unique columns
 
-A unique column is any column in your table within Track that does not have the same data in any of its rows; each row in the column is unique and does not repeat. For example, User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a column called uu\_id which is a universal unique id. The uu-id column is a great column to assign as your unique column. Assigning a unique column in Tables will ensure that only new data is added to your Table when you turn on auto-pull or choose to manually update a table in Track.
+A unique column is any column in your table within Track that does not have the same data in any of its rows; each row in the column is unique and does not repeat. For example, User IDs or Serial Numbers are good examples of unique data. Tables imported from services like Ona will usually have a column called uu\_id which is a universal unique id. The uu-id column is a great column to set as your unique column. Assigning a unique column in Tables will ensure that only new data is added to your Table when you turn on auto-pull or choose to manually update a table in Track.
 
 
 

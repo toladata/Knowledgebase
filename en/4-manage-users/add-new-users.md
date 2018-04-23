@@ -32,7 +32,7 @@ Once they've signed up, select the program you want to add them to and go the te
 
 ### Configuring Team
 
-### Change Team Roles
+#### Change Team Roles
 
 It's easy to assign different permission levels to each member of your team. You must be designated as a `Program Admin` in order to change Team Member roles.
 
@@ -59,7 +59,7 @@ There are three types of user roles in the system:
 | View Reports | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
 | Delete Program, Results Framework, Indicator | ![](/assets_en/fa-check.png) |  |  |
 
-### Setting team member permissions \(Program Admin Only\)
+#### Setting team member permissions \(Program Admin Only\)
 
 Once a team member has logged in to the system, the team member needs to be added to the program with the following steps:
 
@@ -68,7 +68,7 @@ Once a team member has logged in to the system, the team member needs to be adde
 
 Once added, you can change the role of a team member:
 
-1. Under `Role`, click from the dropdown menu and select a user role: `Program Admin`, `Program Team`, `Program View Only`.
+1. Under `Role`, click from the dropdown menu and select a user role: `Program Admin`, `Program Team`, `View Only`.
 
 ![](/assets_en/team approval.png)
 
