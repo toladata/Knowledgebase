@@ -1,4 +1,7 @@
-****
+<HEAD>
+<meta charset="UTF-8">
+<meta name="google-site-verification" content="google9310c3e60d75e311.html">
+</HEAD>
 # TolaData Help Center
 ---
 This collection of articles are meant to provide you guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
