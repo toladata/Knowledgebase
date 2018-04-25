@@ -11,12 +11,11 @@ Objectives are specific circumstances to be achieved within a stated time frame 
 Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that meaningful impact is achieved that the program intended to accomplish.
 
 #### Adding objectives
-
 To add objectives:
 
 1. Go to the `Programs` tab and click on the `Objectives` section.
-2. Under `Strategic Objectives`, Click, `Add`.
-3. Add your objective `Name` and `Description`.
+2. Under Strategic Objectives, Click, `Add`.
+3. Add your objective Name and Description.
 4. After you associate indicators to your objectives, you will see them displayed here.
 
 Under the `Programs` tab.
