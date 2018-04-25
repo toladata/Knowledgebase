@@ -1,3 +1,5 @@
+>> I suggest to remove all the definitions and start this article with 'Adding a new program'
+
 # Program Guide
 
 ---
@@ -8,7 +10,7 @@ Before you start with TolaData here are some key terms that will help you naviga
 
 ![](https://lh5.googleusercontent.com/19fnuYqBVR84z7RO9d_e3FvVfDuV8s1-ufCkaneDN5CCGVYe0u8_nPxvkJt09aNqkS2rY8RxssKzIQwODRdtMeFQRx_5-4jO2CzfOfGOT3lRSrlWpYgnYpiStz_vwCMKD5D3otGH)
 
-> Source: [PMDPro Guide, PM4NGOs](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
+Source: [PMDPro Guide](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
 
 ### Have a Portfolio or Country of Programs?
 To create a country or portfolio level please contact us directly at: [support@toladata.com](mailto:support@toladata.com) for us to setup your own portfolio or country instance.
@@ -26,19 +28,20 @@ Here's an example of how `programs`, `projects` and `activities` can be broken d
 
 ### Adding a new program
 
-To add a new program for your team or organization, go to the `Programs` tab and click `Add New Program`. Start by adding your `Program Name`, `Start date`, and `End date`. Click `Submit` and you're all set!
+To add a new program for your team or organization, go to the Programs tab and click `Add New Program`. Start by adding your Program Name, Start date, and End date. Click `Submit` and you're all set!
 
-From here you will prompted to the `Program Guide` to help you start adding information about your program in the following sections:
+From here you will prompted to the Program Guide to help you start adding information about your program in the following sections:
 
-* `Sectors`
+* Sectors;
 
-* `Results Framework`
+* Results Framework;
 
-* `Indicator plan`
+* Indicators;
 
-* Any `data collection forms` you would be using for tracking your indicators
+* Any Project Forms that you would be using for collecting data and tracking your indicators.
 
 > **Quick Tip:** 
-Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
+1. Don’t worry if you cannot complete all the details here! You can always go back later to complete any of the sections at your own pace. :relaxed:
+2. Come back to the Program Guide by simply clicking on the three dots icon, accessible from the Programs tab in every program's row.
 
 ![](https://lh6.googleusercontent.com/nwgMBMy9LuyjIRLXt22PYP86kJ71q6ppFq1HNqdnJkowN_TN9TacJ2v0sdCywtF6rf12QMUWb6YKNie9Mq0wk6-HWVNWM_TJGJuQ7iMY44YpGS4Beit6g8_A3fME7IcOc5Mqsbrp)
