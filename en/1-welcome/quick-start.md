@@ -27,7 +27,7 @@ See how it's done:
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
 #### Further reading
-Configure your platform to make it more relevant to your program! Here is a [detailed article on configuration](https://help.toladata.com/en/4-manage-users/configuration.html) on the Knowledgebase.
+Configure the platform to make it more relevant to your programs! Here is a [detailed article on configuration](https://help.toladata.com/en/4-manage-users/configuration.html) on the Knowledgebase.
 
 
 

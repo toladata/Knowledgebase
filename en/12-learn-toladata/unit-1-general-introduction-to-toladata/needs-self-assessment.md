@@ -13,7 +13,7 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 
 <quiz>
 <question> 
-<p>I am familiar with cloud based data storage services, like GoogleDrive.</p>
+<p>I am familiar with cloud based data storage services, like GoogleDrive or OneDrive.</p>
 <answer correct>Yes</answer>  
 <answer>No</answer>
 <explanation>TolaData is a cloud based software that can easily communicate with other similarly built tools, so familiarity with them is very helpful. Take a look at GoogleDrive to setup your own cloud storage space.</explanation>
@@ -29,6 +29,12 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 <answer correct>Yes</answer>  
 <answer>No</answer>
 <explanation>It is very helpful to have your datasets in tabular form which means having all your data in either Excel, relational database, or a web based database. This can help you not only to easily manage and analyze your data but also to import your existing datasets to TolaData directly. To fully transition your data to tabular form you can start with Excel and later move to relational and web based softwares.</explanation> 
+</question>
+<question>
+<p>I use standard tools and indicators whenever possible.</p>
+<answer correct>Yes</answer>
+<answer>No</answer>
+<explanation>Reuse of standard program indicators and KPIs, as well as including them in new proposals is crucial to quality M&E at your organization, while using standard data collection tools makes it possible to compare your results across programs and projects. An important step towards excellent M&E is to include it into organizational strategies or annual plans.</explanation>
 </question>
 </quiz> 
 
