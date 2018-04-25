@@ -7,7 +7,7 @@ Team is everyone who works on a program or project and has access to it on TolaD
 
 #### Why list your team members?
 
-Having a list of all users who can create, edit and view your program data is crucial to keeping it secure and your program management.
+Having an up to date list of all users who can create, edit and view your program data is crucial to keeping it secure and for your program management.
 
 #### Adding team members
 
