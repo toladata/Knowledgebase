@@ -16,7 +16,7 @@ The type of modules that you can add are:
 * Sites
 * Indicators
 
-Simply click on an orange `+` button to add a new tab. 
+Simply click on an orange `+` button to add a new tab, according to your needs. 
 
 ![](/assets_en/add_activities.PNG)
 
