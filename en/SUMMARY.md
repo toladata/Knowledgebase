@@ -61,7 +61,7 @@
 
 * [Program Guide](6-programs/program-guide.md)
 * [Program Modules](6-programs/program-modules.md)
-  * [Site](6-programs/site.md)
+  * [Sites](6-programs/site.md)
   * [Milestones](6-programs/milestones.md)
   * [Objectives](6-programs/objectives.md)
   * [Stakeholder](6-programs/stakeholder.md)
