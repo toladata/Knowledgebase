@@ -2,7 +2,7 @@
 
 ---
 
-TolaData has a global search feature located at the top of the screen to help you find what you're looking for.  
+TolaData has a search feature located at the top of the screen to help you find what you're looking for.  
 
 ![](https://lh4.googleusercontent.com/XW9iBgoPaCFFj2FIBCBQcQgDLE49SFkDKfuTr2P115YrJz052EdK-33Xwnm3lCvipAlfB1NirD7fhWADNJKK4dLFSvfAhphG0tfVCo5tzP5d8d8zenIjBn2UmZtP1E_CiZjtzsFm)
 
