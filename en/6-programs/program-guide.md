@@ -1,4 +1,4 @@
->> I suggest to remove all the definitions and start this article with 'Adding a new program'
+>> I suggest to remove some definitions and start this article with 'What is a program'
 
 # Program Guide
 
