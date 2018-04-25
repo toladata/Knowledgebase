@@ -6,13 +6,13 @@ Oftentimes you will be using [**TolaData**](https://www.toladata.com/) in remote
 
 ### How does TolaData work offline?
 
-[**TolaData**](https://www.toladata.com/) uses your browser cache to temporarily store your data. When offline, all the data you input gets queued and once you're back online, they get synced and uploaded to the system. And that's it.
+[**TolaData**](https://www.toladata.com/) uses your browser cache to temporarily store your data. When you go offline, all the data you input gets queued and once you're back online, they get synced and uploaded to the system. And that's it.
 
 ![](/assets_en/offline4.gif)
 
 ### What can I do to safely work offline?
 
-To not lose any data, do the following:
+To not lose any data, make sure that you:
 
 1. Have the TolaData page loaded when you are online;
 2. Don't close your browser while working offline until you're connected back to the internet;
