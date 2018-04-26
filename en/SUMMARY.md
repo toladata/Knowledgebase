@@ -101,8 +101,8 @@
 ## Reports & Dashboards
 
 * [What are Reports & Dashboards?](10-reports/what-is-a-report.md)
-* [View Reports](10-reports/viewing-reports.md)
-* [Custom Dashboards](10-reports/custom-reports.md)
+* [Reports](10-reports/viewing-reports.md)
+* [Dashboards](10-reports/custom-reports.md)
 
 ## Track
 
