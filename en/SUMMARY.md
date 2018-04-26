@@ -70,7 +70,7 @@
 
 ## Activities
 
-* [Activity Guide](7-activities/what-is-an-activity.md)
+* [What is an Activity?](7-activities/what-is-an-activity.md)
 * [Add Activities](7-activities/add-activity.md)
 * [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
 * [Activity Modules](7-activities/activity-modules.md)
