@@ -5,6 +5,7 @@
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
 * [Glossary](2-getting-started/glossary.md)
+* [FAQ](14-external-resources/faq.md)
 
 ## Take a course on TolaData
 
@@ -111,12 +112,9 @@
 * [Update Data Real-time](11-track/update-data-real-time.md)
 * [Export Datasets](11-track/export-datasets.md)
 
-## Form Guide
-
-## External Resources
+## \[D\] External Resources
 
 * [Making your dataset "analysis-ready"](14-external-resources/making-your-dataset-analysis-ready.md)
 * [Document Storage](14-external-resources/document-storage.md)
 * [Mobile Data Collection ](14-external-resources/mobile-data-collection.md)
-* [FAQ](14-external-resources/faq.md)
 
