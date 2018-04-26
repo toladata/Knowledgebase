@@ -1,5 +1,7 @@
 >> I suggest to remove some definitions and start this article with 'What is a program'
 
+define a program + wfl description w 2 examples (traditional & GOAL `multipartner program`)
+
 # Program Guide
 
 ---

@@ -4,6 +4,7 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [Glossary](2-getting-started/glossary.md)
 
 ## Take a course on TolaData
 
@@ -40,9 +41,8 @@
 
 ## Getting Started
 
-* [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
-* [Our Approach](2-getting-started/history-and-approach.md)
-* [Glossary](2-getting-started/glossary.md)
+* [\[D\] Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
+* [\[D\] Our Approach](2-getting-started/history-and-approach.md)
 
 ## Admin Console
 
@@ -59,7 +59,7 @@
 
 ## Programs
 
-* [Program Guide](6-programs/program-guide.md)
+* [What is a Program?](6-programs/program-guide.md)
 * [Program Modules](6-programs/program-modules.md)
   * [Sites](6-programs/site.md)
   * [Milestones](6-programs/milestones.md)

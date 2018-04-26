@@ -1,5 +1,3 @@
-=> I suggest to move this article to the 'Welcome' section at the top of page and delete 'Getting Started' section alltogether
-
 # Glossary
 
 ---
