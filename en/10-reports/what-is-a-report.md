@@ -1,4 +1,4 @@
-# What is a Report?
+# What are Reports & Dashboards?
 
 ---
 

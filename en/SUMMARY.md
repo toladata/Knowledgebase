@@ -98,11 +98,11 @@
 * [Design a Form](9-form-library/designing-a-form.md)
 * [Linking Forms to Programs](9-form-library/adding-forms-to-library.md)
 
-## Reports
+## Reports & Dashboards
 
-* [What is a Report?](10-reports/what-is-a-report.md)
+* [What are Reports & Dashboards?](10-reports/what-is-a-report.md)
 * [View Reports](10-reports/viewing-reports.md)
-* [Custom Reports](10-reports/custom-reports.md)
+* [Custom Dashboards](10-reports/custom-reports.md)
 
 ## Track
 
