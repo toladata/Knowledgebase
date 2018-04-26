@@ -2,11 +2,11 @@
 
 ---
 
-**Adding Budget Items**
+### Adding Budget Items
 1. To add a module, click ![](/assets_en/Screen Shot 2017-12-08 at 10.41.43 AM.png) button and select `Budget`. 
 2. To add a new budget item, click ![](/assets_en/Screen Shot 2017-12-08 at 11.11.32 AM.png).
 
-**Use case**
+### Use case
 
 Activity level Budget versus Actual \(BvA\) data can be tracked. So any overspent or underspent budget at activity level can be captured and adjusted.
 
