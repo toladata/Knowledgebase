@@ -2,7 +2,7 @@
 
 ---
 
-When creating datasets, teams are good at conceiving a system that works well for their particular use case. However, in order to make a dataset integrate well into dashboarding/analytical tools, there are some specific ways in which it needs to be set up. Subsequently you will be shown some common practices in compiling datasets to facilitate data analysis and use.
+Read on to make sure your dataset integrates well into dashboarding/analytical tools. Below you will be shown some common practices in compiling datasets to facilitate data analysis and use.
 
 If you follow the following best practices, **the data that you have spent so much time and energy collecting will be very useful to you and your team. **
 
