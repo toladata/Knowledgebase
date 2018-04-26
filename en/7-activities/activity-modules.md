@@ -8,7 +8,8 @@ In TolaData users can add different modules to each activity or project created.
 
 
 
-### Modules available ?? how to show them??
+### Modules available 
+<!--?? how to show them??-->
 
 The types of modules that you can add are:
 #### Details
