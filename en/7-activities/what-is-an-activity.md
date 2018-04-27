@@ -1,5 +1,5 @@
+****
 # Activity Guide
-
 ---
 ### What is an Activity?   
 

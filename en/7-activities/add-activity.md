@@ -1,5 +1,5 @@
+****
 # Add Activities
-
 ---
 
 Adding activities to a program is very easy! Click on the orange `+` button to add new activities to your program.
