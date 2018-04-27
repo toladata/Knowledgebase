@@ -1,5 +1,5 @@
+****
 # FAQ
-
 ---
 ### Reporting
 #### Can you add pictures and text to dashboards?

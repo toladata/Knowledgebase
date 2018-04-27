@@ -1,5 +1,5 @@
+****
 # Glossary
-
 ---
 
 These are some key terms that you'll come across TolaData. Get to know them and make navigating through the platform a breeze.

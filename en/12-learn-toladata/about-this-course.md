@@ -1,5 +1,5 @@
+****
 # About this course
-
 ---
 
 This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.

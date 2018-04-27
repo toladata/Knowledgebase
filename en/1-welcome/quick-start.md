@@ -1,5 +1,5 @@
+****
 # Quick Start
-
 ---
 
 Setting up your TolaData instance is super easy! Let us walk you through it.
