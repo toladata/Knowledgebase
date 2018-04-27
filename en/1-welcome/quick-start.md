@@ -8,7 +8,9 @@ Setting up your TolaData instance is super easy! Let us walk you through it.
 
 Login to your TolaData account and kick things off by adding a program.
 
-Click on `Add Program` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
+Click on `Add Programs` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
+
+![](/assets/add_program.PNG)
 
 Next, you will be taken to 'Program Guide' where you can add your:
 
