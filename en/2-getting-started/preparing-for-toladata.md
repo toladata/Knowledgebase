@@ -1,5 +1,3 @@
-=> I suggest to delete this article and merge tier 2 into needs self assessment exercise in the course
-
 # Get most out of TolaData!
 
 ---

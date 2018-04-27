@@ -40,11 +40,6 @@
 * [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
 * [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
-## Getting Started
-
-* [\[D\] Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
-* [\[D\] Our Approach](2-getting-started/history-and-approach.md)
-
 ## Admin Console
 
 * [Setup](4-manage-users/setup.md)
@@ -111,10 +106,4 @@
 * [Clean and Merge Data](11-track/clean-and-merge-data.md)
 * [Update Data Real-time](11-track/update-data-real-time.md)
 * [Export Datasets](11-track/export-datasets.md)
-
-## \[D\] External Resources
-
-* [Making your dataset "analysis-ready"](14-external-resources/making-your-dataset-analysis-ready.md)
-* [Document Storage](14-external-resources/document-storage.md)
-* [Mobile Data Collection ](14-external-resources/mobile-data-collection.md)
 
