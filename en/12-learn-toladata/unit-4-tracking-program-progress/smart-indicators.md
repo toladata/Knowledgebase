@@ -1,5 +1,5 @@
+****
 # Design a SMART Indicator Plan
-
 ---
 
 Before you start adding your indicators to the system, why don't you make a pit stop to check on their SMART-ness?

@@ -1,5 +1,5 @@
+****
 # Train your team
-
 ---
 
 Read this section, if you're planning to implement TolaData in your team or organization.

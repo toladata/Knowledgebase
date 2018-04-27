@@ -6,6 +6,8 @@
 * [Quick Start](1-welcome/quick-start.md)
 * [Glossary](2-getting-started/glossary.md)
 * [FAQ](14-external-resources/faq.md)
+* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
+* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
 ## Take a course on TolaData
 
@@ -37,8 +39,6 @@
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Four Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
-* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
 ## Admin Console
 

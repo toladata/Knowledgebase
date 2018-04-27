@@ -1,5 +1,5 @@
+****
 # Adding Activities
-
 ---
 
 Activities are concrete actions that make your programs happen. Let's see how you can keep track of them in the system.
