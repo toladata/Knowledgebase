@@ -28,7 +28,6 @@ The Indicator tracking tool creates indicators at activity, output, outcome, and
 #### ![](/assets_en/Activity_Logo.jpg) Modular approach to management
 Each program activity can be linked to a multitude of connecting modules including budget management, procurement, staffing, stakeholder management, and geo-location tracking. This allows for data linking and reporting across different regions, programs, and activities.
 
-
 ![](/assets_en/track logo text.png)
 
 ### Track
