@@ -85,7 +85,7 @@
 
 * [What is a Form?](9-form-library/what-is-a-form.md)
 * [Design a Form](9-form-library/designing-a-form.md)
-* [Linking Forms to Programs](9-form-library/adding-forms-to-library.md)
+* [Publish a Form](9-form-library/adding-forms-to-library.md)
 
 ## Reports & Dashboards
 
