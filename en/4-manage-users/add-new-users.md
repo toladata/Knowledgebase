@@ -4,7 +4,7 @@
 
 <!-- 
 
-#Leave out login details. Details will only be share directly with clients.
+Leave out login details. Details will only be share directly with clients.
 
 ### Login to TolaData
 
@@ -27,6 +27,8 @@ There are a few ways a user can sign on:
 ### Add User to a Program
 
 Once they've signed up, select the program you want to add them to and go the teams section. Once there, click on `Add Existing Team Member` to add relevant team member from the dropdown menu.
+> **Quick Tip:**   
+> You will add users to programs from a selected program's `Team` tab, not from the `Admin console`. 
 
 ![](https://lh4.googleusercontent.com/qryhqZw6whKEaLQuQAJniPPXBfEh7GhuVNiWuJJhUw01VMPc-J2aQBZ67NiTTyY7RtScEhd1HOmxPBxi27bEW-DosZVi1IbHo8bzbI3eECOlPjSmXhlPWyPCTHk64QrnxzpO_5SW)
 
@@ -41,7 +43,7 @@ It's easy to assign different permission levels to each member of your team. You
 
 Once added, you can change the role of a team member:
 
-1. Under `Role`, click from the dropdown menu and select a user role: Program Admin, Program Team, View Only.
+1. Under Role, click from the dropdown menu and select a user role: Program Admin, Program Team, View Only.
 
 ![](/assets_en/team approval.png)
 

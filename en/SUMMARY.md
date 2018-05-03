@@ -38,16 +38,14 @@
 
 ## Admin Console
 
-* [Setup](4-manage-users/setup.md)
 * [Configuration](4-manage-users/configuration.md)
 * [Users](4-manage-users/add-new-users.md)
-* [Set Approval Settings](4-manage-users/set-approval-settings.md)
+* [Setup](4-manage-users/setup.md)
 
 ## Navigation
 
 * [Search](5-navigation/search.md)
 * [Filters](5-navigation/filters.md)
-* [Using TolaData offline](5-navigation/offline-use-of-toladata.md)
 
 ## Programs
 
