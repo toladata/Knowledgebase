@@ -44,10 +44,6 @@ A results framework is a graphical display or matrix of the different levels of 
 
 We mean 'complete data' when we use this Pashtun word for 'all' or 'complete'.
 
-#### TolaData
-
-An open-source project and data management software.
-
 #### Track app
 
 **Track**, TolaData’s database management toolkit, enables you to easily consolidate multiple data sources for timely analysis.

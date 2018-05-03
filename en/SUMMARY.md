@@ -4,10 +4,6 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Glossary](2-getting-started/glossary.md)
-* [FAQ](14-external-resources/faq.md)
-* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
 ## Take a course on TolaData
 
@@ -106,4 +102,11 @@
 * [Clean and Merge Data](11-track/clean-and-merge-data.md)
 * [Update Data Real-time](11-track/update-data-real-time.md)
 * [Export Datasets](11-track/export-datasets.md)
+
+## Reference
+
+* [FAQ](14-external-resources/faq.md)
+* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
+* [Glossary](2-getting-started/glossary.md)
+* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
 
