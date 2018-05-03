@@ -1,5 +1,5 @@
+****
 # Best practices
-
 ---
 In this section you'll find a selection of software training best practices based on our experience. Feel inspired!
 

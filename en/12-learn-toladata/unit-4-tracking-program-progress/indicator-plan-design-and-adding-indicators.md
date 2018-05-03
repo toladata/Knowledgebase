@@ -1,5 +1,5 @@
+****
 # Adding Indicators
-
 ---
 
 Now you're ready to start adding indicators to the system. It's as easy as it gets!
