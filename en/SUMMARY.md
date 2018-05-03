@@ -55,7 +55,6 @@
 
 * [Search](5-navigation/search.md)
 * [Filters](5-navigation/filters.md)
-* [Using TolaData offline](5-navigation/offline-use-of-toladata.md)
 
 ## Programs
 
