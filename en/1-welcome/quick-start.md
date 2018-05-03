@@ -15,22 +15,22 @@ Click on `Add Programs` and type in the name of your program, its start and end 
 Next, you will be taken to 'Program Guide' where you can add your:
 
 1. Program sectors
+![](/assets/sectors_guide.png)
 
 2. Results framework
-
+![](/assets/RF_guide.png)
 3. Indicators
-
+![](/assets/indicators_guide.png)
 4. Data collection forms
-
-![](https://lh5.googleusercontent.com/zCVkProukpBUiQR5kgu7jc4bajRu6T1wLunQcXlVPcWdf-hqx5SBjjGrI8oMwjyTawWIaUghBFskvsUOX73hT2VKBDBPNRUOJD4kRG5pCbpjLpnIyuApPWPafMw-7CtPEGV-lFnJ)
+![](/assets/form_guide.png)
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
-### Add activities 
+### Add activities/tasks 
 
-Next you might want to add activities to your program. Select the `Activities` tab on the Navigation bar and click on the orange `+` button.
+Next you might want to add activities to your program. Select the `Activities` tab on the Navigation bar and click on the orange `+` button or type your new activity directly in the `+ Add Tasks` bar. Then, feel free to drag, drop and rearrange your tasks and activities as necessary.
 
-![](/assets_en/add_activities.gif)
+![](/assets/add_activities_quick_start.PNG)
 
 ### Next steps
 
