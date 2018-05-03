@@ -10,19 +10,19 @@ Login to your TolaData account and kick things off by adding a program.
 
 Click on `Add Programs` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
 
-![](/assets/add_program.PNG)
+![](/assets_en/add_program.PNG)
 
 Next, you will be taken to 'Program Guide' where you can add your:
 
 1. Program sectors
-![](/assets/sectors_guide.png)
+![](/assets_en/sectors_guide.png)
 
 2. Results framework
-![](/assets/RF_guide.png)
+![](/assets_en/RF_guide.png)
 3. Indicators
-![](/assets/indicators_guide.png)
+![](/assets_en/indicators_guide.png)
 4. Data collection forms
-![](/assets/form_guide.png)
+![](/assets_en/form_guide.png)
 
 Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
 
@@ -30,7 +30,7 @@ Please note that you can always go back to the specific sections to add or edit 
 
 Next you might want to add activities to your program. Select the `Activities` tab on the Navigation bar and click on the orange `+` button or type your new activity directly in the `+ Add Tasks` bar. Then, feel free to drag, drop and rearrange your tasks and activities as necessary.
 
-![](/assets/add_activities_quick_start.PNG)
+![](/assets_en/add_activities_quick_start.PNG)
 
 ### Next steps
 
