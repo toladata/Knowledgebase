@@ -17,6 +17,6 @@ To add milestones:
 3. Add your milestone Name, Start Date, End Date (required). Additionally, you can add a Description.
 
 > **Quick Tip:** 
-1. Display activities linked to your milestone by clicking on the link icon on your selected milestone's pop-up window.
+Display activities linked to your milestone by clicking on the link icon on your selected milestone's pop-up window.
 
 ![](/assets/milestones.PNG)
