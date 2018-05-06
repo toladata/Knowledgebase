@@ -19,4 +19,4 @@ To add milestones:
 > **Quick Tip:** 
 Display activities linked to your milestone by clicking on the link icon on your selected milestone's pop-up window.
 
-![](/assets/milestones.PNG)
+![](/assets_en/milestones.PNG)
