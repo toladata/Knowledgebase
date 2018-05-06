@@ -39,24 +39,24 @@
 ## Admin Console
 
 * [Configuration](4-manage-users/configuration.md)
-* [Users](4-manage-users/add-new-users.md)
 * [Setup](4-manage-users/setup.md)
+* [Users](4-manage-users/add-new-users.md)
 
 ## Navigation
 
-* [Search](5-navigation/search.md)
 * [Filters](5-navigation/filters.md)
+* [Search](5-navigation/search.md)
 
 ## Programs
 
 * [What is a Program?](6-programs/program-guide.md)
 * [Program Modules](6-programs/program-modules.md)
-  * [Sites](6-programs/site.md)
   * [Milestones](6-programs/milestones.md)
   * [Objectives](6-programs/objectives.md)
+  * [Sector](6-programs/sector.md)
+  * [Sites](6-programs/site.md)
   * [Stakeholder](6-programs/stakeholder.md)
   * [Team](6-programs/team.md)
-  * [Sector](6-programs/sector.md)
 
 ## Activities
 
@@ -66,10 +66,10 @@
 * [Activity Modules](7-activities/activity-modules.md)
   * [Approval](7-activities/approval.md)
   * [Budget](7-activities/budget.md)
-  * [Stakeholders](7-activities/stakeholders.md)
   * [Documents](7-activities/documents.md)
-  * [Sites](7-activities/sites.md)
   * [Indicators](7-activities/indicators.md)
+  * [Sites](7-activities/sites.md)
+  * [Stakeholders](7-activities/stakeholders.md)
 
 ## Indicators
 
