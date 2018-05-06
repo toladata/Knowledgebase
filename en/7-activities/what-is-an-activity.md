@@ -87,7 +87,7 @@ Key activity progress information is required to report program success. Here ar
 ### Adding new activities
 
 Adding activities to a program is very easy! Click on the orange `+` button to add new activities to your program. You can also add your tasks by clicking on `Add Task` and directly typing in the taks name.
-![](/assets/add_act2.PNG)
+![](/assets_en/add_act2.PNG)
 
 ###  Manage your activities and tasks
 When you are project planning, there are cases when you need to break down your activities into more manageable tasks. 
@@ -103,6 +103,6 @@ Here's how to do it:
 > **Quick Tip:**   
 > Tasks are lower level, smaller chunks of work that your activities are composed of. In TolaData they make workflow level 3. Read more on workflow levels in this [article on the Knowledge base](https://help.toladata.com/en/4-manage-users/configuration.html).
 
-![](/assets/drag_act3.gif)
+![](/assets_en/drag_act3.gif)
 
 
