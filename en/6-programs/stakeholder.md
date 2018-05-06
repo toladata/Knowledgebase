@@ -34,7 +34,7 @@ To add stakeholders:
 
 > **Quick Tip:**
 > 1. If your program maintains an existing **stakeholder registry**, the stakeholder section is where this data can be mapped to. 
-2. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
+2. Link your stakeholder to multiple programs and sites to avoid duplication of information.
 
 
 ![](https://lh4.googleusercontent.com/dzpRUgUg291pH6he-W6mzw5tli9fd0ttl9gj3fOJgyp7qnn39Uy6ne5XGPki5QQTejNXuyswTgtxW1lqNu7ZalmOmocMiV7l8Xg0kt5rxydlvkNukTy65WIRpxes8sxWhm2YMwsU)

@@ -4,7 +4,7 @@
 
 #### What is a site?
 
-A site defines where you are working, the geographical location\(s\) of a program.
+A site defines where you are working, the geographical location(s) of a program.
 
 #### Why capture sites?
 

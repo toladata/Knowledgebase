@@ -3,7 +3,7 @@
 ---
 #### What is a team?
 
-Team is everyone who works on a program or project and has access to it on TolaData as Program Admin, Program Team or even has View only permission. 
+Team is everyone who works on a program or project and has access to it on TolaData as Program Admin, Program Team member or has View only permission. 
 
 #### Why list your team members?
 
