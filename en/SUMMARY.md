@@ -61,7 +61,6 @@
 ## Activities
 
 * [What is an Activity?](7-activities/what-is-an-activity.md)
-* [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
 * [Activity Modules](7-activities/activity-modules.md)
   * [Approval](7-activities/approval.md)
   * [Budget](7-activities/budget.md)

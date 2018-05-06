@@ -103,6 +103,6 @@ Here's how to do it:
 > **Quick Tip:**   
 > Tasks are lower level, smaller chunks of work that your activities are composed of. In TolaData they make workflow level 3. Read more on workflow levels in this [article on the Knowledge base](https://help.toladata.com/en/4-manage-users/configuration.html).
 
-
+![](/assets/drag_act3.gif)
 
 
