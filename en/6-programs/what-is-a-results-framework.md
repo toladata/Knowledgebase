@@ -24,13 +24,13 @@ Some of the benefits of using a results framework:
 -->
 ### **Example Results Framework from USAID**
 
-#### As developed at USAID
+#### As developed by USAID
 ![](https://lh3.googleusercontent.com/6nb9ZNTBqui-1RATwNmyBrUlba9PoTFR1yH5QVWxiZ4w-zPiEz72BSA2toCOBl8l1qxH1Os8ooo5FgTldDjs4ye0f8K7R1-fDmRxJoqcHZHQQX2sCa851W__6JEu-ICHhiMOqPbz)
 
 #### As it looks like on TolaData
 ![](/assets/RF_kb.PNG)
 #### Further reading
-Take a look at these external resources to learn more about developing results frameworks.
+Take a look at these external resources to learn more about developing results frameworks:
 1. [USAID \(2010\). Performance Monitoring & Evaluation, Building a Results Framework](http://pdf.usaid.gov/pdf_docs/Pnadw113.pdf).  
 2. [IEG, World Bank \(2012\). Designing a results framework for achieving results: a how-to guide](https://siteresources.worldbank.org/EXTEVACAPDEV/Resources/designing_results_framework.pdf).
 3. [USAID \(2016, September\). Results Framework Guide](http://usaidprojectstarter.org/content/results-framework-rf).
