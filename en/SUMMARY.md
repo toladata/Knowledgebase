@@ -78,6 +78,7 @@
 * [Add Custom Disaggregations](8-indicators/adding-indicator-disaggregations.md)
 * [Add Collected Data](8-indicators/adding-collected-data.md)
 * [Link Evidence to Collected Data](8-indicators/linking-evidence-to-collected-data.md)
+* [Link Indicators to Program Objectives](6-programs/link-indicators-to-program-objectives.md)
 
 ## Form Library
 
