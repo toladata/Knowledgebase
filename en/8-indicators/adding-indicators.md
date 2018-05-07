@@ -22,6 +22,8 @@ Within Activity we can provide a dropdown list of standard agency and government
 -->
 ### Adding Indicators
 
+Add your indicators under one of previously created Results Framework levels, or leave them unassigned. You can always change it later.
+
 1. To add an indicator, click an orange `+` button and fill out the fields. Mind that only your indicator name and LOP (Life of program) Target are required fields.
 2. To save your indicator, hit `Submit`.
 
