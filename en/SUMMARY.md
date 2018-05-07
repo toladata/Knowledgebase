@@ -77,6 +77,7 @@
 * [Add Indicators](8-indicators/adding-indicators.md)
   * [Add Custom Disaggregations](8-indicators/adding-indicators/add-custom-disaggregations.md)
   * [Link Indicators to Program Objectives](8-indicators/adding-indicators/link-indicators-to-program-objectives.md)
+  * [Periodic targets](8-indicators/adding-indicators/periodic-targets.md)
 * [Collect Data Against Indicators](6-programs/collect-data-against-indicators.md)
 
 ## Form Library
