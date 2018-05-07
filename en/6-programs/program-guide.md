@@ -1,5 +1,5 @@
 ****
-# Program Guide
+# What is a Program?
 ---
 <!--I suggest to remove some definitions and start this article with 'What is a program' define a program + wfl description w 2 examples (traditional & GOAL `multipartner program`)
 
@@ -14,10 +14,6 @@ Source: [PMDPro Guide](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
 ### Have a Portfolio or Country of Programs?
 To create a country or portfolio level please contact us directly at: [support@toladata.com](mailto:support@toladata.com) for us to setup your own portfolio or country instance.
 -->
-
-
-### What is a Program?
-
 A **Program** is defined as a group of related projects and or activities managed in a coordinated way to obtain benefits and control not available through managing them individually. 
 > **Quick Tip:**   
 > TolaData allows for flexibility in naming your workflow levels. As an Admin you may call them according to the naming convention adopted by your organization. In our example workflow level 1 is called 'Programs', but you can easily change it. See how in [this article on the Knowledge base](https://help.toladata.com/en/4-manage-users/configuration.html).

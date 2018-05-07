@@ -1,8 +1,6 @@
 ****
-# Activity Guide
+# What is an Activity? 
 ---
-### What is an Activity?   
-
 Activities are concrete actions that you take to develop your program, in order to achieve your goals. Your 'Work breakdown structure (WBS)' or 'Detailed implementation plan' are composed of activities.
 <!--
 This section is focused on capturing all the activities to be completed under your program. This is similar to your program workplan sometimes referred to as the 'Work breakdown structure \(WBS\)' or 'Detailed implementation plan'.

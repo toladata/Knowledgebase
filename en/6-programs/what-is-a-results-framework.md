@@ -1,7 +1,6 @@
 ****
 # What is a Results Framework?
 ---
-### What is a Results Framework?
 A **results framework**, sometimes called a Results Chain as well, is an explicit articulation \(graphic display, matrix, or summary\) of the different levels, or chains, of results expected from a particular intervention — a project, program, or development strategy.
 
 The results specified typically comprise of long-term objectives (often referred to as “outcomes” or “impact”) and the intermediate outcomes and outputs that precede, and lead to, those desired long-term objectives.
