@@ -1,5 +1,5 @@
+****
 # About this course
-
 ---
 
 This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
@@ -52,7 +52,7 @@ You will need a computer with Internet access and speakers or headphones, as a l
 Ninette has previously worked at non-profits in Southeast Asia and the Middle East and is an M&E and tech enthusiast. As a product manager she helps in the development process of TolaData and gathers your product needs and requirements.
 
 ![](/assets_en/paulina_kb.png)
-##### Paulina Sobieszuk, Product Trainer  
+##### Paulina Sobieszuk, Training Manager  
 
 Paulina is a trainer and project manager with 10+ years of experience in social tech projects in Central and Eastern Europe. As a product trainer she makes sure that you know how to make the most of TolaData.
 

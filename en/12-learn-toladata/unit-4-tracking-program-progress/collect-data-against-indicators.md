@@ -1,5 +1,5 @@
+****
 # Collect Data Against Indicators
-
 ---
 
 So you've added your indicators to the system and you'll probably want to start collecting data against them. Let's see how to easily create a link between your indicators and data, regardless of your data source.

@@ -1,5 +1,5 @@
+****
 # Stakeholders
-
 ---
 
 #### Who is a stakeholder?
@@ -8,30 +8,36 @@ A stakeholder defines who the program is working with. Stakeholders are people o
 
 #### Why capture stakeholder information?
 
-* It is a minimum standard and best practice per Program management for development professionals \(PMDPro\) for each program to maintain a Stakeholder Register
+* It is a minimum standard and best practice per Program management for development professionals ([PMDPro](http://www.pm4ngos.com/pmd-pro-guide/)) [redirects to an external website] for each program to maintain a Stakeholder Register.
 
-* Provides increased coordination across multiple programs
+* Provides increased coordination across multiple programs.
 
-* Documents your work with a stakeholder over time
+* Documents your work with a stakeholder over time for better tracking your relationship.
+
+* Helps you to keep track of your stakeholder status and maintain work history log in case of staff transition, as it provides easy access to information on last contact with a stakeholder. 
 
 #### Adding Stakeholders
 
 TolaData provides the option to capture the following information on relevant program stakeholders:
 
-* `Stakeholder Type`
+* Stakeholder Type;
 
-* `Contact Details`
+* Contact Details;
 
-* `Supporting documentation`: Memorandum of Understanding \(MOU\), due diligence, etc.
+* Supporting documentation: Memorandum of Understanding (MOU), due diligence, etc.
 
 To add stakeholders:
 
 1. Go to the `Programs` tab and click on the `Stakeholder` section.
 2. Click, `Add Stakeholder`.
-3. Add your stakeholder `Name` (required). Additionally, you can complete the `Sectors`, `Role`, `Type`, and `Country` fields.
+3. Add your stakeholder Name (required). Additionally, you can complete the Sectors, Role, Type, and Country fields.
+
+> **Quick Tip:**
+> 1. If your program maintains an existing **stakeholder registry**, the stakeholder section is where this data can be mapped to. 
+2. Link your stakeholder to multiple programs and sites to avoid duplication of information.
+
 
 ![](https://lh4.googleusercontent.com/dzpRUgUg291pH6he-W6mzw5tli9fd0ttl9gj3fOJgyp7qnn39Uy6ne5XGPki5QQTejNXuyswTgtxW1lqNu7ZalmOmocMiV7l8Xg0kt5rxydlvkNukTy65WIRpxes8sxWhm2YMwsU)
 
-> **Quick Tip:**
-> If your program maintains an existing **stakeholder registry**, the stakeholder section is where this data can be mapped to. This helps you to keep track of your stakeholder status and maintain work history log in case of staff transition, this section can help provide easy access to information on last contact with a stakeholder. The stakeholders created can be added to multiple programs and sites to avoid duplication of information.
+
 
