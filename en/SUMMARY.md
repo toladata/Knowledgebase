@@ -72,7 +72,7 @@
 ## Indicators
 
 * [What is a Results Framework?](6-programs/what-is-a-results-framework.md)
-  * [Build your Results Framework](6-programs/what-is-a-results-framework/build-your-results-framework.md)
+* [Build your Results Framework](6-programs/what-is-a-results-framework/build-your-results-framework.md)
 * [What is an Indicator?](8-indicators/what-is-an-indicator.md)
 * [Add Indicators](8-indicators/adding-indicators.md)
   * [Link Indicators to Program Objectives](8-indicators/adding-indicators/link-indicators-to-program-objectives.md)
