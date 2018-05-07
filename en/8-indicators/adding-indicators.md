@@ -1,7 +1,7 @@
 ****
 # Adding Indicators
 ---
-
+<!--
 Indicator tracking helps explain how to define success and provides the ability to measure the performance of programs and projects.
 
 * Value of Tracking Indicators
@@ -19,6 +19,11 @@ Indicator tracking helps explain how to define success and provides the ability 
 * Standard and Custom Indicators
 
 Within Activity we can provide a dropdown list of standard agency and governmental indicators, allowing users to select from those lists or users can choose to create a custom indicator.
+-->
+### Adding Indicators
+
+1. To add an indicator, click an orange `+` button and fill out the fields. Mind that only your indicator name and LOP (Life of program) Target are required fields.
+2. To save your indicator, hit `Submit`.
 
 ![](https://lh4.googleusercontent.com/ArLN0zZTgKhigWiFDqWWTmGfFFNyKUrJtBtk7mCl2Av59YPbLR947BrgHmbyqJgEYPlntjxeNE8HmBC_7tHVHQXxHfGs-hVUL3NvQRM-xxWRMNwGg64TXBUApMkhxjf268gsjOjN)
 
@@ -30,6 +35,8 @@ Program progress is often tracked by linking them to specific set of program obj
 | :--- | :--- |
 | Objective 1: Promote modern agriculture cultivation techniques | Number of farmers trained on new agriculture techniques |
 |  | Number of farmers using new agriculture techniques |
+> **Quick Tip:**   
+> Find your Program Objectives with their linked indicators also under the Programs tab. Access your most relevant indicators directly from the Programs tab, where they're stored along your basic program data. Still, you might choose to review all your indicators here, under the Indicators tab. 
 
 Here's how to link program objectives to indicators:
 

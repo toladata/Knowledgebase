@@ -2,12 +2,13 @@
 # What is an Indicator?
 ---
 
-| Definition | An indicator is a quantitative measure or qualitative observation used to describe change. |
-| :--- | :--- |
+### What is an Indicator?
 
-Indicator are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
+An **indicator** is a quantitative measure or qualitative observation used to describe change. 
 
-For an indicator to measure change it must have
+Indicators are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
+
+For an indicator to measure change it must have:
 
 * Baseline: a measure or description of current performance of the entity and/or a comparator. Baselines must be defined at or near the beginning of a project. 
 * Target: the improvements, change or achievement expected to happen during project implementation.
@@ -36,11 +37,6 @@ When developing indicators, the norm is to use SMART criteria to guide performan
 ### 
 
 ### Monitoring & Evaluation \(M&E\) Framework Example![](/assets_en/Screen Shot 2017-11-09 at 2.09.52 PM.png)** **
-
-> [M&E Framework template, tools4dev.org](http://www.tools4dev.org/) 
-
-> [PMDPro Guide, PM4NGOs](http://www.pm4ngos.com/the-guide-to-the-pmd-pro/)
-
-**  
-**
+#### Further reading
+1. [M&E Framework template](http://www.tools4dev.org/) at tools4dev, a comprehensive catalog of resources for international development professionals [redirects to an external website].
 
