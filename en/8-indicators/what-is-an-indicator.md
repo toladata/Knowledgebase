@@ -3,7 +3,7 @@
 ---
 An **indicator** is a quantitative measure or qualitative observation used to describe change. 
 
-Indicators are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
+Indicators are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. They also usually correspond to different Results Framework levels. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
 
 For an indicator to measure change it must have:
 

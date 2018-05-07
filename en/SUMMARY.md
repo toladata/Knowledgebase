@@ -75,10 +75,9 @@
   * [Build your Results Framework](6-programs/what-is-a-results-framework/build-your-results-framework.md)
 * [What is an Indicator?](8-indicators/what-is-an-indicator.md)
 * [Add Indicators](8-indicators/adding-indicators.md)
-* [Add Custom Disaggregations](8-indicators/adding-indicator-disaggregations.md)
-* [Add Collected Data](8-indicators/adding-collected-data.md)
-* [Link Evidence to Collected Data](8-indicators/linking-evidence-to-collected-data.md)
-* [Link Indicators to Program Objectives](6-programs/link-indicators-to-program-objectives.md)
+  * [Add Custom Disaggregations](8-indicators/adding-indicators/add-custom-disaggregations.md)
+  * [Link Indicators to Program Objectives](8-indicators/adding-indicators/link-indicators-to-program-objectives.md)
+* [Collect Data Against Indicators](6-programs/collect-data-against-indicators.md)
 
 ## Form Library
 

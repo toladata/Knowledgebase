@@ -5,7 +5,7 @@ A **results framework**, sometimes called a Results Chain as well, is an explici
 
 The results specified typically comprise of long-term objectives (often referred to as “outcomes” or “impact”) and the intermediate outcomes and outputs that precede, and lead to, those desired long-term objectives.
 
-The process of building a Results Framework starts with defining the overall program goal and then going down to Outcomes, Outputs and eventually Activities. From here, program teams can use the Results Framework to define indicators to help them measure their results and align program activities to show how they contribute.
+The process of building a Results Framework starts with defining the overall program goal and then going down to Outcomes, Outputs and eventually Activities. From here, **program teams can use the Results Framework to define indicators to help them measure their results and align program activities to show how they contribute**.
 
 Some of the benefits of using a results framework:
 
