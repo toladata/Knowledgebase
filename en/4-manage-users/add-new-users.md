@@ -70,6 +70,9 @@ There are three types of user roles in the system:
 | View Indicator | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
 | View Collected Data | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
 | View Reports | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) | ![](/assets_en/fa-check.png) |
-| Delete Program, Results Framework, Indicator | ![](/assets_en/fa-check.png) | | | 
+| Delete Program, Results Framework, Indicator | ![](/assets_en/fa-check.png) | | | | 
+
+
+
 
 
