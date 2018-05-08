@@ -4,6 +4,10 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
+* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
+* [Glossary](2-getting-started/glossary.md)
+* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
+* [FAQ](14-external-resources/faq.md)
 
 ## Take a course on TolaData
 
@@ -35,21 +39,12 @@
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Four Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
-* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
-
-## Getting Started
-
-* [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
-* [Our Approach](2-getting-started/history-and-approach.md)
-* [Glossary](2-getting-started/glossary.md)
 
 ## Admin Console
 
-* [Setup](4-manage-users/setup.md)
 * [Configuration](4-manage-users/configuration.md)
+* [Setup](4-manage-users/setup.md)
 * [Users](4-manage-users/add-new-users.md)
-* [Set Approval Settings](4-manage-users/set-approval-settings.md)
 
 ## Navigation
 
@@ -109,13 +104,4 @@
 * [Clean and Merge Data](11-track/clean-and-merge-data.md)
 * [Update Data Real-time](11-track/update-data-real-time.md)
 * [Export Datasets](11-track/export-datasets.md)
-
-## Form Guide
-
-## External Resources
-
-* [Making your dataset "analysis-ready"](14-external-resources/making-your-dataset-analysis-ready.md)
-* [Document Storage](14-external-resources/document-storage.md)
-* [Mobile Data Collection ](14-external-resources/mobile-data-collection.md)
-* [FAQ](14-external-resources/faq.md)
 
