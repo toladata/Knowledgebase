@@ -21,26 +21,26 @@ After selecting `Import from CSV`, fill out the fields and follow onscreen instr
 >3. **No merged cells** anywhere ** in your dataset.**
 >4. **Notes, comments, associated graphics **or** images belong in a separate read-me file,** and out of the dataset itself.
 
-![](/assets/import_csv.PNG)
+![](/assets_en/import_csv.PNG)
 
 ### Import from Ona
 
 The first time you want to import from Ona, you will be prompted to login to Ona. Then you will see a list of all your Ona tables displayed. Select an existing data table from Track to pull your data into or enter a name for your new data table. 
 
-![](/assets/import_ona.PNG)
+![](/assets_en/import_ona.PNG)
 
 ### Import GoogleSheets
 
 You will need to first authorize Track and TolaData to access your Google Drive. Then select an existing data table to pull your data into or create a new one.
 
-![](/assets/import_gsh.PNG)
+![](/assets_en/import_gsh.PNG)
 
 
 ### Import JSON feed
 
 Some service providers, like [KoboToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected if so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
 
-![](/assets/json.PNG)
+![](/assets_en/json.PNG)
 
 
 
