@@ -2,27 +2,24 @@
 # Export Datasets
 ---
 #### Export
-
 Click on the `Export` button and select a chosen destination type to export your data table from Track.
 
-
-
 ![](/assets/export_list.PNG)
- 
- 
- 
- 
- 
-Track allows you to export your data to various destinations, like for example: 
+
+> **Quick Tip:**   
+> It is possible to export only selected or all data columns, as well as limit the export to rows that meet a specified requirement (not empty, empty, taking a specific value).
+
+Track allows you to export your data to various destinations:
+
+![](/assets/destinations.PNG)
+
 Under the `Export` tab, you will see the link to the Google Spreadsheet you exported your Table to.
-
-
-
+![](/assets/export_table.PNG)
 
 #### Auto-Push Data
 
-Once the export source is listed you can choose to Push your table's data either daily or weekly to your chosen destination and overwrite the data in the Google Spreadsheet with the data in your table.
+Once the export source is listed you can choose to Push your table's data either daily or weekly to your chosen destination and overwrite the data at the destination with new data in your table.
 
+![](/assets/auto-push.png)
 
-Once you export your table to a Google Sheet you will find a link to the source in your Table View under the Export tab.
 
