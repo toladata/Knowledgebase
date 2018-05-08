@@ -4,11 +4,11 @@
 
 ## Edit Columns
 
-Once you've imported data you can then change the column names.
+Once you've imported data you can then do basic edits on your data table, like for example change column names or create new columns with values dependent on your existing ones. You can also make sure that you'll find the expected information in your data columns by running column validation function. 
 
-Under `Your Tables` navigation, click on the `Edit` tab and you will see the option to `Edit or Delete Columns` or `Add New Column`. You can even `set new default value` for any of your columns.
+Under `Your Tables` navigation, click on the `Edit` tab and you will see the option to `Edit or Delete Columns`, `Add New Column`, `Add New Formula Column` and `Add Column Validation`. You can even `set new default value` for any of your columns.
 
-![](https://lh3.googleusercontent.com/3sTsf48cDA-bUxLG4d8JTyRKfzNNbA5JDfAHHVkddXcyRg5H0LPjJcYPIXGNbhIh0t6OSgqUKv9XrVJL9IE2MEQU-C4n1sgFFwJWQMA6hAPDei90KAdl9-cKhgi8CQfFwz_XvtJI)
+![](/assets/table_edit.PNG)
 
 ## Merging Multiple TolaTables
 
