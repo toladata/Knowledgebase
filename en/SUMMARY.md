@@ -1,6 +1,6 @@
 # Summary
 
-## Welcome Page
+## Welcome to TolaData
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
@@ -53,7 +53,7 @@
 
 ## Programs
 
-* [Program Guide](6-programs/program-guide.md)
+* [What is a Program?](6-programs/program-guide.md)
 * [Program Modules](6-programs/program-modules.md)
   * [Site](6-programs/site.md)
   * [Milestones](6-programs/milestones.md)
