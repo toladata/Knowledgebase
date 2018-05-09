@@ -18,7 +18,7 @@ Here are some of the key features of Track:
 
 * Directly link your datasets to relevant indicators in Activity to track progress
 
-![](/assets_en/track_main.PNG)
+![](/assets_en/track_main.PNG) 
 
 
 
