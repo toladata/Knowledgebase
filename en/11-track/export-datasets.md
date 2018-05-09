@@ -13,7 +13,7 @@ Track allows you to export your data to various destinations:
 
 ![](/assets_en/destinations.PNG)
 
-Under the `Export` tab, you will see the link to the Google Spreadsheet you exported your Table to.
+Under the `Export` tab, you will see the link to the destination you exported your Table to.
 ![](/assets_en/export_table.PNG)
 
 #### Auto-Push Data
