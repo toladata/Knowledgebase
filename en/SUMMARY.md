@@ -89,13 +89,12 @@
 
 * [What is a Form?](9-form-library/what-is-a-form.md)
 * [Design a Form](9-form-library/designing-a-form.md)
-* [Add Forms to Library](9-form-library/adding-forms-to-library.md)
+* [Publish a Form](9-form-library/adding-forms-to-library.md)
 
-## Reports
+## Reports & Dashboards
 
 * [What is a Report?](10-reports/what-is-a-report.md)
-* [View Reports](10-reports/viewing-reports.md)
-* [Custom Reports](10-reports/custom-reports.md)
+* [What is a Dashboard?](10-reports/custom-reports.md)
 
 ## Track
 
