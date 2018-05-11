@@ -13,7 +13,7 @@ Importing is as easy as connecting your Ona account or importing a spreadsheet. 
 After selecting `Import from CSV`, fill out the fields and follow onscreen instructions. As a result you should get a data table in Track.
 
 > **Quick Tip:**   
-> To better enable the data in your dataset to be analyzed and visualized, it is necessary to make some changes to the dataset layout. Otherwise you might not be able to import your data to Track. 
+> To better enable the data in your dataset to be analyzed and visualized, it is necessary to make sure your dataset layout is correct. Otherwise you might not be able to import your data to Track. 
 >1. **Only one row of column headers for the dataset, with no multi-level or merged cells.** In places where you have been using a two-level column header, you will need to combine the info in the top level and bottom level for each column.
 >2. There should be **no blank rows above your data - data should start in cell A1** of the spreadsheet. This is to facilitate the importation of your data into analysis and dashboarding software.
 >3. **No merged cells** anywhere ** in your dataset.**
@@ -36,7 +36,7 @@ You will need to first authorize Track and TolaData to access your Google Drive.
 
 ### Import JSON feed
 
-Some service providers, like [KoboToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected if so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
+Some service providers, like [KoboToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected. If so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
 
 ![](/assets_en/json.PNG)
 
