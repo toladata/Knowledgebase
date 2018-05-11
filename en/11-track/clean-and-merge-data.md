@@ -8,9 +8,9 @@ Once you've imported data you can then do basic edits on your data table, like f
 
 Under `Your Tables` navigation, click on the `Edit` tab and you will see the option to `Edit or Delete Columns`, `Add New Column`, `Add New Formula Column` and `Add Column Validation`. You can even `set new default value` for any of your columns.
 
-![](/assets/table_edit.PNG)
+![](/assets_en/table_edit.PNG)
 
-## Merging Multiple TolaTables
+## Merging Multiple Tables
 
 You can merge all columns in your selected merge tables, by mapping just one similar column and the rest will automatically be mapped.
 
