@@ -2,9 +2,9 @@
 # Auto-pull Data
 ---
 You can set up auto-pull, to pull in any new data from your Ona, Google Sheets or a JSON feeds on specified frequencies.
-#### **Turn on Auto-Pull**
+#### **Turn on Auto-pull**
 
-To turn on Auto-Pull you need to go to your Table's view page and click on the Data Sources tab. Mind that you can only set Auto-Pull frequency for those data sets that get updated (not for CSV or JSON files).
+To turn on Auto-pull you need to go to your Table's view page and click on the Data Sources tab. Mind that you can only set Auto-Pull frequency for those data sets that get updated (not for CSV or JSON files).
 
 ![](/assets_en/auto-pull.png)
 
