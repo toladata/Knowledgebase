@@ -8,8 +8,9 @@ To turn on Auto-pull you need to go to your Table's view page and click on the D
 
 ![](/assets_en/auto-pull.png)
 
-> **Quick Tip:**   
-> It is possible to update data manually at any time, simply by clicking on `Update Data` button under `Options` tab. 
+#### **Update data manually**
+
+It is possible to update data manually at any time, simply by clicking on `Update Data` button under `Options` tab. 
 
 ![](/assets_en/update_data.PNG)
 
