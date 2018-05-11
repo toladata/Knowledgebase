@@ -1,5 +1,5 @@
 ****
-# Auto-pull Data
+# Auto-pull Datasets
 ---
 You can set up auto-pull, to pull in any new data from your Ona, Google Sheets or a JSON feeds on specified frequencies.
 #### **Turn on Auto-pull**
