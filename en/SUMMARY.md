@@ -101,6 +101,6 @@
 * [What is Track?](11-track/what-is-track.md)
 * [Import Datasets](11-track/import-datasets.md)
 * [Clean and Merge Data](11-track/clean-and-merge-data.md)
-* [Update Data Automatically](11-track/update-data-real-time.md)
+* [Auto-pull Data](11-track/update-data-real-time.md)
 * [Export Datasets](11-track/export-datasets.md)
 
