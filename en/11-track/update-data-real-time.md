@@ -16,7 +16,7 @@ To turn on Auto-pull you need to go to your Table's view page and click on the D
 > **Quick Tip:**   
 > Assign a unique column in your Table to avoid duplication of records. A unique column (usually a User ID number or other value that is unique to a single record) will ensure that only new data is added to your Table when you turn on auto-pull or choose to manually update a table in Track. Choose your unique column and hit `Save`. 
 
-![](/assets/unique2.PNG)
+![](/assets_en/unique2.PNG)
 #### **Data Sources**
 
 On your Table's page choose the Data Sources Tab and you will see a link to original source data for your Table, be it Ona, Google Sheets, JSON or a CSV file.  
