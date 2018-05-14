@@ -16,7 +16,7 @@ A great place for you to start will be looking at your program workplan to break
 
 Take a look at this example for a quick revision of where activities fall on TolaData data structure:
 ![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
-<!-- ### Key information captured in this section
+<!-- Key information captured in this section
 
 * Estimated activity timeline: start and end date
 
@@ -78,11 +78,12 @@ Key activity progress information is required to report program success. Here ar
 
 ##### Gantt Chart View
 
-![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA) -->
+![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA) 
+-->
 
 ### Adding new activities
 
-Adding activities to a program is very easy! Click on the orange `+` button to add new activities to your program. You can also add your tasks by clicking on `Add Task` and directly typing in the taks name.
+Adding activities to a program is easy. Simply click on the orange `+` button to add new activities to your program. You can also add your tasks by clicking on `Add Task` and directly typing in the taks name.
 ![](/assets_en/add_act2.PNG)
 
 ###  Manage your activities and tasks
