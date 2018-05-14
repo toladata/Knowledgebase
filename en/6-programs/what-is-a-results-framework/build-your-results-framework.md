@@ -8,7 +8,12 @@
 
 3. Continue this process until all your levels are defined and your program results are clearly outlined.
 
-![](/assets/rf_gif.gif)
+![](/assets_en/rf_gif.gif)
+
+
+
+
+
 
 
 
