@@ -2,8 +2,8 @@
 # What is an Activity? 
 ---
 Activities are concrete actions that you take to develop your program, in order to achieve your goals. Your 'Work breakdown structure (WBS)' or 'Detailed implementation plan' are composed of activities. 
-<!--
-This section is focused on capturing all the activities to be completed under your program. This is similar to your program workplan sometimes referred to as the 'Work breakdown structure \(WBS\)' or 'Detailed implementation plan'.
+
+<!-- This section is focused on capturing all the activities to be completed under your program. This is similar to your program workplan sometimes referred to as the 'Work breakdown structure \(WBS\)' or 'Detailed implementation plan'.
 Here's a quick revision of where activities fall on TolaData data structure:
 
 ![](https://lh4.googleusercontent.com/fKLB3hpwyaNMz8GD12Qk1vobCH6SRCJB47gRYbThp4C0cubQ7D-SGreVMTDNpYrVptJ9oqRsaEW1o6Q0u-K7dtXfDwcCVgq371euhvrZXhppmgK2IAO1aGjnfqx5uCvfx-81bcpJ)
@@ -16,8 +16,7 @@ A great place for you to start will be looking at your program workplan to break
 
 Take a look at this example for a quick revision of where activities fall on TolaData data structure:
 ![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
-<!--
-### Key information captured in this section
+<!-- ### Key information captured in this section
 
 * Estimated activity timeline: start and end date
 
@@ -79,8 +78,7 @@ Key activity progress information is required to report program success. Here ar
 
 ##### Gantt Chart View
 
-![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA)
--->
+![](https://lh4.googleusercontent.com/zGe11TWyZ4oqVG6H-1kBcK9CbOwkJZARMFymdjrTfG1Mx297dtIWDFGm-VtS64Byfp_Cm3-yUnRKPckiSnI2gYI-emEp1A2z6hrnTvlZcez1in7l27v5DXHCjSI4LWeialz37txA) -->
 
 ### Adding new activities
 
