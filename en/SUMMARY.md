@@ -81,9 +81,7 @@
   * [Build your Results Framework](6-programs/what-is-a-results-framework/build-your-results-framework.md)
 * [What is an Indicator?](8-indicators/what-is-an-indicator.md)
   * [Add Indicators](8-indicators/what-is-an-indicator/add-indicators.md)
-  * Add Custom Disaggregations
   * [Add Collected Data](8-indicators/what-is-an-indicator/add-collected-data.md)
-  * [Link Evidence to Collected Data](8-indicators/what-is-an-indicator/link-evidence-to-collected-data.md)
 
 ## Form Library
 
