@@ -3,21 +3,20 @@
 ---
 An **indicator** is a quantitative measure or qualitative observation used to describe change. 
 
-Indicators are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. They also usually correspond to different Results Framework levels. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
+Indicators are linked to the objectives set in a Program Logframe to help measure the success and achievement of the said objectives. They are usually linked to different Results Framework levels. Indicators depict the extent to which a project is accomplishing its planned inputs, outputs, outcomes and goals.
 
 For an indicator to measure change it must have:
 
-* Baseline: a measure or description of current performance of the entity and/or a comparator. Baselines must be defined at or near the beginning of a project. 
+* Baseline: a measure or description of current performance of the entity and/or a comparator. Baselines must be defined at or near the beginning of a project;
 * Target: the improvements, change or achievement expected to happen during project implementation.
-
-
 
 ### Creating SMART indicators
 
 When developing indicators, the norm is to use SMART criteria to guide performance indicator conceptualization. SMART is:
 
-| **S**pecific | Indicators must be quantifiable and measurable? What does the project intend to change? |
+| Criterion | Description |
 | :--- | :--- |
+| **S**pecific | Describe your indicator precisely. What does the project intend to change? |
 | **M**easurable | The indicator must be quantifiable and measurable. Can the indicator be assessed objectively and independently? |
 | **A**chievable | Indicators must be attainable within the constraints of the project triangle \(budget/resources, time/budget, and scope/quality\). |
 | **R**elevant | Indicators must accurately measure the change the project aspires to generate. Does the indicator practical and cost-effectively measure what the project team needs to know? |
@@ -26,6 +25,8 @@ When developing indicators, the norm is to use SMART criteria to guide performan
 ### 
 
 ### Basic Indicator Plan Format
+
+Use this basic template to help you plan indicators for your program.
 
 | Indicator name | Definition | Data collection sources and methods | Frequency of data collection | Person\(s\) responsible | Method of analysis | Information use |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
