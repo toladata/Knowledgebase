@@ -34,7 +34,11 @@ Use this basic template to help you plan indicators for your program.
 
 ### 
 
-### Monitoring & Evaluation \(M&E\) Framework Example![](/assets_en/Screen Shot 2017-11-09 at 2.09.52 PM.png)** **
+### Monitoring & Evaluation \(M&E\) Framework Example
+Take your M&E efforts to the next level by developing a comprehensive framework to guide you through the process. It can look something like that one below. Consult the linked course to get to know more details.
+![](/assets_en/m_e_framework2.PNG)
+Source: [Tools4dev](http://www.tools4dev.org/resources/online-course-how-to-write-a-monitoring-evaluation-framework-step-by-step-lessons/) [redirects to an external website].
+
 #### Further reading
-1. [M&E Framework template](http://www.tools4dev.org/) at tools4dev, a comprehensive catalog of resources for international development professionals [redirects to an external website].
+1. Take a short [How to write an M&E framework](http://www.tools4dev.org/resources/online-course-how-to-write-a-monitoring-evaluation-framework-step-by-step-lessons/) course at tools4dev, a comprehensive catalog of resources for international development professionals [redirects to an external website].
 
