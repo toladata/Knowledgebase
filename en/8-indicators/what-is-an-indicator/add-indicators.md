@@ -1,5 +1,5 @@
 ****
-# Adding Indicators
+# Add Indicators
 ---
 <!--Indicator tracking helps explain how to define success and provides the ability to measure the performance of programs and projects.
 
@@ -25,4 +25,13 @@ Add your indicators under one of the previously created Results Framework levels
 2. To save your indicator, hit `Submit`.
 
 ![](https://lh4.googleusercontent.com/ArLN0zZTgKhigWiFDqWWTmGfFFNyKUrJtBtk7mCl2Av59YPbLR947BrgHmbyqJgEYPlntjxeNE8HmBC_7tHVHQXxHfGs-hVUL3NvQRM-xxWRMNwGg64TXBUApMkhxjf268gsjOjN)
+
+### Add Disaggregations
+You can easily add disaggregations for each of your indicators if you need to analyze your beneficiary population in further detail. How many individuals are female or male? Which age or salary group they belong to? Add it in here.
+
+![](/en/assets_en/disaggregations.PNG)
+
+### Add Periodic Targets
+Besides the LOP Target, you can add periodic targets. Ongoing monitoring of your indicator results will help you catch potential hazards to achieving your goals and implement relevant remedies before it's too late. Also, some donors might require periodic reporting besides the end of program reports.
+![](/en/assets_en/period_targets.PNG)
 
