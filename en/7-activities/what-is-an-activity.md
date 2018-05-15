@@ -22,7 +22,7 @@ Source: TolaData internal document
 Adding activities to a program is easy. Simply click on the orange `+` button to add new activities to your program. You can also add your tasks by clicking on `Add Task` and directly typing in the taks name.
 ![](/assets_en/add_act2.PNG)
 
-See how to further edit the details of your activity in [Activity modules section on the Knowledge base](https://help.toladata.com/en/7-activities/activity-modules.html).
+See how to further edit the details of your activity in the next article on [Activity Modules on the Knowledge base](https://help.toladata.com/en/7-activities/activity-modules.html).
 
 ###  Manage your activities and tasks
 When you are project planning, there are cases when you need to break down your activities into more manageable tasks. 
