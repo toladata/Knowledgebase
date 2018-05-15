@@ -29,6 +29,7 @@
   * [SMART Indicators](12-learn-toladata/unit-4-tracking-program-progress/smart-indicators.md)
   * [Adding Indicators](12-learn-toladata/unit-4-tracking-program-progress/indicator-plan-design-and-adding-indicators.md)
   * [Collect Data Against Indicators](12-learn-toladata/unit-4-tracking-program-progress/collect-data-against-indicators.md)
+* [Lesson 5 Form Library](12-learn-toladata/lesson-5-form-library.md)
 * [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
   * [Import Data to Track](12-learn-toladata/unit-6-analyze-your-data/import-data-to-track.md)
   * [Preliminary Data Analysis in Track](12-learn-toladata/unit-6-analyze-your-data/preliminary-data-analysis-in-track.md)
