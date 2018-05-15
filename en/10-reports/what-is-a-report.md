@@ -16,4 +16,4 @@ You will be taken to the next 'Projects' tab, that displays data about your Proj
 
 Indicators tab provides an insight into your indicator results. Navigate there to get a quick visual understanding of how your indicators are progressing against targets on a bar chart at the bottom of page or hit the blue `View` button to dig deeper into where those results come from by reviewing collected data.  
 
-![](/assets_en/reports_indicators.png)
+![](/assets_en/reports_indicators.png) 
