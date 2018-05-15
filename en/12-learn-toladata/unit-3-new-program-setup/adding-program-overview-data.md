@@ -15,7 +15,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 #### Further reading
 
-1. Get to know more about [the program guide](https://help.toladata.com/en/6-programs/program-guide.html) on the Knowledgebase.
+1. Get to know more about [the program guide](https://help.toladata.com/en/6-programs/program-guide.html) on the Knowledge base.
 
 
 

@@ -34,7 +34,7 @@ Every article includes a practice exercise on TolaData or a quizz. Explore them 
 
 ##### Further reading
 
-Oftentimes you will see a list of suggested readings under each article. Be it other Knowledgebase articles or external resources, they will enhance your learning and improve understanding of TolaData. 
+Oftentimes you will see a list of suggested readings under each article. Be it other Knowledge base articles or external resources, they will enhance your learning and improve understanding of TolaData. 
  
 ### How much time will I spend learning?
 

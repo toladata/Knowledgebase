@@ -21,7 +21,7 @@ Feel free to use sample data:
 
 #### Further reading
 
-1. Read more on [collecting data against indicators](https://help.toladata.com/en/8-indicators/adding-collected-data.html) and [linking your evidence to collected data automatically](https://help.toladata.com/en/8-indicators/linking-evidence-to-collected-data.html) on the Knowledgebase.
+1. Read more on [collecting data against indicators](https://help.toladata.com/en/8-indicators/adding-collected-data.html) and [linking your evidence to collected data automatically](https://help.toladata.com/en/8-indicators/linking-evidence-to-collected-data.html) on the Knowledge base.
 
 
 

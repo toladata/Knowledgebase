@@ -4,7 +4,7 @@
 In this section you'll find a selection of software training best practices based on our experience. Feel inspired!
 
 ### Get real
-1. Base training on individual roles and real life use scenarios. Teach only what they need to know and provide additional resources (like Knowledgebase link) for the curious;
+1. Base training on individual roles and real life use scenarios. Teach only what they need to know and provide additional resources (like a Knowledge base link) for the curious;
 2. Put the new tool in a broader context. Link TolaData to existing business processes and organization needs;
 3. Use natural language instead of subject matter jargon;
 4. Make the learning environment resemble the work environment. Training should be hands-on, based on real life examples and tasks, practical.

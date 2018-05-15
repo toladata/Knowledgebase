@@ -15,7 +15,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 #### Further reading
 
-Check out these Knowledgebase articles: 
+Check out these Knowledge base articles: 
 
 1. [What is an activity?](https://help.toladata.com/en/7-activities/what-is-an-activity.html);
 2. A quick guide on [adding activities](https://help.toladata.com/en/7-activities/add-activity.html);

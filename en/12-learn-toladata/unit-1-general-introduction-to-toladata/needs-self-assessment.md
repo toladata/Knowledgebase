@@ -40,7 +40,7 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 
 #### Further reading
 
-Check out these Knowledgebase articles: 
+Check out these Knowledge base articles: 
 
 1. [Making Your Dataset Analysis-Ready](https://help.toladata.com/en/14-external-resources/making-your-dataset-analysis-ready.html);
 2. [Document storage](https://help.toladata.com/en/14-external-resources/document-storage.html);
@@ -55,7 +55,7 @@ As well as some external resources:
 5. [Ona](https://ona.io/home/) \[redirects to an external website\]
 6. [KoboToolbox](http://help.kobotoolbox.org/) Help Center \[redirects to an external website\]
 7. [XLS Forms](http://xlsform.org/) guide \[redirects to an external website\]
-8. [Better Evaluation](http://www.betterevaluation.org/en) collaboratively created knowledgebase on monitoring and evaluation \[redirects to an external website\]
+8. [Better Evaluation](http://www.betterevaluation.org/en) collaboratively created knowledge base on monitoring and evaluation \[redirects to an external website\]
 
 
 

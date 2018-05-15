@@ -15,7 +15,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 #### Further reading
 
-1. Read more on [cleaning and merging data sets in Track](https://help.toladata.com/en/11-track/clean-and-merge-data.html) in one of our Knowledgebase articles.
+1. Read more on [cleaning and merging data sets in Track](https://help.toladata.com/en/11-track/clean-and-merge-data.html) in one of our Knowledge base articles.
 
 
 
