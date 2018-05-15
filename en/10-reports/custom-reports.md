@@ -1,5 +1,5 @@
 ****
-# Custom Dashboards
+# What is a Dashboard?
 ---
 We're thinking of great content, stayed tuned for updates (and carrots)! :rabbit:
 
