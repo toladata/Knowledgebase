@@ -44,6 +44,10 @@ Overall this course shouldn't take you more than 3 hours, including your own pra
 
 You will need a computer with Internet access and speakers or headphones, as a lot of material is delivered through short videos.
 
+### How do I navigate this course?
+
+To read articles in sequence, just click on the orange arrow ![](/assets_en/arrow.png) at the right side of the screen. Otherwise, you may simply select chosen articles in the table of contents on the left.
+
 ### Instructors 
 
 ![](/assets_en/ninette_kb.png)
