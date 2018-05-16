@@ -4,10 +4,10 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](1-welcome/quick-start.md)
-* [Glossary](2-getting-started/glossary.md)
-* [Recent changes ](12-learn-toladata/recently-updated-articles.md)
-* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
-* [FAQ](14-external-resources/faq.md)
+* [Glossary](1-welcome/glossary.md)
+* [Recent changes ](1-welcome/recent-changes.md)
+* [Feedback and Support](1-welcome/feedback-support.md)
+* [FAQ](1-welcome/faq.md)
 
 ## Take a course on TolaData
 
