@@ -11,7 +11,7 @@ Having an up to date list of all users who can create, edit and view your progra
 
 #### Adding team members
 
-Read on how to add team members and edit their user permissions in this Knowledge base [article on Adding new users](https://help.toladata.com/en/4-manage-users/add-new-users.html). 
+Read on how to add team members and edit their user permissions in this Knowledge base [article on Adding new users](https://help.toladata.com/en/admin-console/users.html). 
 
 ![](/assets_en/team_members.PNG)
 
