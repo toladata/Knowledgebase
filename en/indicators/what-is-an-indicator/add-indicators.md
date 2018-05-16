@@ -29,10 +29,10 @@ Add your indicators under one of the previously created Results Framework levels
 ### Add Disaggregations
 You can easily add disaggregations for each of your indicators if you need to analyze your beneficiary population in further detail. How many individuals are female or male? Which age or salary group they belong to? Add it in here.
 
-![](/en/assets_en/disaggregations.PNG)
+![](/assets_en/disaggregations.PNG)
 
 ### Add Periodic Targets
 Besides the LOP Target, you can add periodic targets. Ongoing monitoring of your indicator results will help you catch potential hazards to achieving your goals and implement relevant remedies before it's too late. Also, some donors might require periodic reporting besides the end of program reports.
 
-![](/en/assets_en/period_targets.PNG)
+![](/assets_en/period_targets.PNG)
 
