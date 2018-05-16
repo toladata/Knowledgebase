@@ -33,5 +33,6 @@ You can easily add disaggregations for each of your indicators if you need to an
 
 ### Add Periodic Targets
 Besides the LOP Target, you can add periodic targets. Ongoing monitoring of your indicator results will help you catch potential hazards to achieving your goals and implement relevant remedies before it's too late. Also, some donors might require periodic reporting besides the end of program reports.
+
 ![](/en/assets_en/period_targets.PNG)
 
