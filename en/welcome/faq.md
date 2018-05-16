@@ -1,6 +1,7 @@
+****
 # FAQ
-
 ---
+
 ### Reporting
 #### Can you add pictures and text to dashboards?
 TolaData dashboards have a widget that allows you to include the free text of any length, with formatting options, as well as add images and website links.
