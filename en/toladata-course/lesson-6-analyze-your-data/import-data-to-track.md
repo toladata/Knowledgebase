@@ -20,7 +20,7 @@ Feel free to use sample data:
 
 #### Further reading
 
-1. Read more on how to [import data from different sources to Track](https://help.toladata.com/en/11-track/import-datasets.html) on the Knowledge base.
+1. Read more on how to [import data from different sources to Track](https://help.toladata.com/en/track/import-datasets.html) on the Knowledge base.
 
 
 
