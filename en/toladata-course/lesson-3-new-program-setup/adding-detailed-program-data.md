@@ -15,7 +15,7 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 #### Further reading
 
-1. Get to know more about [milestones](https://help.toladata.com/en/6-programs/milestones.html), [objectives](https://help.toladata.com/en/6-programs/objectives.html), [stakeholders](https://help.toladata.com/en/6-programs/stakeholder.html), [teams](https://help.toladata.com/en/6-programs/team.html), and [sectors ](https://help.toladata.com/en/6-programs/sector.html) on the Knowledge base.
+1. Get to know more about [diffrent program modules, like sites, milestones, objectives, stakeholders, team and sectors in this set of articles](https://help.toladata.com/en/programs/program-modules.html) on the Knowledge base.
 
 
 
