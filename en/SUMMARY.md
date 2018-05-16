@@ -84,20 +84,20 @@
 
 ## Form Library
 
-* [What is a Form?](9-form-library/what-is-a-form.md)
-* [Design a Form](9-form-library/designing-a-form.md)
-* [Publish a Form](9-form-library/adding-forms-to-library.md)
+* [What is a Form?](form-library/what-is-a-form.md)
+* [Design a Form](form-library/design-a-form.md)
+* [Publish a Form](form-library/publish-a-form.md)
 
 ## Reports & Dashboards
 
-* [What is a Report?](10-reports/what-is-a-report.md)
-* [What is a Dashboard?](10-reports/custom-reports.md)
+* [What is a Report?](reports-dashboards/what-is-a-report.md)
+* [What is a Dashboard?](reports-dashboards/what-is-a-dashboard.md)
 
 ## Track
 
-* [What is Track?](11-track/what-is-track.md)
-* [Import Datasets](11-track/import-datasets.md)
-* [Auto-pull Datasets](11-track/update-data-real-time.md)
-* [Clean and Merge Data](11-track/clean-and-merge-data.md)
-* [Export Datasets](11-track/export-datasets.md)
+* [What is Track?](track/what-is-track.md)
+* [Import Datasets](track/import-datasets.md)
+* [Auto-pull Datasets](track/auto-pull-datasets.md)
+* [Clean and Merge Data](track/clean-and-merge-data.md)
+* [Export Datasets](track/export-datasets.md)
 

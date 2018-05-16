@@ -1,5 +1,5 @@
 ****
-# **What is Track?**
+# What is Track?
 ---
 
 Track is the data analysis module of TolaData (read more on **Activity** and **Track** that make TolaData in [this Knowledge base article](https://help.toladata.com/en/)). Track helps to manage your datasets from multiple data sources in real-time for timely analysis.
