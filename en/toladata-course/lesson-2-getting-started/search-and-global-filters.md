@@ -17,9 +17,8 @@ Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[O
 
 Check out these Knowledge base articles: 
 
-1. [Search](https://help.toladata.com/en/5-navigation/search.html);
-2. [Filters](https://help.toladata.com/en/5-navigation/filters.html);
-3. [Using TolaData offline](https://help.toladata.com/en/5-navigation/offline-use-of-toladata.html).
+1. [Search](https://help.toladata.com/en/navigation/search.html);
+2. [Filters](https://help.toladata.com/en/navigation/filters.html).
 
 
 
