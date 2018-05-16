@@ -36,7 +36,7 @@
   * [Linking Evidence from Track with Indicators in Activity](toladata-course/lesson-6-analyze-your-data/linking-evidence-from-track-with-indicators-in-activity.md)
 * [Lesson 7 Dashboards and Reports](toladata-course/lesson-7-dashboards-reports.md)
   * [Viewing Reports](toladata-course/lesson-7-dashboards-reports/viewing-reports.md)
-  * [Creating Customized Dashboards](toladata-course/lesson-7-dashboards-reports/creating-dashboards.md)
+  * [Creating Dashboards](toladata-course/lesson-7-dashboards-reports/creating-dashboards.md)
 * [Train your team](12-learn-toladata/train-your-team.md)
   * [Four Easy Steps](12-learn-toladata/train-team.md)
   * [Best Practices](12-learn-toladata/become-a-trainer.md)
