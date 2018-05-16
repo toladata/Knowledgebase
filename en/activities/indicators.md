@@ -2,7 +2,7 @@
 # Indicators
 ---
 
-#### Adding Indicators
+#### Adding Indicators 
 
 1. To add a module, click an orange `+` button and select `Indicators`. 
 2. Choose `Assign Another Indicator` to add an Indicator previously added to the system. To add a new Indicator, refer to the 'Indicators' section.
