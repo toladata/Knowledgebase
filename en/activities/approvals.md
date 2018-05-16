@@ -2,12 +2,12 @@
 # Approvals 
 ---
 
-### Adding Approvals
+#### Adding Approvals
 
 1. To add a module, click an orange `+` button and select `Approval`. 
 2. To add a new approval, click `Add New`.
 
-### Use case 
+#### Use case 
 Approvals saved in the system will guide you to supervisors, who need to sign off your work before you can move forward with your project work, be it a completed task or a new purchase that needs to be made.
 
 > **Quick Tip:** 
