@@ -43,9 +43,9 @@
 
 ## Admin Console
 
-* [Configuration](4-admin-console/configuration.md)
-* [Setup](4-manage-users/setup.md)
-* [Users](4-manage-users/add-new-users.md)
+* [Configuration](admin-console/configuration.md)
+* [Setup](admin-console/setup.md)
+* [Users](admin-console/users.md)
 
 ## Navigation
 
