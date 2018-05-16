@@ -65,14 +65,14 @@
 
 ## Activities
 
-* [What is an Activity? ](7-activities/what-is-an-activity.md)
-* [Activity Modules](7-activities/activity-modules.md)
-  * [Approval](7-activities/approval.md)
-  * [Budget](7-activities/budget.md)
-  * [Stakeholders](7-activities/stakeholders.md)
-  * [Documents](7-activities/documents.md)
-  * [Sites](7-activities/sites.md)
-  * [Indicators](7-activities/indicators.md)
+* [What is an Activity? ](activities/what-is-an-activity.md)
+* [Activity Modules](activities/activity-modules.md)
+  * [Approvals](activities/approvals.md)
+  * [Budget](activities/budget.md)
+  * [Stakeholders](activities/stakeholders.md)
+  * [Documents](activities/documents.md)
+  * [Sites](activities/sites.md)
+  * [Indicators](activities/indicators.md)
 
 ## Indicators
 
