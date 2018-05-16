@@ -16,7 +16,7 @@ To create a country or portfolio level please contact us directly at: [support@t
 -->
 A **Program** is defined as a group of related projects and or activities managed in a coordinated way to obtain benefits and control not available through managing them individually. 
 > **Quick Tip:**   
-> TolaData allows for flexibility in naming your workflow levels. As an Admin you may call them according to the naming convention adopted by your organization. In our example workflow level 1 is called 'Programs', but you can easily change it. See how in [this article on the Knowledge base](https://help.toladata.com/en/4-manage-users/configuration.html).
+> TolaData allows for flexibility in naming your workflow levels. As an Admin you may call them according to the naming convention adopted by your organization. In our example workflow level 1 is called 'Programs', but you can easily change it. See how in [this article on the Knowledge base](https://help.toladata.com/en/admin-console/configuration.html).
 
 Most program details can be found in program proposals and concept notes developed in your program's proposal development and setup and planning phases. 
 
