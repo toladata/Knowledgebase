@@ -23,7 +23,7 @@ Look up examples of TolaData [training agendas that we prepared for different tr
 You will want your training to be both an efficient and pleasant event. For in person training, don't forget to use energizers. [We've put together a selection of tested ones for you](https://docs.google.com/document/d/1HohufUBEUc8vqR-C93TL8-36AKNOlFI2QuX3i9XYoms/edit?usp=sharing) [redirects to an external website]. In online facilitated classes check in with your participants often, to make sure they're focused and on track. You might also want to use engagement tools, like surveys, voting or raising hands that are provided by most online conference tools.
 
 ##### Feedback
-Don't forget to ask your trainees for opinion! Consult [TolaData training evaluation](/enketo.ona.io/x/#phzR) form and play around with its XLS form in the Resources section. For in person trainings, you might want to consider having feedback sessions (sharing opinion verbally or in writing, see picture) at the end of the training to identify possible pitfalls and areas to improve.
+Don't forget to ask your trainees for opinion! Consult [TolaData training evaluation](https://enketo.ona.io/x/#phzR) form and play around with its XLS form in the Resources section. For in person trainings, you might want to consider having feedback sessions (sharing opinion verbally or in writing, see picture) at the end of the training to identify possible pitfalls and areas to improve.
 
 ![](/assets_en/stick_man2.jpg)   
 
