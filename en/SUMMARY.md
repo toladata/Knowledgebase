@@ -76,11 +76,11 @@
 
 ## Indicators
 
-* [What is a Results Framework?](6-programs/what-is-a-results-framework.md)
-  * [Build your Results Framework](6-programs/what-is-a-results-framework/build-your-results-framework.md)
-* [What is an Indicator?](8-indicators/what-is-an-indicator.md)
-  * [Add Indicators](8-indicators/what-is-an-indicator/add-indicators.md)
-  * [Add Collected Data](8-indicators/what-is-an-indicator/add-collected-data.md)
+* [What is a Results Framework?](indicators/what-is-a-results-framework.md)
+  * [Build your Results Framework](indicators/build-your-results-framework.md)
+* [What is an Indicator?](indicators/what-is-an-indicator.md)
+  * [Add Indicators](indicators/what-is-an-indicator/add-indicators.md)
+  * [Add Collected Data](indicators/what-is-an-indicator/add-collected-data.md)
 
 ## Form Library
 
