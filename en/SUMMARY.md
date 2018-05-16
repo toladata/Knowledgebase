@@ -3,11 +3,11 @@
 ## Welcome to TolaData
 
 * [What is TolaData?](README.md)
-* [Quick Start](1-welcome/quick-start.md)
-* [Glossary](1-welcome/glossary.md)
-* [Recent changes ](1-welcome/recent-changes.md)
-* [Feedback and Support](1-welcome/feedback-support.md)
-* [FAQ](1-welcome/faq.md)
+* [Quick Start](welcome/quick-start.md)
+* [Glossary](welcome/glossary.md)
+* [Recent changes ](welcome/recent-changes.md)
+* [Feedback and Support](welcome/feedback-support.md)
+* [FAQ](welcome/faq.md)
 
 ## Take a course on TolaData
 
@@ -43,7 +43,7 @@
 
 ## Admin Console
 
-* [Configuration](4-manage-users/configuration.md)
+* [Configuration](4-admin-console/configuration.md)
 * [Setup](4-manage-users/setup.md)
 * [Users](4-manage-users/add-new-users.md)
 
