@@ -51,7 +51,7 @@ Have a look at the indicators below. Can you tell tell SMART from dumb?
 
 #### Further reading
 
-1. Make sure [what an indicator is ](https://help.toladata.com/en/8-indicators/what-is-an-indicator.html) in one of our Knowledge base articles;
+1. Make sure [what an indicator is ](https://help.toladata.com/en/indicators/what-is-an-indicator.html) in one of our Knowledge base articles;
 2. And consult a whole range of handy SMART indicators on [Indikit](http://www.indikit.net/) [redirects to an external website].  
 
 
