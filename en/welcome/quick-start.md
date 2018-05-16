@@ -35,16 +35,17 @@ Next you might want to add activities to your program. Select the `Activities` t
 ### Next steps
 
 When you've entered your basic program information into the system, you might want to start collecting data against your indicators. In order to toss it off, make sure to read on:
-1. [Building your Results Framework](https://help.toladata.com/en/6-programs/adding-levels.html);
-2. [Adding indicators](https://help.toladata.com/en/8-indicators/adding-indicators.html); 
-3. And [collecting data against them](https://help.toladata.com/en/8-indicators/linking-evidence-to-collected-data.html).
+1. [Building your Results Framework](https://help.toladata.com/en/indicators/build-your-results-framework.html);
+2. [Adding indicators](https://help.toladata.com/en/indicators/what-is-an-indicator/add-indicators.html); 
+3. And [collecting data against them](https://help.toladata.com/en/indicators/what-is-an-indicator/add-collected-data.html).
 
 > **Quick Tip:** 
-1. You might want to take a course on TolaData, [right here on the Knowledge base](https://help.toladata.com/en/12-learn-toladata/about-this-course.html). In just 7 easy lessons you'll excel in TolaData in no time!
-2. Either way, don't forget to drop by the Knowledge base from time to time to read more on TolaData's tricks like for example [offline usage of the platform](https://help.toladata.com/en/5-navigation/offline-use-of-toladata.html) or [real time data update](https://help.toladata.com/en/11-track/update-data-real-time.html). 
+1. You might want to take a course on TolaData, [right here on the Knowledge base](https://help.toladata.com/en/toladata-course/about-this-course.html). In just 7 easy lessons you'll excel in TolaData in no time!
+2. Either way, don't forget to drop by the Knowledge base from time to time to read more on TolaData's tricks! 
+3. Oftentimes you will see a 'Further reading' section under an article, go through the links and don't forget to enjoy TolaData!
 
 #### Further reading
-Configure the platform to make it more relevant to your programs! Here is another [detailed Knowledge base article on configuration](https://help.toladata.com/en/4-manage-users/configuration.html).
+Configure the platform to make it more relevant to your programs! Here is another [detailed Knowledge base article on configuration](https://help.toladata.com/en/admin-console/configuration.html).
 
 
 
