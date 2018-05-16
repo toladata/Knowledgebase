@@ -29,7 +29,7 @@ Here's an example of how Programs, Projects and Activities can be broken down:
 
 To add a new program for your team or organization, go to the Programs tab and click `Add New Program`. Start by adding your Program Name, Start date, and End date. Click `Submit` and you're all set!
 
-![](/en/assets_en/add_program.PNG)
+![](/assets_en/add_program.PNG)
 
 Next, you will be taken to 'Program Guide' where you can add your:
 
