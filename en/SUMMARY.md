@@ -11,11 +11,11 @@
 
 ## Take a course on TolaData
 
-* [About this course](12-learn-toladata/about-this-course.md)
-* [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
-  * [TolaData uses PMD Pro](12-learn-toladata/unit-1-general-introduction-to-toladata/project-management-and-mande-in-organizations.md)
-  * [TolaData Demo](12-learn-toladata/unit-1-general-introduction-to-toladata/toladata-demo.md)
-  * [Needs Self-Assessment](12-learn-toladata/unit-1-general-introduction-to-toladata/needs-self-assessment.md)
+* [About this course](toladata-course/about-this-course.md)
+* [Lesson 1 Introduction](toladata-course/lesson-1-introduction.md)
+  * [TolaData uses PMD Pro](toladata-course/lesson-1-introduction/toladata-uses-pmdpro.md)
+  * [TolaData Demo](toladata-course/lesson-1-introduction/toladata-demo.md)
+  * [Needs Self-Assessment](toladata-course/lesson-1-introduction/needs-self-assessment.md)
 * [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
   * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
   * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
