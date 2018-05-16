@@ -1,5 +1,5 @@
 ****
-# System Log in and User Permissions
+# System Login and User Permissions
 ---
 
 Let's access the system and see what are your user permissions in TolaData!
