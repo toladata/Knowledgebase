@@ -49,8 +49,8 @@
 
 ## Navigation
 
-* [Search](5-navigation/search.md)
-* [Filters](5-navigation/filters.md)
+* [Search](navigation/search.md)
+* [Filters](navigation/filters.md)
 
 ## Programs
 
