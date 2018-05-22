@@ -5,7 +5,7 @@
 [role="navigation"] > ul.summary > li:first-child > a{
     text-indent: -9999em;
     background-image: url(https://toladata.com/wp-content/uploads/2017/10/logo-full.svg);
-    background-repeat: no-repeat;
+    background-repeat: no-repeat; 
     background-size: 140px;
     background-position: 9px 5px;
 }
