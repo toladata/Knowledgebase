@@ -63,5 +63,5 @@ Ninette has previously worked at non-profits in Southeast Asia and the Middle Ea
 
 ##### Paulina Sobieszuk, Training Advisor
 
-Paulina is a trainer and project manager with 10+ years of experience in social tech projects in Central and Eastern Europe. As a product trainer she makes sure that you know how to make the most of TolaData.
+Paulina is a trainer and project manager with 10+ years of experience in social tech projects in Central and Eastern Europe. As a training advisor she makes sure that you know how to make the most of TolaData.
 
