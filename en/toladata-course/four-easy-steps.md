@@ -8,7 +8,7 @@ Now that you are all set to use TolaData, you can teach your team how to use it!
 
 The following factors are worth considering while preparing for the training:
 
-1. Who are your learners? Understand their strengths, weaknesses and needs. For TolaData training, we're using the following [assessment form](https://enketo.ona.io/x/#p91m) [redirects to an external website]. Find a corresponding XLS form in the Resources section below.
+1. Who are your learners? Understand their strengths, weaknesses and needs. For TolaData training, we're using the following [user assessment form](https://enketo.ona.io/x/#IyJ4HdHD) [redirects to an external website]. Find a corresponding XLS form in the Resources section below.
 2. Why do you want them to learn a new skill? No one engages eagerly in activities they deem pointless and you don't want to loose their or your time, either. 
 3. What do they need to learn? Precisely define the scope of your training based on goals and needs. Customization is the key - teach only what people need to know for their job function and role. You might want to split the group based on that.
 4. What is the expected benefit to both your learners and the organization? Anticipate resistance and act: be prepared to speak to how TolaData benefits to [funders](https://www.toladata.com/dashboard-for-funders/), [project managers](https://www.toladata.com/project-managers-ngo/) and [senior managers](https://www.toladata.com/senior-managers-ngos/) [redirects to TolaData website].
@@ -23,7 +23,7 @@ Look up examples of TolaData [training agendas that we prepared for different tr
 You will want your training to be both an efficient and pleasant event. For in person training, don't forget to use energizers. [We've put together a selection of tested ones for you](https://docs.google.com/document/d/1HohufUBEUc8vqR-C93TL8-36AKNOlFI2QuX3i9XYoms/edit?usp=sharing) [redirects to an external website]. In online facilitated classes check in with your participants often, to make sure they're focused and on track. You might also want to use engagement tools, like surveys, voting or raising hands that are provided by most online conference tools.
 
 ##### Feedback
-Don't forget to ask your trainees for opinion! Consult [TolaData training evaluation](https://enketo.ona.io/x/#phzR) form and play around with its XLS form in the Resources section. For in person trainings, you might want to consider having feedback sessions (sharing opinion verbally or in writing, see picture) at the end of the training to identify possible pitfalls and areas to improve.
+Don't forget to ask your trainees for opinion! Consult [TolaData evaluation](https://enketo.ona.io/x/#L3629Jgu) form and play around with its XLS form in the Resources section. For in person trainings, you might want to consider having feedback sessions (sharing opinion verbally or in writing, see picture) at the end of the training to identify possible pitfalls and areas to improve.
 
 ![](/assets_en/stick_man2.jpg)   
 
@@ -44,8 +44,8 @@ You might conduct the training on the [demo site](https://demo.toladata.io/) [re
 
 #### External resources for your convenience
 
-1. [XLS form (Pre-training assessment survey)](https://drive.google.com/file/d/1W9RUMV3rwGfzvhtLwKdX9TeSDRTLmUPv/view);
-2. [XLS form (TolaData training evaluation)](https://drive.google.com/file/d/1f3VG2rFK_fyz4AZtScsqCH-wKZir3GXa/view);
+1. [XLS form (TolaData User Assessment)](https://drive.google.com/file/d/1LMdvxMRCCTZI0ucZxyJHcFFH349kqvH6/view?usp=sharing);
+2. [XLS form (TolaData Evaluation)](https://drive.google.com/file/d/1a2hXOpa0Vq-kxk8JIlARfO07pZJ-2u7M/view?usp=sharing);
 3. [A folder full of TolaData training materials](https://drive.google.com/open?id=1yd7mzJvzj1kaI5EA3pAzTPlv3agc3gsP) and ready-to-use tools to support your training.
 
 
