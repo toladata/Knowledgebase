@@ -58,7 +58,8 @@
            },
            "links": {
                 "sidebar": {
-                     "Contact Us": "mailto:support@toladata.com" 
+                     "Contact Us": "mailto:support@toladata.com",
+                     "Knowledgebase": "https://help.toladata.com/en/"
                      },
                     
         "home": "https://help.toladata.com/en/"
@@ -67,6 +68,7 @@
            "github": {
                 "url": "https://github.com/toladata"
            },
+           
            "edit-link": {
                 "base": "https://github.com/toladata/knowledgebase/edit/master/",
                 "label": "Suggest Changes to this Page"
