@@ -59,7 +59,10 @@
            "links": {
                 "sidebar": {
                      "Contact Us": "mailto:support@toladata.com" 
-                     }
+                     },
+                    
+        "home": "https://help.toladata.com/en/"
+        
            },
            "github": {
                 "url": "https://github.com/toladata"
