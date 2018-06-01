@@ -26,10 +26,13 @@
         "page-feedback",
         "-disqus",
         "-language-picker",
-        "-recently-updated"
+        "-recently-updated",
+        "cookie-consent"
         ],    
     "pluginsConfig": {
-           
+           "cookieConsent": {
+            "message": "Accept cookies"
+           },
            "disqus": {
                 "shortName": "toladata"
            },
