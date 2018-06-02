@@ -31,7 +31,7 @@
         ],    
     "pluginsConfig": {
            "cookieConsent": {
-            "message": "Accept cookies"
+            "message": "Accept cookies and our privacy policy found at toladata.com/data-privacy-policy/"
            },
            "disqus": {
                 "shortName": "toladata"
