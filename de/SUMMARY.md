@@ -1,8 +1,8 @@
 # Summary
 
-## Welcome to TolaData 
+## Willkommen bei TolaData 
 
-* [What is TolaData?](README.md)
+* [Was ist TolaData?](README.md)
 * [Quick Start](welcome/quick-start.md)
 * [Glossary](welcome/glossary.md)
 * [Recent changes ](welcome/recent-changes.md)
