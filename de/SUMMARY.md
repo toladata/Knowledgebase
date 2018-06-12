@@ -1,122 +1,103 @@
 # Summary
 
-## Welcome Page
+## Welcome to TolaData
 
 * [What is TolaData?](README.md)
-* [Quick Start](1-welcome/quick-start.md)
-
-## Getting Started
-
-* [Are you TolaData ready?](2-getting-started/preparing-for-toladata.md)
-* [Our Approach](2-getting-started/history-and-approach.md)
-* [Glossary](2-getting-started/glossary.md)
-
-## Admin Console
-
-* [Setup](4-manage-users/setup.md)
-* [Configuration](4-manage-users/configuration.md)
-* [Users](4-manage-users/add-new-users.md)
-* [Set Approval Settings](4-manage-users/set-approval-settings.md)
-
-## Navigation
-
-* [Search](5-navigation/search.md)
-* [Filters](5-navigation/filters.md)
-* [Using TolaData offline](offline-use-of-toladata.md)
-
-## Programs
-
-* [Program Guide](6-programs/program-guide.md)
-* [Program Modules](6-programs/program-modules.md)
-  * [Site](6-programs/site.md)
-  * [Milestones](6-programs/milestones.md)
-  * [Objectives](6-programs/objectives.md)
-  * [Stakeholder](6-programs/stakeholder.md)
-  * [Team](6-programs/team.md)
-  * [Sector](6-programs/sector.md)
-
-## Activities
-
-* [Activity Guide](7-activities/what-is-an-activity.md)
-* [Add Activities](7-activities/add-activity.md)
-* [Turn Activities into a Project](7-activities/promoting-an-activity-to-a-project.md)
-* [Activity Modules](7-activities/activity-modules.md)
-  * [Approval](7-activities/approval.md)
-  * [Budget](7-activities/budget.md)
-  * [Stakeholders](7-activities/stakeholders.md)
-  * [Documents](7-activities/documents.md)
-  * [Sites](7-activities/sites.md)
-  * [Indicators](7-activities/indicators.md)
-
-## Indicators
-
-* [What is a Results Framework?](6-programs/what-is-a-results-framework.md)
-* [Build your Results Framework](6-programs/adding-levels.md)
-* [What is an Indicator?](8-indicators/what-is-an-indicator.md)
-* [Add Indicators](8-indicators/adding-indicators.md)
-* [Add Custom Disaggregations](8-indicators/adding-indicator-disaggregations.md)
-* [Add Collected Data](8-indicators/adding-collected-data.md)
-* [Link Evidence to Collected Data](8-indicators/linking-evidence-to-collected-data.md)
-
-## Form Library
-
-* [What is a Form?](9-form-library/what-is-a-form.md)
-* [Design a Form](9-form-library/designing-a-form.md)
-* [Add Forms to Library](9-form-library/adding-forms-to-library.md)
-
-## Reports
-
-* [What is a Report?](10-reports/what-is-a-report.md)
-* [View Reports](10-reports/viewing-reports.md)
-* [Custom Reports](10-reports/custom-reports.md)
-
-## Track
-
-* [What is Track?](what-is-track.md)
-* [Import Datasets](import-datasets.md)
-* [Clean and Merge Data](clean-and-merge-data.md)
-* [Update Data Real-time](update-data-real-time.md)
-* [Export Datasets](export-datasets.md)
+* [Quick Start](welcome/quick-start.md)
+* [Glossary](welcome/glossary.md)
+* [Recent changes ](welcome/recent-changes.md)
+* [Feedback and Support](welcome/feedback-support.md)
+* [FAQ](welcome/faq.md)
 
 ## Take a course on TolaData
 
-* [About this course](12-learn-toladata/about-this-course.md)
-* [Lesson 1 Introduction](12-learn-toladata/lesson-1-test.md)
-  * [Project management and M&E in Organizations](12-learn-toladata/lesson-1-test/project-management-and-mande-in-organizations.md)
-  * TolaData Demo
-  * Needs Self-Assessment
-* [Lesson 2 Getting Started](12-learn-toladata/unit-2-getting-started-with-toladata.md)
-  * [System Login and User Permissions](12-learn-toladata/unit-2-getting-started-with-toladata/system-login-and-user-permissions.md)
-  * [Log in to the System](12-learn-toladata/unit-2-getting-started-with-toladata/log-in-to-the-system.md)
-  * [Search and Global Filters](12-learn-toladata/unit-2-getting-started-with-toladata/search-and-global-filters.md)
-  * [Admin Console](12-learn-toladata/unit-2-getting-started-with-toladata/admin-console.md)
-* [Lesson 3 New Program Setup](12-learn-toladata/unit-3-new-program-setup.md)
-  * Adding Detailed Program Data
-  * Adding Program Overview Data
-  * Adding Activities
-* [Lesson 4 Tracking Program Progress](12-learn-toladata/unit-4-tracking-program-progress.md)
-  * Results Framework Setup
-  * Indicator Plan Design and Adding Indicators
-  * SMART Indicators
-  * Collect Data Against Indicators
-* [Lesson 6 Analyze Your Data](12-learn-toladata/unit-6-analyze-your-data.md)
-  * Import Data to Track
-  * Preliminary Data Analysis in Track
-  * Linking Evidence from Track with Indicators in Activity
-* [Lesson 7 Dashboards and Reports](12-learn-toladata/unit-7-creating-dashboards-and-reports.md)
-  * Viewing Reports
-  * Creating Customized Dashboards
-* [Train your team](12-learn-toladata/train-your-team.md)
-  * [Three Easy Steps](12-learn-toladata/train-team.md)
-  * [Best Practices](12-learn-toladata/become-a-trainer.md)
-* [Feedback and Support](12-learn-toladata/send-your-system-requests.md)
+* [About this course](toladata-course/about-this-course.md)
+* [Lesson 1 Introduction](toladata-course/lesson-1-introduction.md)
+  * [TolaData uses PMD Pro](toladata-course/lesson-1-introduction/toladata-uses-pmdpro.md)
+  * [TolaData Demo](toladata-course/lesson-1-introduction/toladata-demo.md)
+  * [Needs Self-Assessment](toladata-course/lesson-1-introduction/needs-self-assessment.md)
+* [Lesson 2 Getting Started](toladata-course/lesson-2-getting-started.md)
+  * [System Login and User Permissions](toladata-course/lesson-2-getting-started/system-login-and-user-permissions.md)
+  * [Search and Global Filters](toladata-course/lesson-2-getting-started/search-and-global-filters.md)
+  * [Admin Console](toladata-course/lesson-2-getting-started/admin-console.md)
+* [Lesson 3 New Program Setup](toladata-course/lesson-3-new-program-setup.md)
+  * [Adding Program Overview Data](toladata-course/lesson-3-new-program-setup/adding-program-overview-data.md)
+  * [Adding Detailed Program Data](toladata-course/lesson-3-new-program-setup/adding-detailed-program-data.md)
+  * [Adding Activities](toladata-course/lesson-3-new-program-setup/adding-activities.md)
+* [Lesson 4 Tracking Program Progress](toladata-course/lesson-4-tracking-program-progress.md)
+  * [Results Framework Setup](toladata-course/lesson-4-tracking-program-progress/results-framework-setup.md)
+  * [SMART Indicators](toladata-course/lesson-4-tracking-program-progress/smart-indicators.md)
+  * [Adding Indicators](toladata-course/lesson-4-tracking-program-progress/adding-indicators.md)
+  * [Collect Data Against Indicators](toladata-course/lesson-4-tracking-program-progress/collect-data-against-indicators.md)
+* [Lesson 5 Form Library](toladata-course/lesson-5-form-library.md)
+* [Lesson 6 Analyze Your Data](toladata-course/lesson-6-analyze-your-data.md)
+  * [Import Data to Track](toladata-course/lesson-6-analyze-your-data/import-data-to-track.md)
+  * [Preliminary Data Analysis in Track](toladata-course/lesson-6-analyze-your-data/preliminary-data-analysis-in-track.md)
+  * [Linking Evidence from Track with Indicators in Activity](toladata-course/lesson-6-analyze-your-data/linking-evidence-from-track-with-indicators-in-activity.md)
+* [Lesson 7 Dashboards and Reports](toladata-course/lesson-7-dashboards-reports.md)
+  * [Viewing Reports](toladata-course/lesson-7-dashboards-reports/viewing-reports.md)
+  * [Creating Dashboards](toladata-course/lesson-7-dashboards-reports/creating-dashboards.md)
+* [Train your team](toladata-course/train-your-team.md)
+  * [Four Easy Steps](toladata-course/four-easy-steps.md)
+  * [Best Practices](toladata-course/best-practices.md)
 
-## Form Guide
+## Admin Console
 
-## External Resources
+* [Configuration](admin-console/configuration.md)
+* [Setup](admin-console/setup.md)
+* [Users](admin-console/users.md)
 
-* [Making your dataset "analysis-ready"](making-your-dataset-analysis-ready.md)
-* [Document Storage](document-storage.md)
-* [Mobile Data Collection ](mobile-data-collection.md)
-* [FAQ](faq.md)
+## Navigation
+
+* [Search](navigation/search.md)
+* [Filters](navigation/filters.md)
+
+## Programs
+
+* [What is a Program?](programs/what-is-a-program.md)
+* [Program Modules](programs/program-modules.md)
+  * [Sites](programs/sites.md)
+  * [Milestones](programs/milestones.md)
+  * [Objectives](programs/objectives.md)
+  * [Stakeholder](programs/stakeholders.md)
+  * [Team](programs/team.md)
+  * [Sector](programs/sectors.md)
+
+## Activities
+
+* [What is an Activity? ](activities/what-is-an-activity.md)
+* [Activity Modules](activities/activity-modules.md)
+  * [Approvals](activities/approvals.md)
+  * [Budget](activities/budget.md)
+  * [Stakeholders](activities/stakeholders.md)
+  * [Documents](activities/documents.md)
+  * [Sites](activities/sites.md)
+  * [Indicators](activities/indicators.md)
+
+## Indicators
+
+* [What is a Results Framework?](indicators/what-is-a-results-framework.md)
+  * [Build your Results Framework](indicators/build-your-results-framework.md)
+* [What is an Indicator?](indicators/what-is-an-indicator.md)
+  * [Add Indicators](indicators/what-is-an-indicator/add-indicators.md)
+  * [Add Collected Data](indicators/what-is-an-indicator/add-collected-data.md)
+
+## Form Library
+
+* [What is a Form?](form-library/what-is-a-form.md)
+* [Design a Form](form-library/design-a-form.md)
+* [Publish a Form](form-library/publish-a-form.md)
+
+## Reports & Dashboards
+
+* [What is a Report?](reports-dashboards/what-is-a-report.md)
+* [What is a Dashboard?](reports-dashboards/what-is-a-dashboard.md)
+
+## Track
+
+* [What is Track?](track/what-is-track.md)
+* [Import Datasets](track/import-datasets.md)
+* [Auto-pull Datasets](track/auto-pull-datasets.md)
+* [Clean and Merge Data](track/clean-and-merge-data.md)
+* [Export Datasets](track/export-datasets.md)
 
