@@ -11,7 +11,7 @@ Here's is a quick introduction of the platform:
 
 {%youtube%} 3OLfDlK_uhY {%endyoutube%}
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
-
+![](/en/assets_en/Activity_Logo.jpg)
 ### TolaData = Activity + Track
 ### Activity 
 ![](/assets_en/activity logo text.png)
