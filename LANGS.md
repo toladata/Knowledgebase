@@ -6,5 +6,5 @@
 # Languages
 
 * [English](en/)
-* [German](de/)
-* [French](fr/)
+* [Deutsch](de/)
+* [Français](fr/)
