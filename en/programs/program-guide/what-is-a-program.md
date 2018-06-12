@@ -1,5 +1,0 @@
-# What is a Program?
-
----
-
-
