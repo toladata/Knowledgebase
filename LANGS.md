@@ -7,7 +7,7 @@
 
 * [English](en/)
 * [Deutsch](de/)
-* [Francais](fr/)
+* [Français](fr/)
 
 
 
