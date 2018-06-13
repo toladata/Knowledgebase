@@ -1,13 +1,13 @@
 ****
-# TolaData Knowledge base // Francais
+# Base de connaissance TolaData // Français
 ---
-This collection of articles will provide you with guidance on the why's and how's of TolaData and answer any questions you might have in the process. Happy exploring!
+Cette collection d'articles sert à  fournir des conseils sur le «pourquoi» et le comment» de TolaData et répondre aux questions qui pourront vous émerger dans le processus. Bonne exploration!
 
-### What is TolaData?
+### Qu'est-ce que TolaData?
 
-[**TolaData**](https://www.toladata.com/) is a monitoring and project management platform that simplifies the way you manage and track your projects.
+[**TolaData**](https://www.toladata.com/) est une plate-forme de suivi et de gestion des projets qui simplifie la manière dont vous gérez et traquez vos projets.
 
-Here's is a quick introduction of the platform:
+Voici une courte présentation de la plate-forme:
 
 {%youtube%} 3OLfDlK_uhY {%endyoutube%}
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
@@ -16,9 +16,9 @@ Here's is a quick introduction of the platform:
 ### Activity 
 ![](/assets_en/activity logo text.png)
 
-Activity is TolaData’s project management toolkit, which comprises of a collection of data forms, reports and visualizations designed to track results of your programs and projects.
+Activity est la boîte à outils de gestion de projet de TolaData. Elle  comprend une collection de données, des rapports et des visualisations conçus pour suivre les résultats de vos programmes et projets.
 
-#### ![](/assets_en/Activity_Logo.jpg) Standardization alongside adaptability
+#### ![](/assets_en/Activity_Logo.jpg) Standardisation et adaptabilité
 A standard set of forms is available to capture the full data lifecycle of a program, integrating tools like log frame and work-breakdown structures. Each stage of a project is tracked on **Activity** dashboards, allowing managers and staff to see progress at a glance. Primary forms are supplemented by flexible monitoring forms like training attendance or beneficiary registration.
 
 #### ![](/assets_en/Activity_Logo.jpg) Transparency through traceable results
