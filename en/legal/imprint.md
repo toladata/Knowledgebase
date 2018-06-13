@@ -3,7 +3,7 @@
 ---
 
 #### TolaData is a product of TolaData GmbH
-TolaData GmbH
+**TolaData GmbH**
 
 Wöhlertstraße 12-13, 10115 Berlin, Germany
 
@@ -13,7 +13,7 @@ E-mail: info@toladata.com
 
 Website: https://www.toladata.com
 
-CEO:
+**CEO:**
 Kathrin Wieland
 
 Registered at the Amtsgericht Charlottenburg Berlin, HRB 196821
