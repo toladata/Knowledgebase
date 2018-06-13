@@ -4,9 +4,13 @@
 
 #### TolaData is a product of TolaData GmbH
 TolaData GmbH
+
 Wöhlertstraße 12-13, 10115 Berlin, Germany
+
 Phone: +49 30 25779605
+
 E-mail: info@toladata.com
+
 Website: https://www.toladata.com
 
 CEO:
