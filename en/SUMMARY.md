@@ -101,3 +101,16 @@
 * [Clean and Merge Data](track/clean-and-merge-data.md)
 * [Export Datasets](track/export-datasets.md)
 
+## Legal
+
+* [Imprint](legal/imprint.md)
+* [Privacy policy](legal/privacy-policy.md)
+
+
+
+
+
+
+
+
+
