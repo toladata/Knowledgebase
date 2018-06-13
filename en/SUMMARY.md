@@ -104,7 +104,7 @@
 ## Legal
 
 * [Imprint](legal/imprint.md)
-* [Privacy policy](legal/privacy-policy.md)
+
 
 
 
