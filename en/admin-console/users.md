@@ -55,6 +55,9 @@ There are three types of user roles in the system:
 * Program Team
 * View Only
 
+> **Quick Tip:**
+> Additionally there is also an Organization Admin. This role has Program Admin access to all programs, as well as the right to configure system settings for their organization. See more in [this article about Configuration](https://help.toladata.com/en/admin-console/configuration.html). 
+
 | **Operation** | **Program Admin** | **Program Team** | **View Only** |
 | :--- | :---: | :---: | :---: |
 | Add/edit Team | ![](/assets_en/fa-check.png) | | |
