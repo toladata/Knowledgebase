@@ -9,7 +9,7 @@ Now you're ready to start creating your own program in TolaData. Go ahead!
 
 #### Practice
 
-Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **create a new program** and follow the **program guide to add details on program results framework and indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
+Go to TolaData and **create a new program** and follow the **program guide to add details on program results framework and indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
 
 **\*Already a customer? Please refer directly to your production site.**
 
