@@ -11,8 +11,6 @@ The devil is in the details, so you can go ahead and build up your newly added p
 
 Go to TolaData and add additional details to your program: **sites, milestones, program objectives, stakeholders, team members **and **sectors**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
 
-**\*Already a customer? Please refer directly to your production site.**
-
 #### Further reading
 
 1. Get to know more about [diffrent program modules, like sites, milestones, objectives, stakeholders, team and sectors in this set of articles](https://help.toladata.com/en/programs/program-modules.html) on the Knowledge base.
