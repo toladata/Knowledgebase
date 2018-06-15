@@ -9,9 +9,7 @@ So you've added your indicators to the system and you'll probably want to start 
  
 #### Practice
 
-Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand. 
-
-**\*Already a customer? Please refer directly to your production site.**
+Go to TolaData and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand. 
 
 ##### Sample datasets
 

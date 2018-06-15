@@ -9,9 +9,7 @@ Now you're ready to start adding indicators to the system. It's as easy as it ge
 
 #### Practice
 
-Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **add your indicators to the system**.
-
-**\*Already a customer? Please refer directly to your production site.**
+Go to TolaData and **add your indicators to the system**.
 
 #### Further reading
 
