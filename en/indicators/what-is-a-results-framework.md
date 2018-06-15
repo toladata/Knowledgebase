@@ -24,7 +24,7 @@ Some of the benefits of using a results framework:
 ### **Example of a Results Framework**
 
 #### As developed by USAID
-![](https://lh3.googleusercontent.com/6nb9ZNTBqui-1RATwNmyBrUlba9PoTFR1yH5QVWxiZ4w-zPiEz72BSA2toCOBl8l1qxH1Os8ooo5FgTldDjs4ye0f8K7R1-fDmRxJoqcHZHQQX2sCa851W__6JEu-ICHhiMOqPbz)
+![](/assets_en/USAID-results-framework.png)
 
 #### As it looks like on TolaData
 ![](/assets_en/RF_kb.PNG)
