@@ -9,9 +9,7 @@ No matter the format you're using for storing your data, you can link them to To
 
 #### Practice 
 
-Go to TolaData at [https://demo.toladata.io](https://demo.toladata.io)**\*** \[Opens an external website in a new tab\] and **import data from a source of your choice**.
-
-**\*Already a customer? Please refer directly to your production site.**
+Go to TolaData and **import data from a source of your choice**.
 
 ##### Sample datasets
 
