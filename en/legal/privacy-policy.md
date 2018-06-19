@@ -77,6 +77,7 @@ In general, we do not process any data via “profiling” or in form of automat
 The data provided by our business customers in the Software will be affected by an automated decision making via “profiling” such customer data for the purpose of improving the Software and our service. For details on such profiling through the Software please refer to IV. below.
 
 _In more detailed form:_
+
 **I. What are Personal Data?**
 
 **WEBSITE:**
