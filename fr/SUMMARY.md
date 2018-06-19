@@ -41,8 +41,8 @@
 
 ## Legal
 
-* [Imprint](legal/imprint.md)
-* [Privacy Policy](legal/privacy-policy.md)
+* [Imprint](legal_fr/imprint.md)
+* [Privacy Policy](legal_fr/privacy-policy.md)
 
 
 
