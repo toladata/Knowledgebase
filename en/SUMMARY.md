@@ -104,6 +104,18 @@
 ## Legal
 
 * [Imprint](legal/imprint.md)
+* [Privacy Policy](legal/privacy-policy.md)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
