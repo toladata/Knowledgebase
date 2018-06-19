@@ -77,33 +77,33 @@ In general, we do not process any data via “profiling” or in form of automat
 The data provided by our business customers in the Software will be affected by an automated decision making via “profiling” such customer data for the purpose of improving the Software and our service. For details on such profiling through the Software please refer to IV. below.
 
 _In more detailed form:_
-**I. What are Personal Data?
+**I. What are Personal Data?**
 
-WEBSITE:
+**WEBSITE:**
 
-II. How are my Data used when visiting the Website?
+**II. How are my Data used when visiting the Website?**
 
-III. What kind of Cookies, Web-tools or Third Party Providers does the Website use and how?
+**III. What kind of Cookies, Web-tools or Third Party Providers does the Website use and how?**
 
-SOFTWARE:
+**SOFTWARE:**
 
-IV. How are my data used when registering for the use of the Software and using the Software?
+**IV. How are my data used when registering for the use of the Software and using the Software?**
 
-V. What Third Party Providers are processing data when using the Software? Are my data processed outside the EU when using the Software?
+**V. What Third Party Providers are processing data when using the Software? Are my data processed outside the EU when using the Software?**
 
-GENERAL:
+**GENERAL:**
 
-VI. Could my Data be transferred to or shared with Third Parties? Are my data processed outside the EU when using the Service?
+**VI. Could my Data be transferred to or shared with Third Parties? Are my data processed outside the EU when using the Service?**
 
-VII. Your Rights: Right to access, rectification and erasure; right to restriction of processing, right to withdraw, right to data portability, right to lodge a complaint
+**VII. Your Rights: Right to access, rectification and erasure; right to restriction of processing, right to withdraw, right to data portability, right to lodge a complaint**
 
-VIII. Data Security, Scope of application
+**VIII. Data Security, Scope of application**
 
-IX. Contact
+**IX. Contact**
 
-I. What are Personal Data?
+**I. What are Personal Data?**
 
-1. Personal Data and Consent**
+**1. Personal Data and Consent**
 
 Personal data are any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Personal data includes e.g. name, email address or telephone number. Personal data also includes information about hobbies, memberships or websites viewed by someone else.
 
@@ -112,6 +112,7 @@ Personal data includes e.g. name, email address or telephone number. Personal da
 We will only collect, use and/or pass on personal data if this is permitted by law or if the User consents to the data processing.
 
 Consent of the data subject means any freely given, specific, informed and unambiguous indication of the person’s (data subject) wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
+
 **WEBSITE:**
 
 **II. How are my Data used when visiting the Website?**
@@ -128,9 +129,11 @@ _Country code, language, device name, operating system and version name, blurred
 We use these Access Data only for statistical analysis for the purpose of operation, security and optimization of our Website. However, we reserve the right to check these Access Data retrospectively if there is a justified suspicion of illegal use based on concrete indications. These data is then stored because this is the only way to prevent the misuse of our Website and Software and, if necessary, allow us to investigate any crimes committed. The storage of these data is necessary in order to protect us as the person responsible for processing the data. As a matter of principle, these data will not be passed on to third parties unless there is a legal obligation to pass it on or the transfer of data serves criminal prosecution purposes.
 
 This data processing is based on Art. 6 (1) f. GDPR or TMG and we wish to achieve the legitimate interests of stabilizing and improving our Website, quality insurance and fraud prevention.
+
 **2. Contacting us**
 
 When contacting us (e.g. by email), the User’s details are stored for the purpose of processing the enquiry and, if applicable, follow-up questions based on your consent (legal basis Art. 6 (1) a. GDPR).
+
 **3. Newsletter**
 
 With the newsletter we inform the user about the Website, our Software and us.
@@ -246,8 +249,8 @@ Please note that when Twitter is integrated, an automated decision making (“pr
 Twitter is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
 The data and privacy policy of Twitter can be found here: https://twitter.com/privacy
-**
-SOFTWARE:**
+
+**SOFTWARE:**
 
 **IV. How are my data used when registering for the use of the Software and using the Software?**
 
@@ -324,8 +327,8 @@ The right to information does not exist if the data are only stored because they
 Every user has the right to withdraw his or her consent regarding the use, processing or transmission of his/her data at any time in writing or by email to us. For this purpose the user can contact datasecurity@toladata.com.
 
 In the event of withdrawing the consent, we will no longer process and immediately delete the stored data of the user. This does not apply if we can prove compelling grounds for processing that are worthy of protection and which outweigh the interests, rights and freedoms of the respective user or in case the processing serves to assert, exercise or defend legal claims. For example, we will continue to use data if it is still necessary for the implementation of the contractual relationship.
-**
-3. Correction and completion of data**
+
+**3. Correction and completion of data**
 
 The user or data subject has the right to demand that we immediately correct any incorrect personal data concerning him/her. Taking into account the purposes of processing, the data subject has the right to request the completion of incomplete personal data, including by means of a supplementary declaration. For this purpose, you can contact datasecurity@toladata.com at any time.
 
