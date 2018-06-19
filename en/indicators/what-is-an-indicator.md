@@ -7,8 +7,8 @@ Indicators are linked to the objectives set in a Program Logframe to help measur
 
 For an indicator to measure change it must have:
 
-* Baseline: a measure or description of current performance of the entity and/or a comparator. Baselines must be defined at or near the beginning of a project;
-* Target: the improvements, change or achievement expected to happen during project implementation.
+* Baseline: a measure used to benchmark the current state of an indicator so that the recorded results can be appropriately calculated; 
+* Target: the improvement or achievement expected to take place while the project is being implemented.
 
 ### Creating SMART indicators
 
