@@ -4,8 +4,6 @@
 
 * [Qu'est ce que TolaData?](README.md)
 * [Quick Start](welcome/quick-start.md)
-* [Glossary](welcome/glossary.md)
-* [Recent changes ](welcome/recent-changes.md)
 * [Feedback and Support](welcome/feedback-support.md)
 * [FAQ](welcome/faq.md)
 
@@ -41,63 +39,29 @@
   * [Four Easy Steps](toladata-course/four-easy-steps.md)
   * [Best Practices](toladata-course/best-practices.md)
 
-## Admin Console
+## Legal
 
-* [Configuration](admin-console/configuration.md)
-* [Setup](admin-console/setup.md)
-* [Users](admin-console/users.md)
+* [Imprint](legal/imprint.md)
+* [Privacy Policy](legal/privacy-policy.md)
 
-## Navigation
 
-* [Search](navigation/search.md)
-* [Filters](navigation/filters.md)
 
-## Programs
 
-* [What is a Program?](programs/what-is-a-program.md)
-* [Program Modules](programs/program-modules.md)
-  * [Sites](programs/sites.md)
-  * [Milestones](programs/milestones.md)
-  * [Objectives](programs/objectives.md)
-  * [Stakeholder](programs/stakeholders.md)
-  * [Team](programs/team.md)
-  * [Sector](programs/sectors.md)
 
-## Activities
 
-* [What is an Activity? ](activities/what-is-an-activity.md)
-* [Activity Modules](activities/activity-modules.md)
-  * [Approvals](activities/approvals.md)
-  * [Budget](activities/budget.md)
-  * [Stakeholders](activities/stakeholders.md)
-  * [Documents](activities/documents.md)
-  * [Sites](activities/sites.md)
-  * [Indicators](activities/indicators.md)
 
-## Indicators
 
-* [What is a Results Framework?](indicators/what-is-a-results-framework.md)
-  * [Build your Results Framework](indicators/build-your-results-framework.md)
-* [What is an Indicator?](indicators/what-is-an-indicator.md)
-  * [Add Indicators](indicators/what-is-an-indicator/add-indicators.md)
-  * [Add Collected Data](indicators/what-is-an-indicator/add-collected-data.md)
 
-## Form Library
 
-* [What is a Form?](form-library/what-is-a-form.md)
-* [Design a Form](form-library/design-a-form.md)
-* [Publish a Form](form-library/publish-a-form.md)
 
-## Reports & Dashboards
 
-* [What is a Report?](reports-dashboards/what-is-a-report.md)
-* [What is a Dashboard?](reports-dashboards/what-is-a-dashboard.md)
 
-## Track
 
-* [What is Track?](track/what-is-track.md)
-* [Import Datasets](track/import-datasets.md)
-* [Auto-pull Datasets](track/auto-pull-datasets.md)
-* [Clean and Merge Data](track/clean-and-merge-data.md)
-* [Export Datasets](track/export-datasets.md)
+
+
+
+
+
+
+
 
