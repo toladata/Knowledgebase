@@ -1,48 +1,48 @@
 ****
-# Feedback and Support
+# Feedback et soutien
 ---
 
-Let's face it we all have great ideas, but sometimes there are so many great ideas, we need more than one person to provide input on it. That's why we ask you to discuss your ideas and vote!
+Regardons les choses en face: nous avons tous d’excellentes idées, mais parfois il y a tellement de bonnes idées qu’on a besoin de plus d’une personne pour fournir des commentaires à ce sujet. C’est pourquoi on vous demande de discuter sur vos idées et de voter! 
 
-### Feedback on the training material 
+### Feedback sur la matériel de formation 
 
-Whenever you find an article unclear or simply feel like something is missing from the training material, use a button below each article to tell us about it. Also, feel free to drop us a line at [support@toladata.com](mailto:support@toladata.com) with more detailed comments! And we don't need to tell, that your applause is more than welcome :) 
+À chaque reprise que vous êtes de l’avis qu’un article n’est pas assez clair ou que vous avez tout simplement l’impression que quelque chose manque dans le matériel de formation, utilisez le bouton en dessous de chaque article pour nous faire savoir. De même, n’hésitez pas à nous contacter sur [support@toladata.com](mailto:support@toladata.com) avec des commentaires plus détaillés. Et nous avons pas besoin de dire que des applaudissements de votre part sont plus que bienvenus!  
 
 ![](/assets_en/was_this.PNG)  
 
-### Feedback on the TolaData application 
+### Feedback sur l’application TolaData 
 
-Here's how to share your requests or add a ticket on TolaData:
+Voici comment partager vos demandes ou ajouter un ticket sur TolaData:
 
 ![](/assets_en/ticketing.gif) 
 
-### **What is a ticket?**
+### Qu’est-ce qu’un ticket?
 
-A ticket could be a report on a specific issue or a problem you are having using the software, or it could be you have a request for an enhancement to the software. All the tickets are reviewed, tagged, and prioritized by the TolaData team.
+Un ticket peut être un rapport sur un problème spécifique lors de l’usage de la software, ou il peut s’agir d’une demande d’amélioration de la software. Tous les tickets sont évalués, étiquetés et priorisés par l’équipe TolaData.
 
-### **How best to enter a ticket**
+### Comment saisir un ticket de la meilleure façon
 
-When entering tickets there are basic questions you can answer, to help us understand the issues described in the ticket.
+Lorsque vous entrez des tickets, il y a une série de questions de base que vous pouvez répondre afin de nous aider à comprendre les problèmes décrits dans le ticket. 
 
-* What browser are you using?
+* Quel navigateur utilisez-vous?
 
-* What, if any, error message did you get?
+* Dans le cas où vous avez reçu un message d’erreur, quel est-il?
 
-* What did you expect to happen?
+* A quoi vous attendiez-vous?
 
-* What actually happened?
+* Que s’est-il vraiment passé?
 
-An example of a ticket lacking the details we need is, 
+Pour nous un exemple de ticket manquant d’informations nécessaires est:  
 
-> " I found an error when I was working in TolaData."
+> " J’ai trouvé une erreur lorsque je travaillais dans TolaData."
 
-The problem with this kind of ticket is, it's hard for us to know where to start troubleshooting without contacting you for more information.
+Le problème avec ce type de ticket est qu’il est très difficile pour nous de savoir où commencer avec la résolution du problème sans devoir vous contacter afin de recevoir plus de détails. 
 
-An example of a **good ticket** is:
+Un exemple d’un **bon ticket** serait: 
 
-> "When I click the submit button on the new Indicator page for Program XYZ,  I get this error....
+> "Quand je clique sur le bouton «envoyer» de la nouvelle page d’indicateur pour le programme XYZ, je reçois ça comme erreur:...
 >
-> I have pasted below the error message and the page URL where I found the error."
+> J’ai collé en bas le message d’erreur ainsi que le lien URL de la page où j’ai trouvé l’erreur."
 
 With that amount of detail in a ticket, we are able to start working on a solution right away. You can also attach a screenshot of the page you seeing error in.
 
