@@ -1,5 +1,5 @@
 ****
-# Base de connaissance TolaData // Français
+# Base de connaissance TolaData
 ---
 Cette collection d’articles sert à fournir des conseils sur le «pourquoi» et le «comment» de TolaData. De plus, elle doit servir à répondre aux questions que vous pouvez avoir au fur et à mesure du processus d’exploration. 
 Bonne exploration alors!
@@ -13,6 +13,7 @@ Voici une courte présentation de la plate-forme:
 
 {%youtube%} 3OLfDlK_uhY {%endyoutube%}
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
+
 ![](/en/assets_en/Activity_Logo.jpg)
 ### TolaData = Activités + Track
 ### Activity 
