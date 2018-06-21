@@ -44,28 +44,28 @@ Un exemple d’un **bon ticket** serait:
 >
 > J’ai collé en bas le message d’erreur ainsi que le lien URL de la page où j’ai trouvé l’erreur."
 
-With that amount of detail in a ticket, we are able to start working on a solution right away. You can also attach a screenshot of the page you seeing error in.
+Avec cette quantité de détails dans un ticket, on est peut commencer à travailler afin de trouver une solution tout de suite. Vous pouvez également joindre une capture d’écran de la page dont vous avez trouvé l’erreur. 
 
-When submitting a ticket, focus on describing the business problem and try to prioritize your request. Our developers will do the rest and come up with a solution!
+Quand vous envoyez un ticket, essayez de vous concentrer sur la description du problème que vous avez lorsque vous essayez de réaliser un projet  et essayez de prioriser vos demandes. Nos développeurs vont s’occuper du reste et trouver une solution! 
 
-### **Three types of tickets you can submit**
+### **Trois types de tickets que vous pouvez envoyer**
 
-The types help us prioritize the work queue.
+Les types nous aident à prioriser la file d’attente. 
 
-#### **Problems**
+#### **Problèmes**
 
-Choose problem when you are requesting help with something you are having an issue with, but you can still get your task done.
+Choisissez «Problème» lorsque vous êtes confronté à un problème et vous avez besoin d’aide mais que vous pouvez continuer votre tâche tout de même.
 
-#### **Errors/Bugs**
+#### **Erreurs/bogues**
 
-Choose Error/Bugs if you receive an error or if there is unexpected behavior, especially when you cannot finish your task!
+Choisissez «Erreurs/bogues» si vous recevez comme réponse «erreur» ou vous voyez confronté à un comportement inattendu du système, particulièrement lorsque vous ne pouvez pas accomplir votre tâche. 
 
-#### **Enhancements**
+#### **Améliorations**
 
-Anything you or your colleague would like to see added or changed, but is not broken!
+Tout ce dont vous ou votre collègue aimeriez ajouter comme fonctionnalité.
 
-### Our work queue
+### Notre file d’attente
 
-The TolaData team monitors the tickets daily. Problems, such as bugs in the software, are usually fixed in the next release of our software.
+L’équipe TolaData suit les tickets chaque jour. Des problèmes, comme par exemple des bogues dans le software, sont normalement fixés lors de la publication de la prochaine version de notre software.
 
-We will be directly in touch with you with questions regarding your ticket. Requests for enhancements to the software require more feedback from other TolaData users before we can assign our software developers to the ticket.
+Nous serons en contact direct avec vous pour toutes les questions concernant votre ticket. Les demandes d’amélioration du software exigent des feedbacks additionnels des autres utilisateurs de TolaData avant que les tickets soient assignés aux développeurs.
