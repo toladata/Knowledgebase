@@ -33,28 +33,28 @@ Chaque activité du programme peut être associée à une multitude d’autres m
 ### Track
 ![](/assets_en/track logo text.png)
 
-Track is TolaData’s database management toolkit, which enables you to easily consolidate multiple data sources for timely analysis.
+Track est la boîte à outils de TolaData. Elle permet la gestion de base des données et rend possible de consolider facilement de multiples sources de données pour des analyses à temps.
 
-####![](/assets_en/Track_Logo.jpg) Digital data collection
-Developed in-house, our digital data collection application has an integrated form builder and option for QR reader to upload paper forms. A standardized form library, as well as a custom form builder, ensures that the exact data collection tool is available for every project.
+####![](/assets_en/Track_Logo.jpg) Collection des données numériques
+Développé en interne, notre application de collecte de données numériques est dotée d’un générateur de formulaires intégré et d’une option permettant au lecteur de QR de télécharger des formulaires papier. Une bibliothèque ainsi qu’un générateur de formulaires personnalisées, garantit que l’outil de collecte de données adéquat est disponible pour chaque projet.
 
-####![](/assets_en/Track_Logo.jpg) Data analysis
-Track can integrate data from multiple platforms and provide merge/append, auto-export, data cleaning, editing, sharing and analysis features. This allows users to collate multiple data silos into one while maintaining the data stream.
+####![](/assets_en/Track_Logo.jpg) L’analyse de données
+**Track** peut intégrer des données provenant de plusieurs plates-formes et fournir des fonctions de fusion/ d’ajout, d’auto-exportation, de nettoyage des données, d’édition, de partage et d’analyse. Cela permet aux utilisateurs d’assembler plusieurs silos de données en un, tout en conservant le flux de données.
 
-####![](/assets_en/Track_Logo.jpg) Data integration
-**Track** directly integrates with mobile data collection platforms such as Ona or KoBoToolbox to provide users with access to all of their forms and data for import and management. Data can be easily exported to other data platforms or tools, into Google Sheets or downloaded as any number of file types including CSV or XLS.
+####![](/assets_en/Track_Logo.jpg) Intégration de données
+**Track** se laisse intégrer directement avec des plates-formes de saisie mobile de données tels que ONA ou KoBoToolbox. Cela permet de fournir accès aux utilisateurs à tous les formulaires et aux données pour l’import et la gestion de ces données.. Ainsi, les données peuvent être facilement exportées vers d’autres plates-formes de données ou outils, dans Google Sheets ou téléchargées sous n’importe quel type de fichier, y compris CSV ou XLS.
 
-####![](/assets_en/Track_Logo.jpg) Open data
-All data throughout our platform is readily accessible and easily shareable in a public repository or privately with other users.
+####![](/assets_en/Track_Logo.jpg) Données ouvertes 
+Tous les données de notre plate-forme sont facilement accessibles et partageables dans un référentiel public ou en privé avec d’autres utilisateurs.
 
-### Why TolaData?
-**Connect all your data together**: Put an end to unrelated data collection tools and data silos and enjoy streamlined information sharing and retention.
+### Pourquoi TolaData?
+**Collectez toutes vos données ensemble:** Mettez une fin aux outils de collecte de données sans rapport ainsi qu’aux silos de données et profitez du partage et de la rétention des informations simplifiées.
 
-**Make decisions based on real-time data**: No more wasting time collecting and wrangling data when you could be analyzing and learning from it.
+**Prenez les décisions en vous basant sur des données en temps-réels:** Vous n’avez plus besoin de perdre le temps à collecter et déchiffrer les données lorsque vous pourriez les analyser et en tirer des leçons.
 
-**Transparent and flexible architecture**: Our platform meets your needs with comprehensive access to data at all levels and seamless integration to third-party systems.
+**Une architecture transparente et flexible:** Notre plate-forme répond à vos besoins avec un accès complet aux données de tous les niveaux et une intégration transparente à des systèmes tiers.
 
-**State-of-the-art technology**: Applying the latest from the tech industry to human-centered design concepts to create easy-to-use tools.
+**Technologie en pointe:** Appliquez les dernières innovations de l’industrie technologique avec des méthodes de conceptions centrées sur l’humain afin de créer des outils faciles à utiliser.
 
 
 
