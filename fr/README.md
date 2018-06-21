@@ -15,7 +15,7 @@ Voici une courte présentation de la plate-forme:
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
 
 ![](/en/assets_en/Activity_Logo.jpg)
-### TolaData = Activités + Track
+### TolaData = Activity + Track
 ### Activity 
 ![](/assets_en/activity logo text.png)
 
