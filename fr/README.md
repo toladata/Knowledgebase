@@ -1,31 +1,34 @@
 ****
 # Base de connaissance TolaData // Français
 ---
-Cette collection d'articles sert à  fournir des conseils sur le «pourquoi» et le comment» de TolaData et répondre aux questions qui pourront vous émerger dans le processus. Bonne exploration!
+Cette collection d’articles sert à fournir des conseils sur le «pourquoi» et le «comment» de TolaData. De plus, elle doit servir à répondre aux questions que vous pouvez avoir au fur et à mesure du processus d’exploration. 
+Bonne exploration alors!
 
 ### Qu'est-ce que TolaData?
 
 [**TolaData**](https://www.toladata.com/) est une plate-forme de suivi et de gestion des projets qui simplifie la manière dont vous gérez et traquez vos projets.
+
 
 Voici une courte présentation de la plate-forme:
 
 {%youtube%} 3OLfDlK_uhY {%endyoutube%}
 > [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
 ![](/en/assets_en/Activity_Logo.jpg)
-### TolaData = Activity + Track
+### TolaData = Activités + Track
 ### Activity 
 ![](/assets_en/activity logo text.png)
 
-Activity est la boîte à outils de gestion de projet de TolaData. Elle  comprend une collection de données, des rapports et des visualisations conçus pour suivre les résultats de vos programmes et projets.
+Activity est la boîte à outils pour la gestion des projets de TolaData. Elle comprend des formulaires de collecte de données, des rapports et des visualisations conçus pour suivre les résultats de vos programmes et projets.
 
 #### ![](/assets_en/Activity_Logo.jpg) Standardisation et adaptabilité
-A standard set of forms is available to capture the full data lifecycle of a program, integrating tools like log frame and work-breakdown structures. Each stage of a project is tracked on **Activity** dashboards, allowing managers and staff to see progress at a glance. Primary forms are supplemented by flexible monitoring forms like training attendance or beneficiary registration.
+Un ensemble de formulaires standardisés est disponible afin de capturer le cycle de vie complet des données d’un programme, tout en intégrant des outils tels que le cadre logique et des structures de répartition du travail. 
+Chaque étape d’un projet est traquée dans les tableaux de bord d'**Activity**, ce qui permet aux managers et au personnel de voir le progrès en un coup d’oeil. Des formulaires primaires sont complémentées de formulaires de surveillance flexibles comme la participation à l’entraînement ou l’inscription des bénéficiaires.
 
-#### ![](/assets_en/Activity_Logo.jpg) Transparency through traceable results
-The Indicator tracking tool creates indicators at activity, output, outcome, and goal level for each program. Progress against each indicator is documented through data sets from digital data collection tools or a consolidator like **Track**. Hence, the system provides the ability to trace evidence-base, view targets vs. actuals, and analyze cost-benefit/value for money.
+#### ![](/assets_en/Activity_Logo.jpg) Transparence grâce à des résultats traçables
+L’outil de suivi des indicateurs crée des indicateurs au niveau: activité, résultat, output, outcome et objectif pour chaque programme. Les données des outils de collecte des données numériques, ainsi qu’un groupeur comme par exemple **Track**, rendent possible de documenter le progrès de chaque indicateur. Par conséquent, le système offre la possibilité de la trace à la base des preuves, d’afficher des objectifs prévus par rapport aux objectifs réels et analyser le rapport coût-avantage/ qualité-prix.
 
-#### ![](/assets_en/Activity_Logo.jpg) Modular approach to management
-Each program activity can be linked to a multitude of connecting modules including budget management, procurement, staffing, stakeholder management, and geo-location tracking. This allows for data linking and reporting across different regions, programs, and activities.
+#### ![](/assets_en/Activity_Logo.jpg) Approche modulaire de la gestion
+Chaque activité du programme peut être associée à une multitude d’autres modules de connexion, y compris la gestion budgétaire, l’approvisionnement, la dotation en personnel, la gestion des intervenants et le suivi de la géolocalisation. Ceci permet de créer des liens et de générer des rapports sur les différentes régions, programmes et activités. 
 
 ### Track
 ![](/assets_en/track logo text.png)
