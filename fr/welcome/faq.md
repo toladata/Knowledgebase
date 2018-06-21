@@ -2,22 +2,24 @@
 # FAQ
 ---
 
-### Reporting
-#### Can you add pictures and text to dashboards?
-TolaData dashboards have a widget that allows you to include the free text of any length, with formatting options, as well as add images and website links.
+### Rapports
+#### Pouvez-vous ajouter des images et du texte dans les tableaux de bord?
+Les tableaux de bord de TolaData ont un gadget qui vous permet de joindre du texte de n’importe quelle longueur avec l’option de formater. Cela est aussi possible avec des images et liens de sites web.
 
-#### Can you create custom report templates?
-TolaData's dashboard feature, with the text widget, can be used to create custom reports with the user having full control over the layout of data visualizations, images, and text. All dashboards can also be printed to pdf.
+#### Pouvez-vous créer des modèles de rapport personnalisés?
+Le gadget d’ajouter du texte chez tableau de bord, peut être employé pour créer des modèles de rapport personnalisés. Il donne un contrôle complet à l‘utilisateur sur la structure choisie pour la visualisation des données, des images et du texte. Tous les tableaux de bord peuvent être également imprimés comme PDF.
 
-### Interoperability
-#### Can TolaData integrate with third-party systems?
-The API for TolaData is available on GitHub, is well documented and maintained.
+### L’interopérabilité
+#### Est-ce que TolaData se laisse intégrer avec des systèmes tiers?
+Le API de TolaData est disponible sur GitHub. Il est bien documenté et entretenu.
 
-TolaData can also integrate with any other third party systems as long as the API is available. The TolaData team is on hand to discuss the exact integration needs of a client with any existing systems and assist in developing a suitable approach.
+TolaData se laisse intégrer avec toute autre sorte de système tiers tant que l’API est disponible. L’équipe TolaData est sur place pour discuter des besoins d’intégration exacts d’un client avec leur systèmes existants et à aider développer une approche convenable.
 
-### Data security
-#### Where are TolaData's servers located?
-TolaData is a German company and we host with [Hetzner](https://www.hetzner.com/), also a Germany company. All data is only stored in Germany (Frankfurt or Nürnberg). We comply with all EU regulations for data security.
+
+### Sécurité des données
+#### Ou sont situées les serveurs de TolaData?
+TolaData est une entreprise allemande et est hébergé avec  [Hetzner](https://www.hetzner.com/), également uns société allemande. Tous les données sont uniquement conservés en allemagne (Francfort ou Nürnberg). Nous respectons toutes les réglementations de l’UE pour la sécurité des données.
+
 
 
 
