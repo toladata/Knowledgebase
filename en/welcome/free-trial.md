@@ -21,7 +21,9 @@ When you fill out the form on the website you'll be automatically taken to creat
 #### Invite users to TolaData
 When you're already in, you can invite others to TolaData and configure the platform [[read more on configuration here](https://help.toladata.com/en/admin-console/configuration.html)]. You will access your Admin Console by clicking on the round icon with your initials in the top right corner of screen.
 
-Invitees will receive emails prompting them to create user accounts on TolaData. When they do, you will see them listed under `Users` tab and will be able to assign them to programs or change their user permissions.
-
 ![](/assets_en/invite_trial.PNG)
+
+Invitees will receive emails prompting them to create user accounts on TolaData. When they do, you will see them listed under `Users` tab and will be able to assign them to programs or change their user permissions [[read more on how to do it here](https://help.toladata.com/en/admin-console/users.html)].
+
+
 
