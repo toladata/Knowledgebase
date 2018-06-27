@@ -4,6 +4,7 @@
 
 * [What is TolaData?](README.md)
 * [Quick Start](welcome/quick-start.md)
+* [Free Trial](welcome/free-trial.md)
 * [Glossary](welcome/glossary.md)
 * [Recent changes ](welcome/recent-changes.md)
 * [Feedback and Support](welcome/feedback-support.md)
