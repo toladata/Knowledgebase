@@ -6,6 +6,7 @@ Follow these easy steps to register for one month free trial and try out TolaDat
 
 #### Create an organization and register an Org admin
 Go to https://www.toladata.com/ to register your Org Admin account. Fill out a short questionnaire and you're good to go! 
+
 ![](/assets_en/sign_up.PNG)
 
 > **Quick Tip:** 
@@ -13,6 +14,7 @@ Go to https://www.toladata.com/ to register your Org Admin account. Fill out a s
 
 #### Create an Org admin account
 When you fill out the form on the website you'll be automatically taken to create your TolaData account. Simply add your details and that's it!
+
 ![](/assets_en/register.PNG)
 
 
