@@ -9,7 +9,7 @@ Go to https://www.toladata.com/ to register your Org Admin account. Fill out a s
 ![](/assets_en/sign_up.PNG)
 
 > **Quick Tip:** 
-Only the first person from your organization should register that way. This person will automatically get **Org admin** status [[read more on user permissions in this article](https://help.toladata.com/en/admin-console/users.html)] and will be able to invite others to the platform later on.
+> Only the first person from your organization should register that way. This person will automatically get **Org admin** status [[read more on user permissions in this article](https://help.toladata.com/en/admin-console/users.html)] and will be able to invite others to the platform later on.
 
 #### Create an Org admin account
 When you fill out the form on the website you'll be automatically taken to create your TolaData account. Simply add your details and that's it!
