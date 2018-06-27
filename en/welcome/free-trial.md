@@ -1,5 +1,5 @@
 ****
-# Free trial
+# Free trial & first time registration
 ---
 
 Follow these easy steps to register for one month free trial and try out TolaData! TolaData is all about collaboration, so in this test period you can invite unlimited number of users to join your organization. How cool is that?
