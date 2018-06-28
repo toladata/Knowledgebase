@@ -28,7 +28,7 @@ Il existe de nombreuses approches de gestion de projet et S&E. TolaData se base 
 <p>Que peut PMD Pro améliorer pour vous?</p>
 <answer correct>La planification de projets et la configuration. Il vous aide de planifier votre travail de manière réaliste et, plus tard, fournir les résultats désirés.</answer>
 <answer correct>Exécution des projets. Ça va vous aider à collecter et analyser vos données. </answer>
-<answer correct>Indicator tracking. It helps to collect and analyze your data.</answer>
+<answer correct>Suivi des indicateurs. Ça aide à collecter et analyser vos données.</answer>
 <answer correct>Rapportage et la collecte de fonds. En suivant les directives PMD Pro vous accueillerez assez de preuves concernant vos projets afin de mettre en place une histoire convaincante qui parle aux donateurs potentiels.</answer>
 <explanation>PMD Pro et TolaData sont là pour vous aider avec tous ces aspects! Nous ne pouvons pas contrôler les réalités inattendues. Mais c’est à nous de voir comment on les traite. PMD Pro propose une approche équilibrée envers la gestion des risques que vous pourriez trouver inspirante! Dans le même temps TolaData est votre solution pour une collection de données soignée et l’analyse des résultats des indicateurs en temps réel. Enfin, vous pouvez seulement faire des rapports sur ce que vous avez traqué/suivi tout au long de votre projet. Une fois que vous aurez mis en place votre plan d'indicateurs et collecté des données sur une base régulière, TolaData vous sera utile pour vous aider à respecter vos délais et les exigences des donateurs!
 </explanation>
