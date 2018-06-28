@@ -1,65 +1,66 @@
 
 ---
-# About this course
+# Ce qui concerne ce cours
 ---
 
-This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
+Ce cours va vous donner un aperçu complet de tous les fonctions et les fonctionnalités de TolaData en 7 leçons faciles.
 
-In addition, at the end of the course there's a "Train your team" section. You might find it helpful in planning a training on TolaData in your team or organization.
+De plus, à la fin de ce cours il y a une section «Instruisez votre équipe». Ca pourrait être utile de planifier une formation TolaData au sein de votre équipe ou organisation
 
-### Who is this course for?
+### À qui est destiné ce cours?
 
-This course is for everyone, but users with low to intermediate levels of computer literacy will benefit the most from it.
+Ce cours est destiné à tout le monde mais les utilisateurs avec des connaissances informatiques faibles à intermédiaires vont bénéficier le plus.
 
-### Why should I take it?
+### Pourquoi devrais-je suivre ce cours?
 
-Take this course especially if you're new to project management and M&E or, due to your job function, need to have a full understanding of all TolaData features and functionalities.
+Suivez ce cours surtout si vous débutez dans le travail de gestion de projets et S&E (Suivi et evaluation) ou bien si, dû à votre fonction de travail, vous avez besoin d’une compréhension approfondie de tous les fonctionalités et le fonctionnement de TolaData
 
-### What can I expect from it?
+### À quoi puis-je m’attendre du cours?
 
-Be ready to learn the system from A to Z, roll up your sleeves and get hands-on with our practice exercises!
+Soyez préparé à apprendre le système de A à Z, relevez vos manches et accédez à nos exercices d’entraînement!
 
-### Content types
+### Types de contenu
 
-In this course you will come across different content types, like videos, practice exercises on TolaData, quizzes and suggested readings. Get to know them all!
+Dans ce cours vous allez rencontrer différentes types de contenu, comme par exemple des vidéos, des exercices d’entraînement sur TolaData, des questionnaires, des lectures suggérées etc. Explorez-les toutes!
 
-##### Videos
+##### Vidéos
 
-Most of our content is delivered through short video tutorials and product screencasts. They're subtitled in English and auto-translated captions can be enabled in one of many YouTube supported languages. See below how to do it! You will also find a link to full transcripts under each video.
+La majorité de notre contenu est fourni à travers des tutoriels vidéo et des captures d’écran. Ceux-ci sont publiés en anglais accompagnés des sous-titres automatiques, peuvent être activés dans l’une des nombreuses langues soutenues par YouTube. Regardez ci-dessous comment ça fonctionne! Vous trouverez également des liens qui vous guideront vers les transcriptions complètes sous chaque vidéo.
 
 ![](/assets_en/lang.gif)
 
-##### Practice
+##### Entraînement
 
-Every article includes a practice exercise on TolaData or a quizz. Explore them to make sure you know how to apply what you've learned from the video. Remember that practice makes perfect! :\)
+Chaque article contient un exercice d’entraînement sur TolaData ou un petit questionnaire. Explorez-les pour vous assurer de savoir comment appliquer ce que vous avez appris de la vidéo. Rappelez-vous que c’est la pratique qui rend parfait! :\)
 
-##### Further reading
+##### Lecture ultérieure
 
-Oftentimes you will see a list of suggested readings under each article. Be it other Knowledge base articles or external resources, they will enhance your learning and improve understanding of TolaData.
+Vous verrez souvent des listes des lectures suggérés sous chaque article. Qu’il s'agisse d’autres articles de la base de connaissance ou des ressources externes, elles vont encourager l’apprentissage et améliorer votre compréhension de TolaData.
 
-### How much time will I spend learning?
+### Combien de temps va prendre l’apprentissage?
 
-Overall this course shouldn't take you more than 3 hours, including your own practice time.
+En tout ce cours ne devrait pas prendre plus de 3 heures, incluant le temps d’entraînement dont vous avez besoin.
 
-### What do I need to complete the course?
+### Que dois-je achever dans ce cours?
 
-You will need a computer with Internet access and speakers or headphones, as a lot of material is delivered through short videos.
+Vous auriez besoin d’un ordinateur avec un accès internet et des haut-parleurs ou des écouteurs, car beaucoup de matériel est expliqué à travers de petites vidéos.
 
-### How do I navigate this course?
+### Comment me diriger dans ce cours?
 
-To read articles in sequence, just click on the orange arrow ![](/assets_en/arrow.png) at the right side of the screen. Otherwise, you may simply select chosen articles in the table of contents on the left.
+Afin de lire les articles l’un après l’autre, appuyez tout simplement sur la flèche orange: ![](/assets_en/arrow.png) sur le côté droit de l’écran. Sinon, vous pouvez également sélectionner l’article précis que vous voudriez lire, hors du sommaire à la gauche.
 
-### Instructors
+### Instructeurs
 
 ![](/assets_en/ninette_kb.png)
 
-##### Ninette Adhikari, Product Manager
+##### Ninette Adhikari, Chef de produit
 
-Ninette has previously worked at non-profits in Southeast Asia and the Middle East and is an M&E and tech enthusiast. As a product manager she helps in the development process of TolaData and gathers your product needs and requirements.
+Ninette a déjà travaillé dans des organisations à but non lucratif en Asie du Sud-Est et au Moyen-Orient et est passionnée par le travail S&E (Suivi et évaluation) et la technologie. 
+En tant que chef de produit elle contribue au processus de développement de TolaData et rassemble vos besoins concernant le produits ainsi que vos demandes.. 
 
 ![](/assets_en/paulina_kb.png)
 
-##### Paulina Sobieszuk, Training Advisor
+##### Paulina Sobieszuk, Conseillère en formation
 
-Paulina is a trainer and project manager with 10+ years of experience in social tech projects in Central and Eastern Europe. As a training advisor she makes sure that you know how to make the most of TolaData.
+Paulina est une instructrice et chef de produit avec une expérience de 10+ ans dans des projets de technologie sociale en Europe centrale et orientale. En tant que conseillère en formation c’est à elle de veiller à ce que vous pouvez en tirer le meilleur parti de TolaData.
 
