@@ -15,4 +15,3 @@ Allez sur TolaData et **explorez la console d’administration**. Entrez/établi
 
 1. Lisez plus sur comment [ajouter de nouveaux utilisateurs](https://help.toladata.com/fr/admin-console/users.html) dans la base de connaissance.
 
-
