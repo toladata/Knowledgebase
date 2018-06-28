@@ -1,54 +1,53 @@
 ****
-# Needs Self-Assessment
+# Auto-évaluation des besoins
 ---
-TolaData facilitates your project management and M&E work. Make sure you're making the most of the system and take your skills to the next level!
+TolaData simplifie votre travail de gestion de projet et S&E. Assurez-vous de profiter aussi beaucoup que possible du système et améliorer vos compétences!
 
 {%youtube%} qwQJk8VB6AM {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0) & [lire la  transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
 
-#### Practice  
+#### Entraînement  
 
-Good news! TolaData is easy to learn and you can quickly start using it. Why don't you take a look at other applications that will be useful to know to enhance your TolaData experience and improve your project management and M&E work.
+On a de bonnes nouvelles! Il est facile à apprendre comment fonctionne TolaData et vous pouvez rapidement commencer à l’utiliser. Jetez un coup d’oeil à d’autres applications qui seront utiles à améliorer votre expérience TolaData et qui pourront améliorer votre gestion de projet et le travail de S&E.
 
 <quiz>
 <question> 
-<p>I am familiar with cloud based data storage services, like GoogleDrive or OneDrive.</p>
-<answer correct>Yes</answer>  
-<answer>No</answer>
-<explanation>TolaData is a cloud based software that can easily communicate with other similarly built tools, so familiarity with them is very helpful. Take a look at GoogleDrive to setup your own cloud storage space.</explanation>
+<p>Je connais des services de stockage de données en nuage comme GoogleDrive ou OneDrive.</p>
+<answer correct>Oui</answer>  
+<answer>Non</answer>
+<explanation>TolaData est une software basé en nuage (cloud) qui peut communiquer avec autres plateformes similaires, s’y connaître avec eux est alors assez utile. Jetez un coup d’oeil à GoogleDrive pour configurer votre propre espace de stockage en nuage.</explanation>
 </question>
 <question> 
-<p>I am familiar with and/or use digital data collection tools, like Ona or Kobo Toolbox.</p>
-<answer correct>Yes</answer>  
-<answer>No</answer>
-<explanation>Ona and KoboToolbox are digital data collection tools for you to create and manage your surveys. These tools, along with any application with an external API, easily integrate with TolaData to directly link survey data to the system to generate reports and dashboards real-time. Digital forms are very useful for teams to collect data in the field directly from beneficiaries. This provides transparency and promotes evidence based decision making. </explanation>
+<p>Je connais et/ou j’utilise des plateformes de collecte de données numériques ainsi que Ona ou Kobo Toolbox.</p>
+<answer correct>Oui</answer>  
+<answer>Non</answer>
+<explanation>Ona et Kobo Toolbox sont des plateformes de collecte de données numériques qui vous permettent à créer et gérer vos enquêtes.  Ces outils, ainsi que toute application avec une API externe, s'intègrent facilement avec TolaData pour lier directement les données d'enquête au système. Cela permet de générer des rapports et des tableaux de bord en temps réel. Les formulaires numériques sont très utiles aux équipes pour collecter des données sur le terrain directement auprès des bénéficiaires. Cela assure la transparence et favorise la prise de décision basée sur des preuves. </explanation>
 </question>
 <question> 
-<p>I am familiar with and/or use tabular and relational data structures within the Monitoring and Evaluation (M&E) team.</p>
-<answer correct>Yes</answer>  
-<answer>No</answer>
-<explanation>It is very helpful to have your datasets in tabular form which means having all your data in either Excel, relational database, or a web based database. This can help you not only to easily manage and analyze your data but also to import your existing datasets to TolaData directly. To fully transition your data to tabular form you can start with Excel and later move to relational and web based softwares.</explanation> 
+<p>Je connais et/ou j’utilise des structures de données tabulaires et relationnelles dans mon équipe de S&E.</p>
+<answer correct>Oui</answer>  
+<answer>Non</answer>
+<explanation>C’est très util d’avoir tous vos ensembles de données dans des structures tabulaires. Cela signifie d’avoir tous vos données dans Excel, dans une base de données relationnelle ou dans une base de donnée web. Cela peut vous aider non seulement à gérer et analyser vos données plus facilement, mais aussi à importer vos ensembles de données existants directement dans TolaData. Pour effectuer une transition complète de vos données vers un format tabulaire, vous pouvez commencer par Excel et ensuite passer aux logiciels relationnels et web.</explanation> 
 </question>
 <question>
-<p>I use standard tools and indicators whenever possible.</p>
-<answer correct>Yes</answer>
-<answer>No</answer>
-<explanation>Reuse of standard program indicators and KPIs, as well as including them in new proposals is crucial to quality M&E at your organization, while using standard data collection tools makes it possible to compare your results across programs and projects. An important step towards excellent M&E is to include it into organizational strategies or annual plans.</explanation>
+<p>J’utilise des outils/plateformes standard autant que possible.</p>
+<answer correct>Oui</answer>
+<answer>Non</answer>
+<explanation>La réutilisation des indicateurs de programme standard et des indicateurs clé de performance (KPI) ainsi que leur intégration dans de nouvelles propositions sont  essentiels pour un S&E de qualité dans votre organisation. De même l’utilisation d’outils standard rend possible de comparer vos résultats entre programmes et projets. Une étape importante vers un excellent suivi et évaluation (S&E) est de l’inclure dans les stratégies organisationnelles ou les plans annuels.</explanation>
 </question>
 </quiz> 
 
-#### Further reading
-
-Check out these external resources:
+#### Lecture ultérieure
+Consultez ces ressources externes: 
  
 1. [Security in a box](https://securityinabox.org/en/);
 2. [My shadow](https://myshadow.org/);
 3. [How hacking works](https://motherboard.vice.com/en_us/topic/how-hacking-works);
-4. [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) learning center;
+4. [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) centre de formation;
 5. [Ona](https://ona.io/home/);
-6. [KoboToolbox](http://help.kobotoolbox.org/) Help Center;
+6. [KoboToolbox](http://help.kobotoolbox.org/) centre d’assistance;
 7. [XLS Forms](http://xlsform.org/) guide;
-8. [Better Evaluation](http://www.betterevaluation.org/en) collaboratively created knowledge base on monitoring and evaluation.
+8. [Better Evaluation](http://www.betterevaluation.org/en) base de connaissances créé de manière collaborative sur le S&E.
 
 
 
