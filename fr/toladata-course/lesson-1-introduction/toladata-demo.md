@@ -1,15 +1,15 @@
 ****
-# TolaData Demo
+# Démo de TolaData
 ---
 
-Watch a short TolaData demo to get an overview of its basic features and functionalities.
+Regardez une courte présentation de TolaData pour avoir un aperçu des caractéristiques et fonctionnalités de base.
 
 {%youtube%} OYblburwu9k {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/OYblburwu9k?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.uhcggc6nbidj)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/OYblburwu9k?rel=0) & [lire la transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.uhcggc6nbidj)
 
-#### Further reading
+#### Lecture ultérieure
 
-1. Visit [TolaData website](https://www.toladata.com/) [redirects to an external website].
+1. Visitez le [site internet TolaData](https://www.toladata.com/) [mène à un site externe].
 
 
 
