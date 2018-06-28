@@ -1,21 +1,20 @@
 ****
-# System Login and User Permissions
+# Connexion au système et autorisations d’utilisateurs
 ---
 
-Let's access the system and see what are your user permissions in TolaData!
+Accédons au système et voyons quels sont vos autorisations d'utilisateur dans TolaData.
 
 {%youtube%} Sn68rS7YGwc {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/Sn68rS7YGwc?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.h7d4qg9nww2l)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/Sn68rS7YGwc?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.h7d4qg9nww2l)
 
-#### Practice
+#### Entraînement
 
-**Registering with TolaData**:
+**S'enscrire dans TolaData**:
 
-Has your organization already registered with TolaData? Go to  [https://toladata.io](https://toladata.io) to create your account. Make sure to spell your organization name correctly or ask your Org Admin to send you an invitation. 
+Est-ce que votre organisation s’est déjà enregistré auprès de TolaData? Allez sur  [https://toladata.io](https://toladata.io) pour créer votre compte. Faites attention à écrire le nom de votre organisation correctement ou demandez à votre administrateur de vous envoyer une invitation. 
+Sinon, vous pouvez également vous entraîner ici:  [https://demo.toladata.io](https://demo.toladata.io). 
 
-Otherwise, start practicing here:  [https://demo.toladata.io](https://demo.toladata.io). 
-
-Have a browse through your profile. You’ll see which level of permission you’ve been granted once your Admin assigns programs to you \(you'll be able to check that under Team tab of a Program of your choice\).
+Naviguez vite-fait à travers votre profil. Vous allez voir quel niveau de permission vous a été attribué dès que votre administrateur va vous assigner des programmes \(vous pourriez vérifier cela sous l'onglet Équipe d'un programme de votre choix\).
 
 
 
