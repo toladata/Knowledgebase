@@ -13,7 +13,7 @@ Go to TolaData and add additional details to your program: **sites, milestones, 
 
 #### Further reading
 
-1. Get to know more about [diffrent program modules, like sites, milestones, objectives, stakeholders, team and sectors in this set of articles](https://help.toladata.com/en/programs/program-modules.html) on the Knowledge base.
+1. Get to know more about [diffrent program modules like sites, milestones, objectives, stakeholders, team and sectors in this set of articles](https://help.toladata.com/en/programs/program-modules.html) on the Knowledge base.
 
 
 
