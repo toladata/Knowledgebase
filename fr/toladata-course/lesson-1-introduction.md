@@ -1,25 +1,26 @@
 ****
-# Lesson 1 Introduction
+# Leçon 1: Introduction
 ---
 
-### About
+### À propos de..
 
-Welcome! Happy to have you on board. Let's see what TolaData is all about and how we can help you get your project management and M&E work done more efficiently with better results. Ready to get started?
+Bienvenue! Nous sommes heureux de vous compter parmis nous! 
+Voyons ce qu'est TolaData et comment nous pouvons vous aider à gérer votre projet et votre travail de S&E (Suivi et évaluation) plus efficacement et avec de meilleurs résultats. Prêt à commencer?
 
 {%youtube%} PMQBRBcZWLg {%endyoutube%} 
-> [See video on YouTube](https://www.youtube.com/embed/PMQBRBcZWLg?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.vsu25ey96nbr) 
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/PMQBRBcZWLg?rel=0) & [lire la transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.vsu25ey96nbr) 
 
 ### Timing
 
-This lesson takes approximately 25 minutes to complete.
+Cette leçon vous prendra environ 25 minutes à terminer.
 
-### Learning outcomes
+### Compétences acquises
 
-After completing this lesson you will know about:
+Après avoir terminé la leçon, vous saurez:
 
-* Basic features and functionalities of the system;
-* PMD Pro approach to project management and M&E and how it's implemented in TolaData;
-* You will also get confident about learning TolaData and explore ways to improve your project management and M&E skills.
+* Les fonctions de base ainsi que les fonctionnalités du système;
+* L’approche PMD Pro envers la gestion de projet et S&E (M&E) et la manière dont c’est mis en place en TolaData;
+* Vous gagnerez aussi de la confiance dans l’apprentissage de TolaData et l’exploration des moyens afin d’améliorer vos compétences en gestion de projet et en S&E (suivi et évaluation).
 
 ## 
 
