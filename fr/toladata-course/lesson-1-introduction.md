@@ -8,7 +8,7 @@ Bienvenue! Nous sommes heureux de vous compter parmis nous!
 Voyons ce qu'est TolaData et comment nous pouvons vous aider à gérer votre projet et votre travail de S&E (Suivi et évaluation) plus efficacement et avec de meilleurs résultats. Prêt à commencer?
 
 {%youtube%} PMQBRBcZWLg {%endyoutube%} 
-> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/PMQBRBcZWLg?rel=0) & [lire la transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.vsu25ey96nbr) 
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/PMQBRBcZWLg?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.vsu25ey96nbr) 
 
 ### Timing
 
