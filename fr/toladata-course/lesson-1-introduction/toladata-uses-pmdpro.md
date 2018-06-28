@@ -25,18 +25,19 @@ Il existe de nombreuses approches de gestion de projet et S&E. TolaData se base 
 <explanation>PMD Pro vous aide à structurer votre travail quotidien et profiter le plus de votre expériences de terrain et les leçons apprises. En cas ou vous vous inquiétez de ne pas être capable de le mettre en oeuvre à cause de sa complicité, on vous suggère de commencer par des petits pas et progressivement ajouter de plus en plus d'éléments à votre pratique. Entre-temps nous gardons les doigts croisées pour que les donateurs l’apprécient et exigent l’adoption de PMD Pro par leurs bénéficiaires.</explanation>
 </question>
 <question multiple>
-<p>What PMD Pro can improve for you?</p>
-<answer correct>Project planning and setup. It helps you to plan work realistically and later deliver the expected results.</answer>
-<answer correct>Project implementation. It will help you react to crisis and troubleshoot.</answer>
+<p>Que peut PMD Pro améliorer pour vous?</p>
+<answer correct>La planification de projets et la configuration. Il vous aide de planifier votre travail de manière réaliste et, plus tard, fournir les résultats désirés.</answer>
+<answer correct>Exécution des projets. Ça va vous aider à collecter et analyser vos données. </answer>
 <answer correct>Indicator tracking. It helps to collect and analyze your data.</answer>
-<answer correct>Reporting and fundraising. Following PMD Pro guidelines, you'll gather enough evidence on your projects to put together a compelling story that speaks to prospective donors.</answer>
-<explanation>PMD Pro and TolaData come hand in hand to help you with all that! We cannot control unexpected realities out there. But we're in charge of how we deal with them. PMD Pro suggests a balanced approach to risk management, and you might find it inspiring! At the same time, TolaData is your solution for neat data collection and analyzing indicator results in real time. Lastly, you are only able to report on as much as you've kept track on throughout your project. Once you have your indicator plan in place and collect data on regular basis, TolaData will come in handy to help you meet your deadlines. And donors!</explanation>
+<answer correct>Rapportage et la collecte de fonds. En suivant les directives PMD Pro vous accueillerez assez de preuves concernant vos projets afin de mettre en place une histoire convaincante qui parle aux donateurs potentiels.</answer>
+<explanation>PMD Pro et TolaData sont là pour vous aider avec tous ces aspects! Nous ne pouvons pas contrôler les réalités inattendues. Mais c’est à nous de voir comment on les traite. PMD Pro propose une approche équilibrée envers la gestion des risques que vous pourriez trouver inspirante! Dans le même temps TolaData est votre solution pour une collection de données soignée et l’analyse des résultats des indicateurs en temps réel. Enfin, vous pouvez seulement faire des rapports sur ce que vous avez traqué/suivi tout au long de votre projet. Une fois que vous aurez mis en place votre plan d'indicateurs et collecté des données sur une base régulière, TolaData vous sera utile pour vous aider à respecter vos délais et les exigences des donateurs!
+</explanation>
 </question>
 </quiz>
 
-#### Further reading
-1. PMD Pro is a recognized project management and M&E approach, adopted by many non profits across humanitarian and development sector. TolaData structure mirrors that methodology. Find more details about [PMD Pro on the official site](http://www.pm4ngos.com/pmd-pro-guide/) [redirects to an external website]. 
-2. Watch a video featuring PMD Pro Vice-Chair John Cropper, talking about how this approach benefits to organizations worldwide. [Why PMD Pro?](https://www.youtube.com/watch?v=uCn6Nltz9Vo) [redirects to an external website].  
+#### Lecture ultérieure 
+1. PMD Pro est une approche reconnue de gestion de projet et S&E, adoptée par de nombreux organisations à but non lucratif dans le secteur humanitaire et du développement. La structure de TolaData reflète cette méthodologie. Pour en savoir plus à l’égard de [site officiel de PMD Pro](http://www.pm4ngos.com/pmd-pro-guide/) [mène à un site externe]. 
+2. Regardez une vidéo avec le vice-président de PMD Pro John Cropper, parlant de la façon dont cette approche profite aux organisations dans le monde entier. [Why PMD Pro?](https://www.youtube.com/watch?v=uCn6Nltz9Vo) [mène à un site externe].  
 
 
 
