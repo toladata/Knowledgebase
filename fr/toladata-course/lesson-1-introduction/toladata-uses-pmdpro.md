@@ -1,28 +1,28 @@
 ****
-# TolaData uses PMD Pro
+# TolaData utilise PMD Pro
 ---
 
-There are many project management and M&E approaches out there. TolaData is built on PMD Pro. Take a quick snapshot of this methodology and reflect on how you structure your work.
+Il existe de nombreuses approches de gestion de projet et S&E. TolaData se base sur PMD Pro. Prenez un instant pour voir cette méthode et réfléchissez à la façon dont vous structurez votre travail.
 
 {%youtube%} SursOF6FI3o {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/SursOF6FI3o?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.tnaqoi1hzqej) 
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/SursOF6FI3o?rel=0) & [lire la transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.tnaqoi1hzqej) 
 
 #### Practice   
  
 <quiz> 
     <question multiple>
-        <p>Who is PMD Pro for?</p>
-        <answer>It's a demanding approach for organizations that are efficient and successful at making a difference.</answer>
-        <answer correct>Everyone can get something out of it, regardless of how good or bad they're performing.</answer>
-        <answer>It is the last resort for those terrible at organizing their work, when a lot of resources are lost along the way.</answer>
-        <explanation>Champion or not, everyone can benefit from learning about PMD Pro approach to improve their project management practices and increase efficiency. Why don't you consult the resources below to get inspired?</explanation>
+        <p>A qui s'adresse PMD Pro??</p>
+        <answer>C’est une approche difficile pour des organisations efficaces et qui sont forts à atteindre des effets positifs.</answer>
+        <answer correct>Tout le monde peut en profiter de PMD Pro, peu importe la qualité de leurs performances.</answer>
+        <answer>C'est le dernier recours pour ceux qui sont terribles dans l'organisation de leur travail et qui perdent beaucoup de ressources en cours de route.</answer>
+        <explanation>Champion ou pas, tout le monde peut bénéficier de l’approche de PMD Pro pour améliorer leurs pratiques de gestion de projet et augmenter l’efficacité. Essayez de consulter les ressources ci-dessous pour vous inspirer.</explanation>
     </question>   
     <question multiple> 
-<p>Why is PMD Pro beneficial to non-profits worldwide?</p>
-<answer correct>It offers a structured approach to projects delivery and tracking, making it easier for organizations to report on results and get funding.</answer>
-<answer correct>It helps project teams to keep track of what's on in their projects, providing flexibility for adaptive management.</answer>  
-<answer>Many prominent donors require their grantees to use PMD Pro for the programs and projects funded by them.</answer>
-<explanation>PMD Pro helps you structure your day-to-day work and make the most of your field experiences and lessons learned. If you're concerned you won't be able to fully implement it due to its complexity, we suggest to start small and gradually add more PMD Pro elements to your practice. And we're keeping our fingers crossed for donors to appreciate it and require PMD Pro adoption by their grantees.</explanation>
+<p>Pourquoi est-ce que PMD Pro est avantageux aux organisations à but non lucratif dans le monde entier?</p>
+<answer correct>Ça offre une approche structurée de la livraison et du suivi des projets, ce qui permet aux organisations de rendre compte plus facilement des résultats et à travers ça obtenir du financement.</answer>
+<answer correct>Ça aide aux équipes de projet à suivre ce qui se passe dans leurs projets, tout en offrant une flexibilité pour la gestion adaptative.</answer>  
+<answer>De nombreux donateurs  renommés demandent à leurs bénéficiaires d’utiliser PMD Pro pour les programmes et projets qu’ils financent.</answer>
+<explanation>PMD Pro vous aide à structurer votre travail quotidien et profiter le plus de votre expériences de terrain et les leçons apprises. En cas ou vous vous inquiétez de ne pas être capable de le mettre en oeuvre à cause de sa complicité, on vous suggère de commencer par des petits pas et progressivement ajouter de plus en plus d'éléments à votre pratique. Entre-temps nous gardons les doigts croisées pour que les donateurs l’apprécient et exigent l’adoption de PMD Pro par leurs bénéficiaires.</explanation>
 </question>
 <question multiple>
 <p>What PMD Pro can improve for you?</p>
