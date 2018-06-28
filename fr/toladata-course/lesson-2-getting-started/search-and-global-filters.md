@@ -1,24 +1,25 @@
 ****
-# Search and Global Filters
+# Recherche et filtres globaux
 ---
 
-Save your time with search and global filters functionalities. Find what you're looking for in seconds and narrow down the displayed information to only the needed program.
+Economisez du temps grâce aux fonctionnalités de recherche et de filtres globaux. Trouvez ce dont vous avez besoin en quelques secondes et limitez l’information affichée seulement aux programmes dont vous avez besoin.
 
 {%youtube%} iAWJgBDtXUI {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/iAWJgBDtXUI?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.ddpf16rzpr5r)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/iAWJgBDtXUI?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.ddpf16rzpr5r)
 
-#### Practice
+#### Entraînement
 
-Go to TolaData and **search for something**. Try typing in 'Syria' \(you'll see why in the next Lesson\), or something related to your program or project if you're on your production site. Then, try to apply a global filter.
+Allez sur TolaData et **cherchez quelque chose**. Essayez d’entrer “Syrie” (vous verrez pourquoi dans la prochaine leçon), ou quelque chose lié à votre programme ou projet en cas où vous êtes sur un site de production. Ensuite, essayez d’appliquer un filtre global.
 
-**\*You can report on any issues using the question mark "?" button at the bottom left corner of the navigation bar in the system.**
+**Vous pouvez rapporter sur toute sorte de problème/difficulté en appuyant sur le point d’interrogation “?” dans le coin inférieur gauche de la barre de navigation du système.
+**
 
-#### Further reading
+#### Lecture ultérieure
 
-Check out these Knowledge base articles: 
+Consultez ces articles de la base de connaissance: 
 
-1. [Search](https://help.toladata.com/en/navigation/search.html);
-2. [Filters](https://help.toladata.com/en/navigation/filters.html).
+1. [Recherche](https://help.toladata.com/fr/navigation/search.html);
+2. [Filtres](https://help.toladata.com/fr/navigation/filters.html).
 
 
 
