@@ -43,9 +43,9 @@ Consultez ces ressources externes:
 1. [Security in a box](https://securityinabox.org/en/);
 2. [My shadow](https://myshadow.org/);
 3. [How hacking works](https://motherboard.vice.com/en_us/topic/how-hacking-works);
-4. [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) centre de formation;
+4. Centre de formation de [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/);
 5. [Ona](https://ona.io/home/);
-6. [KoboToolbox](http://help.kobotoolbox.org/) centre d’assistance;
+6. Centre d’assistance de [KoboToolbox](http://help.kobotoolbox.org/);
 7. [XLS Forms](http://xlsform.org/) guide;
 8. [Better Evaluation](http://www.betterevaluation.org/en) base de connaissances créé de manière collaborative sur le S&E.
 
