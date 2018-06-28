@@ -1,29 +1,30 @@
 ****
-# Free trial & first time registration
+# Essai gratuit et premier enregistrement
 ---
 
-Follow these easy steps to register for one month free trial and try out TolaData! TolaData is all about collaboration, so in this test period you can invite unlimited number of users to join your organization. How cool is that?
+Suivez ces étapes faciles pour vous inscrire à un essai gratuit d'un mois et essayez TolaData! 
+TolaData est entièrement basé sur la collaboration. Dans cette période de test, vous pouvez inviter un nombre illimité d'utilisateurs à rejoindre votre organisation. N’est-ce pas incroyable?
 
-#### Create an organization and register an Org admin
-Go to https://www.toladata.com/ to register your Org Admin account. Fill out a short questionnaire and you're good to go! 
+#### Créez une organisation et enregistrez un administrateur de l’organisation
+Allez sur https://www.toladata.com/ pour enregistrer votre compte d’administrateur de l’organisation. Complétez un court questionnaire et vous êtes prêt!
 
 ![](/assets_en/sign_up.PNG)
 
-> **Quick Tip:** 
-> Only the first person from your organization should register that way. This person will automatically get **Org admin** status [[read more on user permissions in this article](https://help.toladata.com/en/admin-console/users.html)] and will be able to invite others to the platform later on.
+> **Petit conseil:** 
+> Enregistrez seulement la première personne de votre organisation de cette manière. Cette dernière recevra automatiquement le statut d’ **administrateur de l’organisation** [[plus sur les autorisations de l’utilisateur dans cet article](https://help.toladata.com/fr/admin-console/users.html)] et pourra inviter d’autres à joindre la plateforme plus tard.
 
-#### Create an Org admin account
-When you fill out the form on the website you'll be automatically taken to create your TolaData account. Simply add your details and that's it!
+#### Créer un compte d’administrateur de l’organisation
+Quand vous allez remplir le formulaire sur le site internet vous serez automatiquement amené à créer votre compte TolaData. Ajoutez vos coordonnées et ça y est! 
 
 ![](/assets_en/register.PNG)
 
 
-#### Invite users to TolaData
-When you're already in, you can invite others to TolaData and configure the platform [[read more on configuration here](https://help.toladata.com/en/admin-console/configuration.html)]. You will access your Admin Console by clicking on the round icon with your initials in the top right corner of screen.
+#### Inviter des utilisateurs à TolaData
+Dès que vous êtes déjà enregistré dans le système vous pouvez inviter d’autres personnes à joindre TolaData. De même vous pouvez commencer à configurer la plateforme [[plus sur la configuration ici](https://help.toladata.com/fr/admin-console/configuration.html)]. Vous pouvez accéder à votre console d’administration en cliquant sur le symbole rond avec vos initiales dans le coin supérieur droit de l’écran.
 
 ![](/assets_en/invite_trial.PNG)
 
-Invitees will receive emails prompting them to create user accounts on TolaData. When they do, you will see them listed under `Users` tab and will be able to assign them to programs or change their user permissions [[read more on how to do it here](https://help.toladata.com/en/admin-console/users.html)].
+Les personnes invitées recevront des courriels les invitant à créer des comptes d’utilisateur sur TolaData. Dès qu’ils le font, vous les verrez énumérés dans l’onglet `Utilisateurs`. C’est alors que vous pourriez commencer à leur attribuer aux programmes ou/et changer leurs permissions en tant qu’utilisateur [[pour savoir plus sur comment le faire cliquez ici](https://help.toladata.com/fr/admin-console/users.html)].
 
 
 
