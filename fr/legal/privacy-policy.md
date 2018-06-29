@@ -1,56 +1,50 @@
 ****
-# Privacy Policy 
+# Politique de confidentialité 
 ---
 **TolaData GmbH**
 
-Below we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data in short and in a more detailed form.
+Nous vous donnons ci-dessous un aperçu des données que nous collectons, dans quel but et comment nous assurons la protection des données - en bref et sous une forme plus détaillée.
 
-We take the protection of our users’ (“**User/you/your**”) personal data very seriously and strictly comply with applicable data protection laws and regulations. In our privacy policy below (“**Privacy Policy**”) we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data.
+Nous prenons très au sérieux la protection des données personnelles de nos utilisateurs (**«Utilisateur / vous / votre»**) et respectons strictement les lois et réglementations applicables en matière de protection des données. Dans notre politique de confidentialité ci-dessous (**"Politique de confidentialité"**), nous vous fournissons un aperçu des données que nous collectons dans quel but et comment nous assurons la protection des données.
 
-The controller is TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin/Germany, registered at the local court (_Amtsgericht_) of Charlottenburg under HRB 196821 represented by the managing director Kathrin Wieland (“**we/us/our**”). We offer a website at www.toladata.com (the “Website”) which provides businesses (“**Customer**”) with certain information related to our services and software. The software can be accessed at www.toladata.io (the “**Software**”). Services related to our software are defined in the Terms of Use available at https://www.toladata.com/terms-of-use/ (the “**ToU**”). Customer will create an admin account via our Software and make the services of the Software also available to other Users.
+Le contrôleur est TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin / Allemagne, enregistré au tribunal local (Amtsgericht) de Charlottenburg sous HRB 196821 représenté par la directrice générale Kathrin Wieland (**"nous / nous / notre"**). Nous offrons un site Web à www.toladata.com (le **«site Web»**) qui fournit aux entreprises («client») certaines informations relatives à nos services et logiciels. Le logiciel peut être consulté sur www.toladata.io (le **"Logiciel"**). Les services liés à nos logiciels sont définis dans les Conditions d'utilisation disponibles sur https://www.toladata.com/terms-of-use/ (les **«ToU»** - Terms of Use). Le client créera un compte administrateur via notre logiciel et rendra les services du logiciel également disponibles pour les autres utilisateurs.
 
-Please read the following information regarding the privacy policy carefully. In case you have further questions, please do not hesitate to contact us at any time at datasecurity@toladata.com.
+Veuillez lire attentivement les informations suivantes concernant la politique de confidentialité. Si vous avez d'autres questions, n'hésitez pas à nous contacter à datasecurity@toladata.com
 
-„_in short_“:
-#### Controller
+„_en bref_“:
+#### Manette
 TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin/Germany
 
-registered at the local court (Amtsgericht) of Charlottenburg under HRB 196821 represented by the managing director Kathrin Wieland 
+enregistrée au tribunal local (Amtsgericht) de Charlottenburg sous HRB 196821 représenté par la directrice générale Kathrin Wieland
 
 email: datasecurity@toladata.com
 
-telephone: +49 30 25779605
+teléphone: +49 30 25779605
 
-We have appointed a data protection officer who may be reached via datasecurity@toladata.com
+Nous avons nommé un responsable de la protection des données qui peut être contacté via datasecurity@toladata.com
 
-According to the Terms of Use available at https://www.toladata.com/terms-of-use/ between businesses and us, such business as Customer is responsible for the (personal) data included by him on the Website and our Software, including but not limited to required consents by the affected individuals. Therefore, each affected User may also contact Customer regarding the use of his/her personal data in the Software or on the Website. Customer may also use User’s data in connection with other third-party services. For this purpose, User may also contact Customer or ask us to contact Customer about this.
+Conformément aux conditions d'utilisation disponibles sur https://www.toladata.com/terms-of-use/ entre les entreprises et nous, les affaires telles que le client est responsable des données (personnelles) incluses par lui sur le site Web et notre logiciel , y compris, mais sans s'y limiter, les consentements requis par les personnes touchées. Par conséquent, chaque Utilisateur concerné peut également contacter le Client concernant l'utilisation de ses données personnelles dans le Logiciel ou sur le Site Web. Le Client peut également utiliser les données de l'Utilisateur en relation avec d'autres services de tiers. À cette fin, l'utilisateur peut également contacter le client ou nous demander de contacter le client à ce sujet.
 
-#### Purpose and Legal Basis of Processing Data; Legitimate Interests
-Your data will be used for the purposes of the Software and the Website
+#### But et fondement juridique des données de traitement; Intérêts légitimes
+Vos données seront utilisées aux fins du logiciel et du site Web
 
-·         to implement this privacy policy and carrying out the contractual relationship (§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+·        Mettre en œuvre cette politique de confidentialité et mettre en œuvre la relation contractuelle (§§ 14, 15 TMG ou Art.6 (1) b) GDPR),
+· Pour fournir nos services sur le Site et le Logiciel, pour vous contacter en ce qui concerne nos services (également par e-mail et messagerie) et pour assurer la fonctionnalité technique de nos services l'exécution des obligations contractuelles ou précontractuelles ((§§ 14, 15 TMG ou l'article 6 (1) b) GDPR),
+· Pour la prévention de la fraude (§§ 14, 15 TMG, article 6 (1) b et f GDPR),
+· Analyser votre utilisation de nos services et améliorer nos services (§§ 14, 15 TMG, article 6 (1) b et f GDPR),
+· Avec votre consentement exprès ou vos instructions pour mener à bien nos activités commerciales ou vous envoyer des bulletins d'information (article 6, paragraphe (1) et (GDPR)),
+ou pour l'utilisation du logiciel
+· Pour fournir le Logiciel et assurer la fonctionnalité technique de nos services l'exécution d'obligations contractuelles ou précontractuelles ((§§ 14, 15 TMG ou Art.6 (1) b) GDPR),
+· À des fins d'analyse et d'amélioration du Logiciel basé sur l'Art. 6 (1) f. PIB ou avec le consentement explicite de la personne touchée sur la base de l'art. 6 (1) a., 9 (2) a. GDPR ou comme indiqué ci-dessous dans IV. 3.,
+ou
 
-·         for providing our services on the Website and the Software, to contact you in matters regarding our services (also by means of emails and messaging) and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
+_ou_
 
-· for fraud prevention (§§ 14, 15 TMG, Art. 6 (1) b. and f. GDPR),
+· Comme expliqué autrement dans cette politique de confidentialité ou par toute communication par nous.
+Les dispositions légales applicables sont notamment celles du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 abrogeant la directive 95/46 / CE relative à la protection des personnes à l'égard du traitement des données à caractère personnel, sur la libre circulation de ces données ("General Data Protection Regulation", GDPR) ainsi que dans la loi fédérale sur la protection des données (Bundesdatenschutzgesetz, BDSG) et la loi allemande sur les télémédias (Telemediengesetz, TMG).
 
-· to analyze your use of our services and improve our services (§§ 14, 15 TMG, Art. 6 (1) b. and f. GDPR),
+En ce qui concerne le traitement de données basé sur l'Art. 6 (1) f. GDPR nous souhaitons atteindre les intérêts légitimes de l'assurance de qualité, du marketing et de la prévention de la fraude.
 
-· with your express consent or instruction to carry out our business activities or sent you newsletters (Art. 6 Para. (1) a. GDPR),
-
-or for the purposes of using the Software
-
-· for providing the Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
-
-· for analysis purposes and improving the Software based on Art. 6 (1) f. GDP or with the explicit consent of the affected individual person based on Art. 6 (1) a., 9 (2) a. GDPR or as set forth below in IV. 3.,
-
-_or_
-
-· as otherwise explained in this privacy policy or by any communication by us.
-
-Applicable legal provisions are in particular those of the regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016, repealing the directive 95/46/EC, on the protection of individuals with regard to the processing of personal data, on the free movement of such data (“General Data Protection Regulation”, GDPR) as well as in the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and the German Telemedia Act (Telemediengesetz, TMG).
-
-Regarding the data processing based on Art. 6 (1) f. GDPR we wish to achieve the legitimate interests of quality insurance, marketing and fraud prevention. 
 #### Provision of Data
 You provide data if this is necessary for the aforementioned purposes. In the event you refrain from providing such data you may face legal disadvantages, for example, limited or no possibility of using our Website and Software as well as additional services.
 #### Recipient(s) of Data
