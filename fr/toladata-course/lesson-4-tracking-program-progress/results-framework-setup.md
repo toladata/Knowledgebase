@@ -1,22 +1,22 @@
 ****
-# Results Framework Setup
+# Configuration du cadre de résultats
 ---
 
-Results framework visually presents results expected of your programs. Let's have a look how you can set it up on the system.
+Le cadre de résultats présente les résultats de vos programmes de manière visuelle. Voyons comment vous pouvez le configurer dans le système.
 
 {%youtube%} -8x6bbM_foo {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/-8x6bbM_foo?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.stwrw4id2ydy)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/-8x6bbM_foo?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.stwrw4id2ydy)
 
-#### Practice
+#### Entraînement
 
-Go to TolaData and add setup a results framework: **add at least 3 levels **e.g. goal, outcome, output, or any other levels and **add descriptions for each level**.
+Allez-y sur TolaData et ajoutez “configuration du cadre de résultats”: **ajoutez au moins 3 niveaux**, par ex: but, sortie, résultat ou tout autre niveau et **ajoutez des descriptions pour chaque niveau**.
 
-#### Further reading
+#### Lecture ultérieure
 
-Check out these Knowledge base articles: 
+Consultez ces articles de la base de connaissance: 
 
-1. Get to know more about [what a results framework is](https://help.toladata.com/en/indicators/what-is-a-results-framework.html);
-2. And how to [build one on the system](https://help.toladata.com/en/indicators/build-your-results-framework.html).
+1. Apprenez plus sur [ce qu’est un cadre de résultats](https://help.toladata.com/en/indicators/what-is-a-results-framework.html);
+2. Et comment [construire au sein du système](https://help.toladata.com/en/indicators/build-your-results-framework.html).
 
 
 
