@@ -1,51 +1,52 @@
 ****
-# Quick Start
+# Démarrage rapide
 ---
 
 Setting up your TolaData instance is super easy! Let us walk you through it.
 
-### Create your program
+### Créez votre programme
 
-Login to your TolaData account and kick things off by adding a program.
+Connectez-vous à votre compte TolaData et commencez par l’ajout d’un programme.
 
-Click on `Add Programs` and type in the name of your program, its start and end date then hit submit. Presto, your program is created!
+Cliquez sur `Ajouter un programme`, et ajoutez le nom de votre programme, sa date de début et de fin et ensuite appuyez sur envoyer. Et voila - votre programme est créé!
+
 
 ![](/assets_en/add_program.PNG)
 
-Next, you will be taken to 'Program Guide' where you can add your:
+Ensuite, vous serez redirigé vers le 'Guide des programmes où vous pourrez ajouter:
 
-1. Program sectors
+1. Les secteurs de votre programme
 ![](/assets_en/sectors_guide.png)
 
-2. Results framework
+2. Le cadre de résultats
 ![](/assets_en/RF_guide.png)
-3. Indicators
+3. Les indicateurs
 ![](/assets_en/indicators_guide.png)
-4. Data collection forms
+4. Les formulaires de collecte de données
 ![](/assets_en/form_guide.png)
 
-Please note that you can always go back to the specific sections to add or edit your program details. So don’t worry if you are not able to complete all the data fields now.
+Veuillez noter que vous pouvez toujours revenir aux sections spécifiques pour ajouter ou modifier les détails de votre programme. Donc, ne vous inquiétez pas si vous ne remplissez pas tous les champs de données maintenant.
 
-### Add activities/tasks 
+### Ajoutez des activités/tâches
 
-Next you might want to add activities to your program. Select the `Activities` tab on the Navigation bar and click on the orange `+` button or type your new activity directly in the `+ Add Tasks` bar. Then, feel free to drag, drop and rearrange your tasks and activities as necessary.
+Ensuite, vous pouvez ajouter des activités à votre programme. Sélectionnez l’onglet `Activités` sur la barre de navigation et cliquez sur le bouton orange `+` ou tapez votre nouvelle activité directement dans l’onglet `+ Ajouter des tâches`. Alors, vous pouvez glisser, déposer et re-organiser vos tâches et activités selon vos besoins.
 
 ![](/assets_en/add_activities_quick_start.PNG)
 
-### Next steps
+### Prochaines étapes  
 
-When you've entered your basic program information into the system, you might want to start collecting data against your indicators. In order to toss it off, make sure to read on:
-1. [Building your Results Framework](https://help.toladata.com/en/indicators/build-your-results-framework.html);
-2. [Adding indicators](https://help.toladata.com/en/indicators/what-is-an-indicator/add-indicators.html); 
-3. And [collecting data against them](https://help.toladata.com/en/indicators/what-is-an-indicator/add-collected-data.html).
+Dès que vous avez ajouté les informations de base de votre projet au système, vous pouvez commencer à collecter des données en fonction de vos indicateurs In order to toss it off, make sure to read on:
+1. [Concevoir votre cadre de résultats](https://help.toladata.com/fr/indicators/build-your-results-framework.html);
+2. [Ajouter des indicateurs](https://help.toladata.com/fr/indicators/what-is-an-indicator/add-indicators.html); 
+3. Et [ajouter des données collectées par rapport aux indicateurs](https://help.toladata.com/fr/indicators/what-is-an-indicator/add-collected-data.html).
 
-> **Quick Tip:** 
-1. You might want to take a course on TolaData, [right here on the Knowledge base](https://help.toladata.com/en/toladata-course/about-this-course.html). In just 7 easy lessons you'll excel in TolaData in no time!
-2. Either way, don't forget to drop by the Knowledge base from time to time to read more on TolaData's tricks! 
-3. Oftentimes you will see a 'Further reading' section under an article, go through the links and don't forget to enjoy TolaData!
+> **Petit conseil:** 
+1. Vous pouvez suivre un cours sur TolaData directement [ici sur la base de connaissances](https://help.toladata.com/fr/toladata-course/about-this-course.html). En seulement 7 leçons faciles, vous excellerez dans TolaData en un rien de temps!
+2. De toute façon, n'oubliez pas de passer par la base de connaissances de temps en temps pour en savoir plus sur les astuces de TolaData!
+3. Souvent, vous verrez une section 'Lecture ultérieure' dans l’un ou l’autre article, parcourez les liens et n'oubliez pas de profiter de TolaData!
 
-#### Further reading
-Configure the platform to make it more relevant to your programs! Here is another [detailed Knowledge base article on configuration](https://help.toladata.com/en/admin-console/configuration.html).
+#### Lecture ultérieure
+Configurez la plateforme pour la rendre plus pertinente pour vos programmes! Voici un autre [article détaillé de la base de connaissances sur la configuration](https://help.toladata.com/fr/admin-console/configuration.html).
 
 
 
