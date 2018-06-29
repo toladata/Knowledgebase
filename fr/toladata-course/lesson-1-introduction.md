@@ -20,7 +20,7 @@ Après avoir terminé la leçon, vous saurez:
 
 * Les fonctions de base ainsi que les fonctionnalités du système;
 * L’approche PMD Pro envers la gestion de projet et S&E (M&E) et la manière dont c’est mis en place en TolaData;
-* Vous gagnerez aussi de la confiance dans l’apprentissage de TolaData et l’exploration des moyens afin d’améliorer vos compétences en gestion de projet et en S&E (suivi et évaluation).
+* Vous gagnerez aussi de la confiance dans l’apprentissage de TolaData et l’exploration des moyens afin d’améliorer vos compétences en gestion de projet et en S&E (Suivi et évaluation).
 
 ## 
 
