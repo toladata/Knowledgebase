@@ -7,7 +7,7 @@
 Nous allons faire notre premier passage à travers le système. Vous pouvez utiliser notre site de démonstration ou aller directement sur votre site de production, si votre organisation est déjà un client. 
 
 {%youtube%} -Sb_cmCkvlk {%endyoutube%}  
-> [Voir la vidéo](https://www.youtube.com/embed/-Sb_cmCkvlk?rel=0) & [ire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.jgp49ou19hyx)
+> [Voir la vidéo](https://www.youtube.com/embed/-Sb_cmCkvlk?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.jgp49ou19hyx)
 
 ### Timing
 
