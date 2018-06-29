@@ -24,4 +24,3 @@ Après avoir terminé la leçon, vous saurez:
 
 
 
-
