@@ -1,19 +1,20 @@
 ****
-# Adding Program Overview Data
+# Ajouter des données d'aperçu de programme
 ---
 
-Now you're ready to start creating your own program in TolaData. Go ahead!
+Vous êtes maintenant prêt à créer votre propre programme dans TolaData. Vous avez le feu vert!
 
 {%youtube%} 8sjFdUuKNCQ {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/8sjFdUuKNCQ?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.1vnvll9yywm3)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/8sjFdUuKNCQ?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.1vnvll9yywm3)
 
-#### Practice
+#### Entraînement
 
-Go to TolaData and **create a new program** and follow the **program guide to add details on program results framework and indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
+Allez sur TolaData, **créez un nouveau programme**. Suivez les consignes du **guide de programme pour ajouter des détails sur le cadre de résultats du programme et les indicateurs**. Ajoutez seulement autant d'informations que vous le souhaitez. Vous aurez toujours la possibilité de revenir et compléter les blancs plus tard.
 
-#### Further reading
+#### Lecture ultérieure
 
-1. Get to know more about [programs](https://help.toladata.com/en/programs/what-is-a-program.html) on the Knowledge base.
+1. Faites connaissance avec [programmes](https://help.toladata.com/fr/programs/what-is-a-program.html) sur la base de connaissance.
+
 
 
 
