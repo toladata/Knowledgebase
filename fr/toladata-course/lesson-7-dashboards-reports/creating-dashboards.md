@@ -10,7 +10,6 @@ Whenever ready made reports are not enough, you may create \(and share!\) your c
 #### Practice
 
 Go to TolaData and **create your own dashboard with widgets responding to your requirements. **When you're done, share them with your colleagues!** **
-
 ## 
 
 ## 
