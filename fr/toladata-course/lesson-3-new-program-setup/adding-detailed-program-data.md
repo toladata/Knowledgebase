@@ -11,7 +11,7 @@ Le diable est dans les détails, vous pouvez avancer alors et remplir/développe
 
 Allez sur TolaData et ajoutez des détails à votre programme: des **sites**, des **jalons**, **objectifs de programmes**, des **parties prenantes**, des **membres d’équipe** et des **secteurs**. Ajoutez seulement autant d'informations que vous le souhaitez. Vous aurez toujours la possibilité de revenir et compléter les blancs plus tard. 
 
-#### Further reading
+#### Lecture ultérieure
 
 1. Apprenez-en plus sur les [différents modules du programme tels que sites, jalons, objectifs, parties prenantes, équipe et secteurs dans cet ensemble d’articles](https://help.toladata.com/fr/programs/program-modules.html) dans la base de connaissance. 
 
