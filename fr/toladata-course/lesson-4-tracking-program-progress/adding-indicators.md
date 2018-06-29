@@ -1,19 +1,19 @@
 ****
-# Adding Indicators
+# Ajouter des indicateurs
 ---
 
-Now you're ready to start adding indicators to the system. It's as easy as it gets!
+Vous êtes maintenant prêt à commencer à ajouter des indicateurs au système. C’est aussi facile que ça!
 
 {%youtube%} sH2jgZZRTv4 {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/sH2jgZZRTv4?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.ci8snmmobalk)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/sH2jgZZRTv4?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.ci8snmmobalk)
 
-#### Practice
+#### Entraînement
 
-Go to TolaData and **add your indicators to the system**.
+Allez sur TolaData et **ajoutez vos indicateurs au système**.
 
-#### Further reading
+#### Lecture ultérieure
 
-1. Let us walk you through [adding indicators to the system ](https://help.toladata.com/en/indicators/what-is-an-indicator/add-indicators.html) in one of our Knowledge base articles.
+1. Permettez-nous de vous montrer comment [ajouter des indicateurs au système ](https://help.toladata.com/en/indicators/what-is-an-indicator/add-indicators.html) dans un de nos articles de la base de connaissance. 
 
 
 
