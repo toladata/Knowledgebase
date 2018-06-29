@@ -2,7 +2,7 @@
 # Quick Start
 ---
 
-Setting up your TolaData instance is super easy! Let us walk you through it.
+Setting up your TolaData site is super easy! Let us walk you through it.
 
 ### Create your program
 
