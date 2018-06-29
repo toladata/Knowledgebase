@@ -36,9 +36,6 @@
 * [Leçon 7: Création de tableaux de bord et de rapports](toladata-course/lesson-7-dashboards-reports.md)
   * [Voir les rapports](toladata-course/lesson-7-dashboards-reports/viewing-reports.md)
   * [Créer des tableaux de bord](toladata-course/lesson-7-dashboards-reports/creating-dashboards.md)
-* [Formez votre équipe ](toladata-course/train-your-team.md)
-  * [Quatre étapes faciles](toladata-course/four-easy-steps.md)
-  * [Meilleures practiques](toladata-course/best-practices.md)
 
 ## Légal
 
