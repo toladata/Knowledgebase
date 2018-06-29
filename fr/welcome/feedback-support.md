@@ -8,7 +8,7 @@ Regardons les choses en face: nous avons tous d’excellentes idées, mais parfo
 
 À chaque reprise que vous êtes de l’avis qu’un article n’est pas assez clair ou que vous avez tout simplement l’impression que quelque chose manque dans le matériel de formation, utilisez le bouton en dessous de chaque article pour nous faire savoir. De même, n’hésitez pas à nous contacter sur [support@toladata.com](mailto:support@toladata.com) avec des commentaires plus détaillés. Et nous avons pas besoin de dire que des applaudissements de votre part sont plus que bienvenus!  
 
-![](/assets_en/was_this.PNG)  
+![](/assets_en/was_this.PNG)
 
 ### Feedback sur l’application TolaData 
 
