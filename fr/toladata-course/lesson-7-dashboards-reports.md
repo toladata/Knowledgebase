@@ -1,24 +1,24 @@
 ****
-# Lesson 7 Creating Dashboards and Reports
+# Leçon 7: Création de tableaux de bord et de rapports
 ---
 
-### About
+### À propos de..
 
-Last but definitely not least, you want to report on your endeavors and you want to do it quick. This is where TolaData comes in handy with its reports and dashboards. Let's have a look. 
+Enfin, vous voudrez rendre compte de vos efforts et vous voulez le faire rapidement. C’est là que TolaData s’avère utile avec ses rapports et tableaux de bord. Regardons ensemble!  
 
 {%youtube%} A17zdoTvZic {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/A17zdoTvZic?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.oyupqu1sr4vs)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/A17zdoTvZic?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.oyupqu1sr4vs)
 
 ### Timing
 
-This lesson takes approximately 20 minutes to complete.
+Cette leçon prend environ 20 minutes à finir.
 
-### Learning outcomes
+### Compétences acquises
 
-After completing this lesson you will know how to:
+Après avoir terminé la leçon, vous saurez:
 
-* View standard reports in TolaData and see how to use them in everyday work;
-* Build customized dashboards that will give you a snapshot of where you’re at with your programs and projects.
+* Voir des rapports standardisés dans TolaData et apprendre comment les utiliser dans votre travail quotidien;
+* Concevoir des tableaux de bord personnalisés qui vous donneront un aperçu sur où vous en êtes avec vos programmes et projets. 
 
 
 
