@@ -1,58 +1,58 @@
 ****
-# Design a SMART Indicator Plan
+# Concevoir un plan d’indicateurs SMART
 ---
 
-Before you start adding your indicators to the system, why don't you make a pit stop to check on their SMART-ness?
+Avant commencer d’ajouter vos indicateurs au système, hésitez un peu et réfléchisses si ceux-ci sont SMART. 
 
 {%youtube%} jrTdioszE4M {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/jrTdioszE4M?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.mw446r19vp2w)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/jrTdioszE4M?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.mw446r19vp2w)
 
-#### Practice
+#### Entraînement
 
-Have a look at the indicators below. Can you tell tell SMART from dumb?
+Jetez un coup d’oeil aux indicateurs ci-dessous. Pouvez-vous faire la différence entre SMART et non?
 
 <quiz>
 <question multiple>  
-<p>Which of the below could be examples of SMART indicators for Amina's humanitarian project?</p>
-<answer correct>Number of beneficiaries with improved health checkup results by the end of project</answer>  
-<answer>Increased awareness of the importance of washing hands</answer>
-<answer>Number of participants in community meetings</answer>
-<answer correct>Number of adolescents who received medical kits by the end of second quarter</answer>
+<p>Parmi les exemples ci-dessous, quels pourraient être des exemples d'indicateurs SMART pour le projet humanitaire d'Amina</p>
+<answer correct>Nombre de bénéficiaires ayant amélioré leurs bilans de santé vers jusqu’à la fin du projet</answer>  
+<answer>Sensibilisation accrue à l’importance de se laver les mains</answer>
+<answer>Nombre de participants dans des réunions communautaires</answer>
+<answer correct>Numbre d’adolescents qui ont reçus des trousses médicales vers la fin du deuxième trimestre</answer>
 </question>
 <question> 
-<p>Help Amina create a SMART indicator for her project using the building blocks below.</p>
+<p>Aidez Amina à créer un indicateur SMART pour son projet en utilisant les composantes ci-dessous.</p>
 <answer>
-            <option correct>Number</option>
-            <option>Month</option>
-            <option>Acres</option>
-            <option>Weight</option>
+            <option correct>Numbre</option>
+            <option>Mois</option>
+            <option>Acre</option>
+            <option>Poids</option>
         </answer>
         <answer>
-            <option>of children</option>
-            <option correct>of elderly of 65 years and more</option>
-            <option>of clients</option>
-            <option>of bodies of water</option>
+            <option>d'enfants</option>
+            <option correct>de personnes âgées de 65 ans ou plus</option>
+            <option>de clients</option>
+            <option>de plans d’eau</option>
         </answer>
         <answer>
-            <option>who recovered</option>
-            <option>who read books</option>
-            <option correct>who attended a hygiene training</option>
-            <option>who loose weight</option>
+            <option>qui se sont récupérés</option>
+            <option>qui lisent des livres</option>
+            <option correct>qui ont suivi une formation en hygiène</option>
+            <option>qui perdent du poids</option>
         </answer>
         <answer>
-            <option>in the world</option>
-            <option>in Kazakhstan</option>
-            <option>the year before</option>
-            <option correct>in January 2018</option> 
+            <option>dans le monde</option>
+            <option>au Kazakhstan</option>
+            <option>l’année précédente</option>
+            <option correct>en janvier 2018 2018</option> 
         </answer>
 </question>
 </quiz> 
 
 
-#### Further reading
+#### Lecture ultérieure
 
-1. Make sure [what an indicator is ](https://help.toladata.com/en/indicators/what-is-an-indicator.html) in one of our Knowledge base articles;
-2. And consult a whole range of handy SMART indicators on [Indikit](http://www.indikit.net/) [redirects to an external website].  
+1. Assurez-vous [ce qu’est un indicateur](https://help.toladata.com/fr/indicators/what-is-an-indicator.html) dans nos articles dans la base de connaissance;
+2. Et inspectez toute une gamme d’indicateurs SMART pratiques sur  [Indikit](http://www.indikit.net/) [mène à un site externe.  
 
 
 
