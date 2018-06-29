@@ -1,25 +1,25 @@
 ****
-# Collect Data Against Indicators
+# Collecter des données par rapport aux indicateurs
 ---
 
-So you've added your indicators to the system and you'll probably want to start collecting data against them. Let's see how to easily create a link between your indicators and data, regardless of your data source.
+Alors, vous avez ajouté vos indicateurs au système et vous allez surement vouloir collecter des données par rapport à ces indicateurs. Voyons comment on peut créer un lien entre vos indicateurs et les données, n’importe la source de vo données
 
 {%youtube%} lRkHFiQ8jrk {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.uebbtclg0qh)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/lRkHFiQ8jrk?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.uebbtclg0qh)
  
-#### Practice
+#### Entrainement
 
-Go to TolaData and **add evidence to your indicator**. Please mind that in order to be able to do that, you will have to have created a program with at least one indicator beforehand. 
+Allez sur TolaData et **ajoutez des preuves à votre indicateur**. Veuillez noter qu'afin de faire cela, vous devez avoir créé un programme avec au moins un indicateur à l’avance. 
 
-##### Sample datasets
+##### Exemple de fichiers de données
 
-Feel free to use sample data:
-1. Download a PDF with a [WHO sample agreement with an NGO](http://www.who.int/hac/techguidance/tools/manuals/who_field_handbook/c8.pdf?ua=1) \[redirects to an external website\];
-2. Download a sample Beneficiaries list as a CSV file or link it to TolaData directly [from GoogleDrive](https://docs.google.com/spreadsheets/d/18kZeA9f9akq1PYCNVErtiaMqKzvIity3ZwbTchTptXc/edit?usp=sharing) \[redirects to an external website\].
+N’hésitez pas à utiliser des exemples de données: 
+1. Téléchargez un fichier PDF avec un [accord d’exemples de WHO avec une ONG ](http://www.who.int/hac/techguidance/tools/manuals/who_field_handbook/c8.pdf?ua=1) \[mène à un site externe\];
+2. Téléchargez un exemple de liste de bénéficiaires sous forme de fichier CSV ou liez-le directement à TolaData hors  [de GoogleDrive](https://docs.google.com/spreadsheets/d/18kZeA9f9akq1PYCNVErtiaMqKzvIity3ZwbTchTptXc/edit?usp=sharing) \[mène à un site externe\].
 
-#### Further reading
+#### Lecture ultérieure
 
-1. Read more on [collecting data against indicators and linking your evidence to collected data automatically](https://help.toladata.com/en/indicators/what-is-an-indicator/add-collected-data.html) on the Knowledge base.
+1. Lisez plus sur comment [collecter des données par rapport aux indicateurs et comment lier vos preuves à des données collectées automatiquement ](https://help.toladata.com/fr/indicators/what-is-an-indicator/add-collected-data.html) dans la base de connaissance..
 
 
 
