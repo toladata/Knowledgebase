@@ -1,16 +1,16 @@
 ****
-# Lesson 5 Form Library
+# Leçon 5: Bibliothèque de formulaires
 ---
 
-### About
+### À propos de..
 
-Form Library facilitates your data collection processes. Design, create and publish forms with TolaData and have your collected data automatically saved in Track!
+La bibliothèque de formulaires simplifie vos processus de collecte de données. Concevez, créez et publiez des formulaires avec TolaData et faites enregistrer vos données automatiquement dans Track!
 
-While we're working on a new lesson about the Form Library, why don't you take a few moments to go through articles about it?
+Pendant que nous travaillons sur une nouvelle leçon sur la bibliothèque de formulaires, pourquoi ne prenez-vous pas quelques instants pour lire nos articles à ce sujet?
 
-#### What is a form?
-Read the [article on the Knowledge base](https://help.toladata.com/en/form-library/what-is-a-form.html).
-#### Design a form
-Read the [article on the Knowledge base](https://help.toladata.com/en/form-library/design-a-form.html).
-#### Publish a form
-Read the [article on the Knowledge base](https://help.toladata.com/en/form-library/publish-a-form.html).
+#### Qu’est-ce qu’un formulaire? 
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/form-library/what-is-a-form.html).
+#### Concevez un formulaire
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/form-library/design-a-form.html).
+#### Publier un formulaire
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/form-library/publish-a-form.html).
