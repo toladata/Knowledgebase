@@ -43,7 +43,7 @@ Développé en interne, notre application de collecte de données numériques es
 **Track** peut intégrer des données provenant de plusieurs plates-formes et fournir des fonctions de fusion/ d’ajout, d’auto-exportation, de nettoyage des données, d’édition, de partage et d’analyse. Cela permet aux utilisateurs d’assembler plusieurs silos de données en un, tout en conservant le flux de données.
 
 ####![](/assets_en/Track_Logo.jpg) Intégration de données
-**Track** se laisse intégrer directement avec des plates-formes de saisie mobile de données tels que ONA ou KoBoToolbox. Cela permet de fournir accès aux utilisateurs à tous les formulaires et aux données pour l’import et la gestion de ces données.. Ainsi, les données peuvent être facilement exportées vers d’autres plates-formes de données ou outils, dans Google Sheets ou téléchargées sous n’importe quel type de fichier, y compris CSV ou XLS.
+**Track** se laisse intégrer directement avec des plates-formes de saisie mobile de données tels que ONA ou KoBoToolbox. Cela permet de fournir accès aux utilisateurs à tous les formulaires et aux données pour l’import et la gestion de ces données. Ainsi, les données peuvent être facilement exportées vers d’autres plates-formes de données ou outils, dans Google Sheets ou téléchargées sous n’importe quel type de fichier, y compris CSV ou XLS.
 
 ####![](/assets_en/Track_Logo.jpg) Données ouvertes 
 Tous les données de notre plate-forme sont facilement accessibles et partageables dans un référentiel public ou en privé avec d’autres utilisateurs.
