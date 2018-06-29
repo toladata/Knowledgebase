@@ -1,25 +1,25 @@
 ****
-# Lesson 4 Tracking Program Progress
+# Leçon 4: Suivre le progrès d’un programme
 ---
 
-### About
+### À propos de..
 
-TolaData is your companion in M&E efforts. This Lesson is dedicated to setting up your M&E plan on the system and performing basic M&E tasks, like collecting data against indicators.
+TolaData est votre compagnon quand auf efforts de S&E. Cette leçon est dédiée à la mise en place de votre plan S&E dans le système et l’exécution des tâches de base de S&E, telles que la collecte de données par rapport aux indicateurs.
 
 {%youtube%} lt8OG67C4Xo {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/lt8OG67C4Xo?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.sloejw8eokxc)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/lt8OG67C4Xo?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.sloejw8eokxc)
 
 ### Timing
 
-This lesson takes approximately 30 minutes to complete.
+Cette leçon prend environ 30 minutes à finir.
 
-### Learning outcomes
+### Compétences acquises
 
-After completing this lesson you will know how to:
+Après avoir terminé la leçon, vous saurez:
 
-* Add Results framework to TolaData;
-* Plan and add indicators to the system;
-* Collect data against indicators and link them as evidence.
+* Ajouter un cadre de résultats à TolaData;
+* Planifier et ajouter des indicateurs au système;
+* Collecter des données par rapport aux indicateurs et les lier comme évidence.
 
 
 
