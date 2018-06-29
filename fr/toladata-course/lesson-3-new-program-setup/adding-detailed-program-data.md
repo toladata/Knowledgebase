@@ -1,19 +1,18 @@
 ****
-# Adding Detailed Program Data
+# Ajouter des données de programme détaillées 
 ---
 
-The devil is in the details, so you can go ahead and build up your newly added program.
+Le diable est dans les détails, vous pouvez avancer alors et remplir/développer votre programme nouvellement ajouté. 
 
 {%youtube%} ALCJNxj2aMo {%endyoutube%}  
-> [See video on YouTube](https://www.youtube.com/embed/ALCJNxj2aMo?rel=0) & [read transcript](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.qlyc9i89r3ud)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/ALCJNxj2aMo?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.qlyc9i89r3ud)
 
-#### Practice
+#### Entraînement
 
-Go to TolaData and add additional details to your program: **sites, milestones, program objectives, stakeholders, team members **and **sectors**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
+Allez sur TolaData et ajoutez des détails à votre programme: des **sites**, des **jalons**, **objectifs de programmes**, des **parties prenantes**, des **membres d’équipe** et des **secteurs**. Ajoutez seulement autant d'informations que vous le souhaitez. Vous aurez toujours la possibilité de revenir et compléter les blancs plus tard. 
 
 #### Further reading
 
-1. Get to know more about [diffrent program modules, like sites, milestones, objectives, stakeholders, team and sectors in this set of articles](https://help.toladata.com/en/programs/program-modules.html) on the Knowledge base.
-
+1. Apprenez-en plus sur les [différents modules du programme tels que sites, jalons, objectifs, parties prenantes, équipe et secteurs dans cet ensemble d’articles](https://help.toladata.com/fr/programs/program-modules.html) dans la base de connaissance. 
 
 
