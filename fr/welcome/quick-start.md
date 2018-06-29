@@ -35,7 +35,7 @@ Ensuite, vous pouvez ajouter des activités à votre programme. Sélectionnez l�
 
 ### Prochaines étapes  
 
-Dès que vous avez ajouté les informations de base de votre projet au système, vous pouvez commencer à collecter des données en fonction de vos indicateurs. Afin de le faire rapidement et sans effort, veillez à lire les articles suivants: 
+Dès que vous avez ajouté les informations de base de votre projet au système, vous pouvez commencer à collecter des données en fonction de vos indicateurs. Afin de le faire rapidement et sans effort, veillez à lire les articles suivants:
 1. [Concevoir votre cadre de résultats](https://help.toladata.com/fr/indicators/build-your-results-framework.html);
 2. [Ajouter des indicateurs](https://help.toladata.com/fr/indicators/what-is-an-indicator/add-indicators.html); 
 3. Et [ajouter des données collectées par rapport aux indicateurs](https://help.toladata.com/fr/indicators/what-is-an-indicator/add-collected-data.html).
