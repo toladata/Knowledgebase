@@ -18,7 +18,7 @@ Cette leçon prend environ 20 minutes à finir.
 Après avoir terminé la leçon, vous saurez:
 
 * Voir des rapports standardisés dans TolaData et apprendre comment les utiliser dans votre travail quotidien;
-* Concevoir des tableaux de bord personnalisés qui vous donneront un aperçu sur où vous en êtes avec vos programmes et projets. 
+* Concevoir des tableaux de bord personnalisés qui vous donneront un aperçu sur où vous en êtes avec vos programmes et projets.
 
 
 
