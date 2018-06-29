@@ -5,7 +5,7 @@
 Il existe de nombreuses approches de gestion de projet et S&E. TolaData se base sur PMD Pro. Prenez un instant pour voir cette méthode et réfléchissez à la façon dont vous structurez votre travail.
 
 {%youtube%} SursOF6FI3o {%endyoutube%}  
-> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/SursOF6FI3o?rel=0) & [lire la transcription](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.tnaqoi1hzqej) 
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/SursOF6FI3o?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.tnaqoi1hzqej) 
 
 #### Entraînement   
  
