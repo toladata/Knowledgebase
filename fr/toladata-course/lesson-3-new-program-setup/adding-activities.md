@@ -18,7 +18,7 @@ Ajoutez seulement autant d'informations que vous le souhaitez. Vous aurez toujou
 Consultez ces articles de la base de connaissance: 
 
 1. [Qu’est-ce qu’une activité?](https://help.toladata.com/fr/activities/what-is-an-activity.html);
-2. Apprenez à connaître les détails de [chacun des modules de l’activité.](https://help.toladata.com/fr/activities/activity-modules.html).
+2. Apprenez à connaître les détails de [chacun des modules de l’activité](https://help.toladata.com/fr/activities/activity-modules.html).
 
 
 
