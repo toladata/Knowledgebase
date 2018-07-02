@@ -9,8 +9,8 @@ La bibliothèque de formulaires simplifie vos processus de collecte de données.
 Pendant que nous travaillons sur une nouvelle leçon sur la bibliothèque de formulaires, pourquoi ne prenez-vous pas quelques instants pour lire nos articles à ce sujet?
 
 #### Qu’est-ce qu’un formulaire? 
-Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/what-is-a-form.html).
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/lesson-5-form-library/what-is-a-form.html).
 #### Concevez un formulaire
-Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/design-a-form.html).
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/lesson-5-form-library/design-a-form.html).
 #### Publier un formulaire
-Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/publish-a-form.html).
+Lisez l’[article dans la base de connaissance](https://help.toladata.com/fr/toladata-course/lesson-5-form-library/publish-a-form.html).
