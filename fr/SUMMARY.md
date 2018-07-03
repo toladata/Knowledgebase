@@ -4,7 +4,7 @@
 
 * [Qu'est ce que TolaData?](README.md)
 * [Démarrage rapide](welcome/quick-start.md)
-* [Essai gratuit & premier enregistrement](welcome/free-trail.md)
+* [Essai gratuit & premier enregistrement](welcome/free-trial.md)
 * [Feedback et soutien](welcome/feedback-support.md) 
 * [FAQ](welcome/faq.md)
 
