@@ -1,20 +1,20 @@
 ****
-# Design a Form
+# Concevoir un formulaire
 ---
 
-Data collection forms can be created directly on the TolaData platform.
+Des formulaires de collecte de données peuvent être créés directement sur la plateforme TolaData.
 
-The form field types that you can use are the following:
+Voici les différents types de champs que vous pouvez utiliser:  
 
-| Field type | Description |
+| Type de champ | Déscription |
 | :--- | :--- |
-| number | Number input |
-| text | Free text response |
-| email | Email input |
-| url | Webpage URL or link input |
-| date | Date input |
-| dropdown | Multiple choice question; multiple answers can be selected |
-| cascading dropdown | Sequence of dependent multiple choice question; multiple answers can be selected for each |
+| nombre | Entrée du nombre |
+| texte | Entrée libre de texte |
+| e-mail | Entrée de l'adresse mail |
+| URL | URL de la page web ou entrée du lien |
+| date | Entrée de la date |
+| liste déroulante | Question à choix multiple; réponses multiples peuvent être sélectionnés |
+| liste déroulante en cascade | Séquence de questions à choix multiple dépendants; réponses multiples peuvent être sélectionnées pour chacun |
 
-Here's how you can create new forms on TolaData:![](https://lh5.googleusercontent.com/0qJS5zyzrT7ord3Oc3tarAnSnmUYckKTgd2OlGRQ2_ajzb5DFWJ-q6tyvWPCLYnfDmvRPRmLkrgTHwZLU7meFc29bq1wWww3rghMkDblwqKHG5OUDFP0udjuM-Zfn1B4QJT6sMEk)
+Voici comment créer de nouvelles formulaires sur TolaData:![](https://lh5.googleusercontent.com/0qJS5zyzrT7ord3Oc3tarAnSnmUYckKTgd2OlGRQ2_ajzb5DFWJ-q6tyvWPCLYnfDmvRPRmLkrgTHwZLU7meFc29bq1wWww3rghMkDblwqKHG5OUDFP0udjuM-Zfn1B4QJT6sMEk)
 
