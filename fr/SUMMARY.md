@@ -27,7 +27,7 @@
   * [Configuration du cadre de résultats](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/configuration-du-cadre-de-resultats.md)
   * [Indicateurs SMART](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/indicateurs-smart.md)
   * [Ajouter des indicateurs](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/ajouter-des-indicateurs.md)
-  * [Collecter des données par rapport aux indicateurs](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/collecter-des-donnnees-par-rapport-aux-indicateurs.md)
+  * [Collecter des données par rapport aux indicateurs](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/collecter-des-donnees-par-rapport-aux-indicateurs.md)
 * [Leçon 5: Bibliothèque de formulaires](toladata-cours/lecon-5-bibliotheque-de-formulaires.md)
   * [Qu'est-ce qu'un formulaire?](toladata-cours/lecon-5-bibliotheque-de-formulaires/qu-est-ce-qu-un-formulaire.md)
   * [Concevoir un formulaire](toladata-cours/lecon-5-bibliotheque-de-formulaires/concevoir-un-formulaire.md)
