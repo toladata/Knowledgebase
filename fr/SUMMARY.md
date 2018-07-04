@@ -10,11 +10,11 @@
 
 ## Suivre un cours sur TolaData
 
-* [Ce qui concerne ce cours](toladata-course/about-this-course.md)
-* [Leçon 1: Introduction](toladata-course/lesson-1-introduction.md)
-  * [TolaData utilise PMD Pro](toladata-course/lesson-1-introduction/toladata-uses-pmdpro.md)
-  * [Démo TolaData](toladata-course/lesson-1-introduction/toladata-demo.md)
-  * [Auto-évaluation des besoins](toladata-course/lesson-1-introduction/needs-self-assessment.md)
+* [Ce qui concerne ce cours](toladata-cours/ce-qui-concerne-ce-cours.md)
+* [Leçon 1: Introduction](toladata-cours/lecon-1-introduction.md)
+  * [TolaData utilise PMD Pro](toladata-cours/lecon-1-introduction/toladata-utilise-pmdpro.md)
+  * [Démo TolaData](toladata-cours/lecon-1-introduction/toladata-demo.md)
+  * [Auto-évaluation des besoins](toladata-cours/lecon-1-introduction/auto-evaluation-des-besoins.md)
 * [Leçon 2: Démarrer avec TolaData](toladata-course/lesson-2-getting-started.md)
   * [Connexion au système et autorisations d’utilisateurs](toladata-course/lesson-2-getting-started/system-login-and-user-permissions.md)
   * [Recherche et filtres globaux](toladata-course/lesson-2-getting-started/search-and-global-filters.md)
