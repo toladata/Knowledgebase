@@ -43,7 +43,7 @@
 ## Légal
 
 * [Imprint](legal/imprint.md)
-* [Politique de confidentialité](legal/privacy-policy.md)
+* [Politique de confidentialité](legal/politique-de-confidentialite.md)
 
 
 
