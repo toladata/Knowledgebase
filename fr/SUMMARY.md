@@ -17,7 +17,7 @@
   * [Auto-évaluation des besoins](toladata-cours/lecon-1-introduction/auto-evaluation-des-besoins.md)
 * [Leçon 2: Démarrer avec TolaData](toladata-cours/lecon-2-demarrer-avec-toladata.md)
   * [Connexion au système et autorisations d’utilisateurs](toladata-cours/lecon-2-demarrer-avec-toladata/connection-et-autorisations-des-utilisateurs.md)
-  * [Recherche et filtres globaux](toladata-cours/lecon-2-demarrer-avec-toladata/recherche-et-filtres-blobaux.md)
+  * [Recherche et filtres globaux](toladata-cours/lecon-2-demarrer-avec-toladata/recherche-et-filtres-globaux.md)
   * [Console d’administration](toladata-cours/lecon-2-demarrer-avec-toladata/console-administration.md)
 * [Leçon 3: Nouvelle configuration du programme](toladata-course/lesson-3-new-program-setup.md)
   * [Ajouter des données d'aperçu de programme](toladata-course/lesson-3-new-program-setup/adding-program-overview-data.md)
