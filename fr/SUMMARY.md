@@ -36,9 +36,9 @@
   * [Importer des données vers Track](toladata-cours/lecon-6-analyser-vos-donnees/importer-des-donnees-vers-track.md)
   * [Analyse préliminaire des données dans Track](toladata-cours/lecon-6-analyser-vos-donnees/analyse-preliminaire-des-donnees-dans-track.md)
   * [Association des preuves de Track aux indicateurs dans Activity](toladata-cours/lecon-6-analyser-vos-donnees/association-des-preuves-de-track-aux-indicateurs-dans-activity.md)
-* [Leçon 7: Création de tableaux de bord et de rapports](toladata-course/lesson-7-dashboards-reports.md)
-  * [Voir les rapports](toladata-course/lesson-7-dashboards-reports/viewing-reports.md)
-  * [Créer des tableaux de bord](toladata-course/lesson-7-dashboards-reports/creating-dashboards.md)
+* [Leçon 7: Création de tableaux de bord et de rapports](toladata-cours/lecon-7-tableaux-de-bord-et-rapports.md)
+  * [Voir les rapports](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
+  * [Créer des tableaux de bord](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
 
 ## Légal
 
