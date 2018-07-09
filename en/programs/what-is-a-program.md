@@ -22,7 +22,7 @@ Most program details can be found in program proposals and concept notes develop
 
 Here's an example of how Programs, Projects and Activities can be broken down:
 
-![](https://lh3.googleusercontent.com/gpnk58Fq-G489g-KY7g8XNg3ZCu8Mlb8H6BLsiL8-YdseUoHBo10cBC-cQdomYDn2YrfNS8Frf5s9mHaDusj99U43jx6tpsgIoBjMkfOnMQ7y7i0L5z2jY8ST1ZldmhG88ArhdP0)
+![](/assets_en/Prog_Act_Task.PNG)
  
 
 ### Adding a new program
