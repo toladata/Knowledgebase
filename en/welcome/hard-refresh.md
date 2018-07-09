@@ -20,7 +20,7 @@ Hard refresh will erase what your browser remembers about the old version of the
 On Windows and Linux:
 1. Press Fn and F12 to open developer tools.
 2. Right click on the Refresh button.
-3. Select ``Empty Cache and Hard reload``. 
+3. Select ``Empty Cache and Hard Reload``. 
 
 ![](/assets_en/refresh.png)
 
