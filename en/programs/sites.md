@@ -35,7 +35,7 @@ To add sites:
 > 1. If you don't have exact latitude and longitude coordinates for your site, you can find it by using the pin on the map to drop it in the location of your site. Be sure to select Country first to zoom the map first.
 2. If you only have the address of your site, you might want to generate Latitude and Longitude data using Google Maps or other map provider and copy-paste them into the system.
 
-![](/assets/add_sites.PNG)
+![](/assets_en/add_sites.PNG)
 
 
 
