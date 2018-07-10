@@ -23,4 +23,4 @@ To add sectors:
 > **Quick Tip:** 
 Notice in some cases when you select a `Primary Sector`, there are `Secondary Sectors` that are already selected. This happens as the system learns what Primary Sectors and Secondary Sectors are associated by users in the organization. The system will begin to suggest relevant sectors and hopefully this will speed up the process! :bowtie:
 
-![](https://lh6.googleusercontent.com/kQqDewbVqBwlWS-ZOjYqvJo4dHzKdSI336F66uOB--4WRJqkl3a5WNVGy_arjzQ6NsvUzZh_wwjze2LEWA6dQjt8gnUTN_ChTeLja9a7iyLdeL_6_nrEwUwhke_dLnCg_LCVez22)
+![](/assets_en/add_sectors.PNG)
