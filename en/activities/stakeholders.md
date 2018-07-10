@@ -10,4 +10,4 @@
 #### Use case 
 This helps in linking your program stakeholders and partners to your relevant program activities. Contact information on stakeholders are helpful for program staff to maintain seamless communication with them. Note that same stakeholders can be reused across multiple activities. This also helps to capture Stakeholder history on experience of working with them and capture information on due diligence.
 
-![](/assets/add_stakeholders.PNG)
+![](/assets_en/add_stakeholders.PNG)
