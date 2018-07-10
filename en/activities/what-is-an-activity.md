@@ -13,10 +13,6 @@ A great place for you to start will be looking at your program workplan to break
 > **Quick Tip:**   
 > TolaData allows for flexibility in naming your workflow levels. As an Admin you may call them according to the naming convention adopted by your organization. In our example workflow level 2 is called 'Activities', but you can easily change it. See how in [this article on the Knowledge base](https://help.toladata.com/en/admin-console/configuration.html).
 
-
-Take a look at this example for a quick revision of where activities fall on TolaData data structure:
-![](https://lh5.googleusercontent.com/Se964hWAQE8Ow-eMKBbcycoVzMYRz7x6DHIILJFxgQ4OF9Wd8jYP0URuGq9c6uj34GsMdfrvy77xTpWSCwCdq64zgBAxiHDCp7K5g_fZPXa7kDodmio4Ko0D3ZvflhIetW6HfXqH)
-Source: TolaData internal document 
 ### Adding new activities
 
 Adding activities to a program is easy. Simply click on the orange `+` button to add new activities to your program. You can also add your tasks by clicking on `Add Task` and directly typing in the taks name.
