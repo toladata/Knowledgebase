@@ -4,7 +4,7 @@
 TolaData simplifie votre travail de gestion de projet et S&E. Assurez-vous de profiter aussi beaucoup que possible du système et améliorer vos compétences!
 
 {%youtube%} qwQJk8VB6AM {%endyoutube%}  
-> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?cc_load_policy=1&cc_lang_pref=fr) & [lire la  transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
+> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/qwQJk8VB6AM?rel=0) & [lire la  transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.i0ql8wjixfnz)
 
 #### Entraînement  
 
