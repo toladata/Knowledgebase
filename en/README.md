@@ -9,8 +9,8 @@ This collection of articles will provide you with guidance on the why's and how'
 
 Here's is a quick introduction of the platform:
 
-{%youtube%} 3OLfDlK_uhY {%endyoutube%}
-> [TolaData Overview](https://youtu.be/3OLfDlK_uhY)
+{%youtube%} r4qM8xihwL4 {%endyoutube%} 
+> [See video on YouTube](https://www.youtube.com/embed/r4qM8xihwL4?rel=0)
 
 ### TolaData = Activity + Track
 ### Activity 
