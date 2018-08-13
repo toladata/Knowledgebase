@@ -16,7 +16,7 @@ The form field types that you can use on TolaData are:
 | dropdown | Multiple choice question; multiple answers can be selected |
 | cascading dropdown | Sequence of dependent multiple choice question; multiple answers can be selected for each |
 
-#### Build your form
+#### Build your form 
 
 Select `Form Library` on the Navigation Bar and hit the orange `+` button. 
 
