@@ -36,4 +36,13 @@ Here's how to do it:
 
 ![](/assets_en/drag_act3.gif)
 
+###  Visualize your workflow 
+
+Use a Gantt chart view of your activities and tasks for easier understanding of your program schedule. 
+
+> **Quick Tip:**   
+> The chart is tightly linked to the activities on the list. Drag your activities or tasks on the Gantt chart and you'll see their duration updated on the list.
+
+![](/assets_en/gantt.gif)
+
 
