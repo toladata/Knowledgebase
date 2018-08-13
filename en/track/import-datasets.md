@@ -7,9 +7,9 @@ Importing is as easy as connecting your Ona account or importing a spreadsheet. 
 
 ### **Import Menu**
 
-![](https://lh6.googleusercontent.com/KykA00lFKFXB_QURmRPzvZOZNMzkFuqXGNMEp63pNuvPQ0jH3sOuncXl5hFsjWTelsCKcq7irE09Av4q5hq4unHU49Iw5q7OmVXnAdQqebb3Koc9p-UA6KQ9CQ-IDWZeRz98lBhw)
+![](/assets_en/import_menu.PNG)
 
-### **Import CSV**
+#### **Import CSV**
 After selecting `Import from CSV`, fill out the fields and follow onscreen instructions. As a result you should get a data table in Track.
 
 > **Quick Tip:**   
@@ -21,20 +21,20 @@ After selecting `Import from CSV`, fill out the fields and follow onscreen instr
 
 ![](/assets_en/import_csv.PNG)
 
-### Import from Ona
+#### Import from Ona
 
 The first time you want to import from Ona, you will be prompted to login to Ona. Then you will see a list of all your Ona tables displayed. Select an existing data table from Track to pull your data into or enter a name for your new data table. 
 
 ![](/assets_en/import_ona.PNG)
 
-### Import GoogleSheets
+#### Import GoogleSheets
 
 You will need to first authorize Track and TolaData to access your Google Drive. Then select an existing data table to pull your data into or create a new one.
 
 ![](/assets_en/import_gsh.PNG)
 
 
-### Import JSON feed
+#### Import JSON feed
 
 Some service providers, like [KoboToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected. If so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
 
