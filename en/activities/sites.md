@@ -10,4 +10,4 @@
 #### Use Case
 This helps you to link your activities to the locations of where you are implementing your program. Program maps can be generated using this data. Note that same locations can be reused across multiple activities. This also helps to capture Site history on what earlier programs were implemented there for better understanding of your Site's and beneficiaries' background.
         
-![](https://lh5.googleusercontent.com/syJu0PRGcs4-5prSROCNH6oj4S3Ik6r4ylwmsbVYOa8m1Gg8RTgah7mF7CxWuSYm1eMCUJ4bWnnI8HAT7O2Q3SWNauCXkHJjaCfdIpfOOQv5sOl2S-lydYZysfvIkUtD8-3FuuVw)
+![](/assets_en/add_sites_activities.gif)
