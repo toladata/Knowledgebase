@@ -24,7 +24,7 @@ Add your indicators under one of the previously created Results Framework levels
 1. To add an indicator, click an orange `+` button and fill out the fields. Mind that only your indicator name and LOP (Life of program) Target are required fields.
 2. To save your indicator, hit `Submit`.
 
-![](https://lh4.googleusercontent.com/ArLN0zZTgKhigWiFDqWWTmGfFFNyKUrJtBtk7mCl2Av59YPbLR947BrgHmbyqJgEYPlntjxeNE8HmBC_7tHVHQXxHfGs-hVUL3NvQRM-xxWRMNwGg64TXBUApMkhxjf268gsjOjN)
+![](/assets_en/add_indicator.gif)
 
 ### Add Disaggregations
 You can easily add disaggregations for each of your indicators if you need to analyze your beneficiary population in further detail. How many individuals are female or male? Which age or salary group they belong to? Add it in here.
@@ -34,5 +34,14 @@ You can easily add disaggregations for each of your indicators if you need to an
 ### Add Periodic Targets
 Besides the LOP Target, you can add periodic targets. Ongoing monitoring of your indicator results will help you catch potential hazards to achieving your goals and implement relevant remedies before it's too late. Also, some donors might require periodic reporting besides the end of program reports.
 
-![](/assets_en/period_targets.PNG)
+![](/assets_en/periodic_targets.PNG)
+
+#### Standard reporting periods
+
+To keep your reporting periods standard and consistent, add them at program level under the `Reporting Periods` tab and use for all indicators across your program. 
+
+![](/assets_en/reporting_periods.PNG)
+
+
+
 
