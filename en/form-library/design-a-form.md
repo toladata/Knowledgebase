@@ -2,9 +2,9 @@
 # Design a Form
 ---
 
-Data collection forms can be created directly on the TolaData platform.
+Data collection forms can be created directly on the TolaData platform or integrated from other data collection tools directly to Track. Read more about how to do it in [Import Datasets](https://help.toladata.com/en/track/import-datasets.html) article on the Knowledge Base.
 
-The form field types that you can use are the following:
+The form field types that you can use on TolaData are:
 
 | Field type | Description |
 | :--- | :--- |
