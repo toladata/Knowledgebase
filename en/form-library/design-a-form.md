@@ -18,6 +18,13 @@ The form field types that you can use on TolaData are:
 
 #### Build your form
 
+Select `Form Library` on the Navigation Bar and hit the orange `+` button. 
+
+![](/assets_en/add_form.PNG)
+
+Then `Add Field` to add questions to your form. You will be able to use validation rules or set up skip logic to make it easier for your enumerators to collect data and best ensure data quality.
+
+> **Quick Tip:** Remember! You won't be able to change a form that has been already used for data collection.
 
 #### Create a template
 
