@@ -33,3 +33,9 @@ Then select data points or columns from your evidence data table to perform calc
 You will see your result as 'Collected values'. Then, the only thing you need to do is to select the date when your data was collected and, after you hit `Submit`, you'll see it added to the overall indicator result. This result gets automatically updated each time new data is pulled into Track!
 ![](/assets_en/save_track.PNG)
 
+#### Add Disaggregation Data
+
+Once you've pulled data in from Track you're able to further break your indicator result into previously specified groups. Select `Add Disaggregation Data` button, pick the disaggregation you want to add data for and type in your result. Then hit `Submit`.
+
+![](/assets_en/dissaggregation_data.PNG)
+
