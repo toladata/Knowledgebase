@@ -5,7 +5,7 @@ This collection of articles will provide you with guidance on the why's and how'
 
 ### Two ways to _Tola_
 
-#### Take a Course on TolaData
+#### Take a course on TolaData
 Take a course on TolaData! [This course](https://help.toladata.com/en/toladata-course/about-this-course.html) will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons. Make yourself comfortable and get your headphones on for a session full of TolaData. 
 
 #### Read more articles
