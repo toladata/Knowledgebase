@@ -2,7 +2,7 @@
 # Add Collected Data
 ---
 
-Collecting data against indicators is uncomplicated with TolaData.
+There are a few possible ways to collect data against indicators on TolaData.
 
 ### Add indicator results manually
 
