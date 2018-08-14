@@ -36,7 +36,7 @@ You will need to first authorize Track and TolaData to access your Google Drive.
 
 #### Import JSON feed
 
-Some service providers, like [KoboToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected. If so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
+Some service providers, like [KoBoToolbox](http://www.kobotoolbox.org/) [redirects to an external website], may support access to a JSON feed to your data collected. If so, you can import your data from that provider by choosing JSON from the import menu. Make sure you remember your credentials, should your data be protected by password.
 
 ![](/assets_en/json.PNG)
 
