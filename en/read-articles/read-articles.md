@@ -6,7 +6,7 @@ Pick and choose from the articles below to get a quick understanding of all the 
 
 Remember, if you're looking for a comprehensive overview of TolaData there is our [Course waiting for you](https://help.toladata.com/en/toladata-course/about-this-course.html)!
 
-![](/assets/toc2.PNG)
+![](/assets_en/toc2.PNG)
 
 
 
