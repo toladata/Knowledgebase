@@ -43,7 +43,7 @@
 
 ## Read articles
 
-* [Read articles](read-articles/read-articles.md)
+* [Read more articles](read-articles/read-articles.md)
 
 ## Admin Console
 
