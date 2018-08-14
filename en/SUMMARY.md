@@ -42,6 +42,7 @@
   * [Best Practices](toladata-course/best-practices.md)
 
 ## Read articles
+
 * [Read articles](read-articles/read-articles.md)
 
 ## Admin Console
