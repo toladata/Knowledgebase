@@ -41,7 +41,7 @@
   * [Four Easy Steps](toladata-course/four-easy-steps.md)
   * [Best Practices](toladata-course/best-practices.md)
 
-## Read articles
+## Read more articles
 
 * [Read more articles](read-articles/read-articles.md)
 
