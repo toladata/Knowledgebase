@@ -5,7 +5,7 @@
 
 ---
 
-###### This course was last updated in April, 2018 and is in line with TolaData 2.8 release.
+###### This course was last updated in April, 2018 and is in line with TolaData 2.7 release.
 ###### While it is still relevant, you might want to refer [to the articles](https://help.toladata.com/en/admin-console/configuration.html) for the latest details. 
 
 This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
