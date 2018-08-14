@@ -8,7 +8,7 @@ If you are a data geek then this is the place for you to start importing your ra
 
 Here are some of the key features of Track:
 
-* Import raw datasets from external sources, like Ona, Kobo toolbox, CSV, GoogleSheet or even a JSON Feed;
+* Import raw datasets from external sources, like Ona, KoBoToolbox, CSV, GoogleSheet or even a JSON Feed;
 
 * Clean, merge, and append datasets;
 
