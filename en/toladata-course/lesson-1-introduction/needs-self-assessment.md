@@ -18,10 +18,10 @@ Good news! TolaData is easy to learn and you can quickly start using it. Why don
 <explanation>TolaData is a cloud based software that can easily communicate with other similarly built tools, so familiarity with them is very helpful. Take a look at GoogleDrive to setup your own cloud storage space.</explanation>
 </question>
 <question> 
-<p>I am familiar with and/or use digital data collection tools, like Ona or Kobo Toolbox.</p>
+<p>I am familiar with and/or use digital data collection tools, like Ona or KoBoToolbox.</p>
 <answer correct>Yes</answer>  
 <answer>No</answer>
-<explanation>Ona and KoboToolbox are digital data collection tools for you to create and manage your surveys. These tools, along with any application with an external API, easily integrate with TolaData to directly link survey data to the system to generate reports and dashboards real-time. Digital forms are very useful for teams to collect data in the field directly from beneficiaries. This provides transparency and promotes evidence based decision making. </explanation>
+<explanation>Ona and KoBoToolbox are digital data collection tools for you to create and manage your surveys. These tools, along with any application with an external API, easily integrate with TolaData to directly link survey data to the system to generate reports and dashboards real-time. Digital forms are very useful for teams to collect data in the field directly from beneficiaries. This provides transparency and promotes evidence based decision making. </explanation>
 </question>
 <question> 
 <p>I am familiar with and/or use tabular and relational data structures within the Monitoring and Evaluation (M&E) team.</p>
@@ -46,7 +46,7 @@ Check out these external resources:
 3. [How hacking works](https://motherboard.vice.com/en_us/topic/how-hacking-works);
 4. [GoogleDrive](https://gsuite.google.com/learning-center/products/drive/get-started/#!/) learning center;
 5. [Ona](https://ona.io/home/);
-6. [KoboToolbox](http://help.kobotoolbox.org/) Help Center;
+6. [KoBoToolbox](http://help.kobotoolbox.org/) Help Center;
 7. [XLS Forms](http://xlsform.org/) guide;
 8. [Better Evaluation](http://www.betterevaluation.org/en) collaboratively created knowledge base on monitoring and evaluation.
 
