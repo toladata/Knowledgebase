@@ -3,8 +3,8 @@
 ## Welcome to TolaData 
 
 * [What is TolaData?](README.md)
-* [Quick Start](welcome/quick-start.md)
 * [Free Trial & Registration](welcome/free-trial.md) 
+* [Quick Start](welcome/quick-start.md)
 * [Glossary](welcome/glossary.md)
 * [Feedback and Support](welcome/feedback-support.md)
 * [FAQ](welcome/faq.md)
