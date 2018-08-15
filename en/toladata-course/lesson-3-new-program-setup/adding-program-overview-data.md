@@ -9,7 +9,7 @@ Now you're ready to start creating your own program in TolaData. Go ahead!
 
 #### Practice
 
-Go to TolaData and **create a new program** and follow the **program guide to add details on program results framework and indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
+Go to TolaData and **create a new program**. Follow the **program guide to add details of your program, the results framework and indicators**. Fill out only as much information as you like. You'll be able to come back to it and fill in the blanks later.
 
 #### Further reading
 
