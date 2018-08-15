@@ -2,12 +2,11 @@
 # Read more articles
 ---
 
-Pick and choose from the articles below to get a quick understanding of all the hows of TolaData. We keep them always up to date, so don't hesitate and dive deep into TolaData tips and tricks!
+Our articles are designed to give you a deeper understanding of TolaData, on top of what we deliver in our [course](https://help.toladata.com/en/toladata-course/about-this-course.html). 
 
-Remember, if you're looking for a comprehensive overview of TolaData there is our [Course waiting for you](https://help.toladata.com/en/toladata-course/about-this-course.html)!
+We take pride in keeping them up-to-date, so don't hesitate to dive deep and discover more tips and tricks!
 
 ![](/assets_en/toc2.PNG)
-
 
 
 
