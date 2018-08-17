@@ -11,7 +11,7 @@ In this section you'll find a selection of software training best practices base
 
 ### Customize
 5. Assess the needs, skills and actively seek feedback from your trainees to adjust the training accordingly;
-6. Identify agents of change among students, who will help to implement TolaData after the training;
+6. Identify the most dedicated TolaData users among your learners. They will help you to motivate others after the training;
 7. Make it short and sweet, don’t take too much of your participants’ time;
 8. Cater to additional requests and needs. You don't have to make everything happen, though, but make sure no question remains unanswered.
 
