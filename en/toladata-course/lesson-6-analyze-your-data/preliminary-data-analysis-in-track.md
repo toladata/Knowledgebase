@@ -9,7 +9,7 @@ Before you perform any data operations in Track, take a look at what you've got 
 
 #### Practice
 
-Go to TolaData and **review the contents of the Reports tab for your chosen data set. **What conclusions can you draw from these charts? What calculations you might want to perform on your data?
+Go to TolaData and **review the contents of the Reports tab for your chosen data set. **What conclusions can you draw from these charts? What calculations might you want to perform on your data?
 
 #### Further reading
 
