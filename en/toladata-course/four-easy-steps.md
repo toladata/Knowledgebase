@@ -37,7 +37,7 @@ Think of a convenient way to address your trainees' requests and anything else t
 
 ##### Invite team members to TolaData
 
-You might conduct the training on the [demo site](https://demo.toladata.io/) [redirects to an external website], but eventually you want everyone to use your production site. [Send all your team members invitation to TolaData](https://help.toladata.com/en/welcome/free-trial.html)! Ask them to login to. Then add them to your program team.
+You might conduct the training on the [demo site](https://demo.toladata.io/) [redirects to an external website], but eventually you want everyone to use your production site. [Send all your team members invitation to TolaData](https://help.toladata.com/en/welcome/free-trial.html#invite-users-to-toladata)! Ask them to login to. Then add them to your program team.
 
 
 #### External resources for your convenience
