@@ -17,7 +17,7 @@ The following factors are worth considering while preparing for the training:
 ### 2. Prepare the training
 
 ##### Planning
-Look up examples of TolaData [training agendas that we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) as well as training [slidedeck you can use to provide training on all TolaData components](https://drive.google.com/drive/folders/1yd7mzJvzj1kaI5EA3pAzTPlv3agc3gsP) [redirects to an external website]. Remember: everyone wants to see the system, so start with demoing TolaData to your team as early as possible in the training.
+Look up examples of TolaData [training agendas that we prepared for different training formats](https://docs.google.com/document/d/1GJvaVOyblWtPHQ7ibz0IcuOCIhEMKgx1533Dv05o1Q4/edit?usp=sharing) (self paced, online facilitated and in person trainings) as well as training [slide deck you can use to provide training on all TolaData components](https://drive.google.com/drive/folders/1yd7mzJvzj1kaI5EA3pAzTPlv3agc3gsP) [redirects to an external website]. Remember: everyone wants to see the system, so start with demoing TolaData to your team as early as possible in the training.
 
 ##### Engagement
 You will want your training to be both an efficient and pleasant event. For in person training, don't forget to use energizers. [We've put together a selection of tested ones for you](https://docs.google.com/document/d/1HohufUBEUc8vqR-C93TL8-36AKNOlFI2QuX3i9XYoms/edit?usp=sharing) [redirects to an external website]. In online facilitated classes check in with your participants often, to make sure they're focused and on track. You might also want to use engagement tools, like surveys, voting or raising hands that are provided by most online conference tools.
@@ -37,10 +37,8 @@ Think of a convenient way to address your trainees' requests and anything else t
 
 ##### Invite team members to TolaData
 
-You might conduct the training on the [demo site](https://demo.toladata.io/) [redirects to an external website], but eventually you want everyone to use your production site. Send all your team members invitation to TolaData! Ask them to login to. Then add them to your program team.
+You might conduct the training on the [demo site](https://demo.toladata.io/) [redirects to an external website], but eventually you want everyone to use your production site. [Send all your team members invitation to TolaData](https://help.toladata.com/en/welcome/free-trial.html)! Ask them to login to. Then add them to your program team.
 
-![](https://lh5.googleusercontent.com/dlcMO2saPUIteNPySlkfjzMpmJh0pETReabxlclYiHx49Y0WWis0doH5Z4Kvkzg5_9cE0olcEGMCauwkN9s9yO7O8SLa4iqsz6GJXYsmA2NPMmUVJAhDDPEOrGFND2FNSKzN6o7j)**
-**
 
 #### External resources for your convenience
 
