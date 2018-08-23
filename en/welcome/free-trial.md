@@ -17,6 +17,13 @@ When you fill out the form on the website you'll be automatically taken to creat
 
 ![](/assets_en/register.PNG)
 
+#### Log in for the first time
+After you register on the platform, you will receive an Account Activation e-mail. Click on the `Verify E-mail Address` button and log in to the platform for the first time. 
+
+> **Quick Tip:** 
+> Make sure to remember your **Username**. You will use it for logging in to TolaData along with your password. Forgot your Username? Let us know at support@toladata.com and we will help to troubleshoot!
+
+![](/assets_en/first log in.png)
 
 #### Invite users to TolaData
 When you're already in, you can invite others to TolaData and configure the platform [[read more on configuration here](https://help.toladata.com/en/admin-console/configuration.html)]. You will access your Admin Console by clicking on the round icon with your initials in the top right corner of screen.
