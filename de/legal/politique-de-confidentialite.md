@@ -1,5 +1,5 @@
 ****
-# Politique de confidentialité 
+# Datenschutz
 ---
 **TolaData GmbH**
 
