@@ -40,7 +40,7 @@
   * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
   * [Dashboards erstellen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
 
-## Legal
+## Rechtliches
 
 * [Impressum](legal/imprint.md)
 * [Datenschutz](legal/politique-de-confidentialite.md)
