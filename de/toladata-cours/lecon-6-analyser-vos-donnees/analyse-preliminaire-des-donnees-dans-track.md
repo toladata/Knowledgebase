@@ -1,8 +1,8 @@
 ****
-# Analyse préliminaire des données dans Track
+# Vorläufige Datenanalyse
 ---
 
-Dieser Artikel ist zurzeit noch nicht ins Deutsche übersetzt. Wir bitten um Ihr Verständnis. Die englische Version finden Sie unter folgendem Link: []()
+Dieser Artikel ist zurzeit noch nicht ins Deutsche übersetzt. Wir bitten um Ihr Verständnis. Die englische Version finden Sie unter folgendem Link: [Preliminary Data Analysis in Track](https://help.toladata.com/en/toladata-course/lesson-6-analyze-your-data/preliminary-data-analysis-in-track.html)
 
 
 
