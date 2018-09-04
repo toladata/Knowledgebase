@@ -1,6 +1,6 @@
 # Inhaltsangabe
 
-## Herzlich willkommen bei TolaData / DE
+## Herzlich willkommen bei TolaData
 
 * [Was ist TolaData?](README.md)
 * [Schnelleinstieg](bienvenue/demarrage-rapide.md)
@@ -8,7 +8,7 @@
 * [Feedback und Hilfestellung](bienvenue/feedback-soutien.md) 
 * [FAQ-Sektion](bienvenue/faq.md)
 
-## Einen TolaData-Kurs belegen / DE
+## Einen TolaData-Kurs belegen
 
 * [Zu diesem Kurs](toladata-cours/ce-qui-concerne-ce-cours.md)
 * [1. Unterrichtseinheit: Einführung](toladata-cours/lecon-1-introduction.md)
@@ -40,7 +40,7 @@
   * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
   * [Dashboards erstellen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
 
-## Légal / DE
+## Legal
 
 * [Impressum](legal/imprint.md)
 * [Datenschutz](legal/politique-de-confidentialite.md)
