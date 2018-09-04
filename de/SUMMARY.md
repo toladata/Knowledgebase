@@ -39,6 +39,9 @@
 * [7. Dashboards und Berichte](toladata-cours/lecon-7-tableaux-de-bord-et-rapports.md)
   * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
   * [Dashboards erstellen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
+* [Das Team Trainieren](bienvenue/train-your-team.md)
+  * [Vier einfache Schritte](toladata-cours/four-easy-steps.md)
+  * [Bewährte Methoden / Best Practices]()
 
 ## Rechtliches
 
