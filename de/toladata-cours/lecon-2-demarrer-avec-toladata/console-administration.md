@@ -2,16 +2,11 @@
 # Console d’administration
 ---
 
-En tant qu’administrateur de l’organisation de votre organisation vous serez responsable pour l’attribution des utilisateurs aux programmes ainsi que la configuration générale du système. Voyez comment cela se fait à partir de votre console d’administration
+Dieser Artikel ist zurzeit noch nicht ins Deutsche übersetzt. Wir bitten um Ihr Verständnis. Die englische Version finden Sie unter folgendem Link: [Needs Self-Assessment](https://help.toladata.com/en/toladata-course/lesson-1-introduction/needs-self-assessment.html)
 
-{%youtube%} zdt6iGUiO6M {%endyoutube%}  
-> [Voir la vidéo sur YouTube](https://www.youtube.com/embed/zdt6iGUiO6M?rel=0) & [lire la transcription en anglais](https://docs.google.com/document/d/1DCaeMviBwSO5hGSfeh6Y9McPI6D1dzxJyDs5kKa4wug/edit#heading=h.430hhzugph90)
 
-#### Entraînement 
 
-Allez sur TolaData et **explorez la console d’administration**. Entrez/établissez de nouveaux bureaux ou des fréquences de rapports. Ensuite, vous pouvez aller sur l’onglet Équipe sous/dans chaque programme et ajouter des utilisateurs ainsi que leur attribuer des autorisations d’utilisateur - sous condition qu’ils ont déjà été enregistrés dans le système. 
 
-#### Lecture ultérieure
 
-1. Lisez plus sur comment [ajouter de nouveaux utilisateurs](https://help.toladata.com/fr/admin-console/users.html) dans la base de connaissance.
+
 
