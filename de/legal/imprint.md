@@ -2,7 +2,7 @@
 # Imprint 
 ---
 
-#### TolaData est un produit de TolaData GmbH
+#### TolaData ist ein Produkt der TolaData GmbH
 **TolaData GmbH**
 
 Wöhlertstraße 12-13, 10115 Berlin, Germany
@@ -13,9 +13,9 @@ E-mail: info@toladata.com
 
 Site web: https://www.toladata.com
 
-**PDG:**
+**Geschäftsführerin (CEO):**
 Kathrin Wieland
 
-Enregistré au tribunal de district Charlottenburg Berlin, HRB 196821
+Registriert beim Amtsgericht Charlottenburg Berlin, HRB 196821
 
-Responsable du contenu du site web de TolaData GmbH ref. § 55 RStV: Kathrin Wieland
+Verantwortlich für den Inhalt der Website der TolaData GmbH gemäß § 55 RStV: Kathrin Wieland
