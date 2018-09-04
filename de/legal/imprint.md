@@ -1,5 +1,5 @@
 ****
-# Imprint 
+# Impressum
 ---
 
 #### TolaData ist ein Produkt der TolaData GmbH
