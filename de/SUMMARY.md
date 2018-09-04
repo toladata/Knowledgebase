@@ -7,7 +7,8 @@
 * [Kostenlose Testversion & Erstregistrierung](bienvenue/essai-gratuit.md)
 * [Feedback und Hilfestellung](bienvenue/feedback-soutien.md)
 * [FAQ-Sektion](bienvenue/faq.md)
-* Einen TolaData-Kurs belegen
+
+## Einen TolaData-Kurs belegen
 * [Zu diesem Kurs](toladata-cours/ce-qui-concerne-ce-cours.md)
 * [1. Einführung](toladata-cours/lecon-1-introduction.md)
   * [TolaData nutzt PMD-Pro](toladata-cours/lecon-1-introduction/toladata-utilise-pmdpro.md)
