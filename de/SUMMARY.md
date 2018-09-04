@@ -38,10 +38,8 @@
   * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
   * [Dashboards erstellen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
 * [Das Team Trainieren](bienvenue/train-your-team.md)
-  * [Vier einfache Schritte](toladata-cours/four-easy-steps.md)
-  * Bewährte Methoden / Best Practices
-* [Bewährte Methoden / Best Practices](bewahrte-methoden-best-practices.md)
-* [Vier einfache Schritte](vier-einfache-schritte.md)
+  * [Bewährte Methoden / Best Practices](bewahrte-methoden-best-practices.md)
+  * [Vier einfache Schritte](vier-einfache-schritte.md)
 
 ## Rechtliches
 
