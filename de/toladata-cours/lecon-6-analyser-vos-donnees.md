@@ -1,8 +1,8 @@
 ****
-# Leçon 6: Analyser vos données
+# 6. Unterrichtseinheit: Datenanalyse
 ---
 
-Dieser Artikel ist zurzeit noch nicht ins Deutsche übersetzt. Wir bitten um Ihr Verständnis. Die englische Version finden Sie unter folgendem Link: []()
+Dieser Artikel ist zurzeit noch nicht ins Deutsche übersetzt. Wir bitten um Ihr Verständnis. Die englische Version finden Sie unter folgendem Link: [Lesson 6 Analyse Your Data]()
 
 
 
