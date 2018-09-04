@@ -1,15 +1,13 @@
-# Inhaltsangabe
+# Summary
 
 ## Herzlich willkommen bei TolaData
 
 * [Was ist TolaData?](README.md)
 * [Schnelleinstieg](bienvenue/demarrage-rapide.md)
 * [Kostenlose Testversion & Erstregistrierung](bienvenue/essai-gratuit.md)
-* [Feedback und Hilfestellung](bienvenue/feedback-soutien.md) 
+* [Feedback und Hilfestellung](bienvenue/feedback-soutien.md)
 * [FAQ-Sektion](bienvenue/faq.md)
-
-## Einen TolaData-Kurs belegen
-
+* Einen TolaData-Kurs belegen
 * [Zu diesem Kurs](toladata-cours/ce-qui-concerne-ce-cours.md)
 * [1. Einführung](toladata-cours/lecon-1-introduction.md)
   * [TolaData nutzt PMD-Pro](toladata-cours/lecon-1-introduction/toladata-utilise-pmdpro.md)
@@ -41,31 +39,12 @@
   * [Dashboards erstellen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/creer-des-tableaux-de-bord.md)
 * [Das Team Trainieren](bienvenue/train-your-team.md)
   * [Vier einfache Schritte](toladata-cours/four-easy-steps.md)
-  * [Bewährte Methoden / Best Practices]()
+  * Bewährte Methoden / Best Practices
+* [Bewährte Methoden / Best Practices](bewahrte-methoden-best-practices.md)
+* [Vier einfache Schritte](vier-einfache-schritte.md)
 
 ## Rechtliches
 
 * [Impressum](legal/imprint.md)
 * [Datenschutz](legal/politique-de-confidentialite.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
