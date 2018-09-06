@@ -46,4 +46,3 @@
 
 * [Impressum](legal/imprint.md)
 * [Datenschutz](legal/politique-de-confidentialite.md)
-
