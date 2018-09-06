@@ -26,7 +26,7 @@
   * [Wirkungslogik anlegen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen/wirkungslogik-anlegen.md)
   * [SMARTer Indikatorenplan](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen/erstellen-sie-einen-smarten-indikatorenplan.md)
   * [Indikatoren hinzufügen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen/indikatoren-hinzufuegen.md)
-  * [Datenerhebung zur Messung von Indikatoren](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/collecter-des-donnees-par-rapport-aux-indicateurs.md)
+  * [Datenerhebung zur Messung von Indikatoren](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen/datenerhebung-zur-messung-von-indikatoren.md)
 * [5. Formulare](toladata-kurs/5-unterrichtseinheit-formulare.md)
   * [Was ist ein Formular?](toladata-cours/lecon-5-bibliotheque-de-formulaires/qu-est-ce-qu-un-formulaire.md)
   * [Formulare gestalten](toladata-cours/lecon-5-bibliotheque-de-formulaires/concevoir-un-formulaire.md)
