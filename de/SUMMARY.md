@@ -14,7 +14,7 @@
   * [TolaData nutzt PMD-Pro](toladata-cours/lecon-1-introduction/toladata-utilise-pmdpro.md)
   * [TolaData-Demo](toladata-cours/lecon-1-introduction/toladata-demo.md)
   * [Selbsteinschätzung](toladata-cours/lecon-1-introduction/auto-evaluation-des-besoins.md)
-* [2. Mit TolaData loslegen](toladata-cours/lecon-2-demarrer-avec-toladata.md)
+* [2. Mit TolaData loslegen](de/toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen.md)
   * [Anmeldung und Berechtigungen](toladata-cours/lecon-2-demarrer-avec-toladata/connection-et-autorisations-des-utilisateurs.md)
   * [Suche und übergeordnete Filter](toladata-cours/lecon-2-demarrer-avec-toladata/recherche-et-filtres-globaux.md)
   * [Administrationsmenü](toladata-cours/lecon-2-demarrer-avec-toladata/console-administration.md)
