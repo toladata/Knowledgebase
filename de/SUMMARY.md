@@ -19,7 +19,7 @@
   * [Suche und übergeordnete Filter](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/suche-und-uebergeordnete-filter.md)
   * [Administrationsmenü](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/administrationsmenue.md)
 * [3. Neues Programm anlegen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen.md)
-  * [Programmübersichtsdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-d-appercu-de-programme.md)
+  * [Programmübersichtsdaten hinzufügen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen/programmuebersichtsdaten-hinzufuegen.md)
   * [Detaillierte Programmdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-de-programme-detaillees.md)
   * [Aktivitäten hinzufügen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen/aktivitaeten-hinzufuegen.md)
 * [4. Programmfortschritt verfolgen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen.md)
