@@ -22,7 +22,7 @@
   * [Programmübersichtsdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-d-appercu-de-programme.md)
   * [Detaillierte Programmdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-de-programme-detaillees.md)
   * [Aktivitäten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-activites.md)
-* [4. Programmfortschritt verfolgen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme.md)
+* [4. Programmfortschritt verfolgen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen.md)
   * [Wirkungslogik anlegen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/configuration-du-cadre-de-resultats.md)
   * [SMARTer Indikatorenplan](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/indicateurs-smart.md)
   * [Indikatoren hinzufügen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/ajouter-des-indicateurs.md)
