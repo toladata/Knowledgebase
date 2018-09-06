@@ -9,7 +9,7 @@
 * [FAQ-Sektion](bienvenue/faq.md)
 
 ## Einen TolaData-Kurs belegen
-* [Zu diesem Kurs](toladata-cours/ce-qui-concerne-ce-cours.md)
+* [Zu diesem Kurs](toladata-kurs/zu-diesem-kurs.md)
 * [1. Einführung](toladata-kurs/1-unterrichtseinheit-enfuehrung.md)
   * [TolaData nutzt PMD-Pro](toladata-cours/lecon-1-introduction/toladata-utilise-pmdpro.md)
   * [TolaData-Demo](toladata-cours/lecon-1-introduction/toladata-demo.md)
