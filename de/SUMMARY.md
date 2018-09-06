@@ -15,7 +15,7 @@
   * [TolaData-Demo](toladata-cours/lecon-1-introduction/toladata-demo.md)
   * [Selbsteinschätzung](toladata-kurs/1-unterrichtseinheit-einfuehrung/selbsteinschaetzung.md)
 * [2. Mit TolaData loslegen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen.md)
-  * [Anmeldung und Berechtigungen](toladata-cours/lecon-2-demarrer-avec-toladata/connection-et-autorisations-des-utilisateurs.md)
+  * [Anmeldung und Berechtigungen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/systemanmeldung-und-benutzerberechtigungen.md)
   * [Suche und übergeordnete Filter](toladata-cours/lecon-2-demarrer-avec-toladata/recherche-et-filtres-globaux.md)
   * [Administrationsmenü](toladata-cours/lecon-2-demarrer-avec-toladata/console-administration.md)
 * [3. Neues Programm anlegen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen.md)
