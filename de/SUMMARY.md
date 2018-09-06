@@ -27,7 +27,7 @@
   * [SMARTer Indikatorenplan](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/indicateurs-smart.md)
   * [Indikatoren hinzufügen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/ajouter-des-indicateurs.md)
   * [Datenerhebung zur Messung von Indikatoren](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/collecter-des-donnees-par-rapport-aux-indicateurs.md)
-* [5. Formulare](toladata-cours/lecon-5-bibliotheque-de-formulaires.md)
+* [5. Formulare](toladata-kurs/5-unterrichtseinheit-formulare.md)
   * [Was ist ein Formular?](toladata-cours/lecon-5-bibliotheque-de-formulaires/qu-est-ce-qu-un-formulaire.md)
   * [Formulare gestalten](toladata-cours/lecon-5-bibliotheque-de-formulaires/concevoir-un-formulaire.md)
   * [Formulare veröffentlichen](toladata-cours/lecon-5-bibliotheque-de-formulaires/publier-un-formulaire.md)
