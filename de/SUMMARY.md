@@ -25,7 +25,7 @@
 * [4. Programmfortschritt verfolgen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen.md)
   * [Wirkungslogik anlegen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/configuration-du-cadre-de-resultats.md)
   * [SMARTer Indikatorenplan](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/indicateurs-smart.md)
-  * [Indikatoren hinzufügen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-indikatoren-hinzufuegen.md)
+  * [Indikatoren hinzufügen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen/indikatoren-hinzufuegen.md)
   * [Datenerhebung zur Messung von Indikatoren](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/collecter-des-donnees-par-rapport-aux-indicateurs.md)
 * [5. Formulare](toladata-kurs/5-unterrichtseinheit-formulare.md)
   * [Was ist ein Formular?](toladata-cours/lecon-5-bibliotheque-de-formulaires/qu-est-ce-qu-un-formulaire.md)
