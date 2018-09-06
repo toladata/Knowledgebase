@@ -17,7 +17,7 @@
 * [2. Mit TolaData loslegen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen.md)
   * [Anmeldung und Berechtigungen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/systemanmeldung-und-benutzerberechtigungen.md)
   * [Suche und übergeordnete Filter](toladata-cours/lecon-2-demarrer-avec-toladata/recherche-et-filtres-globaux.md)
-  * [Administrationsmenü](toladata-cours/lecon-2-demarrer-avec-toladata/console-administration.md)
+  * [Administrationsmenü](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/administrationsmenue.md)
 * [3. Neues Programm anlegen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen.md)
   * [Programmübersichtsdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-d-appercu-de-programme.md)
   * [Detaillierte Programmdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-de-programme-detaillees.md)
