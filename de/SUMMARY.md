@@ -20,7 +20,7 @@
   * [Administrationsmenü](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/administrationsmenue.md)
 * [3. Neues Programm anlegen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen.md)
   * [Programmübersichtsdaten hinzufügen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen/programmuebersichtsdaten-hinzufuegen.md)
-  * [Detaillierte Programmdaten hinzufügen](toladata-cours/lecon-3-nouvelle-configuration-du-programme/ajouter-des-donnees-de-programme-detaillees.md)
+  * [Detaillierte Programmdaten hinzufügen](de/toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen/detaillierte-programmdaten-hinzufuegen.md)
   * [Aktivitäten hinzufügen](toladata-kurs/3-unterrichtseinheit-neues-programm-anlegen/aktivitaeten-hinzufuegen.md)
 * [4. Programmfortschritt verfolgen](toladata-kurs/4-unterrichtseinheit-programmfortschritt-verfolgen.md)
   * [Wirkungslogik anlegen](toladata-cours/lecon-4-suivre-le-progres-d-un-programme/configuration-du-cadre-de-resultats.md)
