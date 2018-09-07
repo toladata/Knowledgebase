@@ -33,7 +33,7 @@
   * [Formulare veröffentlichen](toladata-kurs/5-unterrichtseinheit-formulare/formulare-veroeffentlichen.md)
 * [6. Datenanalyse](toladata-kurs/6-unterrichtseinheit-datenanalyse.md)
   * [Daten in Track importieren](toladata-cours/lecon-6-analyser-vos-donnees/importer-des-donnees-vers-track.md)
-  * [Vorläufige Datenanalyse](toladata-cours/lecon-6-analyser-vos-donnees/analyse-preliminaire-des-donnees-dans-track.md)
+  * [Vorläufige Datenanalyse](toladata-kurs/6-unterrichtseinheit-datenanalyse/vorlaeufige-datenanalyse.md)
   * [Quellen und Indikatoren verknüpfen](toladata-cours/lecon-6-analyser-vos-donnees/association-des-preuves-de-track-aux-indicateurs-dans-activity.md)
 * [7. Dashboards und Berichte](toladata-kurs/7-unterrichtseinheit-dashoboards-und-berichte.md)
   * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
