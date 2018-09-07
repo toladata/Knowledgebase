@@ -12,7 +12,7 @@
 * [Zu diesem Kurs](toladata-kurs/zu-diesem-kurs.md)
 * [1. Einführung](toladata-kurs/1-unterrichtseinheit-enfuehrung.md)
   * [TolaData nutzt PMD-Pro](toladata-kurs/1-unterrichtseinheit-einfuehrung/toladata-bedient-sich-der-pmdpro-methode.md)
-  * [TolaData-Demo](toladata-cours/lecon-1-introduction/toladata-demo.md)
+  * [TolaData-Demo](toladata-kurs/1-unterrichtseinheit-einfuehrung/toladata-demo.md)
   * [Selbsteinschätzung](toladata-kurs/1-unterrichtseinheit-einfuehrung/selbsteinschaetzung.md)
 * [2. Mit TolaData loslegen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen.md)
   * [Anmeldung und Berechtigungen](toladata-kurs/2-unterrichtseinheit-mit-toladata-loslegen/systemanmeldung-und-benutzerberechtigungen.md)
