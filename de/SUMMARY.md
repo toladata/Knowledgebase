@@ -4,7 +4,7 @@
 
 * [Was ist TolaData?](README.md)
 * [Schnelleinstieg](herzlich-willkommen/schnelleinstieg.md)
-* [Kostenlose Testversion & Erstregistrierung](bienvenue/essai-gratuit.md)
+* [Kostenlose Testversion & Erstregistrierung](herzlich-willkommen/kostenlose-testversion-und-erstregistrierung.md)
 * [Feedback und Hilfestellung](bienvenue/feedback-soutien.md)
 * [FAQ-Sektion](bienvenue/faq.md)
 
