@@ -45,4 +45,4 @@
 ## Rechtliches
 
 * [Impressum](rechtliches/impressum.md)
-* [Datenschutz](legal/politique-de-confidentialite.md)
+* [Datenschutz](rechtliches/datenschutz.md)
