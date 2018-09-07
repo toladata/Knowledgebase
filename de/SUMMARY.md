@@ -6,7 +6,7 @@
 * [Schnelleinstieg](herzlich-willkommen/schnelleinstieg.md)
 * [Kostenlose Testversion & Erstregistrierung](herzlich-willkommen/kostenlose-testversion-und-erstregistrierung.md)
 * [Feedback und Hilfestellung](bienvenue/feedback-soutien.md)
-* [FAQ-Sektion](bienvenue/faq.md)
+* [FAQ-Sektion](herzlich-willkommen/faq-sektion.md)
 
 ## Einen TolaData-Kurs belegen
 * [Zu diesem Kurs](toladata-kurs/zu-diesem-kurs.md)
