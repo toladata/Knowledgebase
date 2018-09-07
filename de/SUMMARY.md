@@ -36,7 +36,7 @@
   * [Vorläufige Datenanalyse](toladata-kurs/6-unterrichtseinheit-datenanalyse/vorlaeufige-datenanalyse.md)
   * [Quellen und Indikatoren verknüpfen](toladata-kurs/6-unterrichtseinheit-datenanalyse/verkuepfung-von-quellen-aus-track-mit-indikatoren-aus-activity.md)
 * [7. Dashboards und Berichte](toladata-kurs/7-unterrichtseinheit-dashoboards-und-berichte.md)
-  * [Berichte einsehen](toladata-cours/lecon-7-tableaux-de-bord-et-rapports/voir-les-rapports.md)
+  * [Berichte einsehen](toladata-kurs/7-unterrichtseinheit-dashboards-und-berichte/berichte.einsehen.md)
   * [Dashboards erstellen](toladata-kurs/7-unterrichtseinheit-dashboards-und-berichte/dashboards-erstellen.md)
 * [Das Team Trainieren](bienvenue/train-your-team.md)
   * [Bewährte Methoden / Best Practices](bewahrte-methoden-best-practices.md)
