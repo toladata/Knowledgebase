@@ -30,7 +30,7 @@
 * [5. Formulare](toladata-kurs/5-unterrichtseinheit-formulare.md)
   * [Was ist ein Formular?](toladata-cours/lecon-5-bibliotheque-de-formulaires/qu-est-ce-qu-un-formulaire.md)
   * [Formulare gestalten](toladata-kurs/5-unterrichtseinheit-formulare/formulare-gestalten.md)
-  * [Formulare veröffentlichen](toladata-cours/lecon-5-bibliotheque-de-formulaires/publier-un-formulaire.md)
+  * [Formulare veröffentlichen](toladata-kurs/5-unterrichtseinheit-formulare/formulare-veroeffentlichen.md)
 * [6. Datenanalyse](toladata-kurs/6-unterrichtseinheit-datenanalyse.md)
   * [Daten in Track importieren](toladata-cours/lecon-6-analyser-vos-donnees/importer-des-donnees-vers-track.md)
   * [Vorläufige Datenanalyse](toladata-cours/lecon-6-analyser-vos-donnees/analyse-preliminaire-des-donnees-dans-track.md)
