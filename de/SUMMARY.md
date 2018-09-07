@@ -3,7 +3,7 @@
 ## Herzlich willkommen bei TolaData
 
 * [Was ist TolaData?](README.md)
-* [Schnelleinstieg](bienvenue/demarrage-rapide.md)
+* [Schnelleinstieg](herzlich-willkommen/schnelleinstieg.md)
 * [Kostenlose Testversion & Erstregistrierung](bienvenue/essai-gratuit.md)
 * [Feedback und Hilfestellung](bienvenue/feedback-soutien.md)
 * [FAQ-Sektion](bienvenue/faq.md)
