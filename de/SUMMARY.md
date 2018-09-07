@@ -44,5 +44,5 @@
 
 ## Rechtliches
 
-* [Impressum](legal/imprint.md)
+* [Impressum](rechtliches/impressum.md)
 * [Datenschutz](legal/politique-de-confidentialite.md)
