@@ -2,6 +2,8 @@
 ---
 # Ce qui concerne ce cours
 ---
+#####Ce cours a été mis à jour pour la dernière fois en juin 2018. La majorité du cours reste pertinent, tout de même nous vous recommandons également de lire nos articles pour obtenir les informations les plus récentes sur notre plateforme.
+
 
 Ce cours va vous donner un aperçu complet de tous les fonctions et les fonctionnalités de TolaData en 7 leçons faciles.
 
