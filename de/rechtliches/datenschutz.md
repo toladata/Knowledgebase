@@ -1,417 +1,420 @@
 ****
-# Datenschutz
+# Privacy Policy 
 ---
 **TolaData GmbH**
 
-Nous vous donnons ci-dessous un aperçu des données que nous collectons, dans quel but et comment nous assurons la protection des données - en bref et sous une forme plus détaillée.
+Below we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data in short and in a more detailed form.
 
-Nous prenons très au sérieux la protection des données personnelles de nos utilisateurs (**«Utilisateur / vous / votre»**) et respectons strictement les lois et réglementations applicables en matière de protection des données. Dans notre politique de confidentialité ci-dessous (**"Politique de confidentialité"**), nous vous fournissons un aperçu des données que nous collectons dans quel but et comment nous assurons la protection des données.
+We take the protection of our users’ (“**User/you/your**”) personal data very seriously and strictly comply with applicable data protection laws and regulations. In our privacy policy below (“**Privacy Policy**”) we provide you with an overview of what data we collect for what purpose and how we ensure the protection of the data.
 
-Le contrôleur est TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin / Allemagne, enregistré au tribunal local (Amtsgericht) de Charlottenburg sous HRB 196821 représenté par la directrice générale Kathrin Wieland (**"nous / nous / notre"**). Nous offrons un site Web à www.toladata.com (le **«site Web»**) qui fournit aux entreprises («client») certaines informations relatives à nos services et logiciels. Le logiciel peut être consulté sur www.toladata.io (le **"Logiciel"**). Les services liés à nos logiciels sont définis dans les Conditions d'utilisation disponibles sur https://www.toladata.com/terms-of-use/ (les **«ToU»** - Terms of Use). Le client créera un compte administrateur via notre logiciel et rendra les services du logiciel également disponibles pour les autres utilisateurs.
+The controller is TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin/Germany, registered at the local court (_Amtsgericht_) of Charlottenburg under HRB 196821 represented by the managing director Kathrin Wieland (“**we/us/our**”). We offer a website at www.toladata.com (the “Website”) which provides businesses (“**Customer**”) with certain information related to our services and software. The software can be accessed at www.toladata.io (the “**Software**”). Services related to our software are defined in the Terms of Use available at https://www.toladata.com/terms-of-use/ (the “**ToU**”). Customer will create an admin account via our Software and make the services of the Software also available to other Users.
 
-Veuillez lire attentivement les informations suivantes concernant la politique de confidentialité. Si vous avez d'autres questions, n'hésitez pas à nous contacter à datasecurity@toladata.com
+Please read the following information regarding the privacy policy carefully. In case you have further questions, please do not hesitate to contact us at any time at datasecurity@toladata.com.
 
-„_en bref_“:
-#### Manette
+„_in short_“:
+#### Controller
 TolaData GmbH, Wöhlertstraße 12-13, 10115 Berlin/Germany
 
-enregistrée au tribunal local (Amtsgericht) de Charlottenburg sous HRB 196821 représenté par la directrice générale Kathrin Wieland
+registered at the local court (Amtsgericht) of Charlottenburg under HRB 196821 represented by the managing director Kathrin Wieland 
 
 email: datasecurity@toladata.com
 
-teléphone: +49 30 25779605
+telephone: +49 30 25779605
 
-Nous avons nommé un responsable de la protection des données qui peut être contacté via datasecurity@toladata.com
+We have appointed a data protection officer who may be reached via datasecurity@toladata.com
 
-Conformément aux conditions d'utilisation disponibles sur https://www.toladata.com/terms-of-use/ entre les entreprises et nous, les affaires telles que le client est responsable des données (personnelles) incluses par lui sur le site Web et notre logiciel , y compris, mais sans s'y limiter, les consentements requis par les personnes touchées. Par conséquent, chaque Utilisateur concerné peut également contacter le Client concernant l'utilisation de ses données personnelles dans le Logiciel ou sur le Site Web. Le Client peut également utiliser les données de l'Utilisateur en relation avec d'autres services de tiers. À cette fin, l'utilisateur peut également contacter le client ou nous demander de contacter le client à ce sujet.
+According to the Terms of Use available at https://www.toladata.com/terms-of-use/ between businesses and us, such business as Customer is responsible for the (personal) data included by him on the Website and our Software, including but not limited to required consents by the affected individuals. Therefore, each affected User may also contact Customer regarding the use of his/her personal data in the Software or on the Website. Customer may also use User’s data in connection with other third-party services. For this purpose, User may also contact Customer or ask us to contact Customer about this.
 
-#### But et fondement juridique des données de traitement; Intérêts légitimes
-Vos données seront utilisées aux fins du logiciel et du site Web
+#### Purpose and Legal Basis of Processing Data; Legitimate Interests
+Your data will be used for the purposes of the Software and the Website
 
-·        Mettre en œuvre cette politique de confidentialité et mettre en œuvre la relation contractuelle (§§ 14, 15 TMG ou Art.6 (1) b) GDPR),
-· Pour fournir nos services sur le Site et le Logiciel, pour vous contacter en ce qui concerne nos services (également par e-mail et messagerie) et pour assurer la fonctionnalité technique de nos services l'exécution des obligations contractuelles ou précontractuelles ((§§ 14, 15 TMG ou l'article 6 (1) b) GDPR),
-· Pour la prévention de la fraude (§§ 14, 15 TMG, article 6 (1) b et f GDPR),
-· Analyser votre utilisation de nos services et améliorer nos services (§§ 14, 15 TMG, article 6 (1) b et f GDPR),
-· Avec votre consentement exprès ou vos instructions pour mener à bien nos activités commerciales ou vous envoyer des bulletins d'information (article 6, paragraphe (1) et (GDPR)),
-ou pour l'utilisation du logiciel
-· Pour fournir le Logiciel et assurer la fonctionnalité technique de nos services l'exécution d'obligations contractuelles ou précontractuelles ((§§ 14, 15 TMG ou Art.6 (1) b) GDPR),
-· À des fins d'analyse et d'amélioration du Logiciel basé sur l'Art. 6 (1) f. PIB ou avec le consentement explicite de la personne touchée sur la base de l'art. 6 (1) a., 9 (2) a. GDPR ou comme indiqué ci-dessous dans IV. 3.,
-ou
+·         to implement this privacy policy and carrying out the contractual relationship (§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
 
-_ou_
+·         for providing our services on the Website and the Software, to contact you in matters regarding our services (also by means of emails and messaging) and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
 
-· Comme expliqué autrement dans cette politique de confidentialité ou par toute communication par nous.
-Les dispositions légales applicables sont notamment celles du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 abrogeant la directive 95/46 / CE relative à la protection des personnes à l'égard du traitement des données à caractère personnel, sur la libre circulation de ces données ("General Data Protection Regulation", GDPR) ainsi que dans la loi fédérale sur la protection des données (Bundesdatenschutzgesetz, BDSG) et la loi allemande sur les télémédias (Telemediengesetz, TMG).
+· for fraud prevention (§§ 14, 15 TMG, Art. 6 (1) b. and f. GDPR),
 
-En ce qui concerne le traitement de données basé sur l'Art. 6 (1) f. GDPR nous souhaitons atteindre les intérêts légitimes de l'assurance de qualité, du marketing et de la prévention de la fraude.
+· to analyze your use of our services and improve our services (§§ 14, 15 TMG, Art. 6 (1) b. and f. GDPR),
 
-#### Approvisionnement de données
-Vous fournissez des données si cela est nécessaire aux fins susmentionnées. Dans le cas où vous vous abstenez de fournir de telles données, vous pourriez être confronté à des désavantages légaux, par exemple, une possibilité limitée ou nulle d'utiliser notre site Web et notre logiciel, ainsi que des services supplémentaires.
-#### Destinataire (s) de données
-Nous, ainsi que nos clients et partenaires de service externes, recevons vos données pour le traitement de celles-ci dans le but de fournir nos services.
+· with your express consent or instruction to carry out our business activities or sent you newsletters (Art. 6 Para. (1) a. GDPR),
 
-#### Transfert de données en dehors de l'UE
-En cours de traitement de données par nous, les données peuvent être transférées vers des pays tiers, à savoir des pays en dehors de l'UE. Cela peut se produire via la mise en œuvre de fournisseurs tiers tels que des services cloud et des partenaires de service externes qui traitent les données en notre nom. Pour plus de détails s'il vous plaît se référer à notre politique de confidentialité.
+or for the purposes of using the Software
 
-#### Vos droits
-Vous avez le droit de retirer votre consentement relatif à l'utilisation des données conformément à cette politique de confidentialité à tout moment avec effet pour l'avenir. En cas de désistement, les données stockées ne seront plus traitées et seront supprimées sans hésitation. Cependant, de telles données peuvent, par exemple, toujours être utilisées si celles-ci sont encore nécessaires pour mettre fin à la relation contractuelle.
+· for providing the Software and to ensure the technical functionality of our services fulfillment of contractual or pre-contractual obligations ((§§ 14, 15 TMG or Art. 6 (1) b. GDPR),
 
-Vous avez le droit d'accéder aux données que nous stockons et nous sommes également autorisés à modifier ou rectifier vos données si ces données sont incorrectes.
+· for analysis purposes and improving the Software based on Art. 6 (1) f. GDP or with the explicit consent of the affected individual person based on Art. 6 (1) a., 9 (2) a. GDPR or as set forth below in IV. 3.,
 
-Vous avez le droit de demander l'effacement de vos données. Toutefois, cela ne s'applique pas en particulier si le traitement est nécessaire pour exercer le droit à la liberté d'expression et d'information, pour remplir une obligation légale, pour des raisons d'intérêt public ou pour faire valoir, exercer ou défendre des droits.
+_or_
 
-Vous avez le droit de recevoir des informations sur les données stockées (dans un format structuré, courant et lisible par machine) à tout moment et de demander la correction ou la suppression des données en cas de stockage de données incorrect.
+· as otherwise explained in this privacy policy or by any communication by us.
 
-Pour faire valoir vos droits, vous pouvez nous contacter via les coordonnées indiquées ci-dessus.
+Applicable legal provisions are in particular those of the regulation (EU) 2016/679 of the European Parliament and Council of 27 April 2016, repealing the directive 95/46/EC, on the protection of individuals with regard to the processing of personal data, on the free movement of such data (“General Data Protection Regulation”, GDPR) as well as in the Federal Data Protection Act (Bundesdatenschutzgesetz, BDSG) and the German Telemedia Act (Telemediengesetz, TMG).
 
-#### Période de stockage des données; Suppression
-Les données sont supprimées si ces données ne sont plus nécessaires pour le traitement. Pour plus de détails, veuillez vous référer à VII. ci-dessous.
-#### Droit de porter plainte
-Vous avez le droit de déposer une plainte auprès d'une autorité de surveillance de votre choix. Les autorités de surveillance en Allemagne sont les autorités responsables (protection des données) telles que définies dans la législation des États (_Bundesländer_). Un aperçu des autorités nationales de protection des données peut être trouvé ici:  http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080
-#### Prise de décision automatisée ("profilage")
-En général, nous ne traitons aucune donnée via le «profilage» ou sous forme de prise de décision automatisée via le site Web. Toutefois, un tel profilage peut être effectué par des fournisseurs tiers via le site Web. Nous vous informerons de ce fait dans la politique de confidentialité (si possible).
+Regarding the data processing based on Art. 6 (1) f. GDPR we wish to achieve the legitimate interests of quality insurance, marketing and fraud prevention. 
+#### Provision of Data
+You provide data if this is necessary for the aforementioned purposes. In the event you refrain from providing such data you may face legal disadvantages, for example, limited or no possibility of using our Website and Software as well as additional services.
+#### Recipient(s) of Data
+We as well as our Customers and external service partners receive your data for processing those the purpose of providing our services.
+#### Transfer of Data outside of the EU
+In course of data processing by us data may be transferred to third countries, i.e. countries outside the EU. This may happen via implementation of third party providers such as cloud services and external service partners which process data on our behalf. For details please refer to our privacy policy.
+#### Your Rights
+You have the right to withdraw your consent relating to the use of data according to this privacy policy at any time with effect for the future. In the event of withdrawal, the stored data shall not be processed any more and shall be deleted without hesitation. However, such data may, for example, still be used if these are still necessary for ceasing the contractual relationship.
 
-Les données fournies par nos clients professionnels dans le logiciel seront affectées par une prise de décision automatisée via le "profilage" de ces données client dans le but d'améliorer le logiciel et notre service. Pour plus de détails sur ce profilage via le logiciel, veuillez vous référer à IV. ci-dessous.
+You are entitled to access the data stored by us and are also entitled to amend or rectify your data if such data are incorrect.
 
-_Dans une forme plus détaillée_:
+You are entitled to request the erasure of your data. However, this shall not apply, in particular, if the processing is necessary to exercise the right to freedom of expression and information, to fulfill a legal obligation, for reasons of public interest or to assert, exercise or defend legal claims.
 
+You are entitled to receive information about the stored data (in a structured, current and machine-readable format) at any time and to request the correction or deletion of the data in case of incorrect data storage.
 
-**I. I. Quelles sont les données personnelles?**
+To enforce your rights, you may reach us through the contact details set forth above.
+#### Period for Storing Data; Deletion
+The data are deleted if such data are no longer necessary for the purpose of processing. For more details please refer to VII. below.
+#### Right to Lodge a Complaint
+You have the right to lodge a complaint with a supervisory authority at your choice. The supervisory authorities in Germany are the responsible (data protection) authorities as set forth in the law of the states (_Bundesländer_). An overview of the European National Data Protection Authorities may be found here: http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080
+#### Automated Decision making („profiling“)
+In general, we do not process any data via “profiling” or in form of automated decision making via the Website. However, such profiling may happen by third party providers through the Website. We will inform you about such fact in the privacy policy (if possible).
 
-**SITE INTERNET:**
+The data provided by our business customers in the Software will be affected by an automated decision making via “profiling” such customer data for the purpose of improving the Software and our service. For details on such profiling through the Software please refer to IV. below.
 
-**II. Comment mes données sont-elles utilisées lors de la visite du site?**
+_In more detailed form:_
 
-**III. Quel type de cookies, d'outils web ou de fournisseurs tiers le site Web utilise-t-il et comment?**
+**I. What are Personal Data?**
 
-**LOGICIEL:**
+**WEBSITE:**
 
-**IV. Comment mes données sont-elles utilisées lors de l'enregistrement pour l'utilisation du logiciel et l'utilisation du logiciel?**
+**II. How are my Data used when visiting the Website?**
 
-**V. Quels fournisseurs tiers traitent les données lors de l'utilisation du logiciel? Mes données sont-elles traitées en dehors de l'UE lors de l'utilisation du logiciel?**
+**III. What kind of Cookies, Web-tools or Third Party Providers does the Website use and how?**
 
-**GÉNÉRAL:**
+**SOFTWARE:**
 
-**VI. Mes données pourraient-elles être transférées ou partagées avec des tiers? Mes données sont-elles traitées en dehors de l'UE lors de l'utilisation du service?**
+**IV. How are my data used when registering for the use of the Software and using the Software?**
 
-**VII. Vos droits: Droit d'accès, de rectification et d'effacement; droit à la restriction du traitement, droit de rétractation, droit à la portabilité des données, droit de déposer plainte**
+**V. What Third Party Providers are processing data when using the Software? Are my data processed outside the EU when using the Software?**
 
-**VIII. Sécurité des données, champ d'application**
+**GENERAL:**
+
+**VI. Could my Data be transferred to or shared with Third Parties? Are my data processed outside the EU when using the Service?**
+
+**VII. Your Rights: Right to access, rectification and erasure; right to restriction of processing, right to withdraw, right to data portability, right to lodge a complaint**
+
+**VIII. Data Security, Scope of application**
 
 **IX. Contact**
 
-**I. Quelles sont les données personnelles?**
+**I. What are Personal Data?**
 
-**1. Données personnelles et consentement **
+**1. Personal Data and Consent**
 
-Les données personnelles sont des informations relatives à une personne physique identifiée ou identifiable; une personne identifiable est celle qui peut être identifiée, directement ou indirectement, notamment par référence à un numéro d'identification ou à un ou plusieurs facteurs spécifiques à son identité physique, physiologique, mentale, économique, culturelle ou sociale. Les données personnelles comprennent, par exemple, nom, adresse e-mail ou numéro de téléphone. Les données personnelles comprennent également des informations sur les passe-temps, les adhésions ou les sites Web consultés par quelqu'un d'autre.
+Personal data are any information relating to an identified or identifiable natural person; an identifiable person is one who can be identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his physical, physiological, mental, economic, cultural or social identity. Personal data includes e.g. name, email address or telephone number. Personal data also includes information about hobbies, memberships or websites viewed by someone else.
 
-Les données personnelles comprennent, par exemple, nom, adresse e-mail ou numéro de téléphone. Les données personnelles comprennent également des informations sur les loisirs, les adhésions ou les sites Web consultés.
+Personal data includes e.g. name, email address or telephone number. Personal data also includes information about hobbies, memberships or websites viewed.
 
-Nous ne collecterons, n'utiliserons et / ou transmettrons des données personnelles que si cela est autorisé par la loi ou si l'utilisateur consent au traitement des données.
+We will only collect, use and/or pass on personal data if this is permitted by law or if the User consents to the data processing.
 
-Consentement de la personne concernée signifie toute indication librement donnée, spécifique, informée et non ambiguë des souhaits de la personne (personne concernée) par laquelle, par une déclaration ou par une action affirmative claire, elle marque son accord sur le traitement des données personnelles relatives à lui ou elle.
+Consent of the data subject means any freely given, specific, informed and unambiguous indication of the person’s (data subject) wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her.
 
-**SITE INTERNET:**
+**WEBSITE:**
 
-** II. Comment mes données sont-elles utilisées lors de la visite du site Web? **
+**II. How are my Data used when visiting the Website?**
 
-**1. Visiter le site Web **
+**1. Visiting the Website**
 
-Nous (ou le fournisseur d'espace web) collectons des données à propos de chaque visite du site Web (fichiers journaux de serveur) ("Données d'accès"). Les données d'accès incluent les éléments suivants:
+We (or the webspace provider) collect data about each visit of Website (so-called server logfiles) (“Access Data”). Access Data includes the following:
 
-_Nom du site web consulté, fichier, date et heure d'accès, quantité de données transférées, notification d'accès réussi, type et version du navigateur, système d'exploitation de l'utilisateur, URL de référence (la page précédemment visitée), adresse IP et fournisseur demandeur
+_Name of the accessed website, file, date and time of access, amount of data transferred, notification of successful access, browser type and version, User’s operating system, referrer URL (the previously visited page), IP address and the requesting provider
 _
-Lors de l'utilisation d'un appareil mobile, Access Data contient également:
-_Pays, langue, nom du périphérique, système d'exploitation et nom de la version, données de localisation GPS flou_
+When using a mobile device Access Data also contains:
+_Country code, language, device name, operating system and version name, blurred GPS location data_
 
-Nous utilisons ces données d'accès uniquement pour l'analyse statistique à des fins d'exploitation, de sécurité et d'optimisation de notre site Web. Cependant, nous nous réservons le droit de vérifier rétrospectivement ces données d'accès en cas de suspicion justifiée d'utilisation illégale sur la base d'indications concrètes. Ces données sont ensuite stockées car c'est le seul moyen de prévenir l'utilisation abusive de notre site Web et de notre logiciel et, si nécessaire, nous permettent d'enquêter sur les crimes commis. Le stockage de ces données est nécessaire afin de nous protéger en tant que responsable du traitement des données. En principe, ces données ne seront pas transmises à des tiers à moins qu'il y ait une obligation légale de les transmettre ou que le transfert de données serve à des fins de poursuites pénales.
+We use these Access Data only for statistical analysis for the purpose of operation, security and optimization of our Website. However, we reserve the right to check these Access Data retrospectively if there is a justified suspicion of illegal use based on concrete indications. These data is then stored because this is the only way to prevent the misuse of our Website and Software and, if necessary, allow us to investigate any crimes committed. The storage of these data is necessary in order to protect us as the person responsible for processing the data. As a matter of principle, these data will not be passed on to third parties unless there is a legal obligation to pass it on or the transfer of data serves criminal prosecution purposes.
 
-Ce traitement de données est basé sur l'Art. 6 (1) f. GDPR ou TMG et nous souhaitons réaliser les intérêts légitimes de stabiliser et améliorer notre site Web, assurance de qualité et prévention de fraude.
+This data processing is based on Art. 6 (1) f. GDPR or TMG and we wish to achieve the legitimate interests of stabilizing and improving our Website, quality insurance and fraud prevention.
 
-** 2. Nous contacter **
+**2. Contacting us**
 
-Lorsque vous nous contactez (par e-mail, par exemple), les données de l'utilisateur sont stockées dans le but de traiter la demande et, le cas échéant, des questions de suivi basées sur votre consentement (base légale Art.6 (1) a GDPR).
+When contacting us (e.g. by email), the User’s details are stored for the purpose of processing the enquiry and, if applicable, follow-up questions based on your consent (legal basis Art. 6 (1) a. GDPR).
 
-** 3. Bulletin**
+**3. Newsletter**
 
-Avec la newsletter, nous informons l'utilisateur sur le site Web, notre logiciel et nous.
+With the newsletter we inform the user about the Website, our Software and us.
 
-Lors de l'inscription à la newsletter, un Utilisateur doit fournir une adresse e-mail. Cette adresse email sera transmise et stockée par nous (ou un fournisseur comme spécifié ci-dessous).
+When registering for the newsletter, a User has to provide an email address. This email address will be transmitted to and stored by us (or a provider as specified below).
 
-Après l'inscription, l'utilisateur recevra un email pour confirmer l'inscription ("double opt-in"). En cliquant sur le lien d'inscription, vous avez donné votre consentement au traitement de vos données personnelles pour recevoir notre newsletter selon l'Art. 6 (1) a. GDPR et nous pouvons traiter ces données en conséquence.
+After registration, the user will receive an email to confirm the registration (“double opt-in”). Via clicking the registration link you have given your consent to the processing of your personal data for receiving our newsletter according to Art. 6 (1) a. GDPR and we may process such data accordingly.
 
-En cas d'inscription à la newsletter, nous (ou notre fournisseur comme spécifié ci-dessous) stockons également l'adresse IP, le nom de l'appareil, le fournisseur de messagerie ainsi que le nom et prénom de l'utilisateur et la date d'enregistrement.
+In case of registration for the newsletter we (or our provider as specified below) also store the IP address, the device name, the mail provider as well as the user’s first and last name and the date of registration.
 
-** Utilisation de Mailchimp; Transfert de données en dehors de l'UE **
+**Use of Mailchimp; Transfer of Data outside the EU**
 
-Le fournisseur de messagerie "** Mailchimp **" de Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA reçoit et traite en notre nom les données nécessaires à la commande, en particulier l'adresse e-mail, Adresse IP, nom de l'appareil. Ces données sont traitées sur des serveurs aux États-Unis. MailChimp est certifié selon le "bouclier de confidentialité". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+The mail provider “**Mailchimp**” by Rocket Science Group LLC, 675 Ponce De Leon Ave NE, Suite 5000, Atlanta, GA 30308, USA receives and processes on our behalf the data necessary for the order, in particular email address, IP address, device name. These data are processed on servers in the USA. MailChimp is certified according to “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Mailchimp est un service avec lequel l'envoi de newsletters peut être organisé et analysé. Avec l'aide de Mailchimp, nous pouvons analyser nos campagnes de newsletter. Lorsque vous ouvrez un e-mail envoyé avec Mailchimp, un fichier contenu dans l'e-mail (ce que l'on appelle la balise Web) se connecte aux serveurs Mailchimp aux États-Unis. Cela vous permet de déterminer si un message de newsletter a été ouvert et quels liens ont été cliqués. De plus, des informations techniques sont enregistrées (par exemple, heure d'enregistrement, adresse IP, type de navigateur et système d'exploitation). Ces informations ne peuvent pas être attribuées au destinataire de la newsletter correspondant. Ils sont utilisés exclusivement pour l'analyse statistique des campagnes de newsletter. Les résultats de ces analyses peuvent être utilisés pour mieux adapter les futures newsletters aux intérêts des destinataires.
+Mailchimp is a service with which the dispatch of newsletters can be organized and analyzed. With the help of Mailchimp we can analyze our newsletter campaigns. When you open an e-mail sent with Mailchimp, a file contained in the e-mail (so-called web beacon) connects to the Mailchimp servers in the USA. This allows you to determine whether a newsletter message has been opened and which links have been clicked on. In addition, technical information is recorded (e.g. time of registration, IP address, browser type and operating system). This information cannot be assigned to the respective newsletter recipient. They are used exclusively for statistical analysis of newsletter campaigns. The results of these analyses can be used to better adapt future newsletters to the interests of the recipients.
 
-Si vous ne voulez pas que Mailchimp analyse vos données, vous devez vous désabonner de la newsletter. A cet effet, nous fournissons un lien respectif dans chaque newsletter.
+If you do not want Mailchimp to analyze your data, you must unsubscribe from the newsletter. For this purpose, we provide a respective link in every newsletter.
 
-Les détails sur Mailchimp et sa politique de confidentialité peuvent être trouvés ici: https://mailchimp.com/legal/privacy/
+Details on Mailchimp and its privacy policy can be found here: https://mailchimp.com/legal/privacy/
 
-Les données stockées dans le cadre de l'abonnement à la newsletter seront conservées par nos soins jusqu'à ce que vous vous désinscriviez de la newsletter et que vous les supprimiez de nos serveurs ainsi que des serveurs de MailChimp après vous être désinscrit de la newsletter. Les données stockées par nous à d'autres fins (par exemple, l'adresse e-mail pour l'utilisation du logiciel) restent inchangées.
+The data are stored for the purpose of newsletter subscription will be stored by us until you unsubscribe from the newsletter and will be deleted from our servers as well as from the servers of MailChimp after you unsubscribe from the newsletter. Data stored by us for other purposes (e.g. email address for the use of the Software) remain unaffected.
 
-** OPT-OUT ** _: L'utilisateur peut retirer son consentement au stockage des données, l'adresse e-mail et leur utilisation respective pour l'envoi de la newsletter à tout moment. Cela peut être fait gratuitement (sauf pour les coûts de transmission) et via un lien dans le bulletin lui-même ou une notification à nous ou, le cas échéant, à Mailchimp.
+_**OPT-OUT**_: The User can withdraw his or her consent to the storage of data, the email address and their respective use for sending the newsletter at any time. This can be done free of charge (except for the transmission costs) and via a link in the newsletter itself or notification to us or, if applicable, to Mailchimp.
 
-** 4. Profilage et prise de décision automatisée lors de la visite du site Web **
+**4. Profiling and automated decision-making when visiting the Website**
 
-Nous n'utilisons pas le profilage ou la prise de décision automatisée lors du traitement des données concernant notre site Web, sauf indication contraire dans les présentes.
+We do not use profiling or automated decision-making when processing data concerning our Website except as set forth herein.
 
-Cependant, nos fournisseurs tiers (tels que décrits au point III ci-dessous) peuvent effectuer ce profilage dans des cas individuels. Nous vous informerons de ce fait si possible.
+However, our third-party providers (such as set forth in III. below) may carry out such profiling in individual cases. We will inform you about such fact if possible.
 
-Les données fournies par nos clients professionnels dans le logiciel seront affectées par une prise de décision automatisée via le «profilage» de ces données client dans le but d'améliorer le logiciel et notre service (article 6 (1) f. GDPR ou TMG). Pour plus de détails sur ce profilage via le logiciel, veuillez vous référer à IV. au dessous de.
+The data provided by our business customers in the Software will be affected by an automated decision making via “profiling” such customer data for the purpose of improving the Software and our service (Art. 6 (1) f. GDPR or TMG). For details on such profiling through the Software please refer to IV. below.
 
-** III. Quel type de cookies, d'outils Web ou de fournisseurs tiers le site Web utilise-t-il et comment?
+**III. What kind of Cookies, Web-tools or Third Party Providers does the Website use and how?**
 
 **1. Cookies**
 
-Afin de vous offrir un service en ligne pratique avec de nombreuses fonctions, notre site Web utilise des fichiers texte («cookies») contenant des informations pour identifier les visiteurs qui reviennent au moment de leur visite sur le site Web. Les cookies sont généralement sauvegardés sur le disque dur de votre ordinateur et ne causent aucun dommage. Les cookies facilitent le transfert de contenus spécifiques, tels que la saisie de données, qui a déjà été fournie, et nous aident à identifier les sections les plus populaires de notre site Web.
+In order to offer you a convenient online service featuring numerous functions, our Website uses text files (“Cookies”) containing information to identify returning visitors for the time of their visit to the Website. Cookies are usually saved on the hard disk of your computer and do not cause any harm. Cookies facilitate the transfer of specific content, such as entering data, which has already been supplied, and help us identify popular sections of our Website.
 
-Vous pouvez désactiver l'utilisation des cookies dans les paramètres de votre navigateur Internet à tout moment. Pour savoir comment modifier les paramètres, consultez la fonction d'aide de votre navigateur Internet. Vous pouvez également désactiver et gérer les cookies via http://www.aboutads.info/choices/ (site Web américain) ou http://www.youronlinechoices.com/uk/your-ad-choices/ (site Web de l'UE) -fournisseur).
+You can deactivate the use of Cookies in the settings of your internet browser at any time. To find out how to change the settings, please consult the help function of your internet browser. You may also deactivate and manage Cookies via http://www.aboutads.info/choices/ (US-website-provider) or http://www.youronlinechoices.com/uk/your-ad-choices/ (EU-website-provider).
 
-** 2. Google Analytics**
+**2. Google Analytics**
 
-Le service proposé ici utilise Google Analytics, un outil d'analyse Web proposé par Google LLC, Mountain View, CA, États-Unis («** Google **»). Ce service d'analyse utilise des "cookies". Pour l'analyse, les fichiers texte seront stockés sur votre appareil. Les informations stockées dans les fichiers correspondants sur l'utilisation de ce site sont généralement transmises et stockées sur le serveur de Google aux Etats-Unis. Comme l'anonymisation IP est active sur ce site Web, votre adresse IP sera raccourcie par Google dans les États membres de l'Union européenne (UE). Cette information sera utilisée pour évaluer votre utilisation des services offerts ici et permettre à l'opérateur de ce site Web d'analyser l'activité de votre site Web et de fournir d'autres services associés au service du site Web. L'adresse IP transmise par votre navigateur dans le cadre de Google Analytics ne sera pas fusionnée avec d'autres données de Google.
+The service offered here uses Google Analytics a web analytics tool offered by Google LLC, Mountain View, CA, USA (“**Google**“). This analysis service uses so-called “cookies”. For analysis, text files will be stored on your device. The information stored in the corresponding files about the use of this website are generally transmitted and stored in Google server in the USA. As the IP anonymization is active on this Website, your IP address will be shortened by Google within the member states of the European Union (EU). This information will be used to evaluate your use of the services offered here and enable the operator of this website to analyze your website activity and provide other services associated with the website service. The IP address transmitted from your browser, as part of Google Analytics will not be merged with other data from Google.
 
-Ajuster les paramètres de votre logiciel de navigation peut empêcher l'utilisation de cookies. Dans ce cas, il se peut que les fonctions du service proposé ici ne puissent pas être utilisées dans leur intégralité. En outre, il est possible d'empêcher l'acquisition et le traitement des données générées par les "cookies" en relation avec l'utilisation de ce site, en téléchargeant et en installant le plugin du navigateur disponible sur le lien suivant: http://tools.google.com / dlpage / gaoptout? hl = de
+Adjusting the settings of your browser software can prevent the use of cookies. In this case, it may be possible that the functions of the service offered here cannot be used in its entirety. Furthermore, it is possible to prevent the acquisition and processing of data generated by the “cookies” in relation to the use of this website, by downloading and installing the browser plugin available at the following link: http://tools.google.com/dlpage/gaoptout?hl=de
 
-Google LLC, États-Unis est certifiée selon l'accord UE-États-Unis "bouclier de confidentialité". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+Google LLC, USA is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-** 3. Pixel Facebook **
+**3. Facebook Pixel**
 
-Notre site Web utilise l'outil d'analyse Facebook Pixel par Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, États-Unis ou Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande ("** Facebook ** ") Afin d'améliorer et d'analyser certaines mesures de publicité. En utilisant ce pixel Facebook, le comportement de l'utilisateur peut être suivi après que l'utilisateur a été redirigé vers le site Web à partir d'autres pages. Ceci afin d'analyser l'efficacité de la publicité à des fins de recherche statistique et marketing et d'optimiser les futures mesures de publicité. Les données collectées sont anonymes pour nous; Cependant, ces données sont collectées et stockées par Facebook et peuvent être utilisées par Facebook à ses propres fins (de marketing). A cet effet, des cookies peuvent être stockés sur votre appareil.
+Our Website uses the analytics tool Facebook Pixel by Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, USA or Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (“**Facebook**”) in order to improve and analyze certain advertising measures. By using this Facebook Pixel the User’s behavior may be tracked after the User was forwarded to the Website from other pages. This to analyze the effectiveness of advertising for statistical and marketing research purposes and optimize future advertising measures. The data collected are anonymous to us; however, such data are collected and stored by Facebook and may be used by Facebook for its own (marketing) purposes. For this purposes cookies may be stored on you device.
 
-Facebook Inc., États-Unis est certifié selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+Facebook Inc., USA is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Veuillez noter que lorsque Facebook est intégré, une prise de décision automatisée («profilage») a lieu. Si vous ne le souhaitez pas, vous pouvez désactiver le lien correspondant sur le site Web. Vous pouvez également configurer votre navigateur pour que l'acceptation des cookies soit généralement exclue; Cependant, nous tenons à souligner que dans ce cas, la fonctionnalité du site peut être restreinte. Vous pouvez également définir différents paramètres pour la publicité ou le profilage possibles dans votre compte Facebook.
+Please note that when Facebook is integrated, an automated decision making (“profiling”) takes place. If you do not want this, you can deactivate the corresponding link on the Website. You can also set your browser so that the acceptance of cookies is generally excluded; however, we would like to point out that in this case the functionality of the Website may be restricted. You can also make various settings for possible advertising or profiling within your Facebook account.
 
-Pour plus d'informations, veuillez consulter https://www.facebook.com/business/help/651294705016616 ou https://www.facebook.com/privacy/explanation.
+For further information please refer to https://www.facebook.com/business/help/651294705016616 or https://www.facebook.com/privacy/explanation.
 
-** 4. Liens externes**
+**4. External Links**
 
-Sur notre site Web, nous pouvons créer des liens vers des vidéos et d'autres contenus externes, par exemple des vidéos YouTube, dans notre section d'aide (voir: https://help.toladata.com/).
+On our Website we may link to videos and other external content, for example youtube videos in our help section (see: https://help.toladata.com/).
 
-Ces liens et ce contenu externe sont régis par les dispositions et les politiques de confidentialité des fournisseurs de services respectifs offrant le contenu de ces liens. Nous ne vérifions pas activement de tels liens et contenus externes sauf si requis par les lois applicables. Si vous découvrez un contenu inapproprié et / ou inapproprié, veuillez nous en informer, par exemple par e-mail à datasecurity@toladata.com et nous supprimerons et modifierons immédiatement ces liens.
+Such links and external content are governed by the provisions and privacy policies of the respective service providers offering the content behind those links. We do not actively check such links and external content unless required by applicable laws. If you discover wrong and/or inappropriate content please inform us, for example via email to datasecurity@toladata.com and we will delete and change such links immediately.
 
-Lorsque vous cliquez sur ces liens, vous pouvez être connecté à ce service externe et vos données peuvent être traitées en dehors de l'UE. Nous vous informerons de ce fait, si possible.
+When you click these links you may be connected to such external service and your data may be processed outside the EU. We will inform you about such fact, if possible.
 
-** 5. Réseaux sociaux et plugins sociaux **
+**5. Social Networks and Social Plugins**
 
-Le Site est connecté aux réseaux sociaux Facebook, Youtube, LinkedIn et Twitter, via "** Social Plugins **".
+The Website is connected to the social networks Facebook, Youtube, LinkedIn and Twitter, via “**Social Plugins**“.
 
-En l'absence d'action de votre part en tant qu'utilisateur, les plug-ins sociaux sont désactivés et par conséquent aucune donnée n'est transférée. Si vous souhaitez partager par exemple un contenu, vous devez d'abord cliquer sur le bouton correspondant. Ce n'est qu'avec le clic du bouton respectif qu'une connexion au réseau social respectif sera établie et que les données seront transférées à celui-ci. Dans le cas où vous êtes déjà connecté votre profil d'utilisateur au sein du réseau social, votre visite du site Web est suivie instantanément. Dans tous les cas, vous pouvez désactiver cette fonction à tout moment.
+Without any action by you as User the Social Plugins are deactivated and therefore no data are transferred. If you wish to share for example a content you have to click the respective button first. Only with the click of the respective button a connection to the respective social network will be set up and data transferred thereto. In the event you are already logged in your User profile within the social network, your visit of the Website is tracked instantly. In any case you can deactivate this function anytime.
 
-Le traitement de données décrit est basé sur l'Art. 6 (1) f. GDPR basé sur les intérêts légitimes du fournisseur respectif du réseau, le Social Plugin se réfère à afficher une publicité personnalisée, informer les autres utilisateurs du réseau social sur leurs activités et pour une conception personnalisée du service.
+The data processing described is based on Art. 6 (1) f. GDPR based on the legitimate interests of the respective provider of the network the Social Plugin is referring to display personalized advertisement, inform other users of the social network about their activities and for a customized design of the service.
 
-Si vous ne souhaitez aucune collecte de données via le site Web par les réseaux sociaux, vous devez vous déconnecter du réseau social chaque fois que vous visitez le site Web. Cependant, à chaque visite du site Web (a) un (des) cookie (s) avec une identification est (sont) défini (s) si les boutons du plugin social sont activés en cliquant sur. Par conséquent, grâce à cette fonction, des données pourraient être collectées et un profil pourrait être créé, qui pourrait être retracé jusqu'à la personne individuelle. Si vous ne le souhaitez pas, vous pouvez soit désactiver le plugin social sur le site Web en cliquant sur le bouton ou vous pouvez modifier les paramètres de votre navigateur en conséquence et exclure l'acceptation de tous les cookies; Nous vous informons que dans cet événement, la fonctionnalité de ce site Web pourrait être restreinte.
+If you do not want any collection of data through the Website by the social networks you need to log out from the social network every time you visit the Website. However, with every visit of the Website (a) Cookie(s) with an identification is/are set if the Social Plugin buttons are/were activated via clicking. Therefore through this function data might be collected and a profile might be created, which could be tracked back to the individual person. If you do not want this you can either deactivate the Social Plugin on the Website via clicking the button or you can change your browser settings accordingly and exclude the acceptance of any Cookies; we hereby inform you that in this event the functionality of this Website could be restricted.
 
 **Facebook**
 
-Le site utilise Facebook social, Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, USA ou Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande ("** Facebook **").
-Veuillez noter que lorsque Facebook est intégré, une prise de décision automatisée («profilage») a lieu. Si vous ne le souhaitez pas, vous pouvez désactiver le lien correspondant sur le site Web. Vous pouvez également configurer votre navigateur pour que l'acceptation des cookies soit généralement exclue; Cependant, nous tenons à souligner que dans ce cas, la fonctionnalité du site peut être restreinte. Vous pouvez également définir différents paramètres pour la publicité ou le profilage possibles dans votre compte Facebook.
+The Website uses the Social Plugin for the social network facebook under facebook.com by Facebook Inc., Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025, USA or Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irland (“**Facebook**“).
 
-Facebook Inc., États-Unis est certifié selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+Please note that when Facebook is integrated, an automated decision making (“profiling”) takes place. If you do not want this, you can deactivate the corresponding link on the Website. You can also set your browser so that the acceptance of cookies is generally excluded; however, we would like to point out that in this case the functionality of the Website may be restricted. You can also make various settings for possible advertising or profiling within your Facebook account.
 
-Les données et la politique de confidentialité de Facebook peuvent être trouvées ici: https://www.facebook.com/privacy/explanation
+Facebook Inc., USA is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
+
+The data and privacy policy of Facebook can be found here: https://www.facebook.com/privacy/explanation
 
 **Youtube**
 
-Le site Web utilise le plugin social pour la plate-forme vidéo www.youtube.com par Google LLC, États-Unis («** Youtube **»).
+The Website uses the Social Plugin for the video platform www.youtube.com by Google LLC, USA (“**Youtube**”).
 
-S'il vous plaît noter que lorsque Youtube ou Google est intégré, une prise de décision automatisée ("profilage") a lieu. Si vous ne le souhaitez pas, vous pouvez désactiver le lien correspondant sur le site Web. Vous pouvez également configurer votre navigateur pour que l'acceptation des cookies soit généralement exclue; Cependant, nous tenons à souligner que dans ce cas, la fonctionnalité du site peut être restreinte. Vous pouvez également définir différents paramètres pour la publicité ou le profilage possibles dans votre compte Google.
+Please note that when Youtube or Google is integrated, an automated decision making (“profiling”) takes place. If you do not want this, you can deactivate the corresponding link on the Website. You can also set your browser so that the acceptance of cookies is generally excluded; however, we would like to point out that in this case the functionality of the Website may be restricted. You can also make various settings for possible advertising or profiling within your Google account.
 
-Google LLC, États-Unis est certifiée selon l'accord UE-États-Unis "bouclier de confidentialité". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+Google LLC, USA is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Les données et la politique de confidentialité de Youtube peuvent être trouvées ici: https://www.google.de/intl/de/policies/privacy/
+The data and privacy policy of Youtube can be found here: https://www.google.de/intl/de/policies/privacy/
 
-** LinkedIn **
+**LinkedIn**
 
-Le site utilise le Social Plugin pour la plate-forme de médias sociaux par LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085, USA ou LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irlande ("** LinkedIn ** ").
+The Website uses the Social Plugin for the social media platform by LinkedIn Corporation, 1000 W. Maude Avenue, Sunnyvale, CA 94085, USA or LinkedIn Ireland Unlimited Company, Wilton Plaza, Wilton Place, Dublin 2, Irland (“**LinkedIn**”).
 
-Veuillez noter que lorsque LinkedIn est intégré, une prise de décision automatisée («profilage») a lieu. Si vous ne le souhaitez pas, vous pouvez désactiver le lien correspondant sur le site Web. Vous pouvez également configurer votre navigateur pour que l'acceptation des cookies soit généralement exclue; Cependant, nous tenons à souligner que dans ce cas, la fonctionnalité du site peut être restreinte. Vous pouvez également effectuer divers paramètres pour la publicité ou le profilage possible dans votre compte LinkedIn.
+Please note that when LinkedIn is integrated, an automated decision making (“profiling”) takes place. If you do not want this, you can deactivate the corresponding link on the Website. You can also set your browser so that the acceptance of cookies is generally excluded; however, we would like to point out that in this case the functionality of the Website may be restricted. You can also make various settings for possible advertising or profiling within your LinkedIn account.
 
-LinkedIn Corporation est certifiée selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+LinkedIn Corporation is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Les données et la politique de confidentialité de LinkedIn peuvent être trouvées ici: https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policy
+The data and privacy policy of LinkedIn can be found here: https://www.linkedin.com/legal/privacy-policy?trk=uno-reg-guest-home-privacy-policy
 
 **Twitter**
 
-Le site utilise le Social Plugin pour le réseau social twitter sur twitter.com par Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, États-Unis ("** Twitter **").
+The Website uses the Social Plugin for the social network twitter in twitter.com by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA (“**Twitter**“).
 
-Veuillez noter que lorsque Twitter est intégré, une prise de décision automatisée («profilage») a lieu. Si vous ne le souhaitez pas, vous pouvez désactiver le lien correspondant sur le site Web. Vous pouvez également configurer votre navigateur pour que l'acceptation des cookies soit généralement exclue; Cependant, nous tenons à souligner que dans ce cas, la fonctionnalité du site peut être restreinte. Vous pouvez également définir différents paramètres pour la publicité ou le profilage possibles sur votre compte Twitter.
+Please note that when Twitter is integrated, an automated decision making (“profiling”) takes place. If you do not want this, you can deactivate the corresponding link on the Website. You can also set your browser so that the acceptance of cookies is generally excluded; however, we would like to point out that in this case the functionality of the Website may be restricted. You can also make various settings for possible advertising or profiling within your Twitter account.
 
-Twitter est certifié selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+Twitter is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Les données et la politique de confidentialité de Twitter peuvent être trouvées ici: https://twitter.com/privacy
+The data and privacy policy of Twitter can be found here: https://twitter.com/privacy
 
-**LOGICIEL:**
+**SOFTWARE:**
 
-** IV. Comment mes données sont-elles utilisées lors de l'enregistrement pour l'utilisation du logiciel et l'utilisation du logiciel? **
+**IV. How are my data used when registering for the use of the Software and using the Software?**
 
-**1. Enregistrement**
+**1. Registration**
 
-Afin d'utiliser pleinement nos services sur www.toladata.io sous la forme du logiciel, vous devrez vous enregistrer et ainsi soumettre les données personnelles suivantes:
+In order to fully use our services on www.toladata.io in form of the Software, you will need to register and thereby submit the following Personal Data:
 
-_l'adresse e-mail, le nom de l'organisation, le prénom et le nom de la personne à contacter, le nom d'utilisateur et le mot de passe_
+_email address, organization name, first name and last name of contact person, username and password_
 
-L'utilisateur peut gérer ces données à tout moment sous «Paramètres» dans le menu.
+The User can manage these data at any time under ‘Settings’ in the menu.
 
-Les données d'enregistrement saisies dans le cadre du processus d'enregistrement et toutes autres données de profil saisies, ne seront utilisées via le site Web et avec notre soutien dans la mesure où ce traitement est nécessaire pour l'exécution d'un contrat avec nous ou pour la mise en œuvre de -les mesures contractuelles, c'est-à-dire l'utilisation du site Web, ainsi que pour l'exécution et le traitement des demandes de renseignements par l'utilisateur.
+The registration data entered as part of the registration process and any further profile data entered, will only be used via the Website and with our support to the extent that this processing is necessary for the fulfillment of a contract with us or for the implementation of pre-contractual measures, i.e. use of the Website, as well as for the execution and processing of inquiries by the User.
 
-Le traitement des données lors de l'utilisation de notre logiciel est généralement basé sur votre consentement explicite lors de votre inscription (sur la base de l'article 6 (1) a., GDPR) ainsi que sur la base légale de l'art. 6 (1) b. GDPR ou TMG, c'est-à-dire que les données seront traitées, lorsque cela est nécessaire pour l'exécution du contrat entre le Client et nous ou pour l'exécution de mesures précontractuelles qui ont lieu à votre demande.
+The processing of data when using our Software is generally based on your explicit consent when signing up (based on Art. 6 (1) a. GDPR) as well as the legal basis of Art. 6 (1) b. GDPR or TMG, i.e. the data will be processed, when this is necessary for the fulfillment of the contract between Customer and us or for the execution of pre-contractual measures that take place on your request.
 
-** 2. Utilisation du logiciel **
+**2. Use of the Software**
 
-Pour l'utilisation ultérieure du logiciel, le client soumet plus de données en fonction du mode d'utilisation de nos services, tels que les détails pour les projets, etc.
+For the further use of the Software the Customer submits more data depending on the way of use of our services, such as details for projects etc.
 
-Nous utilisons les informations et données collectées dans le Logiciel, y compris vos Données personnelles, afin de remplir nos obligations contractuelles au nom du Client sur la base légale de l'Art. 6 (1) b. GDPR ou TMG et comme indiqué dans cette politique de confidentialité. Le client et nous-mêmes concluons un contrat de traitement de données séparé.
+We use the information and data collected in the Software, including your Personal Data, in order to fulfill our contractual obligations on the Customer’s behalf based on the legal basis of Art. 6 (1) b. GDPR or TMG and as further set forth in this privacy policy. The respective Customer and us enter into a respective separate data processing agreement.
 
-** 3. Utilisation et analyse des données client lors de l'utilisation du logiciel **
+**3. Use and Analysis of Customer Data when using the Software**
 
-Toutes les données et bases de données fournies par les Utilisateurs et le Client associé ("** Données client **") peuvent être utilisées par nous en tant que processeur pour le compte de nos Clients en tant que contrôleurs dans le but de fournir le Logiciel.
+Any data and databases provided by Users and the related Customer (“**Customer Data**”) may be used by us as processor on behalf of our Customers as controllers for the purpose of providing the Software.
 
-En général, le Client est responsable des données (personnelles) qu'il a incluses dans le Logiciel, y compris, mais sans s'y limiter, les consentements requis par les personnes concernées. Nous ne traiterons et n'utiliserons ces données que dans les instructions du Client. Par conséquent, chaque Utilisateur concerné peut également contacter le Client concernant l'utilisation de ses données personnelles dans le Logiciel.
+In general, Customer shall be responsible for the (personal) data included by him in the Software, including but not limited to required consents by the affected individuals. We will only process and use such data within the instructions by Customer. Therefore, each affected User may also contact Customer regarding the use of his/her personal data in the Software.
 
-Nous (en tant que transformateur) ou le client (en tant que responsable du traitement) pouvons également utiliser les données du client (qui ne sont pas des catégories particulières de données personnelles) dans les lois applicables, notamment pour remplir nos obligations contractuelles au nom du client. d'art. 6 (1) b. GDPR, à des fins d'analyse et d'améliorer le logiciel avec nos intérêts légitimes respectifs de l'assurance qualité et de l'amélioration de notre produit basé sur l'art. 6 (1) f. PIB ou avec le consentement explicite de la personne touchée sur la base de l'art. 6 (1) a. GDPR.
+We (as processor) or Customer (as controller) respectively may also use Customer Data (that are no special categories of personal data) within applicable laws, in particular, in order to fulfill our contractual obligations on the Customer’s behalf based on the legal basis of Art. 6 (1) b. GDPR, for analysis purposes and improving the Software with our as well as Customer’s respective legitimate interests of quality assurance and improving our product based on Art. 6 (1) f. GDP or with the explicit consent of the affected individual person based on Art. 6 (1) a. GDPR.
 
-Ces Données Client peuvent également inclure des données d'enfants, alors que le traitement des données personnelles d'un enfant est légal lorsque l'enfant a au moins 16 ans et que l'enfant est âgé de moins de 16 ans, ce traitement n'est légal que si et dans la mesure où le consentement est donné ou autorisé par le titulaire de la responsabilité parentale à l'égard de l'enfant.
+Such Customer Data may also include data of children, whereas the processing of the personal data of a child shall be lawful where the child is at least 16 years old and where the child is below the age of 16 years, such processing shall be lawful only if and to the extent that consent is given or authorised by the holder of parental responsibility over the child.
 
-Nous (en tant que responsable du traitement) ou le client (en tant que responsable du traitement) pouvons utiliser des données clients qui sont des catégories particulières de données personnelles dans le cadre des lois applicables, notamment si la personne concernée a explicitement autorisé le traitement de ces données personnelles. fins fondées sur l'art. 9 (2) a. GDPR; le traitement est effectué dans le cadre de ses activités légitimes avec les garanties appropriées par une fondation, une association ou tout autre organisme sans but lucratif ayant un but politique, philosophique, religieux ou syndical et à condition que le traitement concerne uniquement les membres ou aux anciens membres du corps ou aux personnes qui ont un contact régulier avec lui dans le cadre de ses objectifs et que les données personnelles ne sont pas divulguées en dehors de cet organe sans le consentement des personnes concernées sur la base de l'art. 9 (2) d. GDPR; le traitement concerne des données à caractère personnel qui sont manifestement rendues publiques par la personne concernée sur la base de l'art. 9 (2) e. GDPR; et / ou (le cas échéant) le traitement est nécessaire pour des raisons d'intérêt public dans le domaine de la santé publique, telles que la protection contre les menaces transfrontières graves pour la santé ou le respect des normes élevées de qualité et de sécurité des soins médicaux et médicaux. dispositifs basés sur l'article 22 (1) c. BDSG. "Catégories particulières de données à caractère personnel": toute donnée révélant l'origine raciale ou ethnique, les opinions politiques, les convictions religieuses ou philosophiques, l'affiliation syndicale, le traitement de données génétiques, les données biométriques visant à identifier de façon unique une personne physique, la santé ou les données concernant la vie sexuelle ou l'orientation sexuelle d'une personne physique sont interdites.
+We (as processor) or Customer (as controller) respectively may use Customer Data that are special categories of personal data within applicable laws, in particular, if the data subject has given explicit consent to the processing of those personal data for one or more specified purposes based on Art. 9 (2) a. GDPR; processing is carried out in the course of its legitimate activities with appropriate safeguards by a foundation, association or any other not-for-profit body with a political, philosophical, religious or trade union aim and on condition that the processing relates solely to the members or to former members of the body or to persons who have regular contact with it in connection with its purposes and that the personal data are not disclosed outside that body without the consent of the data subjects based on Art. 9 (2) d. GDPR; processing relates to personal data which are manifestly made public by the data subject based on Art. 9 (2) e. GDPR; and/or (as applicable) processing is necessary for reasons of public interest in the area of public health, such as protecting against serious cross-border threats to health or ensuring high standards of quality and safety of health care and of medicinal products or medical devices based on Section 22 (1) c. BDSG. “Special categories of personal data” means any data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person’s sex life or sexual orientation shall be prohibited.
 
-Le client et nous-mêmes concluons un contrat de traitement de données séparé.
+The respective Customer and us enter into a respective separate data processing agreement.
 
-** 4. Profilage et prise de décision automatisée lors de l'utilisation du logiciel **
+**4. Profiling and automated decision-making when using the Software**
 
-Les données fournies par nos clients professionnels dans le logiciel seront affectées par une prise de décision automatisée via le "profilage" de ces données client dans le but d'améliorer le logiciel et notre service (article 6 (1) f. GDPR ou TMG) ​​et / ou sur la base du consentement explicite de la personne concernée pour cette analyse (article 6, paragraphe 1, point a), du RPDB).
+The data provided by our business customers in the Software will be affected by an automated decision making via “profiling” such customer data for the purpose of improving the Software and our service (Art. 6 (1) f. GDPR or TMG) and/or based on the explicit consent for such analysis by the affected person (Art. 6 (1) a. GDPR).
 
-Le profilage désigne toute forme de traitement automatisé de données personnelles consistant à utiliser des données personnelles pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des aspects concernant les performances de cette personne au travail, sa situation économique, sa santé, ses préférences personnelles , intérêts, fiabilité, comportement, localisation ou mouvements.
+Profiling means any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person, in particular to analyse or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behaviour, location or movements.
 
-La personne concernée a le droit de ne pas être soumise à une décision fondée uniquement sur un traitement automatisé, y compris le profilage, qui a un effet juridique sur elle ou qui l'affecte substantiellement de la même manière. Ceci ne s'applique pas lorsque la décision (i) est nécessaire pour la conclusion ou l'exécution d'un contrat entre la personne concernée et la personne responsable, (ii) est recevable en vertu des lois de l'Union européenne ou de l'État membre responsable est soumis et lorsque ces lois contiennent des mesures appropriées pour sauvegarder les droits, libertés et intérêts légitimes de la personne concernée, ou (iii) est pris avec le consentement explicite de la personne concernée. Dans ces cas exceptionnels, la personne responsable doit prendre des mesures appropriées pour sauvegarder les droits et libertés et les intérêts légitimes de la personne concernée, y compris au moins le droit d'obtenir une action de la personne responsable, d'exposer sa propre position et de contester décision.
+The data subject shall have the right not to be subject to a decision based solely on automated processing, including profiling, which has legal effect on him/her or substantially impairs him/her in a similar manner. This shall not apply where the decision (i) is necessary for the conclusion or performance of a contract between the data subject and the person responsible, (ii) is admissible under the laws of the European Union or of the member state to which the person responsible is subject and where such laws contain appropriate measures to safeguard the rights, freedoms and legitimate interests of the data subject, or (iii) is taken with the explicit consent of the data subject. In these exceptional cases, the person responsible shall take appropriate measures to safeguard the rights and freedoms and the legitimate interests of the data subject, including at least the right to obtain an action by the person responsible, to state his own position and to challenge the decision.
 
-** V. Quels fournisseurs tiers traitent les données lors de l'utilisation du logiciel? Mes données sont-elles traitées en dehors de l'UE lors de l'utilisation du logiciel? **
+**V. What Third Party Providers are processing data when using the Software? Are my data processed outside the EU when using the Software?**
 
-L'utilisation de notre logiciel peut également inclure des services et des produits fournis par des fournisseurs tiers, tandis que les données peuvent également être traitées en dehors de l'UE.
+The use of our Software may also include services and products by third party providers, whereas data may also be processed outside the EU.
 
-Nous traitons les données personnelles des Utilisateurs ou d'autres personnes fournies par un Client (en tant qu'entreprise qui utilise le Logiciel) pour le compte du Client, à savoir le Client reste le contrôleur de ces données et nous agissons en tant que processeur de données.
+We process personal data of Users or other individuals provided by a Customer (as business that uses the Software) on behalf of Customer, i.e. Customer remains the controller of such data and we act as data processor subject to a separate data processing agreement.
 
-Une liste de ces fournisseurs de traitement de données et de fournisseurs tiers est présentée ici, tandis que chaque fournisseur tiers qui traite des données en dehors de l'UE a donné une garantie correspondante de se conformer aux normes européennes de protection des données énoncées dans la liste respective.
+A list of such data processing and third party providers is set forth here, whereas each such third party provider who processes data outside the EU has given a respective guarantee to comply with EU data protection standards as set forth in the respective list.
 
-**GÉNÉRAL:**
+**GENERAL:**
 
-** VI. Mes données pourraient-elles être transférées ou partagées avec des tiers? Mes données sont-elles traitées en dehors de l'UE lors de l'utilisation du service? **
+**VI. Could my Data be transferred to or shared with Third Parties? Are my data processed outside the EU when using the Service?**
 
-Nous transférerons vos données personnelles à un tiers uniquement dans le cadre des dispositions légales, c'est-à-dire si nous sommes obligés de transférer les données en raison d'une décision gouvernementale ou judiciaire, ou si des dispositions légales en vigueur autorisent le transfert. Si nous, les fournisseurs tiers qui traitent des données en dehors de l'UE, ces fournisseurs tiers garantissent le respect des normes de protection des données de l'UE telles que définies dans cette politique de confidentialité.
+We will transfer your Personal Data to a third party only within the scope of legal provisions, i.e. if we are obliged to transfer the data due to a government or court order, or if applicable legal provisions authorize the transfer. If we us third party providers who process data outside the EU such third party providers guarantee to comply with EU data protection standards as set forth in this privacy policy.
 
-Pour plus de détails sur le traitement des données par des fournisseurs tiers dans / en dehors de l'UE lors de l'utilisation du Site, veuillez également vous référer à III. au dessus.
+For details of data processing by third party providers in/outside the EU when using the Website please also refer to III. above.
 
-Pour plus de détails sur le traitement des données par des fournisseurs tiers dans / en dehors de l'UE lors de l'utilisation du logiciel, veuillez également vous reporter à IV. au dessus. Nous traitons les données personnelles des Utilisateurs ou d'autres personnes fournies par un Client (en tant qu'entreprise qui utilise le Logiciel) pour le compte du Client, à savoir le Client reste le contrôleur de ces données et nous agissons en tant que processeur de données.
+For details of data processing by third party providers in/outside the EU when using the Software please also refer to IV. above. We process personal data of Users or other individuals provided by a Customer (as business that uses the Software) on behalf of Customer, i.e. Customer remains the controller of such data and we act as data processor subject to a separate data processing agreement.
 
-** VII. Vos droits: Droit d'accès, de rectification et d'effacement; droit à la restriction du traitement, droit de rétractation, droit à la portabilité des données, droit de déposer une plainte **
+**VII. Your Rights: Right to access, rectification and erasure; right to restriction of processing, right to withdraw, right to data portability, right to lodge a complain**
 
-**1. Droit d'accès **
+**1. Right to Access**
 
-Chaque utilisateur a le droit d'être informé à tout moment et gratuitement sur les données personnelles stockées à son sujet. Pour plus d'informations, l'utilisateur peut contacter par ex. datasecurity@toladata.com.
+Every user has the right to be informed at any time and free of charge about the personal data stored about him/her. For further information, the user can contact e.g. datasecurity@toladata.com.
 
-Ce droit d'accès comprend la confirmation du traitement ou non des données personnelles sur la personne concernée et, le cas échéant, des informations détaillées sur ce traitement.
+This right of access includes confirmation as to whether or not personal data is processed on the data subject and, if so, the detailed information about such processing.
 
-Le droit à l'information n'existe pas si les données ne sont stockées que parce qu'elles ne peuvent pas être supprimées en raison de dispositions légales ou statutaires de stockage, ou servent uniquement à la protection des données ou au contrôle de la protection des données et la fourniture d'informations nécessiterait un effort disproportionné. le traitement à d'autres fins est exclu par des mesures techniques et organisationnelles appropriées.
+The right to information does not exist if the data are only stored because they may not be deleted due to legal or statutory storage regulations, or only serve the purpose of data protection or data protection control and the provision of information would require a disproportionate effort and processing for other purposes is excluded by appropriate technical and organisational measures.
 
-** 2. Droit de retirer son consentement **
+**2. Right to withdraw consent**
 
-Chaque utilisateur a le droit de retirer son consentement concernant l'utilisation, le traitement ou la transmission de ses données à tout moment par écrit ou par courriel à nous. Pour ce faire, l'utilisateur peut contacter datasecurity@toladata.com.
+Every user has the right to withdraw his or her consent regarding the use, processing or transmission of his/her data at any time in writing or by email to us. For this purpose the user can contact datasecurity@toladata.com.
 
-En cas de retrait du consentement, nous ne traiterons plus et supprimerons immédiatement les données stockées de l'utilisateur. Cela ne s'applique pas si nous pouvons prouver des motifs impérieux de traitement qui méritent d'être protégés et qui l'emportent sur les intérêts, les droits et les libertés de l'utilisateur ou si le traitement sert à faire valoir, exercer ou défendre des droits. Par exemple, nous continuerons à utiliser les données si cela est encore nécessaire pour la mise en œuvre de la relation contractuelle.
+In the event of withdrawing the consent, we will no longer process and immediately delete the stored data of the user. This does not apply if we can prove compelling grounds for processing that are worthy of protection and which outweigh the interests, rights and freedoms of the respective user or in case the processing serves to assert, exercise or defend legal claims. For example, we will continue to use data if it is still necessary for the implementation of the contractual relationship.
 
-** 3. Correction et achèvement des données **
+**3. Correction and completion of data**
 
-L'utilisateur ou la personne concernée a le droit d'exiger que nous corrigeons immédiatement toute donnée personnelle incorrecte le concernant. Compte tenu des finalités du traitement, la personne concernée a le droit de demander la saisie de données personnelles incomplètes, y compris au moyen d'une déclaration complémentaire. Pour ce faire, vous pouvez contacter datasecurity@toladata.com à tout moment.
+The user or data subject has the right to demand that we immediately correct any incorrect personal data concerning him/her. Taking into account the purposes of processing, the data subject has the right to request the completion of incomplete personal data, including by means of a supplementary declaration. For this purpose, you can contact datasecurity@toladata.com at any time.
 
-** 4. Effacement ("droit d'être oublié") **
+**4. Erasure (“right to be forgotten”)**
 
-L'utilisateur a le droit de nous faire supprimer toutes les données personnelles le concernant que nous stockons. Pour ce faire, l'utilisateur peut contacter datasecurity@toladata.com.
+The user has the right to have us delete any personal data concerning him/her that we store. For this purpose the user can contact datasecurity@toladata.com.
 
-La suppression immédiate doit être effectuée dans les cas suivants:
+Immediate deletion shall be effected in the following cases:
 
-_Les données personnelles ne sont plus nécessaires aux fins pour lesquelles elles ont été collectées ou traitées;
+_Personal data are no longer necessary for the purposes for which they were collected or otherwise processed;_
 
-_La personne concernée révoque son consentement sur lequel le traitement était basé et il n'existe aucune autre base juridique pour le traitement;
+_The data subject revokes his or her consent on which the processing was based and there is no other legal basis for processing;_
 
-_La personne concernée s'oppose à l'opération de traitement et il n'y a pas de raison légitime impérieuse justifiant le traitement;
+_The data subject objects to the processing operation and there are no overriding legitimate reasons for the processing operation;_
 
-_Les données personnelles ont été traitées illégalement; _
+_The personal data was processed illegally;_
 
-_La suppression des données à caractère personnel est nécessaire pour remplir une obligation légale en vertu du droit de l'Union européenne ou de la législation des États membres à laquelle le responsable du traitement est soumis;
+_Deletion of personal data is necessary to fulfil a legal obligation under the law of the European Union or the law of the Member States to which the data controller is subject;_
 
-_Les données personnelles concernant les services de la société de l'information ont été collectées directement auprès d'un enfant de moins de seize ans, ou plutôt sans le consentement de la responsabilité parentale.
+_The personal data have been collected in relation to information society services directly from a child under the age of sixteen, or rather without consent of the parental responsibility._
 
-En cas de fin de la relation utilisateur, les données de l'utilisateur seront régulièrement supprimées de la base de données interne. Les données sont exclues de la suppression si, par exemple, le traitement des données est nécessaire pour faire valoir, exercer ou défendre des revendications juridiques; par exemple, l'exécution du contrat avec nous ou s'il existe des périodes de conservation légales qui empêchent la suppression.
+In the event of termination of the user relationship, the user’s data will be regularly deleted from the internal database. Data shall be excluded from deletion if, for example, processing of data is necessary for asserting, exercising or defending legal claims; e.g., performance of the contract with us or if there are legal retention periods that prevent deletion.
 
-Dans le cas d'un traitement de données non automatisé, la suppression n'est également pas nécessaire si cela n'est pas possible en raison du type spécial de stockage ou ne serait possible qu'à un coût disproportionné et l'intérêt de l'employé dans la suppression est à considérer aussi minime. La suppression est alors remplacée par la restriction du traitement.
+In the case of non-automated data processing, deletion is also not necessary if this would not be possible due to the special type of storage or would only be possible at disproportionately high expense and the interest of the Employee in the deletion is to be regarded as minimal. The deletion is then replaced by the restriction of processing.
 
-En outre, nous procédons à une restriction du traitement et non à la suppression des données, pour autant que nous ayons la raison de supposer qu'une suppression porterait atteinte à vos intérêts dignes de protection ou à ceux de la personne concernée. Ce faisant, nous vous informerons ou informerons la personne concernée de la restriction de traitement, à condition que cette information ne soit pas impossible ou nécessiterait un effort disproportionné.
+Furthermore, we carry out a restriction of the processing and no deletion of the data, as long as and insofar as we have the reason to assume that a deletion would impair your interests worthy of protection or those of the person affected. In so doing, we will inform you or the affected person of the restriction on processing, provided that such information does not prove to be impossible or would require a disproportionate effort.
 
-** 5. Restriction de traitement **
+**5. Restriction of processing**
 
-Vous avez également le droit d'exiger que le traitement soit restreint. Pour ce faire, vous pouvez contacter datasecurity@toladata.com
+You also have the right to demand that the processing be restricted. For this purpose you can contact datasecurity@toladata.com
 
-(Ii) le traitement est illégal et la personne concernée refuse de permettre la suppression des données personnelles et exige au contraire une restriction sur l'utilisation des données personnelles ; (iii) le responsable du traitement n'a plus besoin des données personnelles aux fins de traitement, mais la personne concernée en a besoin pour affirmer, exercer ou défendre des revendications légales; ou iv) la personne concernée a introduit une objection au traitement jusqu'à ce qu'il ait été établi que les motifs légitimes du responsable du traitement l'emportent sur ceux de la personne concernée.
+You can only successfully enforce the right to restrict processing if one of the following prerequisites is met: (ii) processing is unlawful and the data subject refuses to allow the deletion of the personal data and instead requires a restriction on the use of the personal data; (iii) the data controller no longer needs the personal data for the purpose of processing, but the data subject needs it for the purpose of asserting, exercising or defending legal claims; or (iv) the data subject has lodged an objection to the processing until it has been established whether the legitimate grounds of the data controller outweigh those of the data subject.
 
-Dans le cas où vous avez obtenu une restriction sur le traitement, nous vous informerons en conséquence avant que la restriction ne soit levée.
+In the event that you have obtained a restriction on processing, we will inform you accordingly before the restriction is lifted.
 
-Dans certains cas, le traitement peut également être restreint au lieu des données supprimées. Voir aussi en particulier le point précédent "Suppression (" droit d'être oublié ")".
+In certain cases, the processing may also be restricted instead of the data being deleted. See also in particular the previous point “Deletion (“right to be forgotten”)”.
 
-** 6. Droit de transférer des données **
+**6. Right to transfer data**
 
-Vous avez le droit de recevoir toutes les données personnelles que vous nous avez fournies dans un format structuré, actuel et lisible par machine. Pour ce faire, vous pouvez contacter datasecurity@toladata.com.
+You have the right to receive any personal data you have provided to us in a structured, current and machine-readable format. For this purpose you can contact datasecurity@toladata.com.
 
-Vous avez également le droit de transférer ces données à un autre responsable sans entrave par le responsable du traitement auquel les données personnelles ont été fournies, à condition que le traitement soit basé sur un consentement ou sur un contrat auquel la personne concernée est partie et que le traitement est effectué au moyen de procédures automatisées.
+You also have the right to transfer this data to another controller without hindrance by the controller to whom the personal data have been provided, provided that the processing is based on a consent or on a contract to which the data subject is a party and that the processing is carried out by means of automated procedures.
 
-Lorsque vous exercez votre droit à la transférabilité des données, vous avez le droit d'obtenir les données personnelles à transmettre directement par une personne en charge à une autre personne responsable, dans la mesure où cela est techniquement possible.
+When exercising your right to data transferability, you have the right to obtain the personal data to be transmitted directly by one person in charge to another person in charge, as far as this is technically feasible.
 
-Ce droit ne s'applique pas lorsque les droits et libertés d'autrui sont lésés ou lorsque le traitement est nécessaire à l'accomplissement d'une mission d'intérêt général ou à l'exercice de l'autorité publique déléguée à la personne responsable.
+This right shall not apply where the rights and freedoms of other persons are adversely affected or where processing is necessary for the performance of a task in the public interest or in the exercise of official authority delegated to the person responsible.
 
-**7. Droit de déposer une plainte **
+**7. Right to lodge a complaint**
 
-Chaque utilisateur a le droit de déposer une plainte auprès d'une autorité de surveillance de son choix. Les autorités de surveillance en Allemagne sont les autorités compétentes (en matière de protection des données) conformément aux lois respectives des Länder (Bundesländer).
+Each user has a right to lodge a complaint vis-á-vis a supervisory authority of his/her choice. The supervisory authorities in Germany are the competent (data protection) authorities in accordance with the respective laws of the federal states (_Bundesländer_).
 
-Un aperçu des autorités nationales de protection des données peut être trouvé ici: http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080
+An overview of the European National Data Protection Authorities may be found here: http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612080
 
-** 8. Durée du stockage des données personnelles périodes de suppression **
+**8. Duration of the storage of personal data; deletion periods**
 
-En règle générale, nous ne stockons vos données personnelles que le temps nécessaire à l'exécution du contrat ou à l'objectif correspondant et limitons la période de stockage à un minimum absolument nécessaire.
+As a rule, we only store your personal data for as long as it is necessary for the execution of the contract or the respective purpose and limit the storage period to an absolutely necessary minimum.
 
-Dans le cas de relations contractuelles à long terme, telles que l'utilisation de notre offre, ces périodes de stockage peuvent varier, mais sont généralement limitées à la durée de la relation contractuelle ou, en ce qui concerne les données d'inventaire, aux périodes de conservation légales maximales. (par exemple, conformément au code de commerce allemand (_Handelsgesetzbuch, HGB_) et au code fiscal (_Abgabenordnung, AO_)).
+In the case of long-term contractual relationships, such as the use of our Offer, these storage periods may vary, but are generally limited to the duration of the contractual relationship or, with regard to the inventory data, to the maximum legal retention periods (e.g. in accordance with the German Commercial Code (_Handelsgesetzbuch, HGB_) and the Tax Code (_Abgabenordnung, AO_)).
 
-Les critères pour la période de stockage incluent si les données sont toujours à jour, si la relation contractuelle avec nous existe toujours, si une enquête a déjà été traitée, si un processus a été complété ou non, et si des périodes de conservation légales pour le Les données personnelles concernées sont pertinentes ou non.
+Criteria for the storage period include whether the data are still up-to-date, whether the contractual relationship with us still exists, whether an inquiry has already been processed, whether a process has been completed or not, and whether legal retention periods for the personal data concerned are relevant or not.
 
-** VIII. Sécurité des données, champ d'application **
+**VIII. Data Security, Scope of application**
 
-Afin d'assurer la meilleure protection possible des données de l'utilisateur, le site Web et le logiciel sont offerts via une connexion SSL sécurisée entre le serveur de l'utilisateur et le navigateur, c'est-à-dire que les données sont transmises sous forme cryptée.
+In order to ensure the best possible protection of the user’s data, the Website and Software are offered via a secure SSL connection between the user’s server and the browser, i.e. the data is transmitted in encrypted form.
 
-Les données que nous traitons dans le cadre de notre offre seront stockées sur des serveurs au sein de l'Union européenne (UE), sauf disposition contraire dans cette politique de confidentialité. Nous utilisons le fournisseur de serveurs Hetzner Online GmbH et Amazon Web Services, Inc. qui traitent chacun les données en notre nom. Lorsque vous utilisez Amazon Web Services, Inc., vos données peuvent être traitées en dehors de l'UE. Amazon Web Services, Inc. est certifié conformément à l'accord UE-États-Unis "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis.
+The data we process in connection with our Offer will be stored on servers within the European Union (EU), if not provided otherwise in this privacy policy. We use the server provider Hetzner Online GmbH and Amazon Web Services, Inc. who each process the data on our behalf. When using Amazon Web Services, Inc. your data may be processed outside the EU. Amazon Web Services, Inc. is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA.
 
-Veuillez noter que la protection des données et la sécurité des données pour la transmission de données dans des réseaux ouverts tels qu'Internet ne peuvent pas être entièrement garanties selon l'état actuel de la technique. D'un point de vue technique, l'utilisateur est conscient que le fournisseur est en mesure d'afficher les pages Web stockées sur le serveur Web et, dans certaines circonstances, d'autres données de l'utilisateur stockées à tout moment. L'utilisateur est seul responsable de la sécurité et de la sécurisation de toutes les données transférées par lui / elle vers Internet et stockées sur des serveurs Web. Nous ne pouvons accepter aucune responsabilité pour la divulgation de données en raison d'erreurs ou d'un accès non autorisé par des tiers.
+Please be advised, that data protection and data security for data transmission in open networks such as the internet cannot be fully guaranteed according to the current state of the art. From a technical point of view, the user is aware that the provider is able to view the web pages stored on the web server and, under certain circumstances, other data of the user stored there at any time. The user is solely responsible for the security and securing of any data transferred by him/her to the internet and stored on web servers. We cannot accept any liability for the disclosure of data due to errors or unauthorized access by third parties.
 
-Nous sommes autorisés à modifier cette politique de confidentialité conformément à la réglementation applicable.
+We are entitled to amend this privacy policy in accordance with the applicable regulations.
 
-** IX. Contact**
+**IX. Contact**
 
-Pour l'exercice de vos droits et des questions supplémentaires sur la question des données personnelles, vous pouvez nous contacter à tout moment: https://www.toladata.com/impressum/
+For acting out your rights and additional questions about the issue of personal data you can contact us at any time: https://www.toladata.com/impressum/
 
-Nous avons nommé un responsable de la protection des données qui peut être contacté via datasecurity@toladata.com
+We have appointed a data protection officer who may be reached via datasecurity@toladata.com
 
-#### Liste des fournisseurs tiers que nous utilisons et qui traitent des données personnelles lors de l'utilisation du logiciel (c'est-à-dire à l'exclusion des outils Web du site Web, comme indiqué ci-dessus):
+#### List of Third Party Providers used by us that process personal data when using the Software (i.e. excluding web-tools on the Website as set forth above):
 
-| Fournisseur tiers | Traitement de données | Traitement des données en dehors de l'UE / Respect de la norme européenne de protection des données | Informations supplémentaires |
+| Third Party Provider | Data Processing Purpose | Data Processing outside the EU / Compliance with EU Data Protection Standard | Further Information |
 | :--- | :---: | :---: | :---: |
-| **Stripe** | Pour tout processus concernant les paiements, nous utilisons les services de Stripe, Inc., 185 Berry Street, Suite 550, San Francisco, CA 94107, États-Unis. En ce qui concerne les processus de paiement, nous ne recevons, collectons et / ou stockons aucune donnée de paiement. Stripe utilisera ces données dans le but de gérer les paiements relatifs à nos services. | Stripe, Inc. est certifié selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis. | Pour plus d'informations, veuillez vous reporter à https://stripe.com/de/privacy.
-| **Chargebee** |Nous utilisons le logiciel de facturation et de paiements récurrents d'abonnement par ChargeBee Inc., 340 S. Lemon Avenue, Suite 1537, Walnut, Californie 91789, États-Unis. Chargebee recueille, stocke et utilise des données dans le but de gérer les paiements et les facturations pour nous.| Chargebee Inc. est certifiée selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis. | Pour plus d'informations, veuillez consulter https://www.chargebee.com/privacy.html. |
-| **Freshdesk** | Notre logiciel utilise l'outil en ligne de billetterie et d'assistance "Freshdesk" de Freshworks Inc., 1250 Bayhill Drive, bureau 315, San Bruno, CA 94066, USA (ou le bureau allemand à Alte Jakobstraße 85/86, Hof 3, Haus 6, Berlin 10179, Allemagne). Nous utilisons «Freshdesk» pour organiser le service d'assistance et les services d'assistance fournis dans le cadre du Logiciel. | Freshworks, Inc. est certifié selon l'accord UE-US "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis. | Pour plus d'informations s'il vous plaît se référer par exemple à www.freshdesk.com, wwww.freshdesk.de, https://www.freshworks.com/privacy/?utm_source=freshdesk&utm_medium=referral ou bien https://www.freshworks.com/privacy/gdpr/?_ga=2.175376737.292306692.1513174399-228235686.1513174399 |
-| **Amazon Web Services (AWS)** | Nous utilisons le service par Amazon Web Services par Amazon Web Services, Inc., 410, avenue Terry Nord Seattle WA 98109, États-Unis, dans le but d'héberger vos données fournies dans le logiciel. | Amazon Web Services, Inc. est certifié conformément à l'accord UE-États-Unis "Privacy Shield". Le «bouclier de confidentialité» est un accord entre l'Union européenne (UE) et les États-Unis pour assurer le respect des normes européennes de protection des données aux États-Unis. | Pour plus d'informations, veuillez vous reporter à https://aws.amazon.com/compliance/eu-data-protection/ et https://aws.amazon.com/compliance/germany-data-protection/ |
+| **Stripe** | For any processes regarding payments we use the services of Stripe, Inc., 185 Berry Street, Suite 550, San Francisco, CA 94107, USA. Regarding any processes of payments we do not receive, collect and/or store any payment data. Stripe will use such data for the purpose of managing the payments relating to our services. | Stripe, Inc. is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://stripe.com/de/privacy.
+| **Chargebee** | We use the subscription billing and recurring payments software by ChargeBee Inc., 340 S. Lemon Avenue, Suite 1537, Walnut, California 91789, USA. Chargebee collects, stores and uses data for the purpose of managing payments and billings for us. | Chargebee Inc. is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://www.chargebee.com/privacy.html. |
+| **Freshdesk** | Our Software uses the ticketing and helpdesk online-tool “Freshdesk” by Freshworks Inc., 1250 Bayhill Drive, Suite 315, San Bruno, CA 94066, USA (or the German office at Alte Jakobstraße 85/86, Hof 3, Haus 6, Berlin 10179, Germany). We use “Freshdesk” for the purpose of organizing the helpdesk and support services provided in connection with the Software. | Freshworks, Inc. is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer for example to www.freshdesk.com, wwww.freshdesk.de, https://www.freshworks.com/privacy/?utm_source=freshdesk&utm_medium=referral or https://www.freshworks.com/privacy/gdpr/?_ga=2.175376737.292306692.1513174399-228235686.1513174399 |
+| **Amazon Web Services (AWS)** | We use the service by Amazon Web Services by Amazon Web Services, Inc., 410 Terry Avenue North Seattle WA 98109, USA for the purpose of hosting your data provided in the Software. | Amazon Web Services, Inc. is certified according to the EU-US agreement “privacy shield”. The “privacy shield” is an agreement between the European Union (EU) and the USA to ensure compliance with European data protection standards in the USA. | For further information please refer to https://aws.amazon.com/compliance/eu-data-protection/ and https://aws.amazon.com/compliance/germany-data-protection/ |
 
 
 
