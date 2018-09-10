@@ -5,8 +5,7 @@
 
 ---
 
-##### This course was last updated in April 2018 and is in line with the TolaData 2.7 release. Most of it remains relevant, but we also recommend that you [read our articles](https://help.toladata.com/en/read-articles/read-articles.html) to get the most up-to-date details on our platform. 
-##### Next update: September 2018
+##### This course was last updated in June 2018. Most of it remains relevant, but we also recommend that you [read our articles](https://help.toladata.com/en/read-articles/read-articles.html) to get the most up-to-date details on our platform. 
 
 This course will give you a comprehensive overview of all functions and functionalities of TolaData in 7 easy lessons.
 
