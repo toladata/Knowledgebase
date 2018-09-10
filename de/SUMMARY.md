@@ -38,7 +38,7 @@
 * [7. Dashboards und Berichte](toladata-kurs/7-unterrichtseinheit-dashoboards-und-berichte.md)
   * [Berichte einsehen](toladata-kurs/7-unterrichtseinheit-dashboards-und-berichte/berichte.einsehen.md)
   * [Dashboards erstellen](toladata-kurs/7-unterrichtseinheit-dashboards-und-berichte/dashboards-erstellen.md)
-* [Das Team Trainieren](bienvenue/train-your-team.md)
+* [Das Team Trainieren](herzlich-willkommen/das-team-trainieren.md)
   * [Bewährte Methoden / Best Practices](bewahrte-methoden-best-practices.md)
   * [Vier einfache Schritte](vier-einfache-schritte.md)
 
