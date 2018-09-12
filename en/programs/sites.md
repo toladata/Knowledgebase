@@ -20,9 +20,9 @@ A site defines where you are working, the geographical location(s) of a program.
 
 TolaData helps you to capture the following information on site locations:
 
-* Program Location Name, Description, and Contact Information
+* Program Location Name, Description, and Contact Information;
 
-* Location, Latitude and Longitude
+* Location Latitude and Longitude.
 
 To add sites:
 
