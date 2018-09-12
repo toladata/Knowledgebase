@@ -8,7 +8,7 @@ Objectives are specific circumstances to be achieved within a stated time frame 
 
 #### Why is it important?
 
-Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that meaningful impact is achieved that the program intended to accomplish.
+Objectives are necessary to better define the end goal of the program. This helps in measuring and ensuring that the meaningful impact the program intended to accomplish is achieved
 
 #### Adding objectives
 To add objectives:
