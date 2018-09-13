@@ -41,7 +41,7 @@ Each program activity can be linked to a multitude of connecting modules includi
 Track is TolaData’s database management toolkit, which enables you to easily consolidate multiple data sources for timely analysis.
 
 ####![](/assets_en/Track_Logo.jpg) Digital data collection
-Developed in-house, our digital data collection application has an integrated form builder and option for QR reader to upload paper forms. A standardized form library, as well as a custom form builder, ensures that the exact data collection tool is available for every project.
+Our digital data collection application has an integrated form builder. Combined with a standardized form library, it ensures that the exact data collection tool is available for every project.
 
 ####![](/assets_en/Track_Logo.jpg) Data analysis
 Track can integrate data from multiple platforms and provide merge/append, auto-export, data cleaning, editing, sharing and analysis features. This allows users to collate multiple data silos into one while maintaining the data stream.
