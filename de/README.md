@@ -56,4 +56,3 @@ Alle Daten auf unserer Plattform sind leicht zugänglich und können in einem ö
 
 **Datenschutz- und Sicherheit nach EU-Standards:** TolaData mit Sitz in Berlin ist der Einhaltung aller geltenden rechtlichen EU- Bestimmungen verpflichtet. Die von Ihnen erhobenen Daten werden ausschließlich auf Servern in Deutschland gespeichert. 
 
-
