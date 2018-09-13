@@ -3,7 +3,6 @@
 ---
 Willkommen zur Wissensdatenbank von TolaData. Hier finden Sie zahlreiche Artikel mit Anleitungen und Antworten auf Fragen nach dem “Wie?” und “Warum?”. Wir wünschen viel Vergnügen beim Entdecken und Ausprobieren!
 
-
 ### Was ist TolaData?
 
 [**TolaData**](https://www.toladata.de/) ist ein leistungsstarkes Tool für Projektmanagement und Wirkungsmessung. Es vereinfacht die wirkungsorientierte Planung, das Management sowie das Monitoring und die Evaluierung Ihrer Projekte. 
