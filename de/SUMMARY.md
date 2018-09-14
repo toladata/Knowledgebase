@@ -2,7 +2,7 @@
 
 ## Herzlich willkommen bei TolaData
 
-* [Was ist TolaData?](README.md)
+* [Was ist TolaData?](was-ist-toladata.md)
 * [Schnelleinstieg](herzlich-willkommen/schnelleinstieg.md)
 * [Kostenlose Testversion & Erstregistrierung](herzlich-willkommen/kostenlose-testversion-und-erstregistrierung.md)
 * [Feedback und Hilfestellung](herzlich-willkommen/feedback-und-hilfestellung.md)
