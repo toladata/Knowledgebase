@@ -44,7 +44,7 @@ Nach der Eingabe der Eckdaten Ihres Programms empfehlen wir folgendes Vorgehen, 
 3. [Definieren Sie zuletzt das Vorgehen für die Datenerhebung und ordnen Sie Daten den Indikatoren zu](https://help.toladata.com/en/indicators/what-is-an-indicator/add-collected-data.html).
 
 > **Unser Tipp:** 
-1. Wir bieten auf dieser Seite zahlreiche [Trainingsvideos](https://help.toladata.com/en/toladata-course/about-this-course.html). 
+1. Wir bieten auf dieser Seite zahlreiche [Trainingsvideos](https://help.toladata.com/de/toladata-kurs/zu-diesem-kurs.html). 
 In sieben einfachen Unterrichtseinheiten lernen Sie den professionellen Umgang mit unserem System.
 2. Für weitere Tricks zu einem guten Umgang mit TolaData besuchen Sie unsere Wissensdatenbank.
 3. In manchen Artikeln der Datenwissenbank sorgt die “Weiterführende Literatur” für Hinweise zu weiteren Informationen.
