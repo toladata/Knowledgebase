@@ -98,22 +98,7 @@
                 "label": "Download PDF",
                 "multilingual": false
            },
-           "autocover": {
-                "title": "TolaData Guide",
-                "author": "April 2018",
-                "font": {
-                    "size": null,
-                    "family": "Questrial",
-                    "color": "#101F74"
-                },
-                "size": {
-                    "w": 1800,
-                    "h": 2360
-                },
-                "background": {
-                    "color": "#09F"
-                }
-            }
+      
     }
 }
 
