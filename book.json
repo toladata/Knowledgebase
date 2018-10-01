@@ -96,7 +96,7 @@
            "downloadpdf": {
                 "base": "https://www.gitbook.com/download/pdf/book/toladata/knowledgebase",
                 "label": "Download PDF",
-                "multilingual": false
+                "multilingual": false 
            }
       
     }
