@@ -38,7 +38,7 @@
            },
            "page-feedback": {
                 "slack-channel": "knowledgebase-updates",
-                "slack-webhook": "https://hooks.slack.com/services/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"
+                "slack-webhook": "https://hooks.slack.com/services/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"
            },
            "layout": {
                 "headerPath" : "layouts/header.html"
