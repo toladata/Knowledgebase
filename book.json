@@ -36,7 +36,7 @@
            "disqus": {
                 "shortName": "toladata"
            },
-           "page-feedback": {
+           "page-feedback": { 
                 "slack-channel": "knowledgebase-updates",
                 "slack-webhook": "https://hooks.slack.com/services/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"
            },
