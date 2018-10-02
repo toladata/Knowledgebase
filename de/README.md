@@ -12,7 +12,7 @@ Hier sehen Sie eine Einführung der Plattform:
 {%youtube%} r4qM8xihwL4 {%endyoutube%} 
 > [Gucken Sie sich das Video auf YouTube an](https://www.youtube.com/embed/r4qM8xihwL4?rel=0)
 
-### TolaData = Activity + Track
+### TolaData = Activity + Track 
 ### Activity 
 ![](/assets_en/activity logo text.png)
 
