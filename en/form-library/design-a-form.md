@@ -31,7 +31,7 @@ Choose from a wide range of available question types:
 | dropdown | Multiple choice question; multiple answers can be selected |
 | cascading dropdown | Sequence of dependent multiple choice question; multiple answers can be selected for each |
 
-TolaData will only allow for a specified data type (e.g. text, date or number) input in response to a question. Providing ready answers in a **dropdown** is a way to prevent typos, as only specified answer options will be available. Question type selector is an example of a dropdown menu. **Cascading dropdowns** are combined sets of dropdown menus, when specific options roll out based on previous answers. See an example below.
+TolaData will only allow for a specified data type (e.g. text, date or number) input in response to a question. Providing ready answers in a **dropdown** is a way to prevent typos, as only specified answer options will be available. Question type selector is an example of a dropdown menu. **Cascading dropdowns** are combined sets of dropdown menus, when specific options roll out based on previous answers. See an example below. 
 
 Edit your **cascading dropdown** question:
 ![](/assets_en/casc1.PNG)
