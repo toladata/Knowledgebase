@@ -21,7 +21,9 @@ You can choose to keep it private, share with specific TolaData users or with an
 
 ![](/assets_en/dash_sharing.PNG)
 
+In case you want all your colleagues to have access to the dashboard, use the `Edit` button and select `Public in the Organization`.
 
+![](/assets_en/edit_dash.PNG)
 
 
 
