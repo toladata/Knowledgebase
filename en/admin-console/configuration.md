@@ -29,8 +29,11 @@ Sometimes you might want to assign your sites to predefined types. Define them h
 ![](/assets_en/type_select.PNG)
 
 ### Stakeholder types
-Working with many stakeholders who range in type? Add those types here and assign them to individuals and organisations you collaborate within your programs and projects. 
+Working with many stakeholders who differ in type? Add those types here and assign them to individuals and organisations you collaborate within your programs and projects. 
 
 ![](/assets_en/stake1.PNG) 
 
 ### Indicator types
+Lastly, organise your indicators by assigning them to predefined types. 
+
+![](/assets_en/indic1.PNG)
