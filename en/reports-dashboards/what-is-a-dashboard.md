@@ -17,17 +17,11 @@ Keep on adding widgets to meet your current requirements. You can visualize data
 ![](/assets_en/add_widget.PNG)
 
 ### Sharing 
-You can choose to keep it private, share with specific TolaData users or even across the organization.
+You can choose to keep it private, share with specific TolaData users or with anyone by sharing a link.
 
-#### Within the organization
-Use the `Edit` button to make your dashboard accessible to anyone in your organization.
-![](/assets_en/edit_dashboard.PNG)
+![](/assets_en/dash_sharing.PNG)
 
-Select chosen users to share your dashboard with them directly.
-![](/assets_en/share_dashboard.PNG)
 
-#### Externally 
-Eventually, you're just a screenshot away from a nice summary of your activities that you can share with anyone! 
 
-![](/assets_en/dashboard_example.PNG)
+
 
