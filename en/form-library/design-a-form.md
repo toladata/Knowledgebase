@@ -4,18 +4,6 @@
 
 Data collection forms can be created directly on the TolaData platform or integrated from other data collection tools directly to Track. Read more about how to do it in [Import Datasets](https://help.toladata.com/en/track/import-datasets.html) article on the Knowledge Base.
 
-The form field types that you can use on TolaData are:
-
-| Field type | Description |
-| :--- | :--- |
-| number | Number input |
-| text | Free text response |
-| email | Email input |
-| url | Webpage URL or link input |
-| date | Date input |
-| dropdown | Multiple choice question; multiple answers can be selected |
-| cascading dropdown | Sequence of dependent multiple choice question; multiple answers can be selected for each |
-
 #### Build your form 
 
 Select `Form Library` on the Navigation Bar and hit the orange `+` button. 
@@ -31,7 +19,17 @@ Choose from a wide range of available question types:
 
 ![](/assets_en/form_fields.PNG)
 
-**Field name** is how your data column header will be called in your data table in Track, while **Field label** is the question that anyone who will be collecting data with your form will see. 
+> **Quick Tip:** **Field name** is how your data column header will be called in your data table in Track, while **Field label** is the question that anyone who will be collecting data with your form will see. 
+
+| Field type | Description |
+| :--- | :--- |
+| number | Number input |
+| text | Free text response |
+| email | Email input |
+| url | Webpage URL or link input |
+| date | Date input |
+| dropdown | Multiple choice question; multiple answers can be selected |
+| cascading dropdown | Sequence of dependent multiple choice question; multiple answers can be selected for each |
 
 TolaData will only allow for a specified data type (e.g. text, date or number) input in response to a question. Providing ready answers in a **dropdown** is a way to prevent typos, as only specified answer options will be available. Question type selector is an example of a dropdown menu. **Cascading dropdowns** are combined sets of dropdown menus, when specific options roll out based on previous answers. See an example below.
 
