@@ -29,7 +29,7 @@ Then `Add Field` to add questions to your form. You will be able to use validati
 #### Choose suitable question types
 Choose from a wide range of available question types:
 
-![](/assets/form_fields.PNG)
+![](/assets_en/form_fields.PNG)
 
 **Field name** is how your data column header will be called in your data table in Track, while **Field label** is the question that anyone who will be collecting data with your form will see. 
 
