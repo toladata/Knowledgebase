@@ -28,3 +28,9 @@ How often do you plan to report on your indicators? Define all possible reportin
 Sometimes you might want to assign your sites to predefined types. Define them here and let users select the matching ones while adding or editing sites.
 ![](/assets_en/type_select.PNG)
 
+### Stakeholder types
+Working with many stakeholders who range in type? Add those types here and assign them to individuals and organisations you collaborate within your programs and projects. 
+
+![](/assets_en/stake1.PNG) 
+
+### Indicator types
