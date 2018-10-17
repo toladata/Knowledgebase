@@ -26,6 +26,21 @@ Then `Add Field` to add questions to your form. You will be able to use validati
 
 > **Quick Tip:** Remember! You won't be able to change a form that has been already used for data collection.
 
+#### Choose suitable question types
+Choose from a wide range of available question types:
+
+![](/assets/form_fields.PNG)
+
+**Field name** is how your data column header will be called in your data table in Track, while **Field label** is the question that anyone who will be collecting data with your form will see. 
+
+TolaData will only allow for a specified data type (e.g. text, date or number) input in response to a question. Providing ready answers in a **dropdown** is a way to prevent typos, as only specified answer options will be available. Question type selector is an example of a dropdown menu. **Cascading dropdowns** are combined sets of dropdown menus, when specific options roll out based on previous answers. See an example below.
+
+Edit your **cascading dropdown** question:
+![](/assets_en/casc1.PNG)
+
+See it live:
+![](/assets_en/casc.gif)
+
 #### Create a template
 
 If you're going to use a similar form repeatedly across programs or projects, you might consider building a template. Create it once and simply `Clone`, rename and reuse every time you need to.
