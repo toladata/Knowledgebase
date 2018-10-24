@@ -51,7 +51,7 @@ After you `Publish` the form and open a `Webform` you'll be notified every time 
 
 #### Skip logic
 
-In complex forms, you might want to limit the number of displayed questions for clarity or show specific questions only if certain answers have been given previously. 
+In complex forms, you might want to limit the number of displayed questions for clarity or show some questions only if your respondents have already answered in a certain way.
 
 ![](/assets_en/skip1.PNG)
 
