@@ -26,6 +26,22 @@ Add your indicators under one of the previously created Results Framework levels
 
 ![](/assets_en/add_indicator.gif)
 
+#### Numeric and percentage indicators
+
+In TolaData you can track two types of indicators: **numeric ** and **percentage**. 
+
+Use **numeric** for indicators like 'number of beneficiaries trained', 'average income' etc.
+
+![](/assets_en/numeric.PNG)
+
+Calculate results for numeric indicators as average, sum or count of collected data.
+
+Use **percentage** for indicators like 'percentage of beneficiaries trained', 'percentage of beneficiaries who passed the exam' etc.
+
+![](/assets_en/percentage.PNG)
+
+Calculate your percentage indicator result as an average of all collected data or pick `User defined` as your actuals formula and select your result dataset manually.
+
 ### Add Disaggregations
 You can easily add disaggregations for each of your indicators if you need to analyze your beneficiary population in further detail. How many individuals are female or male? Which age or salary group they belong to? Add it in here.
 
