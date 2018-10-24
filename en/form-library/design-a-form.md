@@ -45,7 +45,7 @@ Oftentimes you might expect answers to be in a specific range, e.g. it is unusua
 
 ![](/assets_en/val1.PNG)
 
-After you `Publish` the form and open a `Webform`, you'll be notified every time you or your enumerators try to input a record out of the allowed range.
+After you `Publish` the form and open a `Webform` you'll be notified every time you or your enumerators try to input a record out of the allowed range.
 
 ![](/assets_en/val2.PNG)
 
