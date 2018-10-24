@@ -49,6 +49,16 @@ After you `Publish` the form and open a `Webform` you'll be notified every time 
 
 ![](/assets_en/val2.PNG)
 
+#### Skip logic
+
+In complex forms, you might want to limit the number of displayed questions for clarity or show specific questions only if certain answers have been given previously. 
+
+![](/assets_en/skip1.PNG)
+
+E.g. you'll only ask the respondent to share age of their siblings if they have confirmed having siblings in the first place.
+
+![](/assets_en/skip2.gif)
+
 ### Create a template
 
 If you're going to use a similar form repeatedly across programs or projects, you might consider building a template. Create it once and simply `Clone`, rename and reuse every time you need to.
