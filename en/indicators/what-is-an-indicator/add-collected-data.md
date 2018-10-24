@@ -1,5 +1,5 @@
 ****
-# Add Collected Data
+# Add Collected Data 2
 ---
 
 There are a few possible ways to collect data against indicators on TolaData.
