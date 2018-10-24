@@ -4,7 +4,7 @@
 
 Data collection forms can be created directly on the TolaData platform or integrated from other data collection tools directly to Track. Read more about how to do it in [Import Datasets](https://help.toladata.com/en/track/import-datasets.html) article on the Knowledge Base.
 
-#### Build your form 
+### Build your form 
 
 Select `Form Library` on the Navigation Bar and hit the orange `+` button. 
 
@@ -39,7 +39,17 @@ Edit your **cascading dropdown** question:
 See it live:
 ![](/assets_en/casc.gif)
 
-#### Create a template
+#### Data validation
+
+Oftentimes you might expect answers to be in a specific range, e.g. it is unusual to have 15 or more siblings and you might want to prevent such an input. To do that, define the accepted range while creating your form.
+
+![](/assets_en/val1.PNG)
+
+After you `Publish` the form and open a `Webform`, you'll be notified every time you or your enumerators try to input a record out of the allowed range.
+
+![](/assets_en/val2.PNG)
+
+### Create a template
 
 If you're going to use a similar form repeatedly across programs or projects, you might consider building a template. Create it once and simply `Clone`, rename and reuse every time you need to.
 
