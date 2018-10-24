@@ -2,7 +2,7 @@
 # Add Indicators
 ---
 
-Add your indicators under one of the previously created Results Framework levels, or leave them unassigned. You can always change that later.
+Add your indicators under one of the previously created Results Framework levels, or leave them unassigned. You can always change that later. 
 
 1. To add an indicator, click an orange `+` button and fill out the fields. Mind that only your indicator name and LOP (Life of program) Target are required fields.
 2. To save your indicator, hit `Submit`.
