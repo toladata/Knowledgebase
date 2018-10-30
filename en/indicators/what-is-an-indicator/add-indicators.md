@@ -17,7 +17,7 @@ Use **numeric** for indicators like 'number of beneficiaries trained', 'average 
 
 ![](/assets_en/numeric.PNG)
 
-Calculate results for numeric indicators as average, sum or count of collected data.
+Calculate results for numeric indicators as a sum of collected data.
 
 Use **percentage** for indicators like 'percentage of beneficiaries trained', 'percentage of beneficiaries who passed the exam' etc.
 
