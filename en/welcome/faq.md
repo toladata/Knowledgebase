@@ -17,7 +17,7 @@ TolaData can also integrate with any other third party systems as long as the AP
 
 ### Data security
 #### Where are TolaData's servers located?
-TolaData is a German company. We host with Google Cloud and use their services europe-west1 b,c,d located in Belgium. To learn more visit Google Cloud information site [redirects to an external website](https://cloud.google.com/compute/docs/regions-zones/). We comply with all EU regulations for data security.
+TolaData is a German company. We host with Google Cloud and use their services europe-west1 b,c,d located in Belgium. To learn more visit Google Cloud information site [[redirects to an external website](https://cloud.google.com/compute/docs/regions-zones/)]. We comply with all EU regulations for data security.
 
 
 
